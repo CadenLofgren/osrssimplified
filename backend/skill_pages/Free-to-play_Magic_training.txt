@@ -1,0 +1,171 @@
+Magic is a useful skill in RuneScape, and especially in free to play, because there is no access to magic tablets, so many teleports are only available by leveling Magic.
+
+Equipment choice
+ 
+
+Before you begin training 
+Before you can begin training Magic, you'll need what every great mage requires: runes! Every spell requires at least one type of rune, and many spells require three and sometimes even four different types of runes to cast.
+
+At level 1 Magic, you'll only be able to cast Wind Strike, which requires one air rune and one mind rune. With a staff of air equipped, you have access to unlimited air runes, so that you don't need air runes. There are staves for every basic type of rune; these staves are referred to as elemental staves, and will help assist in training Magic and give you unlimited runes for that element.
+
+Quests
+Some quests give Magic experience on completion:
+
+ Imp Catcher rewards 875 Magic experience
+ Witch's Potion rewards 325 Magic experience
+
+Together, these quests are enough experience to raise from level 1 Magic to level 10 Magic before casting any spells. This means your Wind Strike's maximum hit will start at 6.
+
+Obtaining runes
+There are a few ways in which you can get your hands on runes. Each method has its perks, though some methods will make gathering them faster.
+
+Buying from a shop or the Grand Exchange
+Certain free-to-play runes can be bought from shops such as Aubury's Rune Shop (individually or as item packs), and all free-to-play runes can be purchased from other players on the Grand Exchange. The advantage in this method is that you can generally obtain a large stock of runes much faster than you could by crafting them, though buying runes generally results in spending more gold, and needing more gold to begin training.
+
+The following table can be consulted for store and Grand Exchange prices of free-to-play runes:
+
+TypeGE PriceStore Price (or  from air rune packs) (or  from water rune packs) (or  from earth rune packs) (or  from fire rune packs) (or  from mind rune packs) (or  from chaos rune packs)N/AN/AN/A
+
+Crafting runes
+You may choose to craft your own runes through Runecraft at any of the various runic altars, which is possibly the fastest way aside from buying from another player or from one of the magic shops. The downside is that free-to-play players cannot craft cosmic, nature, law, chaos, or death runes. 
+
+Crafting runes requires rune essence or pure essence, and either a talisman or tiara that is compatible with the specific altar (for example, you may not use a fire talisman or fire tiara on the Air Altar to gain entry into the Air Altar and create air runes, instead you would need an air talisman or air tiara). For more details on methods of effectively crafting runes, see the Free-to-play Runecraft training article.
+
+Killing monsters
+Level 7 dark wizards found at the Varrock stone circle have some of the best drop rates for runes of any monster in free-to-play, only falling short of much higher level monsters such as ogress warriors and shamans. They drop all free-to-play rune types with the exception of death runes, and given their low Hitpoints and max hit combined with their vulnerability to all attack styles, one can obtain quite a large stockpile of runes fairly quickly. It is however recommended to have at least combat level 41 to avoid aggression from the much more dangerous Level 20 dark wizards nearby. 
+
+For those with a lower combat level, Level 9 wizards found at the Wizards' Tower offer similar rune drop rates, but with lower quantities and lacking cosmic runes. They also have a higher max hit and slightly more Hitpoints. 
+
+Some higher level monsters such as hobgoblins, hill giants, moss giants, and ice giants also drop a variety of runes, but at much lower drop rates and/or quantities. Their higher levels also mean that drops won't be obtained anywhere near as quickly as with dark wizards or wizards.
+
+How to train Magic efficiently
+Level 1–17
+It's highly recommended to use a staff if possible, because you can cast much more easily by going into combat options, clicking on the spell button, and choosing the spell you wish to autocast, instead of manually clicking the spell each time.
+
+The following equipment is useful for training Magic:
+
+Amulet of magic
+Blue wizard robe
+Zamorak monk bottom 
+Wizard hat
+
+Casting Wind Strike on the cows around Lumbridge is a good way to get a few levels quickly, and also profit from the cowhides that they drop. You can either sell the hides, or tan them at Ellis, the tanner in Al Kharid, and then sell for even more profit, or even use the leather that you obtain from tanning for use in the Crafting skill. A few shrimps or jugs of wine is all you need for healing while you kill cows and collect cowhides. As you level, you will gain access to more spells like Water Strike at level 5, Earth Strike at level 9, and Fire Strike at level 13, which you can use instead of Wind Strike to maximise experience gains.
+
+Alternatively, you can choose to kill something else with a similar combat level, such as goblins, chickens, rats, spiders, or ducks.
+
+It's also possible to cast non-offensive spells that do not give Hitpoints experience, like confuse or curse, depending on what sort of account you wish to build.
+
+Level 17+
+At level 17, you can begin using Wind Bolt, increasing the amount of damage you can do, and may use stronger bolt spells at their respective levels.
+
+Options for further training include:
+Hill Giants in Edgeville Dungeon which drop big bones and limpwurt roots, and can be attacked from safespots.
+The lesser demon in Wizards' Tower which drops runes and other valuables. Note: Telekinetic Grab is required to collect the drops.
+Al Kharid warriors in Al Kharid (usually crowded).
+Hobgoblins in Edgeville Dungeon are also an option which drop limpwurt roots and has a few safespots.
+There are three level 21 skeletons in Varrock Sewers; the player can attack them from a safe location on one side of the water.
+
+Level 33+
+At level 33, you can begin using Telekinetic Grab, allowing you to profit whilst training Magic and opens lots of options for Magic combat and passive training.
+Hobgoblins can be safespotted from the cow field behind the crafting guild. 
+Telegrab the limpwurt roots and nature runes. 
+Do take note that most of the time your character will try to go around, though.
+Wine of Zamorak from the Chaos Temple in Asgarnia (recommended) or the Chaos Temple (hut) in the Wilderness.
+Recommended Method: 
+If telegrabbing the wine from the  , bring wizard's mind bombs to restore your stats as taking the wine will inflict damage and stat-draining effects on you. If your Magic level is drained below 33, you will not be able to cast Telekinetic Grab.
+If telegrabbing the wine from the  the monks will become aggressive to the caster. However, should you leave the temple, they will not be able to step outside the temple to pursue you.
+You can use this to your advantage to train your Magic further by bringing either Mind runes or Chaos runes to cast Wind Strike / Wind Bolt; as the monks have a chance to drop Zamorak monk bottoms, this can increase your profit further.
+Alternately, if you have a total level of 500 and are wearing Zamorak monk robes, you can climb the ladder to the , where there is a second Wine of Zamorak on the table which does not inflict damage or stat drains if telegrabbed.
+
+ Nature runes in the Wilderness, south-east of the Demonic Ruins. (Do not take anything that you cannot replace / are not willing to lose.) 
+ Recommended Method: 
+ Take 200 law runes, 200 earth runes, 200 water runes, 200 Chaos runes, 2 nature runes, and fill the rest of inventory with jugs of wine, wield air staff and set Wind Bolt as your auto-attack spell
+ Wear a Blue wizard hat, a Blue wizard robe, a Zamorak monk bottom, an Amulet of magic and either a Wooden shield, Training shield or anti-dragon shield. 
+ Telegrab both piles of nature runes from the small peninsula, then switch worlds. 
+ If you are attacked by a player, cast Bind, then Earth Bolt, (have wind bolt as your auto attack), then fight or run away and drink wines as needed.
+
+The Greater demons in the Wilderness located near the Demonic Ruins can be safe-spotted from near the nature rune spawn. (Do not take anything that you cannot replace / are not willing to lose.) 
+Greater Demons drop several Rune and Adamant items, which can prove to be extremely profitable. 
+Recommended Method: similar to the one above for nature runes, but bring an additional 2000+ mind runes and set wind strike as your auto attack spell.)
+The caged Lesser demon in the Wizards' Tower.
+In addition to Vile ashes which can be sold or used for Prayer training, lesser demons drop a variety of high value items, including uncut gems.
+Coins / Gold bars / Gold ores / Gold necklaces beneath the bank in west Varrock. 
+For players buying runes on the Grand Exchange, this is the easiest method for generating a profit from magic training until Level 55, as the Gold necklaces can be sold for more than the cost of the runes used for casting.
+Players can either grab all the items for the fastest exp, or only grab the Gold Ore for the most profit. 
+Switching Worlds is recommended to avoid waiting out the long respawn time of the items in the vault.
+
+Level 59+
+At level 59, you can begin using Fire Blast, while being the strongest available spell in free-to-play, you can also benefit of the elemental weakness of ice giants and ice warriors in the Asgarnian Ice Dungeon for a max hit of 32, averaging approximately 70k magic experience per hour at maximum efficiency. They also can be safespotted, so no food is needed and can be trained without interruption. High alchemy can also be cast in between Fire Blast for an extra 78k Magic XP per hour, making it a maximum of 148k Magic XP per hour.
+
+If you need to save elemental runes, you can alternately use Wind Blast with a staff of air, which grants less base XP than Fire Blast but its magic damage scales to the damage of Fire Blast at level 59. Ghosts and skeletons have elemental weakness to wind spells, with ghosts taking 50% extra damage and skeletons taking 35% extra damage. High-level ghosts and skeletons can be found in level 4 (Sepulchre of Death) of the Stronghold of Security.
+
+Other monsters to kill for experience
+The following are alternative monsters to train Magic on for experience and drops.
+Moss giants can be effective for gaining Magic experience, as they have a 50% weakness to fire. They also drop big bones for passive Prayer experience, as well as the unique mossy keys used to access Bryophyta. They can be safespot in Varrock Sewers (bring a slash weapon or knife), or on Crandor for those who have completed Dragon Slayer I. Until combat level 85 moss giants are aggressive and have a max hit of 6; however, they can still be killed safely from safespots without much risk. Like most monsters, they will become tolerant when training in the same area longer than 10 minutes, which makes collecting drops between kills completely safe.
+Ankou in Stronghold of Security are another popular option for training magic, and they can be safespotted behind skeleton remains in the south-west room of the Sepulchre of Death floor. Skull sceptre (i) is recommended to autocast Crumble Undead but runes will not be saved. Fortunately, Crumble Undead's cost is cheap compared to Earth Blast that does the same maximum damage of 15, making it a cheap magic training method in combat.
+Ogress warriors are also good for good money and experience, although they have high magic and range defence so 60+ Magic is recommended. Blast spells are recommended for faster kills as the runes and using High Level Alchemy on the rune equipment that ogresses drop can make some of the cost back.
+ There are lesser demons on Karamja under the volcano with safespots. They have a 40% weakness to water and drop vile ashes which makes them a viable option to train both Prayer and Magic.
+ Other options include flesh crawlers, spiders, giant spiders, guards, and body golems (in the Ruins of Camdozaal).
+
+Alternative training methods
+ Cheap methods
+Splashing Wind Strike
+Splashing Wind Strike with -55 Magic attack bonus (full metal armour and a staff of air) costs 2 coins for 6 xp at 7200 xp per hour, although it will eventually kill most targets until -64 or lower Magic attack bonus is obtained. See AFK training methods.
+
+Splashing Curse
+Starting at level 19, one could repeatedly splash Curse to gain Magic experience. Casting curse yields 29 experience; approximately 34,000 experience per hour, and a gp/xp of  when using a staff of earth.
+
+Note: if Curse lands on an enemy, it cannot be cast again on that enemy until the effects wear off. Splashing bypasses this timer, as the spell never landed on the enemy in the first place.
+
+Recommended equipment:
+
+Staff of earth with armour that provides negative magic bonuses.
+Iron armour or Green dragonhide armour
+Fighting/Fancy boots are good choices.
+A magic bonus of -65 attack or lower is strongly recommended.
+
+Some monster options for this type of training include:
+
+Skeletons
+Ducks
+The monk of Zamorak in Varrock Palace (Which will allow you to cast curse again after a few seconds, even if you don't splash)
+The bear north of Varrock Castle, near the yew trees
+The lesser demon on the top floor of the Wizards' Tower.
+
+The locations above are often in use, so it could be worthwhile finding somewhere else that works best for you.
+
+ Low level Alchemy method 
+At level 21 Magic you can cast Low Level Alchemy on Iron platebodies for 31 magic experience per cast. At grand exchange prices, each cast nets . You will need 5214 casts to go from level 21 to level 55, which will take 7 days to buy off the grand exchange with the Grand Exchange#Buy limits for platebodies.
+
+Superheating iron ore method
+
+At level 43 Magic and 15 smithing you can cast Superheat Item on Iron Ore for 53 magic experience per cast. This can be potentially profitable if you sell the iron bars. At 3 ticks per cast you can theoretically smelt 2,000 iron ore per hour for a total of 106,000 experience per hour, though actual experience will be lower from using the bank.
+
+High level Alchemy method
+At level 55 Magic you can cast High Level Alchemy on various items for 65 magic experience per cast, achieving at most 78,000 experience per hour with nonstop alching. Items that are consistently profitable include green d'hide bodies, mithril platebodies, adamant equipment, rune equipment, and more. Players can always make a profit when high alching by checking a spreadsheet or Grand Exchange Market Watch/Alchemy to see which items currently offer a profit. Keep in mind that some items have a more restrictive limit as to how many you can buy per 4 hours when purchasing them from the Grand Exchange. If you are not an ironman, world 308 is the unofficial high alchemy trading world, where players frequently buy and sell high quantities of profitable high alchemy items directly to one another in the Varrock west bank.
+
+Enchanting amulets
+From level 7 onwards, amulets can be enchanted using enchantment spells, a click intensive training method which gives great experience per hour rates and can also generate profit. By manually clicking the spell and each amulet in the player's inventory, an amulet can be enchanted every 3 ticks, whereas a player using the spell on an amulet once and waiting will automatically enchant all amulets in their inventory much slower, at a rate of one every 7 ticks. When manually clicking, around 1885 or more amulets can be enchanted every hour. Elemental staves can be used to decrease cost when enchanting.
+
++Amulet Enchanting levelItemMaterials RequiredMaterial CostAmulet valueProfit / LossExperienceClicky Xp/HourAuto Xp/HourGp/Xp7Sapphire amulet > Amulet of magic  + staff of water17.533,00014,00027Emerald amulet > Amulet of defence  + staff of air3770,00030,00049Ruby amulet > Amulet of strength  + staff of fire59111,00047,50057Diamond amulet > Amulet of power  + staff of earth67126,00054,000
+
+Alternatively, you can also purchase unstrung (u) amulets and balls of wool and string the amulets yourself.  This is quite fast, has no level or material requirements, provides a little bit of  EXP, is often profitable, and can help if the GE market for (strung) amulets is unfavourable.
+
+Expensive methods
+
+Teleporting 
+Casting teleport spells can be a good way to gain some experience, though it can quickly become expensive. If you do choose this method, start with Varrock Teleport at level 25, move on to Lumbridge Teleport at level 31, and then cast Falador Teleport at level 37. A staff of air is recommended as these teleports all require 3 air runes each cast.
+
++Teleport Levelling levelIconSpell Runes + Staff SuggestedMaterial CostExperienceXp/HourGp/HourGp/Xp25File:Varrock_Teleport.pngVarrock Teleport + staff of air3552,50031File:Lumbridge_Teleport.pngLumbridge Teleport + staff of air4161,50037File:Falador Teleport.pngFalador Teleport + staff of air4872,000
+
+Teleport alchemy 
+Another method involves alchemy and teleportation. To do this method, you will need to cast high alchemy on an item, teleport immediately afterwards, click the high alchemy spell while you are waiting to arrive in the teleport location, and then click the item again as soon as you arrive. This makes sure that you do not lose any potential experience. The recommended teleport location is Falador.  Falador teleport gives the most experience of any free to play teleport spells.
+
+AFK methods
+
+Splashing
+-64 or lower Magic attack bonus will allow for you to splash these spells for approximately 20 minutes while being AFK. This method is 100% safe for HCIM at certain locations such as the top floor of the wizards tower. 
++AFK Splashing  levelIconSpellRunes + Staff SuggestedMaterial CostExperienceXp/HourGp/HourGp/Xp1File:Wind Strike.pngWind Strike + staff of air5.5720013File:Fire Strike.pngFire Strike + staff of fire11.513,80035File:Fire Bolt.pngFire Bolt + staff of fire22.526,80059File:Fire Blast.pngFire Blast + staff of fire34.541,100
+
+Category:Magic
+Category:Free-to-play

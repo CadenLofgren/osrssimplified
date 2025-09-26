@@ -1,0 +1,67 @@
+This guide outlines the best methods and alternative options for training the Crafting skill in free-to-play.
+
+Quests that reward Crafting experience
+Sheep Shearer: 150 Crafting experience
+Goblin Diplomacy: 200 Crafting experience
+Misthalin Mystery: 600 Crafting experience
+
+Completing all of these quests will provide enough experience to level up Crafting from level 1 to level 8.
+
+Potter's wheel, spinning wheel and furnace locations
+Barbarian Village has a potter's wheel medium distance to closest bank (West Varrock bank). No clay rocks or water source nearby. 
+
+ Varrock south-west mine to Varrock west bank is a good place to mine clay.
+ Waterpump (Falador) to Falador west bank is the closest water source to a bank. Water fountain in centre of Varrock square to Varrock west bank is also a good water source close to a bank.
+
+Lumbridge bank to the spinning wheel downstairs is a good combination for a bank plus spinning wheel.
+
+Edgeville has the furnace closest to a bank for crafting silver or gold. Al Kharid bank to a furnace is a decent location for a relatively short distance between bank and furnace, for crafting silver and gold.
+
+Upon reaching Crafting Level 40, the Crafting Guild has no bank nearby, but contains clay rocks, a water source , a potter's wheel, and a pottery kiln. The crafting guild also has  two spinning wheels. A flock of wool-producing sheep can be found just a short walk north of the guild.
+Ultimate Ironman
+Until level 40, ultimate ironmen can mine clay in West Varrock mine, canoe up to Edgeville and use the well as a water source, then walk down to Barbarian Village wheel and kiln, then boat back down to Champions' Guild/West Varrock mine. Yields 650–720 experience per run, depending on the amount of open inventory spaces.
+
+After level 40, use the Crafting Guild. Mining and smelting gold, crafting them into jewellery to sell at Grum's Gold Exchange. is a good way to make money while training Mining, Crafting and Smithing as an Ultimate Ironman.
+
+Common training methods
+In-Place Training Methods
+These methods do not require any moving, and thus can be performed at the Grand Exchange or in a Bank (assuming you have already gathered the necessary resources).  
+
+Level requiredMethodExperienceMaterialsMaterial costProduct valueProfit / lossGP/XP18Crafting leather chaps27Soft leather x 128Crafting hardleather bodies35Hard leather x 120Cutting sapphires50Uncut sapphire x 127Cutting emeralds67.5Uncut emerald x 134Cutting rubies85Uncut ruby x 143Cutting diamonds107.5Uncut diamond x 1
+
+Commuter Training Methods
+These methods require the player to move from place to place.  The most common of which is moving back and forth between bank and a furnace. For the purposes of crafting jewellery, Edgeville furnace is the closest furnace to a bank.
+
+Level requiredMethodExperienceMaterialsMaterial costProduct valueProfit / lossGP/XP8Making bowls33Soft clay x 18Smelting unstrung gold amulets30Gold bar x 123Smelting tiaras52.5Silver bar x 150Crafting Ruby Amulets85Gold bar x 1Ruby x 156Crafting Diamond Necklaces90Gold bar x 1Diamond x 1
+
+Levels 1–99
+Players are encouraged to change between training methods as necessary as the cost of certain methods fluctuates over time.
+Armour
+ LevelProductXP per itemXP/HourExperience neededMaterials neededMaterial costsProduct valueProfit / Loss1–713.818,90065048 × 7–916.222,75031920 × 9–1118.525,90038921 × 11–142230,80074934 × 14–182535,0001,41657 × 18–282737,8007,301271 × 28–993591,00013,023,607372,103 × Total13,034,431451 × ; 372,103 × 
+
+Pottery
+This guide assumes all products are formed and fired.
+ Level ProductXP per itemExperience neededMaterials neededMaterial costsProduct valueProfit / loss1–712.665052 × 7–8251516 × 8–993313,033,630394,959 ×  Total13,034,431395,017 × 
+
+Gold jewellery
+ Level ProductXP per itemXP/HourExperience neededMaterials neededMaterial costsProduct valueProfitProfit / itemGP/XP5–61520,250At 1,350 items per hour1248 × 6–82027,00028915 × 8–203040,5003,669122 × 20–224042,000At 1,050 items per hour1,15429 × ; 29 × 22–245557,7501,40426 × ; 26 × 24–316568,2507,805120 × ; 120 × 31–407073,50022,391320 × ; 320 × 40–437578,75013,115175 × ; 175 × 43–568589,250184,0401,573 × ; 1,573 × 56–709094,500553,5876,151 × ; 6,151 × 70–99100105,00012,296,804122,968 × ; 122,968 ×  Total13,034,431131,506 × ,  175 × , 320 × ,  175 × , 129,719 × 
+
+Silver jewellery
+ Level ProductXP per itemExperience neededMaterials neededMaterial costsProduct valueProfit / lossProfit / item16–23503,54571 × 23–9952.513,028,140248,155 × Total13,034,431248,226 × 
+
+Gems
+
+ Level ProductXP per itemXP/HourExperience neededMaterials neededMaterial costsProduct valueProfit / lossProfit / loss / itemGP/XP20–2750145,0005,260105 × 27–3467.5175,00010,494155 × 34–4385230,00030,115354 × 43–99107.5290,00012,984,092120,783 × Total13,034,431See above
+
+Players have been observed cutting gems with the help of banknotes to make training more efficient. It requires the player to convert non-stackable uncut gems into notes from a bank. Then use the noted uncut gems on the bank/teller to receive gems for cutting; cut the resulting un-noted uncut gems with a chisel. Deposit cut gems into a deposit box; un-note more uncut gems from the noted uncut gems stack in inventory via bank/teller; repeating this process until the desired level is reached. Corsair Cove is a great place for this method because the bank and deposit box are 2 ticks away from each other, reducing time spent walking and manually depositing/withdrawing items to and from the bank. This method actually helps to offset the loss of potential experience per hour by cutting less expensive gems due to all the entities required for cutting being in such close proximity.
+
+Miscellaneous
+
+For the purposes of crafting jewellery, Edgeville furnace is the closest furnace to a bank.
+
+Stringing Amulets
+Combining a ball of wool with one of many types of unstrung amulets.  This action can be performed anywhere, requires no skills or equipment, and is very fast (only takes two ticks).  Each amulet strung awards 4 crafting experience, regardless of what is being strung.  When near a bank, it is possible to string 2500 amulets per hour, awarding 10,000 XP.  Also, the Grand Exchange can make this a profitable endeavor:
+
++ Stringing Amulets Profitability Inputs Output Input Cost  Output Cost Profit Per GP/Hour                                                                  
+
+Category:Free-to-play

@@ -7,7 +7,8 @@ from openai import OpenAI
 
 from sqlalchemy import text
 from sqlalchemy.orm import Session
-from database import get_db
+from database import get_db, engine
+from contextlib import asynccontextmanager
 
 # Load environment variables
 load_dotenv()
@@ -61,13 +62,32 @@ def get_training_summary(skill: str):
         raise HTTPException(status_code=500, detail=str(e))
 
 
-@app.get("/test-db")
-def test_db(db: Session = Depends(get_db)):
+    
+#----------------------------------DATABASE
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Startup
     try:
-        result = db.execute(text("SELECT 1")).scalar()  # wrap query in text()
-        if result == 1:
-            return {"status": "Database connection successful!"}
-        else:
-            return {"status": "Database connected, but test query returned unexpected result"}
+        with engine.connect() as conn:
+            conn.execute(text("SELECT 1"))
+        print("✅ Database connected successfully.")
     except Exception as e:
-        return {"status": "Database connection failed", "error": str(e)}
+        print("❌ Database connection failed:", e)
+        raise e
+    yield
+    # Shutdown
+    engine.dispose()
+    print("🔒 Database connection closed.")
+
+app = FastAPI(lifespan=lifespan)
+
+# Healthcheck route
+@app.get("/ping")
+async def ping():
+    try:
+        with engine.connect() as conn:
+            conn.execute(text("SELECT 1"))
+        return {"status": "ok", "message": "Database connected"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
+#-----------------------------------DATABASE----------------------------------------

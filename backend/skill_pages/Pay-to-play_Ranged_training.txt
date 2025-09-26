@@ -1,0 +1,141 @@
+This article provides an overview of strategies used to train the Ranged skill.
+
+General training notes
+Using the rapid attack style will offer the highest damage output and the fastest experience rates. For chinchompas, the rapid attack style is called 'Medium fuse'. Longrange should only be used to train Defence while throwing chinchompas. Use the best ranged armour available to maximise damage output.
+
+Ava's devices return a percentage of certain ammunition fired. They are obtained from Ava after completing Animal Magnetism, which requires level 30 Ranged. Wearing one of the devices will save a lot of money and time when using certain Ranged weapons (such as darts or shortbows), as the player does not need as much ammunition or to pick it up as often. Ammunition recovery will not work if wearing a metallic body.
+
+Device  req. Recovery rate Effectiveness The amount of times a given piece of ammunition can be used, on average, before being broken or lost.  30 60% 2.5  50 72% 3.57  Also requires a Vorkath's head, which is obtainable after Dragon Slayer II. 70 80% 5
+
+If picking up ammunition, speak to the Ranged combat tutor to toggle whether or not the ammunition will automatically be equipped.
+
+Void Knight equipment with the Void ranger helm is best against low defence monsters due to its damage-boosting set effect, while crystal armour or Masori armour are much better against higher defence monsters. Getting the void full set is not worthwhile timewise unless training to 99 using the fastest methods possible, however it is useful for Vorkath, low-switch Zulrah, Theatre of Blood, and it is required for an elite Western Provinces Diary task. Completing the hard Western Provinces diary unlocks the elite upgrade for the void knight top and robe for an extra 400 Pest Control points.
+
+Fastest experience
+Levels 1–32/36: Questing
+alt=Placement of the multicannon for killing ogres|thumb|width=250x250|Castle Wars Ogre multicannon spot
+Early levels can be skipped by completing quests that give Ranged experience. Completing Shadow of the Storm (putting the experience reward on Ranged), Death to the Dorgeshuun, and Horror from the Deep grants a total of 16,662.5 experience, which will get the player from level 1 to 32. The level 40 Ranged requirement for Temple of Ikov can be bypassed by wielding knives or darts whilst wielding ice arrows, allowing for a further 10,500 experience. This will get the player up to level 36.
+
+Levels 1–45: Using dwarf multicannon
+
+Using the dwarf multicannon offers the fastest experience up to level 45. Players must have completed Dwarf Cannon quest to use the dwarf multicannon, but there are no level requirements to use one. The cannon offers much higher damage output compared to other options at low levels, as it has a max hit of 30 with regular cannonballs regardless of the player's Ranged level. The accuracy of the multicannon is affected by the accuracy of the player's selected attack style, either ranged or melee, taking into account the attack bonus for that particular style. 
+
+Cannoning can be fairly expensive, however. At level 45, chinning becomes a lot faster and is usually a cheaper alternative.
+
+Cannoning with Slayer
+Training Slayer grants passive Ranged experience from using the dwarf multicannon. It is always worth using the cannon wherever applicable, as the cost of using the cannon is justified by the saved time compared to not using one. A melee task can take almost twice as long if not using the cannon. For example, in multi-combat areas such as during dagannoth and kalphite tasks the cannon will deal most of the damage, while the player is getting nearly as much Melee experience as they would without using a cannon. Should the player not be able to afford to use the cannon, it is better to make the money for the cannonballs than train Slayer without the cannon.
+
+The amount of Ranged experience gained from Slayer depends on the player's task list. Players can expect to gain around 2–4 million Ranged experience from level 99 Slayer.
+
+Active cannoning methods
+Alternatively, kill monsters with the dwarf multicannon to actively train Ranged.
+
+ Ogres east of Castle Wars have no additional quest requirements, and cannoning them offers around 40,000 experience per hour from the cannon alone. They can be crowded, however.
+ Ogres in the Combat Training Camp require completing Biohazard, but can be less crowded.
+ Cannoning ice trolls north of Jatizso after completing The Fremennik Trials is a slower alternative at higher levels, but the drops cover the cost of the cannonballs. Use the coal rocks west of the eastern mining icon as a safespot. The trolls can deal heavy damage if not safespotted, so consider bringing backup food and runes for Telekinetic Grab for the loot.
+
+Levels 45–99: Chinning maniacal monkeys
+thumb|Chinning maniacal monkeys.
+For more information, see Maniacal monkey/Strategies.
+
+Throwing chinchompas (commonly known as "chinning") at maniacal monkeys is the fastest way to train Ranged. Maniacal monkeys are located in Kruk's Dungeon on Ape Atoll, which requires having started chapter II of Monkey Madness II to access. While chinning is much faster than any other methods, it also costs money.
+
+For the fastest experience rates, use equipment that maximises Ranged Strength, or Void Knight ranged equipment for its damage buff. This is because the maniacal monkeys have low defence. Void Knight equipment is higher DPSDamage per second. than dragonhide armour due to its damage-boosting set effect; however Masori armour with Zaryte vambraces is better than standard Void Knight equipment In most setups Masori beats Void. That being said, DPS and therefore experience depends on ranged level, prayers used, other equipment used, and other factors. It's best to check your DPS yourself to compare. due to its ranged strength bonus increasing damage per second. Elite Void Knight equipment is best in slot for most players. This is because it often has marginally higher DPS but also the prayer bonus reduces the time needed to collect and drink prayer potions, further increasing experience rates. Though the difference is minimal, and both Void and Masori are excellent choices. If you don't have access to these, use Hueycoatl hide armour or Blessed dragonhide armour. 
+
+Maniacal monkeys drop 1-dose prayer potions which negates the cost of using Protect from Melee and damage-boosting prayers. Players who have completed the hard Morytania Diary can alternatively use a bonecrusher necklace to restore Prayer points.
+
+Experience rates in the table below assume wearing the best damage-boosting equipment available, using Rigour, using two dancing accounts to stack the monkeys, using divine ranging potions, and throwing 1,970 chinchompas per hour. With Eagle Eye, the rates would be roughly 5–7% lower.
+
+ level XP/h XP/h XP/h45290,00055360,000430,00065470,000540,000690,00075570,000670,000830,00085640,000740,000930,00095710,000810,0001,000,00099740,000840,0001,030,000
+
+Other methods
+Levels 1–45/70: Crabs
+Killing crabs is an afkable and relatively cheap way of training Ranged at lower levels. Choose a spot that makes two or three spawns aggressive at the same time. Turn on Auto Retaliate, and kill crabs with the best Ranged setup available. After 10 minutes, reset aggressiveness by running away far enough, usually a minimap's length. 
+
+There are five types of crabs the player can train on. They all have high Hitpoints, very low Defence and deal minimal damage.
+
+ Gemstone Crab near Tal Teklan in Varlamore has unlimited Hitpoints and only moves every 9 minutes, thus making it a very afk alternative. Multiple people can attack this crab, removing the risk of getting crashed or having to find an open spot.
+Ammonite crabs on Fossil Island have 100 Hitpoints. They also drop unidentified fossils, which can be turned in for experience lamps in Varrock Museum after cleaning. They can be very crowded.
+Swamp crabs have 75 Hitpoints and are weak to Ranged. A safe area is located south-west of Port Phasmatys near the Morytania Graveyard, where two crabs can become aggressive in a multi-combat zone.
+Sand crabs near Hosidius have 60 Hitpoints and have no quest requirements, but are usually crowded.
+Rock crabs near Rellekka have no quest requirements and are usually less crowded than sand and ammonite crabs, but only have 50 Hitpoints.
+
+Having at least level 30 Defence is recommended before starting Ranged training on these monsters to minimise the damage taken. Use a spot with fewer spawns if taking too much damage from too many crabs. If waiting for respawns, use a spot with more spawns or switch to a higher Hitpoints crab. 
+
+Recommended weapons and armour
+
+Darts are the best weapon to use for both damage output and cost. Use the highest-level darts available up to amethyst () or adamant (). Depending on the Grand Exchange prices, the following options can be good alternatives:
+Rune knives () are slightly weaker than rune darts (), but can be cheaper. 
+Magic shortbow (i) (or yew shortbow below level 50) with rune arrows () offers comparable damage output to adamant darts. Amethyst arrows () can be used with a magic shortbow (i) for extra damage, however they are notably more expensive compared to rune.
+Hunters' sunlight crossbow (50 Hunter requirement) with moonlight antler bolts () is a stronger alternative to the magic shortbow (i), offering slightly higher damage output than adamant darts.
+
+Other crossbows are not recommended due to their slower attack speed, which makes them worse in damage output compared to the options above. While using the Dorgeshuun crossbow with bone bolts can be very cheap, even mithril darts offer much higher damage output and they are usually comparable in terms of cost.
+
+Players with level 60 Defence are advised to use an odium ward if using a one-handed weapon (such as darts), as it gives +4 Ranged strength and has no Ranged level requirement. The odium ward currently costs . Players with level 75 Hitpoints can also use the necklace of anguish, however it is much more expensive (currently costing ).
+
+Because crabs have very low Defence, having the highest possible Ranged accuracy bonuses is not too important. It is still recommended to at least upgrade the body and leg slot equipment whenever a better tier becomes available, since they give the most accuracy and defence bonuses of all the slots.
+
+Levels 45–99: Chinning skeletal monkeys
+Throwing chinchompas at skeletal monkeys is only recommended for those who cannot access maniacal monkeys. Skeletal monkeys are located in the Ape Atoll Dungeon, which requires partial completion of Monkey Madness I to access.
+
+Being undead monsters, the salve amulet (ei) accuracy and damage boosts apply against them. However, the boosts only affect the primary target. Wearing the salve amulet is still recommended to reduce splashing, as chinchompas will miss all targets if they miss the main target.
+
+Levels 70–99: Pest Control
+Participating at the Pest Control minigame and spending Void Knight commendation points on Ranged experience is an alternative training method at higher levels. Having a combat level of at least 100 for the veteran boat is recommended. Completion of the easy, medium and hard Combat Achievements increases the number of points earned per game.
+
+Experience rates in the table below assume 26 games per hour in the veteran boat, gaining 40,000 experience per hour from fighting pests, and spending 100 points at a time for 10% more experience per point.
++ levelsXP/point(with 10% bonus)XP/h (points/game)None (5)Easy (6)Medium (7)Hard (8)70–73281.676,60083,90091,30098,60074–77316.881,20089,40097,700105,90078–81352.085,80094,900104,000113,20082–84387.290,300100,400110,500120,50085–88422.494,900105,900116,900127,90089–91457.699,500111,400123,300135,20092–94492.8104,100116,900129,700142,50095–97528.0108,600122,400136,100149,80098–99563.2113,200127,900142,500157,100
+
+Levels 70/80–99: Nightmare Zone
+For more information, see Nightmare Zone/Strategies.
+
+Using the normal customisable rumble setup in Nightmare Zone allows for 20 minutes of AFK Ranged training. After 20 minutes, the player will stop attacking the monsters and needs to interact with the client to start attacking again. Using the venator bow with super ranging potions and absorptions offers up to 140,000–150,000 (180,000-190,000 on hard mode) experience per hour at level 99. Slower but cheaper alternatives include the imbued magic shortbow with rune or amethyst arrows, or adamant darts with the twisted buckler.
+
+Levels 75/80–99: Training Ranged with Slayer
+Using the toxic blowpipe or the venator bow for Slayer training is not considered efficient to do, however it is an option for players who do not value gaining Melee or Magic experience and want some variety to their training. The benefit of ranging Slayer tasks is that it is relatively decent Ranged experience per hour and it also results in slightly higher Slayer experience rates as the blowpipe offers slightly higher damage output compared to most Melee weapons. Training Ranged whilst on a task also enables the player to use a Slayer helmet (i) for a 15% boost to ranged accuracy and damage while also taking advantage of the accuracy bonuses of dragonhide or Armadyl armour. However, using the blowpipe is expensive, although this can be somewhat mitigated by monster drops. Using other weapons is not recommended as they have less damage output than using Melee.
+
+Levels 80–99: Monkeys with Venator bow
+
+As a cheap (albeit slower) alternative to Chinning, the Venator bow can be used with Amethyst arrows to kill either Skeleton monkeys or Maniacal monkeys to get experience rates between 140,000 and 230,000 per hour. Skeleton monkeys have the benefit of being undead, allowing the player to use the Salve amulet(ei) to maximise DPS and therefore increase experience per hour. Maniacal monkeys are often preferred due to their increased numbers as well as their Prayer potion drops which enable long training sessions. Bring a light source and tinderbox to relight it if necessary. This could be the Kandarin headgear or a Bullseye Lantern if you wish for it to be brighter.
+
+Maniacal monkeys are located in Kruk's Dungeon on Ape Atoll, which requires having started chapter II of Monkey Madness II to access. The main benefit of this area is the endless monsters, always allowing for maximum hits with the Venator bow.
+
+For the fastest experience rates, use equipment that maximises Ranged strength, or Void knight ranged equipment for its damage buff. This is because the Skeleton monkeys and Maniacal monkeys have low defence. Full Masori with the Salve amulet(ei) has the potential to reach the highest experience per hour against Skeleton monkeys specifically, however when facing Maniacal monkeys Elite void equipment is generally better than Masori. 
+
+Hypothetical experience rates with ideal gear can top 270,000 experience per hour, however this requires the player to always be attacking three targets with the Venator bow, and always be in combat. To ensure high rates, the player must also use Divine ranging potions and Rigour or Deadeye (Or less preferably, Eagle eye) along with the Salve amulet(ei). A more realistic maximum is 240,000 experience per hour when getting close to 99 ranged. 
+
+The Dwarf multicannon can also be used against Maniacal monkeys, however it is generally not recommended as the player may see a shortage in monkeys and reduction in experience.
+
+Using Dragon arrows increases DPS by very little, and increases the cost massively. For this reason, it isn't worth it. Adamant arrows can provide a much cheaper alternative to Amethyst arrows while still gaining relatively high experience rates.
+
+The venator bow provides a solid, cheap, alternative to chinning. It requires less player involvement and training at Maniacal monkeys can continue indefinitely due to the Prayer potion drops - this lets the player camp at monkeys until they reach 99 ranged.
+
+Equipment choice
+Items will be listed in order of how much they increase general ranged damage per second. In nearly all cases, optimising for offensive stats is more effective than optimising for defensive or balanced stats, especially when fighting low-offence, high hp monsters. In addition, optimising for ranged strength is usually better than optimising for accuracy except against high-defence monsters.
+
+Note: This doesn't include elite void knight equipment or void knight equipment which in many cases can be best-in-slot for training, providing the player uses the set. It also doesn't include the salve amulet(ei) or the slayer helmet (i) which can both be best-in-slot in specific use cases. The Wiki's DPS calculator can be used to determine which gear provides the highest DPS for a specific monster. 
+
+Head-slot items in order of effectiveness
+
+Cape-slot items in order of effectiveness
+
+Neck-slot items in order of effectiveness
+
+Body-slot items in order of effectiveness
+
+Shield-slot items in order of effectiveness
+
+Legs-slot items in order of effectiveness
+
+Hands-slot items in order of effectiveness
+
+Feet-slot items in order of effectiveness
+
+Ring-slot items in order of effectiveness
+
+Rings should be imbued as soon as possible using the Nightmare Zone, Soul Wars, or with a scroll of imbuing from the Emir's Arena . If the player cannot afford the archers ring, a ring of wealth is a decent alternative to help improve rare drop table rolls and pick up coins, but it does not increase damage.
+
+Comparison of ranged weapons
+
+Category:Ranged
+Category:Members

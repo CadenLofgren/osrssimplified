@@ -1,0 +1,114 @@
+Ranged in the free-to-play worlds, while having less equipment and features than in member's worlds, provides some fun with the ability to battle monsters and players who would otherwise be out of reach.
+
+This guide will provide advice for the equipment, attack style, and training locations to use to maximise Ranged experience gained in free-to-play.
+
+Equipment choice
+Best-in-slot gear table
+
+Ammunition slot
+The below chart for prices should be consulted before purchasing large quantities of arrows. Note that moving up from one tier of arrows to the next will increase max hit by 0-2 damage each. For example, at level 40 Ranged with the rapid attack style, when moving from iron arrows to steel or mithril arrows your max hit will stay at 6 damage and therefore all three will function identically; however, when moving from mithril to adamant, your max hit will increase by 1 to a total of 7 damage, increasing your rate of experience per hour by 16.6%. If you decide to pick up ammo, enable Ammo-picking behaviour in the Gameplay settings in order to automatically equip ammo you pick up if it is already equipped in your ammo slot.
+
+Ammunition typeBow typeGE PriceStore PriceTraining bow1 +7N/AN/AAll bows except Training bow1 +7Crossbow or phoenix crossbow1 +10All bows except Training bow1 +10Oak or stronger5 +16Willow or stronger20 +22Maple30 +31
+
+Attack styles
+Accurate
+
+The accurate style of attack gives an invisible +3 Ranged level boost, increasing accuracy and, at certain combinations of Ranged level and arrow type, increasing your max hit by 1.
+
+Rapid
+
+The rapid attack style increases your attack speed by 1 tick (attacks come out 0.6 seconds faster).
+
+Longrange
+
+The longrange attack style gives an invisible +3 Defence level boost and increases your attack range by 2 squares (up to 10). All normal Ranged experience that would be gained is split 50/50 between Ranged and Defence.
+
+Which to use
+Until your max hit with the rapid attack style is 2, the accurate style is better than rapid when the +3 Ranged bonus increases your max hit with the arrows you are using. However, this is only the case at levels 3-5 (bronze arrows) or 2-4 (iron arrows or bronze bolts). After level 5, rapid becomes better damage per second than accurate for all levels beyond, as +1 max hit damage becomes less and less good in terms of the percentage of damage it contributes to your damage per second compared to the flat 33.3% percent increase from using rapid.
+
+It is not recommended to use longrange for training, since money is spent on arrows when training Defence through Ranged; it's usually cheaper (as well as faster) to train Defence through melee combat instead.
+
+Maximum hit
+The maximum hit for free-to-play Ranged is dependent on three factors: Ranged level, arrow type, and whether or not ranged prayer bonus is activated. Note that any other equipment such as bow quality has no direct effect on max hit, it just allows you to use better arrows (though better bows do increase accuracy and therefore damage per second). When there is overlap in maximum hit between the various arrows, it is best to use the cheapest one. For example, at Ranged level 24 a bronze arrow is identical to a mithril arrow in terms of damage output, therefore it is recommended to train using the cheaper bronze arrow. Your maximum hit may also increase due to your shooting style. The accurate style grants +3 to your Ranged level, the rapid style grants +0, and the long range style also grants +0.
+
+Levels 1–99 maximum hit chart (collapsed)
+Arrow TypeLevelBronzeIronBronze bolts have the same maximum hit as iron arrows for any given Ranged level.SteelMithrilAdamantBase Level with Eagle Eye activated111---1211---2311---3411---45122--56222--67222-- -8222--79222--810222--911222--1012223--1113223--1214233--1315333-- -16333--1417333--1518333--1619333--17203344-18213344-19223344- -233444-20244444-21254444-22264445-23274445-24284455-25294455-263044556 -3145556273245556283355566293455566303555566313655667323755667333855667 -3955667344056667354156677364266677374366678384466778394566778 -4666778404766778414866788424967788435067789445177789455277889465377889 -5477889475577889485677891049577889105058788910515978891052608899105361889910 -628899105463889101155648891011566588910115766899101158678991011596889101011 -699910101160709910101261719910111262729910111263739910111264749910111265759101011126676910111112 -7791011111367781010111213687910101112136980101011121370811010111213718210101112137283101111121473841011121214 -851011121214748610111213147587111112131476881111121314778911111213147890111112131579911111121315 -92111213131580931112131415819411121314158295111213141583961212131415849712121314168598121213141686991212131416 - -121214151687 -121314151688 -121314151689 -121314151690 -121314151691 -131314151692 -131314151793 -131315151794 -131415151795 -131415151796 -131415161797 -131415161798 -131415161899
+
+Monsters for training
+Beginner-level monsters
+Seagulls, cows, goblins, and chickens (combat levels vary)
+From Ranged levels 1–20, seagulls, cows, goblins, and chickens provide the best possible experience with their extremely low Defence level of 1 and negative Ranged Defence stats. The highest experience rates are achieved at, in order, level 3 seagulls, level 2 seagulls, cows, level 2 goblins, and chickens. Level 3 seagulls are the fastest experience because of their -42 Ranged Defence and large pool of 10 Hitpoints, and will almost never do damage to the player; they can be found either at Port Sarim or at Corsair Cove. Level 2 seagulls have the same low Defence stats, but only have 6 Hitpoints instead of 10. The other monsters, cows, goblins, and chickens, can all be found in the area to the east and north of Lumbridge Castle. Cows can be safespotted across the fences enclosing them, making them also completely safe to train against.
+
+Monks (combat level 5)
+Monks are a good alternative to the above monsters as they have slightly higher Defence, but also have 15 hitpoints, do almost no damage, and heal you for free when you talk to them. Monks are slightly slower experience than barbarians but safer to train at. You can find them in the Edgeville Monastery (north-west of Barbarian Village). Even at higher levels, this is still a good place to train. The only cons are that many people train here and it's hard to find a non-crowded world.
+
+Low-level monsters
+Barbarians (combat levels 10, 15, and 17)
+From Ranged levels 21–25 Barbarians at Barbarian Village are a good inbetween monster for seagulls and giant frogs, as the level 10 barbarians have a slightly lower Hitpoints level of 18 compared to giant frogs' 23 but also have a lower Defence of 3. Since they have the same Defence as monks but higher Hitpoints, they are faster experience than monks, however they are also slightly more dangerous and will not heal you for free.  You are able to safespot these Barbarians with the rocks and torch near the western exit of the village. There are also level 15 and 17 barbarians and a unique barbarian named Gunthor the brave in the long hall at the northern end of the village along with a food spawn on the table. These barbarians can be safespot over the table, however they have higher Defence and are therefore not as good experience as giant frogs, especially Gunthor who has similar Defence to a moss giant. Note that there is a fishing spot near the Barbarian village - many people will drop their Salmon & Trout from there, which you can cook for food.
+
+Giant frogs (combat level 13)
+From Ranged levels 26–56, giant frogs are the fastest experience, with their high 23 Hitpoints and low 6 Defence. They can be found in the Lumbridge Swamp, just south of Lumbridge Castle. They only drop big bones, which can be buried for Prayer experience. Banking the bones is not recommended as wizards provide better income.
+
+Optionally, players can bring any axe and a tinderbox to kill nearby Giant Rats for their meat, which can then be cooked by cutting down nearby dead trees.
+
+Wizards (combat level 9) or dark wizards (combat levels 7 or 20)
+For players with 20+ Ranged, the two dark wizards in Draynor Village, found among the willow trees near the bank, provide good Ranged training as their magic is often blocked by studded armour. Nearby is the Wizards' Tower, which is home to many level 9 wizards, who give the best combination of loot and experience for Ranged levels between 9 and 69 (inclusive). 
+
+Players with a combat level of 41+ and 30 Ranged can start fighting wizards at Delrith's circle south of Varrock as they drop even more runes (along with being one of the highest likelihood sources for beginner clue scrolls) and are in greater number giving less likelihood of training overcrowding from other players.
+
+Wizards drop copious amounts of runes which can be sold to other players or magic shops or can be later used for Magic training. They are noted for their higher level rune drops, such as nature runes.
+
+Players are, however, advised to have a good supply of food against wizards as the level 7 ones can have a maximum hit of 4 and the level 20 dark wizards can hit up to 6, and frequently do.
+
+One of the main advantages of training Ranged on wizards is that because they use a magic attack they stay where they are to attack. This means that when a player collects their arrows they will be all in the same spot. Melee targets will try to get as close as possible and will move, causing arrows to be scattered.
+
+Minotaurs (combat levels 12 or 27)
+Minotaurs found in the Stronghold of Security have a much higher Defence level than giant frogs and have less hitpoints, making them a poor place to train. The primary benefit of training on minotaurs is that they commonly drop iron arrows, allowing for cheap training for players who cannot afford to buy large amounts of arrows for themselves.
+
+Mid-level monsters
+Moss giants (combat level 42)
+From Ranged levels 57–99, moss giants provide the highest possible experience. They have higher defences than giant frogs and Flesh Crawlers, but also have 60 Hitpoints, one of the largest health pools in free-to-play. However, after around level 57 Ranged you will almost never miss, allowing you to take full advantage of their large pool of health to achieve the highest possible experience rates. Moss giants also have decent drops, most notably big bones and the unique mossy key which is used to access Bryophyta and open Bryophyta's chest.
+
+In free-to-play, they can be found in the innermost part of the Varrock Sewers, Crandor, and the Wilderness. In the Varrock Sewers, there are two separate groups of giants at the end of the sewer, both of which are safespottable. On Crandor there are several which spawn on the south side of the island which can also be safespotted. It may be advisable to train on Crandor mainly due to the fact that there are more spawns. Both locations tend to be crowded from melee and ranged training, but Crandor is a single-way combat area. This means another player cannot deal more damage than you on that monster and therefore steal your drop. The Wilderness is a good place to kill moss giants only for players wishing to collect mossy keys, as the moss giants there have an increased chance of dropping keys but have no safespots.
+
+Rangers new to training on moss giants are advised to train in Varrock Sewers, bringing a slash weapon or knife required to slash the web to get in, a set of runes to cast Varrock Teleport to quickly escape, and the rest of the inventory filled with cheap food such as jugs of wine. Since the area is multicombat, for the first 10 minutes it is easy for players with a low Defence level to take a lot of damage quickly before the moss giants become tolerant, especially when collecting drops, which is why at least some food is recommended.
+
+Observed experience rates at ranged level 72 is around 35,000-37,000 xp per hour, using optimal equipment with adamant arrows and not collecting drops or arrows.
+
+Flesh Crawlers (combat levels 28, 35 or 41)
+Flesh Crawlers in the Stronghold of Security have similar defensive stats and give similar experience rates to giant frogs, but are aggressive to players of any level, allowing for afk training for 10 minute periods at a time before they become tolerant. When the Flesh Crawlers are no longer aggressive, players can run a short distance away and back which will reset their aggression for another 10 minutes.
+
+As Flesh Crawlers can quickly and repeatedly hit 1s, it's best to start training against them with around 40–60+ Defence. For food, you can either bring jugs of wine from the bank, teleporting to Barbarian Village with a charged skull sceptre (i) and back to the bank with runes when you run out, or you can bring feathers and a fly fishing rod and catch and cook trout and salmon for food just outside Barbarian Village. As an additional bonus, Flesh Crawlers also drop uncut gems and bottom of sceptres, the latter of which can be chiseled into stackable bone fragments () to sell on the Grand Exchange.
+
+If afk training here on a world that already has at least one player, standing on the same tile as the player(s) that are currently training reduces the chances of the Flesh Crawlers bunching up in a way which causes them to be unable to attack the player, vastly increasing xp rates.
+
+Giant spiders (combat level 50)
+Also in the Stronghold of Security, level 50 giant spiders act as an aggressive, afk alternative to moss giants, with very similar Defence but only 50 Hitpoints instead of 60, providing a bit slower experience rates. If players want to train here in Ranged gear and achieve good experience rates, a Defence level of 80 or higher is recommended along with good food such as jugs of wine, as giant spiders are dangerous and can hit up to 7 fairly accurately, especially against Ranged gear. Giant spiders stop being aggressive after 10 minutes; this can be reset by running a short distance away and coming back. Giant spiders have no drops.
+
+Hill giants (combat level 28)
+Hill giants have similar Defence to moss giants but have almost half the Hit points, making them slower experience. However, hill giants have better drops than moss giants, both drop big bones () but hill giants also additionally drop limpwurt roots (), nature runes (), and body talismans (). Hill giants are also desirable for their unique giant key drop, which is the only way to access Obor. They can be fought in the Edgeville Dungeon near the Grand Exchange with a safespot, the Giants' Plateau near Al Kharid with a safespot, or in the Wilderness at two different locations, with no safespots. The Wilderness hill giants are risky and are only recommended for players who want to acquire giant keys more quickly, since they drop them more frequently; however, since there are only a few hill giants at both spots in the Wilderness, without world hopping it's faster for keys and experience to simply kill the ones in the Edgeville Dungeon or Giants' Plateau instead.
+
+High-level monsters
+Ogresses (combat level 82)
+Ogresses are slower than ankou and lesser demons when it comes to Ranged training due to their higher defences but they profit better when being fought at high-level Ranged. They are commonly trained on for profit by high-level free players.
+
+Ogress Warriors and Ogress Shamans can be fought and safespotted in various locations at the Corsair Cove Dungeon by travelling to Corsair Cove by Cabin Boy Colin, found on the piers to the west of Rimmington. Ogress Warriors and Ogress Shamans have a combat level of 82 with 82 hitpoints. They are recommended to be fought with Ranged of 60 to maintain profit but 50 Ranged is doable but slow to kill. For Ranged levels 70–99, they provide the optimal combination of drops and experience. Accurate attack style may be more effective than Rapid due to the ogresses' high ranged defence. While they are tougher enemies to kill, Ogress Shamans have less ranged defence than Ogress Warriors, which makes Ogress Shamans a better option to train on for mid-level and high-level Ranged users. Due to the low range of Ogress Shamans' magical attacks, Ogress Shamans can be safespotted with a shortbow with the attack style set to Accurate or Rapid while still being out of the Ogress Shaman's magical attack range. Even though Ranged XP gained per hour will be slightly lower than ankou and lesser demons due to the Defence of ogresses, ogresses drop valuable items at an uncommon rate such as rune med helms (), rune full helms () and rune battleaxes () that can be high level alchemised by players with 55+ level magic.
+
+Before training and profiting on ogresses, it is recommended to:
+Bring hundreds or thousands of adamant arrows if the player can afford a massive amount of these for faster damage per second and experience. For better profit and relaxation while fighting, bring mithril arrows as they are often cheaper than adamant or steel. High-level ranged players should often gain a profit from the amount of arrows they will use against ogresses, even with the more expensive arrows. Ogresses also drop arrows that range from iron to mithril, which could also be used as substitute should the player run out of their primary arrows or save their strongest arrows.
+55 or higher Magic: Bring nature runes and a staff of fire (optional as ogresses can drop fire runes and nature runes) to high level alchemise rune drops and mithril kiteshields ().
+Optional: Bring a chisel to cut gems for passive Crafting experience, or if you plan on casting high level alchemy on the gems (sapphires are recommended to be dropped after being cut due to their low high level alchemy value).
+Optional: Runes for Falador Teleport and travel down to Rimmington.
+Bring few pieces of food if needed as ogresses can deal up to 8 hitpoints of damage. Ogresses stop becoming aggressive in a short area after staying in the area for 10 minutes. Alternatively, loaves of bread spawn in certain areas of the Corsair Cove Dungeon.
+
+Lesser demons (combat level 82)
+The lesser demons in Karamja and Crandor are an alternative to moss giants at level 65+ Ranged, but are slower experience because of their high Defence, and do not have good drops, only notably dropping rune med helms and fire runes. They always drop vile ashes that can be used for either Prayer training or to be sold on the Grand Exchange for extra money.
+
+Lesser demons in Karamja volcano can be accessed and safespotted from any level, provided you can survive the short sprint past them to one of the safespots. It's recommended to fill your inventory with cheap food for the initial sprint to the safespot, and to heal damage for the first 10 minutes when running out to pick up drops. After 10 minutes, as long as you continue training at the same safespot, the lessers will become tolerant and drops can be safely picked up without taking damage. Since they have a large amount of hitpoints (~80) and high defence, and training is completely safe after the first 10 minutes, lesser demons are a common place for players to afk train Ranged.
+
+Ankou (combat levels 75, 82 or 86)
+Ankou are another alternative to moss giants for players with 60+ Ranged, and although the level 75 ankou can have Defence lower than lesser demons, the level 82 and 86 ones that have safespots have much higher Defence and are slower experience. Ankou have very few good drops in free-to-play, which include law runes, left skull halves which can be chiseled into bone fragments, noted mithril ore, or noted rune essence for ironmen.
+
+Ankou can be found either in the Stronghold of Security level 4 or The Forgotten Cemetery in level 30 Wilderness. They are aggressive to players of all combat levels but can be safespotted at both locations, most easily over a skeleton on the floor in the south-western room of Stronghold of Security level 4.
+
+Category:Free-to-play

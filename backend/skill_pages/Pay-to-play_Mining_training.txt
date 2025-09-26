@@ -1,0 +1,215 @@
+This article provides an overview of strategies used to train the Mining skill.
+
+Equipment
+The only item required to mine is a pickaxe. A certain Attack level is required to wield one, but players can still use the pickaxe to mine without the Attack level requirement. Use the best pickaxe available for the fastest mining speed.
+
+Using an infernal pickaxe is recommended if using the fastest training methods. Mining rocks with it will give a 1/3 chance for the ore to automatically combust, which will consume the ore. This reduces the number of ores that need to be dropped, and also grants some passive Smithing experience. Making an infernal pickaxe requires level 85 Smithing, and it can be charged with dragon pickaxes or smouldering stones. The former are usually cheaper, but using the infernal pickaxe can still be somewhat expensive for some players.
+
+For other methods, the crystal pickaxe performs better, and it should be used if the player has enough crystal shards for it.
+
+Pickaxes
+Higher-tier pickaxes take less time between rolls while mining. Each tick is a period of 0.6 seconds. When the allotted time passes, the game will roll whether or not you mine something successfully. The chance itself is affected by the Mining level. The pickaxe tier does not affect the skilling success rate, only the time between rolls. For example, a bronze pickaxe has the same chance of mining successfully as a rune pickaxe, but rolls for a resource every 8 ticks instead of 3. However, the mining speed mechanic can be bypassed with tick manipulation. When using a knife on teak logs (or other suitable items), a bronze pickaxe can mine every 3 ticks instead of 8 when timed correctly.
+
+ItemShop priceGE priceWeightTicks between rolls11 at Nurmof and Bob2.267 kg811 at Nurmof2.267 kg765 at Nurmof2.267 kg61110Not sold0.01 kg52120 at Nurmof1.814 kg53130 at Nurmof2.721 kg44140 at Nurmof2.267 kg36160Not sold2.4 kg2.836160Not sold2.4 kg2.837170Not soldThe price of the required crystal shards is based on exchanging enhanced crystal teleport seeds with Amrod.1.36 kg2.75
+
+Prospector kit
+
+The Prospector kit obtained from Prospector Percy in the Motherlode Mine or from the Volcanic Mine Reward Shop provides a total of 2.5% bonus Mining experience when worn. The outfit is not worth getting timewise if the player is going for 99 Mining using the fastest methods. However, it is a requirement for a master clue step, and the helmet for a hard task in the Falador Diary, so the player might want to get it anyway.
+
+The full set costs 180 nuggets or 120,000 Volcanic Mine reward points in total. Getting 180 nuggets takes around 10 hours on average.
+
+ItemXP BoostCost (in )Sells for (in )Boost per nugget
+(% per ) +0.4%40320.010 +0.8%60480.013 +0.6%50400.012 +0.2%30240.007Set bonus+0.5%Complete set+2.5 %1801440.014
+
+Varrock armour
+Completing task sets from the Varrock Diary grants the player Varrock armour, which gives the player 10% chance of mining 2 ores at once while worn. For the methods below, Varrock armour 1 provides this effect for mining iron, Varrock armour 2 for mining granite, and Varrock armour 4 for mining amethyst. However, the Varrock armour does not work at Motherlode Mine, Blast Mine, Volcanic Mine, or on gem rocks.
+
+The Varrock armour 4 also works as a prospector jacket.
+
+Other
+Wearing a celestial ring, obtained through the Shooting Stars activity, provides an invisible +4 boost to the Mining skill. This will boost experience rates slightly. The uncharged ring is worth getting if the player is going for level 99 Mining using the methods below.
+
+There are also mining gloves available in the Mining Guild. The expert mining gloves are worth getting if mining amethyst crystals.
+
+Fastest experience
+To gain Mining experience most efficiently, players should always drop the ores they mine (also known as "powermining" or "dropmining"). This can be done by holding the shift key and clicking on the ore once shift drop has been enabled in the options. Mobile users can toggle the tap-drop option.
+
+Levels 1–37: Questing
+Early levels can be skipped by completing quests that give Mining experience. Completing Doric's Quest, The Dig Site, Plague City, The Giant Dwarf, The Lost Tribe and Another Slice of H.A.M. grants a total of 27,525 Mining experience, which will get the player from level 1 to 37. All of these quests have low requirements, and completing them allows the player to use an adamant pickaxe right from the start.
+
+Levels 1–15: Copper/Tin ore
+From level 1 to 15, mine copper or tin. This can be done anywhere, though the Lumbridge Swamp mining site is debatably the easiest due to its relative lack of players and aggressive monsters, and its collection of copper and tin rocks.
+
+Levels 15–45/70: Iron ore
+thumb|Mining iron in the Mining Guild.
+From level 15 to 45, mine iron. Players who are inexperienced with tick manipulation methods, or do not plan to use tick manipulation at all, are advised to mine iron up to level 70 and continuing with other methods such as the Volcanic Mine.
+
+Wearing Varrock armour 1 or higher increases the overall experience rate for this method, as it gives the player 10% chance to mine 2 ores at once while worn.
+
+From level 15 to 60, mine iron at a location that has three iron rocks in a triangle. This formation allows the player to mine all three rocks without moving. Drop the ores while waiting for the rocks to respawn. There are 13 such locations available at this level: 
+
+ Legends' Guild Mine
+ Al Kharid Mine
+ Piscatoris Mine
+ Lovakengj Mine
+ Verdant Valley
+ Mount Karuulm Mine
+ Resource Area (level 51 Wilderness)
+ South Mor Ul Rek Mine
+ Isle of Souls
+ Sisterhood Sanctuary Mine
+ Stranglewood Mine
+ Cam Torum Mine
+ Salvager Overlook Mine (east)
+
+If using tick manipulation, the best place to mine iron is in the Legends' Guild mine or the Isle of Souls mine. Both locations have 4 iron rocks close to each other. Start the 3-tick cycle with a herb and tar (or other suitable items) while moving between rocks, and drop the ores in between mines. Because this method is much harder and more advanced than using a triangle spot, it is only recommended for players who plan on 3-tick mining granite from level 45 onwards.
+
+From level 60 onwards, the pay-to-play area of the Mining Guild becomes the best option, as the respawn time for rocks mined in this area is halved. This makes it so the players do not have to wait for the rocks to respawn or use tick manipulation. With correct timing and accurate clicks, players can drop the ore between mines and keep mining continuously.
+
+Players can gain around 45,000–55,000 experience per hour below level 60 when not using tick manipulation. From level 60 and above, the maximum experience rate in the Mining Guild caps at around 70,000–80,000 experience per hour, depending on performance and the pickaxe used.
+
+Banking the ores is not recommended as this slows down experience rates a lot and the iron ores are usually not worth very much. Ironmen who wish to bank their ores are advised to use the pay-to-play area in the Mining Guild, which has a triangle spot near to the bank chest. For those below level 60, an alternative location to bank iron ores is the  Monastery Mine, using the Ardougne cloak to teleport to the mine and then a bank teleportation method such as the Ring of dueling teleport to Castle Wars to bank your ore.
+
+Levels 45–99: Granite
+thumb|3-tick granite mining in action.
+3-tick mining granite (commonly referred to as "3t4g", 3-tick 4 granite) at the Quarry offers the fastest Mining experience from level 45 onwards. 3-tick mining is done by using swamp tar on a clean herb (or other suitable items) to set up the 3-tick cycle and then moving to a granite rock to mine it. When timed correctly, the player will skip the delay from moving to the granite rock and has a chance to receive a rock every three ticks. The player will need to move between four granite rocks to continuously keep up the 3-tick cycle.
+
+While 3-tick mining granite offers the fastest experience, it is very click-intensive and can be hard to learn. This method is not worth doing without tick manipulation, as the experience rates would be much lower. Players who are new to tick manipulation methods may find it worthwhile to train with iron before attempting to train with granite, as mining iron offers relatively high rates at lower levels.
+
+Experience rates shown in the table below assume wearing the Varrock armour, the prospector kit, and an uncharged celestial ring. The rate at level 99 also assumes wearing the Mining cape. At maximum efficiency, it is possible to gain up to 134,000 experience per hour at level 99, though players are more likely to see rates closer to around 120,000–125,000 experience per hour when including some mistakes. Without tick manipulation players can only gain around 63,000 experience per hour at best.
+
+  level  XP/h  XP/h () 45 87,000  55 95,000  65 103,000 7,700 75 109,000 8,200 85 114,000 8,700 95 119,000 9,100 99 126,000 9,700
+
+Setup and tips
+
+To get to the Quarry, teleport with the Camulet to Enakhra's Temple, navigate outside, and run a short distance south-west. After completing the hard Desert Diary, players can teleport straight to the entrance instead. Players who have not completed Enakhra's Lament can use the Pharaoh's sceptre to teleport to the Ancient Pyramid and run west, take the ferry to the Ruins of Unkah and run north, or take the carpet to Bedabin Camp and run south. Alternatively, players who have started Beneath Cursed Sands can use the spot at the Necropolis mine near the fairy ring .
+
+Players must have some sort of desert heat protection to survive, such as
+ Wearing the Desert amulet 4.
+ Wearing the Hitpoints cape with a regen bracelet, which will outheal the damage taken from desert heat.
+ Bringing waterskins and filling them with the lunar spell Humidify.
+ Wearing the circlet of water. This comes at the cost of 0.4% experience bonus from the Prospector helmet and 0.5% from the Prospector outfit set bonus.  
+
+Wearing Varrock armour 2 or higher gives the player 10% chance to mine 2 ores at once while worn, which will increase experience rates. Varrock armour 4 also acts as a prospector jacket for the prospector kit experience bonus.
+
+Using the infernal pickaxe is strongly recommended if the player can afford it, as it reduces the amount of ores that need to be dropped and also provides passive Smithing experience. One fully charged infernal pickaxe lasts for around 960,000 Mining experience. It can be charged with smouldering stones or dragon pickaxes, with the smouldering stone currently costing  and the dragon pickaxe .
+
+If not using the infernal pickaxe, the pickaxe tier does not matter as it does not affect mining success rates. Because tick manipulation bypasses the normal pickaxe rate for mining rolls, the crystal pickaxe does not bring any benefits for this method.
+
+To minimise mouse movement, make the game client as small as possible and use the 'Modern' resizable client layout. Zoom in and turn the camera south so that there is as little distance from the inventory to the rocks as possible. Turning data orbs off is also helpful to prevent any misclicks when clicking on the southernmost rock.
+
+Players should drop the mined pieces of granite on the ground between mines. This is done by starting the 3-tick action and clicking on the next rock, quickly dropping the granite and clicking the rock again. This requires accurate clicking and some practice to perform consistently, but it is much more efficient than dropping a full inventory.
+
+Moreover, it is recommended to only drop 1 or 2 rocks at a time to avoid clicking the next rock too late. Because of how movement stalls work with tick manipulation, moving to the next rock will grant a second roll for a resource if the first one fails. This makes the player more likely to receive a rock. However, if the player clicks on the next rock too late, they will miss out on the additional roll and are less likely to receive a rock. Note that this mechanic is separate from mining enhancers, and the chance to get extra rocks from Varrock armour (or other mining enhancers) is applied after getting a successful roll.
+
+Other methods
+Levels 30–99: Motherlode Mine
+275x275px|right
+Mining in the Motherlode Mine is a profitable low-effort alternative to the faster methods. To do this, mine ore veins inside the mine, deposit the pay-dirt into the hopper to clean it, and repeat. Once the sack is full, empty it and bank the ores for profit. The veins deplete after 36–40 seconds in the upper level, or 23–27 seconds in the lower level. At higher levels, this method is only recommended for players who are looking for a straightforward training method, as the Volcanic Mine minigame offers faster experience.
+
+To get there, use a skills necklace teleport to the Mining Guild and run a short distance to the entrance. Players will need a pickaxe to clear the obstructing rockfalls to enter deeper into the mine.
+
+Completing the medium Falador Diary grants the player access to a shortcut (requires level 54 Agility) to an area which is near the bank chest and relatively close to the hopper. Completion of the elite diary will also increase the chance of receiving higher-level ores.
+
+Players can obtain golden nuggets through cleaning pay-dirt, which can be used to purchase perks and rewards from Prospector Percy. The most notable reward is the Prospector kit, which adds a bonus 2.5% experience while mining. Purchasing the prospector helmet is required for the hard Falador Diary. Unlock the upper levels of the mine as soon as it becomes available. 
+
+Experience rates vary depending on the Mining level and what upgrades have been unlocked. At level 90 with a dragon pickaxe and a celestial ring, prospector kit, with the upgraded sack, the upper level unlocked and the upper chute unlocked, players can gain around 62,000 experience per hour.
+
+For more up to date calculations on profit per hour, see Motherlode Mine.
+
+Levels 40–99: Gem rocks
+thumb|Tick manipulation at gem rocks
+Mining gem rocks is a profitable alternative that offers comparable experience rates to granite when using tick manipulation. Gem rocks are also the fastest method on average to obtain the rock golem pet. Without tick manipulation, this method is considerably slower and only recommended for ironmen who need opals, jades, or red topazes.
+
+For this method, players will need to have completed the medium Karamja Diary for access to the underground portion of the Shilo Village mine. The area has many gem rocks and a bank deposit box nearby. Without the diary completion this method is not worth doing, as the surface area has much fewer rocks. Wearing a charged amulet of glory is also required for the fastest rates. Having the gem bag is recommended to reduce dropping and banking.
+
+The experience rates in the table below assume wearing a charged amulet of glory and the prospector kit. At maximum rates players can expect  profit per hour.
+
+ levelXP/h (3-tick) XP/h (w/o 3-tick) 5093,00046,0006097,00052,00070101,00058,00080105,00066,00090107,00070,00099110,00075,000
+
+Levels 41–99: Calcified rocks
+Mining calcified rocks in the Cam Torum Mine is a low-effort alternative to the faster methods. This method requires having started Perilous Moons. The rocks deplete after around 70 seconds. Occasionally, water starts oozing temporarily from some of the veins, and mining those veins will increase the success rate of mining rocks. Additionally, players can receive a calcified deposit from mining the rocks which when opened with a hammer on an anvil provide the player with 6-20 additional bone shards or a chance to receive a tradeable and stackable calcified moth. Crushing the moth will teleport the player directly to Cam Torum.
+
+Players can gain up to 50,000 experience and roughly 3,000 blessed bone shards per hour at level 99.  With tick manipulation, players can gain up to around 94,000 experience and 5,500 bone shards per hour at level 99.
+
+ levelXP/h (3-tick + water)
+estimatedXP/h (w/o 3-tick)5040,00023,5006050,00027,0007064,00034,0008074,00039,0009084,00044,0009994,00049,000
+
+Levels 60–99: Crashed stars
+Mining crashed stars is a very low-effort alternative to the faster methods. As part of the Shooting Stars Distraction and Diversion, a shooting star will fall at a random spot selected from a predetermined list. Once the player has found a crashed star, they can mine it for 42–63 minutes depending on its tier before the star depletes. Each tier can be mined for seven minutes without interaction, only requiring the player to click again whenever the star degrades a tier.
+
+There are a few issues this method faces if one chooses to efficiently train on crashed stars. Depending on the size of the star, players need to have a secondary activity planned after fully mining stars to depletion. Using an oak telescope or better in a study room of a player-owned house can display a timeframe for when the star will fall, as well as the region it will land in. Stars may also fall in the Wilderness and in other dangerous areas, which are not recommended to train on. Switching worlds or receiving information from other players/clans may also help to scout for new crashed stars.
+
+This method is fully available at level 60 Mining since the lowest star falls at tier 6, but it can begin at level 10 if the star is mined down to a suitable tier. The stardust can be exchanged for a celestial ring, which gives an invisible +4 boost to Mining. Considering the Grand Exchange price of soft clay, each stardust is worth  when using the stardust to buy soft clay packs.
+
+If stardust is used to charge the celestial ring and is taken to efficient Granite mining, each hour of mining stardust is worth ~10k xp/h more and can give 140k xp/h with good clicks.
+
+Experience and stardust rates are shown in the table below. The rates include the time spent finding a new star as well as some idle time whenever the star degrades a tier. While it's possible to use tick manipulation for higher rates, doing so is not recommended for this method (except for obtaining stardust as quickly as possible) as there are much better options for high-effort training.
+
+  level     XP/h  With   /h  XP/h  With   /h  XP/h  With   /h 60 23,500 24,100 733 24,900 25,500 777    70 24,600 25,200 769 26,100 26,700 814 26,800 27,500 839 80 25,900 26,600 811 27,500 28,100 858 28,300 29,000 884 90 27,000 27,700 844 28,600 29,300 893 29,500 30,200 920 99 28,200 28,900 881 29,800 30,600 933 30,800 31,500 961
+
+Levels 70–99: Volcanic Mine
+
+275x275px|right
+The Volcanic Mine minigame on Fossil Island is a fairly low-effort alternative that offers relatively fast experience. In the mine, the goal is to mine the boulder to obtain ore fragments for Petrified Pete while keeping the mine stable. This grants Mining experience and points for the reward shop. Doing the minigame efficiently requires coordinated teamwork and it does not provide any significant profit, however.
+
+To access Fossil Island, players must have completed the Bone Voyage quest. Players must also pay Petrified Pete 30 numulites every time they wish to enter the mine. Alternatively, pay a one-time fee of 3000 numulites for permanent access. While the mine can be accessed at level 50 Mining, having at least level 70 is recommended for better experience rates. Good food is also required, as players take heavy damage in the mine.
+
+The official world for this minigame is World 323, although it is recommended to search for a team — the Grouping interface includes a clan chat for Volcanic Mine, where players may be found making groups. Having 3 to 5 players in a team is optimal, although duo is viable as well. Soloing is also possible, but it requires much more effort and practice, and the experience rates are slightly lower than in a team.
+
+Experience rates shown in the table below assume having a consistent 3–5-player team. The rates an vary depending on the role performed and the team's performance. Players also can gain up to around 15,400–17,200 points per hour at the maximum listed rates. When using dedicated boosting accounts, it is possible to gain up to 105,000 experience per hour at level 99.
+
+  level XP/h7064,20068,0007565,20069,00075,0008068,00072,00081,0008571,80076,00086,0009074,70079,00090,0009576,50081,00091,0009979,30084,00094,000
+
+Levels 70–99: Zalcano
+thumb|280px|Two players mine Zalcano after breaking her stone armour.
+Zalcano is a demon imprisoned beneath Prifddinas that is fought using skilling rather than conventional combat. Being immune to traditional combat damage, players must use their Mining, Smithing and Runecraft skills to create imbued tephra capable of destroying her stone armour. Once her armour has been destroyed, they must damage her by mining her with a pickaxe.
+
+Zalcano can be a viable training option for players past level 70 Mining who are seeking an engaged and challenging training method. Players should be advised that in order to fight Zalcano, they will need to unlock Prifddinas by completing the grandmaster quest Song of the Elves.
+
+Speaking to Rhiannon allows players to toggle between resource rewards and increased experience. Toggling resources off still rolls for unique and pet rewards.
+ If resource drops are enabled, players can expect to get roughly 13,500 Mining, 3,000 Smithing and 1,500 Runecraft experience per hour when killing Zalcano efficiently.
+ If resource drops are disabled, players can expect to get roughly 50,000 Mining experience per hour, scaling up with Mining level. At level 80 Mining, players can expect at least 70,000 Mining experience per hour. In small teams of 3 to 5, players can obtain around 90,000 xp per hour.
+
+Levels 75–99: Blast Mine
+275x275px|right
+The Blast Mine minigame is a profitable alternative that offers fast experience. At level 75, players are able to obtain runite which makes the bulk of the profit gained. While it is possible to participate in the minigame below level 75, this is not recommended as the lack of runite ores will severely hamper experience and profit rates.
+
+Having a higher Mining level increases the chances of obtaining better ores, increasing experience and profit as a result.
+
+Blast mining requires numerous dynamite, a chisel, and a tinderbox. Wear weight-reducing clothing (such as the graceful outfit) and a charged ring of endurance to reduce run energy drain, and use stamina potions to restore run energy if needed. Having a pickaxe is not necessary, but the dragon pickaxe's special attack can be used to temporarily increase the current Mining level to have a higher chance of receiving better ores. The Prospector kit can be worn for extra experience when collecting the ores from the operator.
+
+Experience rates depend on Mining level and strategy. Players can gain between 65,000–76,000 experience per hour at level 75, increasing to 87,000–101,000 experience per hour at level 99.
+
+Levels 78–99: Infernal Shale
+275x275px|thumb
+
+Infernal shale can be mined in the Chasm of Fire with level 78 Mining. It is crushed into crushed infernal shale with a hammer and a chisel, which is used to create Oathplate armour. A Kingdom Divided is required to mine the rocks. Infernal shale is untradeable and must be crushed in order to trade, providing no experience.
+
+The experience gained from each rock varies, with each rock giving between 13.2 and 100 experience. For more information, see the infernal shale page. The average amount of experience per rock mined is 43.67 or 44.75, depending on whether the player is using the Prospector kit.
+
+The mining method is usually not recommended as experience rates are very low unless using tick manipulation with Jim's wet cloth, and even then it's very high intensity for a maximum of 67,000 - 80,000 experience per hour (with a hypothetical maximum of 90,000, yet this is unrealistic).
+
+The main draw for this method is that it can provide more than  per hour with significant mining experience if the user is willing to put in the work.
+
+For more information on this activity, visit the money making guide and Jim's wet cloth page.
+
+Levels 92–99: Amethyst
+Amethyst is an alternative choice for players looking to mine with low effort or click intensity, albeit for very slow experience rates. Depending on concentration and the tier of pickaxe used, players can expect to mine from 80 to 100 amethyst per hour, for approximately 20,000–25,000 experience per hour and around  profit per hour.
+
+Post 99
+After level 99, experience rates will remain constant. Assuming that the player is wearing full prospector, a celestial signet, Varrock armour 4, a charged amulet of glory, a Mining skillcape, Expert mining gloves and is using either a dragon or crystal pickaxe, the table below provides some expected rates of experience per hour:
++ Method Xp/hour (low)Xp/hour (high)Intensity YieldZalcano (drops)13,50020,000 HighVarious ores, bars, gems, runes, crystal shards, and various unique dropsAmethyst20,00025,000 LowAmethystCrashed stars30,60031,500 Extremely lowStardust, gemsCalcified rocks49,000 Very lowBlessed bone shards, calcified depositsMotherlode Mine54,00060,000 Very lowVarious oresGem rocks75,000 Very highVarious gems, including opals, jades and red topazesZalcano (xp)50,00092,000 HighCrystal shards, various unique dropsVolcanic Mine84,00094,000 HighVarious ores and other rewardsCalcified rocks (3t)94,000 Extremely highBlessed bone shards, calcified depositsBlast Mine87,000101,000 HighVarious oresGem rocks (3t)110,000 Extremely highVarious gems, including opals, jades and red topazesGranite (3t)125,000 Extremely highNothing
+
+Ore table
+NameLevelExperience1515117.5117.51017.51026.5153520402210305030530603530,40,50,60406540654550,60,755580656070958512592240
+
+Quests for Mining experience
+
+QuestExperiencerewardMiningrequirementOther requirementsThe Forsaken Tower500--Doric's Quest1,300--Plague City2,425--The Giant Dwarf2,500-, , , Heroes' Quest2,575, , , Another Slice of H.A.M.3,000-, The Lost Tribe3,000, Between a Rock...5,000, Enakhra's Lament7,000-optional, , , The Heart of Darkness8,000, , The Dig Site15,300-, , The Curse of Arrav40,000, , , , Song of the Elves40,000, , , , , , Making Friends with My Arm50,000, , Dragon Slayer II60,000, , , , , , , Total192,600
+thumb
+
+References
+
+Category:Mining
+Category:Members

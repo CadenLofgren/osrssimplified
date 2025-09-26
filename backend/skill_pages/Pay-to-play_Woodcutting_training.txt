@@ -1,0 +1,206 @@
+This guide outlines the best methods for training the Woodcutting skill. The profit from Woodcutting is low compared to other money-making methods and the profitable methods offer very slow experience per hour. Some players may find it more beneficial to perform the fastest experience methods and use the saved time to make money from other activities.
+
+For maximum theoretical experience rates for certain Woodcutting training methods, see this page.
+
+Equipment
+thumb|154px|The crystal felling axe.
+The only item required to cut wood is an axe, either equipped or in a player's inventory. Felling axes offer 10% more Woodcutting experience than their regular counterparts when used with Forester's rations. Using the best felling axe available will offer the fastest experience rates.
+
+Felling axes up to dragon and the forester's rations can be bought from the Grand Exchange. The crystal felling axe is untradeable and can only be created by using a felling axe handle on a regular crystal axe while standing near a singing bowl. As such, using the crystal felling axe effectively requires completion of Song of the Elves. The felling axes below rune are uncommonly traded at the Grand Exchange and they are relatively expensive for how long they are used, so using normal axes below level 41 Woodcutting is advised.
+
+Both the Forestry outfit and the Lumberjack outfit provide a total of 2.5% bonus experience per log cut, and is worth getting timewise for level 99 Woodcutting. The Temple Trekking minigame is the fastest way to obtain the Lumberjack outfit. When using route 1 and evading all the events except the one with undead lumberjacks, it will only take less than an hour to get the full set. Alternatively, the Forestry outfit can be obtained from participating in Forestry events and buying the outfit pieces with anima-infused bark.
+
+The dragon axe special attack can be used to temporarily boost one's Woodcutting level by 3, which stacks with the level bonus provided by the Woodcutting Guild. Equipping the Lightbearer will also allow the player to use the special attack more often. The temporary level boost can be extended with the Preserve prayer. With the clothes pouch attached to the Forestry kit, the player can wear prayer armour to reduce prayer drain while also getting the Woodcutting experience boost from the Lumberjack outfit. In addition, equipping the log basket may be beneficial if players are saving space in their inventory or saving their logs in the future for training Firemaking, Hunter, and Fletching.
+
+Fastest experience
+To gain Woodcutting experience most efficiently, players should always drop the logs they cut. Players should quickly drop their items by holding the shift key and clicking on the logs, or enabling tap-to-drop on mobile.
+
+Levels 1–26: Questing
+Completing Monk's Friend, Enlightened Journey, Icthlarin's Little Helper, and the Skrach Uglogwee subquest of Recipe for Disaster grants a total of 9,000 experience. This will get the player from level 1 to 26.
+
+Levels 1–15: Regular trees
+From level 1 to 15, the player should cut regular trees. Each log gives 25 Woodcutting experience. 97 logs are required to reach level 15.
+
+Levels 15–35: Oak trees
+From level 15 to 35, the player should cut oak trees. Each log gives 37.5 Woodcutting experience. 534 logs are required to reach level 35.
+
+Even though willow trees become available at level 30, cutting oak trees offers slightly faster experience at these levels.
+
+Levels 35–99: Teak trees
+Cutting teak trees offers the fastest Woodcutting experience in the game when using tick manipulation. If the player is not using any sort of tick manipulation, cutting teak trees offers the fastest experience only up to level 65.
+thumb|1.5-tick Woodcutting on Fossil Island.
+1.5-tick woodcutting teaks on Fossil Island is the fastest training method in the game. 1.5-tick woodcutting is done by setting up a 3-tick cycle (such as using swamp tar on a clean herb) and alternating tiles next to the hardwood patches. When timed correctly, the player has a chance to receive two logs at once every three ticks. Planted teak trees have a 1/8 chance to fell and they do not have a depletion timer, unlike the teak trees found elsewhere.
+
+Using the best felling axe available with forester's rations will offer the fastest experience rates. The forester's rations also restore run energy, which makes stamina potions unnecessary for this method.
+
+Experience rates for 1.5-tick woodcutting are shown in the table below. The rates assume using the best regular axe available up to level 61, the dragon felling axe for levels 61–71, and the crystal felling axe from level 71 onwards. Long-term rates can vary depending on performance. At maximum efficiency, it is possible to gain up to around 255,000 experience per hour at level 99 when using the crystal felling axe. Because the method is difficult and click-intensive, players are more likely to see rates closer to 230,000–240,000 experience per hour.
+
+  level XP/h 35 93,000 41 115,000 50 126,000 61 173,000 71 194,000 80 208,000 90 222,000 99 235,000
+
+thumb|2-tick Woodcutting on Ape Atoll.
+
+2-tick woodcutting teaks is a slightly slower, but less attention- and click-intensive alternative to 1.5-tick woodcutting teaks on Fossil Island. 2-tick woodcutting is done by auto-retaliating to being attacked every two ticks and clicking on a tree. When done correctly, the player has a chance to receive logs every two ticks instead of four due to the way Auto Retaliate works.
+
+Players can 2-tick teaks on Ape Atoll and the Isle of Souls using birds, or in Prifddinas using rabbits. In Prifddinas the player will gain some crystal shards.
+
+To start 2-tick woodcutting, draw aggressiveness from the birds or rabbits without killing them (such as casting Confuse or Weaken). Equip a 2-tick or 3-tick weapon that cannot perform attacks, such as a shortbow on rapid without ammunition. Turn on Auto Retaliate and get two monsters attacking you such that a hitsplat appears every two ticks. This can be accomplished by walking under the monsters if they are on the same tile to split them up, then getting one stuck on a tree or bush. When this is done, manoeuvre the two around until you are stood between two teak trees with both enemies attacking you. On each tick that a hitsplat appears on the player click a teak tree, and on each off-tick either click the ground at the base of a teak tree or drop a teak log.
+
+Players with low Defence may be hit by birds and can minimise the damage they take by using a regen bracelet and a Hunters' crossbow with a shield instead of a shortbow. Rabbits are unable to hit the player.
+
+Experience rates for 2-tick woodcutting are shown in the table below. The rates assume using the best regular axe available up to level 61, the dragon felling axe for levels 61–71, and the crystal felling axe from level 71 onwards. Long-term rates can vary depending on performance. At maximum efficiency, it is possible to gain up to 223,000 experience per hour at level 99 when using the crystal felling axe.
+
+  level XP/h 35 78,000 41 97,000 50 108,000 61 151,000 71 172,000 80 186,000 90 201,000 99 215,000
+
+Without tick manipulation it is recommended to cut teaks only up to level 65, after which cutting sulliusceps offers faster experience. The experience rates for cutting teaks without tick manipulation are shown in the table below. The rates assume using the best regular axe available up to level 61, the dragon felling axe for levels 61–71, and the crystal felling axe from level 71 onwards. Equipping a forestry kit and completing the forestry events that spawn can increase the rates by roughly 20,000 experience per hour.
+
+  level XP/h 35 34,000 41 42,000 50 46,000 61 65,000 71 74,000 80 80,000 90 87,000 99 93,000
+
+Other methods
+Forestry events
+Participating in Forestry events offers decent Woodcutting experience and some profit from purchasing the rewards with anima-infused bark. Forestry events will appear while collecting logs in the overworld (excluding regular trees, hollow trees, and trees within the Woodcutting Guild).
+
+The official forestry worlds for members are 388, 444, 487, and 510. Using one of these worlds is recommended, as they are likely to have more players chopping trees in popular locations, such as:
+ Willows south of the Draynor Village bank
+ Maple trees in Mistrock, south of Aldarin (1 tile away from a bank deposit box, 5 tiles away from a bank)
+ Maple trees north of the Seers' Village bank
+ Yews in Mistrock, south of Aldarin (4 tiles away from a bank deposit box, 9 tiles away from a bank)
+ Yews at the Seers' Village church
+ Yews next to the south-eastern bank in Prifddinas
+ Teaks on the northern part of Isle of Souls
+ Teaks in the north-east corner of Prifddinas
+ Magic trees in the Myths' Guild
+ Magic trees south of the Hosidius bank
+
+Experience rates vary depending on the tree cut and the amount of other players. When cutting yews and participating in the events, players can gain somewhere around 80,000–90,000 experience per hour at level 99.
+
+Levels 62–90: Blisterwood tree
+Cutting the blisterwood tree in Darkmeyer becomes a viable low-effort alternative at level 62. To access the tree in Darkmeyer, players must have partially completed Sins of the Father. The blisterwood tree never depletes, but there is a 1/10 chance that the player stops cutting it, after which the player will need to click the tree again to continue cutting it. There is an obvious sound effect to indicate when this happens, allowing for afk training. Players can gain up to around 69,000 experience per hour prior to level 90, and up to 86,000 experience per hour using a crystal felling axe and forester's rations. Alternatively, as the logs provide decent Firemaking experience when burned, they can be used for passive Firemaking training by using an infernal axe instead.
+
+Levels 65–99: Sulliuscep
+
+Cutting sulliuscep mushroom trees on Fossil Island is a low-effort alternative that offers the fastest experience when not using tick manipulation. Sulliusceps are located in the Tar Swamp, which is in the south-western part of the island. There are six sulliusceps found throughout swamp, but only one is large enough to be chopped down at any given time, while all other locations will have sulliuscep sprouts in their location. Players must traverse the Tar Swamp to find the choppable sulliuscep, the location of which is unique to each player. Once chopped, the next sulliuscep will spawn, the location of which cycles through the same sequence over and over.
+
+To access Fossil Island, players must have completed Bone Voyage. When in the swamp, players must also be able to withstand occasional attacks from tar monsters and spine mushrooms. The Spine mushrooms can also poison the player, so bringing a form of antipoison, such as an antidote++ or the prayer book, is also recommended. When wearing the Hitpoints cape and the regen bracelet, very little healing is usually required. Teleporting back to your POH and using your restoration pool after chopping the final sulliuscep with the gear shown will mitigate the need to have food or Saradomin Brews in your inventory.
+
+World 321 is the designated world for cutting sulliusceps. However, it is better to have as few players as possible when sulliuscep cutting to reduce damage taken, as Tar Monsters spawned by other players may target the player.
+
+Experience rates are shown in the table below. The rates assume wearing the lumberjack outfit. If using this method from level 65 to 99; 97,778 sulliuscep chops are needed when wearing the lumberjack outfit.
+
+  Level XP/h   65 82,700  71 86,300 89,500 80 91,600 94,800 90 97,400 100,100 99 101,900 105,000
+
+Assuming players keep the sulliuscep caps, numulite, and unidentified fossils, on average players obtain approximately the following numbers of items when chopping the 97,778 sulliusceps required for 99 woodcutting from 65:
+ 978 sulliuscep caps, worth 
+ 264,000 numulite, worth 
+ 1,399 unidentified small fossils, 70 of which are required for the Varrock museum, leaving 1329 unidentified small fossils to be used for Prayer experience at the mycelium pool.
+ 698 unidentified medium fossils, 60 of which are required for the museum, leaving 638 unidentified medium fossils for Prayer experience.
+ 559 unidentified large fossils, at least 50 of which are required for the museum. The player should clean fossils until at least 25 large and 25 plant fossils have been obtained. Plant fossils cannot be used in the mycelium pool, however unidentified large fossils can. Hence, the player should stop cleaning large fossils once the museum has been completed.
+ 140 unidentified rare fossils, which can only be used for Prayer experience.
+
+Through completing the Varrock museum fossil exhibit, 120,000 experience is obtained in skills of choice. The remaining 1,329 small, 638 medium, 509 large, and 140 rare fossils may then be converted at the mycelium pool, calcifying them using pyrophosphite and calcite. The recalcified bones can then be used on the most eastern strange machine in the House on the Hill for a total of  Prayer experience. This amount of prayer experience would be worth  at the Chaos altar in the Wilderness using dragon bones. The expected average experience rate is 580,000 experience per hour for recalcifying and converting the fossils obtained from Woodcutting, which takes on average about 4 hours and 20 minutes in total.
+
+Levels 88/89/90–99: Redwood trees
+Cutting redwood trees in the Woodcutting Guild requires very little attention and offers decent experience. Players can bank the logs in the nearby bank chest. It is faster to simply drop the logs for the best experience rates. Fletching logs into stackable arrow shafts can also be convenient if the player would like to put less effort, as this does not require dropping logs. This will lower experience rates, however.
+
+Experience rates scale depending on level. When using the infernal or the dragon axe, players can expect to gain around 55,000–60,000 experience per hour at level 90, increasing to around 65,000 experience per hour at level 99. With the crystal axe, players can gain up to around 70,000–75,000 experience per hour.
+
+Similar to teak trees, redwood trees in the Farming Guild can be cut using 1.5t woodcutting for up to 180,000 experience per hour using a crystal axe. This is especially useful for Ironman accounts looking to bank redwood logs.
+
+Redwoods can be cut reliably starting from level 88 using the Dragon axe special attack, a Lightbearer, and the Preserve prayer. Players should also wear as much prayer boosting equipment as possible to reduce the drain rate of Preserve. At level 89, Preserve is no longer required as the Lightbearer will almost always restore the player's special attack energy before their level drops back below 90 unless the special attack was activated in the last segment (12 seconds) of the boost cycle. 
+
+Experience rates/profit at level 99
+Players may earn more experience (and its respective profit) with the felling axe/rations, Forestry/Lumberjack outfit, and other experience-boosting items.
+
+Note: The profit per hour for some logs is interpolated, and as such, may only be used as an approximation.
+
+Log LevelXPXP/hrProfit/hr at MembersNotes12512,500–18,750Includes dead, jungle, evergreen, and normal trees. The most common trees in Old School RuneScape. Each tree only provides one log.12517,000Achey Trees are used primarily to fletch Ogre Ranged equipment. They are located around Feldip Hills and near Castle Wars. One log per tree.1537.540,000Oak trees are fairly common in Old School RuneScape. A single oak tree can provide multiple logs.3067.574,000Willow trees are found near water and provide the fastest experience for free players. Members locations include Port Sarim, Draynor Village, Lumbridge, Rimmington, Catherby, Barbarian Outpost, Seers' Village, and the Woodcutting Guild.358590,000–220,000 - Teak trees are found in the Hardwood Grove (entry requires 100 Trading sticks), Kharazi Jungle, Ape Atoll, Prifddinas, Isle of Souls, south-east of Ruins of Ullek, and the woods south of Castle Wars. They can also be grown on Fossil Island. Without tick-manipulation, the experience is 90,000 per hour.4235Juniper trees are found in Hosidius. They are used to make dynamite.544019,000–21,000Arctic pine trees are found in Neitiznot by the yaks.45100Maple logs yield 110 experience with the completion of the medium Kandarin Diary.48,000–52,800This rate is obtained at Seers' Village with the completion of the medium Kandarin Diary.There are many maple trees between Rellekka and the Sinclair Mansion, several behind the Seers' Village bank, as well as 13 located in the Woodcutting Guild.4587.570,000Bark is exchanged infrequently, therefore prices may be inaccurate.Hollow trees are found in the Haunted Woods. The trees provide bark. Bark can be made into splitbark armour.5012546,500Mahogany trees are found primarily in the Hardwood Grove (entry requires 100 Trading sticks), Ape Atoll, the Kharazi Jungle, Prifddinas, Isle of Souls, south-east of Ruins of Ullek, and Mos Le'Harmless. They can also be grown on Fossil Island.6017547,000This rate is obtained with the invisible +7 boost inside the Woodcutting Guild.Yew trees can be found by members at locations such as the Seers' Village churchyard, west of Catherby, Tree Gnome Stronghold, Prifddinas (between the southern bank and Zalcano portal) and the Woodcutting Guild. Free players can find yew trees at Edgeville, south of Falador, in the Varrock Castle, and the Lumbridge graveyard.6283.585,000Blisterwood Trees are found in Darkmeyer after Sins of the Father. It is a low intensity way to get fast woodcutting experience. There is a bank nearby, and the logs can be burned for fast firemaking experience7525027,500Magic trees are found at the Mage Training Arena, Sorcerer's Tower, Lletya, Seers' Village, Prifddinas, Nemus Retreat, the Myths' Guild, and the Woodcutting Guild. Players should use a dragon axe on these trees. The Nemu's Retreat location is near a Vale Totem, potentially giving some extra Fletching experience as well as reduced need to bank.9038070,000-85,000Redwood trees are found in the Woodcutting Guild and in the Farming Guild (requiring 90 Farming).
+
+Recommended tree locations
+Regular trees
+These are the most abundant of all tree varieties in Old School RuneScape, and can be found nearly anywhere. Because regular trees only provide a single log per tree, it is recommended to find an area with multiple trees; simply use the World Map to find a suitable location that has a bank nearby. Note that dead trees and evergreen trees all count as regular trees.
+
+Oak trees
+Hosidius bank in Kourend is the closest spot for an oak tree to a bank deposit box a few tiles away.
+Quite a few are found just south of the Seers' Village bank. This is perhaps the most convenient location due to its proximity to a bank.
+Outside of the Castle Wars lobby, there is a large amount of oak trees that are close to bank.
+Three can be found along the path between Falador park and Falador west bank.
+Just east of the Draynor Village bank. Low level players should be careful here, as aggressive level 26 Jail guards patrol the area.
+Just outside the Varrock gates west of the west bank and east of the east bank.
+Tree Gnome Stronghold has some fairly close to its respective bank.
+10 can be found along the southern Falador wall just north of the Falador farm, but it is quite far away from a bank compared to these other locations.
+
+Willow trees
+7 willow trees by the pond in the Woodcutting Guild, in addition to the guild's invisible Woodcutting boost there is a nearby deposit box inside Perry's Chop-chop Shop.
+5 willow trees south of Draynor Village bank. Any players below combat level 15 should beware of the level 7 dark wizards, who will be aggressive.
+8 willow trees immediately west of the Hot Air Balloon by the Crafting Guild, with a bank chest available inside the guild.
+6 willow trees found north-west of the Seers' Village bank.
+8 willow trees along the eastern coast outside of Barbarian Outpost, with a bank chest nearby in the building that houses the Barbarian Assault minigame.
+12 willow trees around the pond north of the Tithe Farm, with a bank chest further north in the Vinery.
+
+Teak trees
+One tree is located south-west of Castle Wars.
+Three trees are located south-east of the Ruins of Uzer.
+On the south-east side of Ape Atoll (requires greegree at all times or completion of Monkey Madness II) but is not near a bank.
+Hardwood Grove in Tai Bwo Wannai (requires completion of Jungle Potion, 100 Trading sticks for entrance and some progress of the Tai Bwo Wannai Cleanup minigame), you can bank nearby with Rionasta.
+3 Hardwood tree patches are located on Fossil Island, where you could plant 3 private Teak trees for yourself. The tree patches are located besides each other within 3 tiles. As well as a bank which is located very close to these tree patches. The bank is accessed even faster using the shortcut through the hill which requires 70 Agility.
+1 potential Teak tree in Avium Savannah in Valamore upon competition of The Ribbiting Tale of a Lily Pad Labour Dispute quest by utilizing the hardwood tree patch.
+2 trees are located north of Mos Le'Harmless by going through the cave.
+3 can be found in the north-east corner of Prifddinas.
+3 can be found in the northern area of The Isle of Souls.
+6 trees are located at the Locus Oasis.
+
+Maple trees
+13 maple trees in the Woodcutting Guild, popular due to the invisible +7 boost to the player's Woodcutting level and proximity to a bank chest.
+7 maple trees near the Seers' Village bank (four to the north, three to the south). Popular due to its location and the 10% experience bonus granted with the medium Kandarin Diary's completion.
+4 maple trees in the Corsair Cove Resource Area.
+9 maple trees outside the eastern entrance of the Shayzien Encampment.
+12 maple trees in front of Watson's house. The bank chest in the Hosidius Kitchen is somewhat closeby.
+14 maple trees by the south-eastern beach on the Isle of Souls.
+3+ maple trees outside the bank in Mistrock, 1 maple tree being two steps from a deposit box
+
+Mahogany trees
+4 mahogany trees in the Hardwood Grove at Tai Bwo Wannai. Rionasta can send items to the player's bank for 10 trading sticks per item.
+1-3 potential mahogany trees on Fossil Island if the player plants mahogany saplings in the hardwood tree patches there. If built, the bank chest at the museum camp can be used.
+1 potential mahogany tree in Avium Savannah in Valamore upon competition of The Ribbiting Tale of a Lily Pad Labour Dispute quest by utilizing the hardwood tree patch.
+2 mahogany trees at the far north-east of Mos Le'Harmless, which can only be reached by going through the Mos Le'Harmless Cave.
+2 mahogany trees north of the Farming Guild, players can utilize the mine station to Lovakengj bank; otherwise, the bank chest inside the guild can be used with 45 Farming.
+3 trees in north-east Prifddinas, with a sawmill close by.
+2 trees in the northern area of the Isle of Souls.
+2 trees on the coast south-east of the Uzer Oasis. (Indicated as 'Rare trees' on the world map.)
+
+Yew trees
+3 yew trees north of Nieve in the Tree Gnome Stronghold and right by a bank.
+3 yew trees just seven tiles away from the south-eastern Prifddinas bank.
+9 yew trees in the Woodcutting Guild, popular due to the invisible +7 boost to the player's Woodcutting level and proximity to a bank chest.
+3 yew trees in the city of Shayzien, one behind the bank's north side, and two by the church south of the bank.
+3 yew trees behind Varrock Palace, with the Grand Exchange nearby for banking.
+2 yew trees south of the Edgeville bank and near the entrance of the Edgeville Dungeon.
+8 yew trees south of the Seers' Village flax field, with the Catherby bank easily accessible to the east.
+3 yew trees in the Corsair Cove Resource Area.
+3 yew trees east of the Shayzien mine station, which the player can then ride to Lovakengj bank.
+2 yew trees just North of Mistrock bank on the southern part of Aldarin in Varlamore
+3 yew trees just north shore of Aldarin by the Statue (Ates)
+2 yew trees northwest corner of Nemus Retreat.
+3 yew trees northwest of the bank in Quetzacalli Gorge, near the Quetzal nest.
+
+Magic trees
+2 are found to the south of Nemus Retreat. The logs from these can be used and fletched to create and decorate the nearby Vale Totem, giving some extra Fletching experience and rewards at the cost of not keeping the logs; but also almost never having to bank or drop any, especially if also doing Forestry events.
+8 are found in the Woodcutting Guild, and is recommended due to the level bonus and being very close to a bank chest.
+South of the yew trees in Seers' Village, with a total of 4 in the vicinity of the Sorcerer's Tower.
+3 are found just west of the Tree Gnome Stronghold bank.
+2 are found in Hosidius (just north of Xeric's Glade teleport), with two banks fairly close by. Not often crowded.
+4 are found in Arceuus, east of the bank.
+4 are found within the Myths' Guild, accessible after Dragon Slayer II. These trees are often uncrowded and near a Bank chest.
+4 are found in Prifddinas, in the north-west section, close to the bank where the agility course starts.
+3 are found west of Lletya, south of the exit past the dire wolves.
+3 are found in the North-West shore of Aldarin.
+
+Redwood trees
+Two trees can be found in the Woodcutting Guild, up the ladders directly west of the magic trees.
+One tree can be grown by the player in the Farming Guild.
+
+Quests for Woodcutting experience
+
+QuestExperiencerewardWoodcuttingrequirementOther requirementsEnlightened Journey1,500 -, , , Recipe for Disaster(Skrach Uglogwee subquest)1,500 -, Heroes' Quest1,575 -, , , , Monk's Friend2,000 - -The Ribbiting Tale of a Lily Pad Labour Dispute2,000  -Animal Magnetism2,500, , The Eyes of Glouphrie2,50045 , The Fremennik Trials2,812-,  Icthlarin's Little Helper4,000 - -The Fremennik Isles10,00056 , Song of the Elves40,000, , , , , , Grim Tales60,000, , , Total128,387
+
+Category:Woodcutting
+Category:Members

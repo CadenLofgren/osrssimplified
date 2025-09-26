@@ -1,0 +1,73 @@
+Herblore training usually involves making potions which can only begin after completing the Druidic Ritual quest granting the player level 3 Herblore. To make a potion, the player will have to gather the required ingredients, usually a herb of some sort along with a secondary ingredient, and use them on a vial of water, blood, or coconut milk.
+
+The fastest way to train Herblore is to add secondary ingredients to unfinished potions. If the player banks fairly quickly after each inventory of potions, they can expect to make around 2,500 potions per hour.
+
+A profitable, although slow method to train Herblore is to clean grimy herbs.
+
+Quest experience rewards
+QuestExperiencerewardHerblore req.Other requirementsDruidic Ritual250 -  -Jungle Potion775 -Recruitment Drive1,000 -  Heroes' Quest1,325 , , , The Dig Site2,000 , Shades of Mort'ton2,000 , Zogre Flesh Eaters2,000 , , Fairytale II - Cure a Queen3,500 , Land of the Goblins8,000 , , My Arm's Big Adventure10,000 , Eadgar's Ruse11,000 -Grim Tales15,000 , , , Song of the Elves40,000, , , , , , While Guthix Sleeps75,000, , , , , , Total171,850
+
+Starting off
+Completing Jungle Potion, Recruitment Drive and The Dig Site quests will get the player from level 3 to 19.
+
+Here are some quests that grant Herblore experience which require little or no Herblore stats:
+QuestExperiencerewardHerblore req.Other requirementsDruidic Ritual250 -  -Jungle Potion775 -Recruitment Drive1,000 -  The Dig Site2,000 , Shades of Mort'ton2,000 , Zogre Flesh Eaters2,000 , , Total8,025
+
+Making potions
+
+For more in depth calculations and variations about the cost per experience, see Calculator:Herblore/Potions. 
+
+The most efficient way to gain Herblore experience is to make potions by combining base and secondary ingredients. The fastest Herblore experience is gained by simply making potions that offer the highest experience per hour; however, some slower options can be notably cheaper or even profitable, and should be considered if the player prefers to save money. Some options may also require a lot more capital than others.
+
+An alchemist's amulet or amulet of chemistry can be used while training Herblore to save significant amounts of money or even make profit in some cases. One charge costs  or , respectively. This results in cost savings when a single dose is worth more than one charge. However, the amulet of chemistry requires more effort to use as it needs to be replaced when crumbled.
+
+Prescription goggles are also very useful, as they provide a 10% chance to not consume secondary ingredients for most (but not all) potions. This can be especially important if making potions with expensive secondary ingredients, such as Aldarium.
+
+The table below assumes that the resulting potions are decanted, if possible, into 4 doses before being sold, and takes the GE tax into account. It assumes 2,500 standard 14x14 potions made per hour, 2,750 for 27x1 (such as stamina potions), 2,330 for serum 207s, 2,166 for super combat potions, and 1,833 for forgotten brews and extended anti-venom+. For variable dose potions, ingredient costs assume decanting from the 4 dose precursor potion. Note that knowledge of GE-pricing can have a major effect on profits.
+
+Serum 207s, stamina potions, extended antifires, anti-venoms and extended super antifire potions can all be manually sped up to 1 tick per potion at the cost of high intensity, allowing players to average 4,583 potions made per hour.
+
+ LevelPotionBaseSecondaryXPXP/HourIngredient costProfit/PotionProfit/XPProfit/XP withAmulet of chemistryProfit/XP withAlchemist's amuletProfit/XP withPrescription gogglesProfit/XP withAlchemist's amulet and Prescription goggles32562,500537.593,7501250125,0001550116,5002260150,0002262.5156,2502667.5168,7503480200,0003684210,0003887.5218,75045100250,00048106.3265,75050112.5281,25052117.5293,75053120300,00054132330,00055125312,50058132330,00063142.5356,00066150375,00069157.5393,75072162.5406,25076172.5431,250 77 link=Stamina potion  Stamina potion   (x4) 102 280,500 (535,500)          (x3) 76.5 210,375  (401,625)          (x2) 51 140,250 (267,750)         (x1) 25.5 70,125 (133,875)       80155387,50080155387,50081180450,00081185462,50084(4) (x4)110302,500 (577,500)85190522,500 87 link=Anti-venom  Anti-venom   (x20) 120 330,000 (630,000)          (x15) 90 247,500 (495,000)          (x10) 60 165,000 (330,000)          (x5) 30 54,990 (109,980)       88200500,00090Super attack(4)Super strength(4)Super defence(4)150324,900 91 link=Forgotten brew  Forgotten brew   (x80) 145 265,785          (x60) 108 197,964          (x40) 72 131,976          (x20) 36 65,988       92(4)130325,00094(4)125312,500 94 link=Extended anti-venom+  Extended anti-venom+   (x4) 80 146,640          (x3) 60 109,980          (x2) 40 73,320          (x1) 20 36,660       98(4) (x4)160440,000 (840,000)98(4)180450,000
+
+Making tar
+An alternative, potentially cheaper method of training Herblore is making tar. This requires fewer clicks than potion making, since twice as many actions are performed before banking and the duration of each action is longer.
+
+XP per hour is calculated at approximately 78 inventories fully processed per hour. Depending on bank efficiency, actual rates may be less.
+
+If planning to train Herblore by making tar, it would be wise to buy or stockpile Swamp tar in advance. The buy limit of swamp tar is only 13,000 which is only enough tar to last approximately half an hour before running out.
+ LevelResultBaseSecondaryXPXP/HourIngredient costCost/XPProfit/CraftProfit/XP19 x15 x153061,00031 x15 x1542.5 86,00039 x15 x1555110,00044 x15 x1572.5 145,00055 x15 x1585170,000
+
+Herb cleaning
+
+thumb|Auto-cleaning herbs
+thumb|Manually cleaning herbs, while more click-intensive, can be much quicker.
+Cleaning grimy herbs is a slow but easy and profitable method to training Herblore. Since an update on 10 September 2020, cleaning grimy herbs automatically cleans all herbs in the inventory. Players may choose also choose to use Zahur, an NPC in Nardah, to clean the herbs for them. This will however cost the player GP, resulting in loss instead of profit.  
+
+By using the auto-clean method, you can expect to clean up to 3,000 herbs per hour. Manually clicking on the herbs can easily double the speed of cleaning, and a fast player can expect over 10,000 cleaned herbs per hour, increasing the experience and profit per hour accordingly.
+
+Tip: Consider cleaning herbs on a touchscreen device as it may be faster or more comfortable for longer durations.
+
+The following rates assume you are cleaning an average of 10,000 herbs per hour. (Note that using the "auto-clean" feature yields 30% of the below experience rates per hour).
+ LevelHerbGrimyClean Clean XPProfitXP/HourProfit/HourIcon Price VolumeIcon Price Volume
+
+Degrime
+An alternative, less click-intensive method, is to use the degrime Arceuus spell, requiring 70 Magic and the completion of A Kingdom Divided to be cast. You can cast approximately 600 casts per hour (47-50k magic xp/h), while potentially making profit.
+
+Making Guthix rest
+
+A medium-intensity but profitable way to train Herblore is to make Guthix rest, requiring 18 Herblore and partial completion of the One Small Favour quest. Brewing Guthix rest differs from other methods of training the skill, as care must be taken to not add extra herbs to the herb tea mix; doing so grants no experience and ruins the tea. If all ingredients are in the player's inventory, they can make the tea in one step, and subsequent teas are automatically made after making just one of them, granting 59 experience for each tea. Players should note that the amulet of chemistry has no effect when brewing Guthix rest. 
+
+Making Guthix Rest requires a cup of hot water, 2 guam, 1 marrentill, and  1 harralander. Using a cup of hot water with any of the herbs will start the process. Ironman accounts or anyone looking to save money on ingredients can acquire cups of hot water by casting Humidify on an empty cup then using the cup of water on a range.
+
+Due to the number of ingredients per tea, only five can be made per inventory, requiring 5 cups of hot water, 10 guam, 5 marrentill, and 5 harralander. 
+
+With moderate concentration it is possible to make around 1400 cups of 3-dose Guthix rest per hour, costing . This results in 82,600 Herblore experience gained and a profit of  when using Bob Barter at the Grand Exchange to decant the teas into 4-dose variants before selling.
+
+ LevelPotionBaseSecondaryXPXP/HourIngredient costCost/XPProfit/PotionProfit/XPProfit/Hour18Guam leaf (x2)MarrentillHarralander5982,600
+
+Level 60+/81+: Mastering Mixology
+
+At level 60 and with completion of Children of the Sun, players can go to Aldarin and take part in the Mastering Mixology minigame, however it will become more efficient at higher levels, with the last unlock at level 81 Herblore. Mastering Mixology does not require specific herbs or any secondaries, and grants much more experience per herb compared to other methods. It is also the only source of some powerful utility items and features, such as the Prescription goggles, Alchemist's amulet, Chugging barrel, and Potion storage, so it can be advisable to do even if Herblore experience is not needed. A player with level 81 Herblore can expect to earn up to 105k xp/hour.
+
+Category:Herblore
+Category:Members

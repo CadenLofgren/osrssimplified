@@ -1,0 +1,270 @@
+This is a guide for training the Thieving skill.
+
+For maximum theoretical experience rates for certain Thieving training methods, see this page.
+
+General information and tips
+Tip for pickpocketing: Go to the options menu, go to the game controller at the top right, and select "Hidden" under "NPC 'Attack' options". This will turn the 'Pickpocket' option into a left-click, rather than a right-click. Also, one may pickpocket more than once in a single animation, so spam-clicking will maximise experience.
+
+Ardougne Diary
+Different tiers of the Ardougne Diary increase the chance of successfully pickpocketing various NPCs. The medium Ardougne Diary increases the player's chance of success when pickpocketing by 10% only within Ardougne. The hard Ardougne Diary extends this bonus to all of Gielinor. Having the Ardougne cloak equipped or in the inventory is not required to get this benefit.
+
+Additionally, each tier of the diary increases the maximum amount of coin pouches that can be held before needing to open them:
+ None/Easy: 28
+ Medium: 56
+ Hard: 84
+ Elite: 140
+
+As a result of both of these benefits, it is beneficial to have at least the hard tier of the diary done, as this gives the player both a buff to their chances at pickpocketing along with allowing them to pickpocket for longer before needing to open coin pouches. This increase experience rates and allows for less attention needed when pickpocketing, respectively.
+
+Rogue equipment
+While wearing components of the rogue equipment, there is a chance of pickpocketing twice the loot from an NPC. Wearing the full set guarantees double loot. Experience drops remain unaffected, however.
+
+The set consists of the rogue mask, rogue top, rogue trousers, rogue gloves and rogue boots. Items from the outfit can be found while looting the wall safe at the end of the Rogues' Den minigame, which can be accessed at 50 Thieving, with 80 Thieving granting an additional shortcut to make it faster.
+
+Dodgy necklace
+Dodgy necklace gives the wearer a 25% chance to not be stunned and damaged when failing to pickpocket an NPC. This will increase experience rates if the player can fail to pickpocket the NPC. The necklace has 10 charges until it crumbles to dust.
+
+Shadow Veil
+While under the effects of the Shadow Veil spell, players have a 15% chance to avoid being stunned and damaged while pickpocketing NPCs. This stacks multiplicatively with the dodgy necklace, for a total of 36.25% chance to not take damage from a failed pickpocket. 
+
+Gloves of silence
+Gloves of silence increase players' success rate while pickpocketing by 5% while they are equipped. Wearing them requires level 54 Hunter. Gloves of silence can be bought from the Grand Exchange for  each or created at the Fancy Clothes Store in Varrock from 2 dark kebbit furs for a cost of .
+
+The Ardougne Diary perks override the gloves of silence 5% success rate. Therefore, the gloves of silence become obsolete within Ardougne after completing the medium Ardougne Diary, or completely obsolete after completing the hard Ardougne Diary.
+
+Gloves of silence are damaged each time that the player is unsuccessful in a pickpocketing attempt. They are destroyed after 62 failures, if counted from when they are new. If a player has multiple gloves of silence then they will all display the same status when their condition is checked. However, if the gloves of silence currently being used do fall apart, then any other pairs that the player owns are reset to the "new" condition. The condition of the gloves is only relevant to the player owning them, and is not a property of the gloves themselves. Players with at least level 64 Crafting can restore their gloves of silence to "new" condition by using 1 dark kebbit fur, costing , and thread, costing , on the gloves.
+
+Fastest experience
+Levels 1–42: Questing
+Early levels can be skipped by completing quests that give Thieving experience. Completing Biohazard, Hazeel Cult, Fight Arena, Tower of Life, and Tribal Totem grants a total of 7,200 experience, which will get the player from level 1 to 24. These quests can be easily done at a low level and they have minimal requirements, however some of them involve some sort of combat.
+
+Furthermore, completing The Queen of Thieves, The Giant Dwarf, Death to the Dorgeshuun, The Golem, Creature of Fenkenstrain, Twilight's Promise, Death on the Isle, Ethically Acquired Antiquities, and The Feud grants a total additional 41,500 experience, which will get the player up to level 42.
+
+ Levels 1–36/45 Chambers of Xerics thieving room 
+From level 1 to 45, you can train Thieving in the Chambers of Xeric raid atop Mount Quidamortem in the Kebos Lowlands. Bring a lockpick, (can obtain from a  Scavenger inside the raid) then reload the raid until the first room is a thieving room. Steal from 4 chests in a circular motion and you can expect experience rates of up to 35-50k experience an hour. Simply pick the locks until you get the prompt that you can't carry anymore grubs, drop the grubs, continue picking locks. (Placing enough grubs in the trough will render the activity "complete" and stop rewarding experience for opening chests) The easiest way to get to the Chambers of Xeric on a fresh account is by taking a minecart to  Mount Quidamortem from Port Piscarilius for 20 coins.
+
+Experience rates can be improved by scaling the raid to 100+ players, which significantly reduces the chest respawn time. In certain room layouts, it’s possible to rotate between just two chests due to the fast respawn rate. Some players position their camera and character in a specific way to allow near-continuous clicking between the two chests without moving, improving both XP/hr and ease of use.
+
+ Levels 36-45: Chests in Aldarin Villas 
+Stealing from chests in Aldarin villas offers the fastest experience from level 36 until 45. Each chest gives 200 experience per successful unlock. There is a chance on failure to be teleported outside. With a lockpick between 50,000 and 60,000 experience per hour is possible; without a lockpick 40,000 to 50,000 experience per hour is more likely. Notable drops from the chest include uncut gems, herb seeds, medium clue scrolls, and blessed bone shards. The chest in the western villa offers the shortest run back from the teleport location after failing. There is some time during the runs back for fletching bolts or other downtime activities.
+
+Levels 45–49, 65–84/91/99: Blackjacking
+thumb|Blackjacking in action.
+Blackjacking bandits in Pollnivneach offers the fastest experience from level 45 to 49, and then from level 65 to 84. To blackjack, lure a bandit to an empty house where the other bandits cannot see them. Knock out the bandit and pickpocket them twice while they are unconscious. When timed correctly, the player will receive experience drops every two ticks. There is a chance to fail the knock-out, in which case the player will need to quickly knock out the bandit again or pickpocket them to avoid entering into combat. If the bandit starts attacking, equip a different Melee weapon and attempt to knock out the bandit to cancel the combat.
+
+There are three different types of bandits that can be blackjacked, but the method is the same for all of them.
+ From level 45 to 55, blackjack level 41 Bearded Pollnivnian bandits who are wielding a blackjack.
+ From level 55 to 65, blackjack level 56 Pollnivnian bandits who do not have a beard and are wielding a scimitar.
+ From level 65 onwards, blackjack Menaphite Thugs located in the southern part of Pollnivneach.
+
+Blackjacking requires level 45 Thieving, partial completion of The Feud, and a blackjack of any kind. The type of blackjack does not matter for blackjacking. Wearing full rogue equipment is recommended for double loot per pickpocket, though no extra experience is given. Use Saradomin brews or other inventory-blocking food (such as pies or curry) for healing. Bring the food in banknotes and unnote it at the Banknote Exchange Merchant next to the general store. Alternatively, buy jugs of wine from Faisal at the bar to the south.
+
+The experience rates in the table below assume having decent practice and using Saradomin brews for extended trips. Expect lower rates when learning or if using worse food at lower levels. If buying jugs of wine from the bar, expect 10–15% lower rates. With good practice, it is possible to gain up to 270,000–275,000 experience per hour at level 99.
+
+  Level XP/h 45 103,000 55 138,000 65 203,000 75 221,000 85 239,000 95 257,000 99 265,000
+
+Stealing artefacts offers faster experience from level 49 to 65, and the Pyramid Plunder minigame past level 91, but this method remains viable up to level 99. This method is fairly click-intensive however, so players may find it easier in the long run to try other methods listed below.
+
+If using this method from level 45 to 91, the player will make ~2,500,000 coins, or ~5,000,000 coins when wearing full rogue equipment. Rogue equipment is locked until level 50.
+
+Resetting aggressiveness
+thumb|Switching weapons to reset aggressiveness.
+Failing to knock out a bandit will make them aggressive. When this happens, avoid pickpocketing a conscious bandit (without a full inventory) as getting stunned will lower experience rates. With quick enough reactions, it is possible to avoid getting into combat by doing the following:
+Keep trying to knock them out again. This is the best option but requires quick reactions.
+Pickpocket the bandit with a full inventory. The player will not actually pickpocket, but selecting the dialogue prompt will reset aggressiveness. You can attempt to knock-out again immediately after the dialogue prompt, even though you will appear stunned.
+
+If the bandit starts attacking the player, the bandit cannot be pickpocketed or knocked out while in combat. The fastest reliable way to get out of combat is to unequip the blackjack or switch to a different weapon, and attempt to knock out the bandit. This will make the bandit stop attacking the player. Wait a few seconds before re-equipping the blackjack, and continue blackjacking.
+
+More information and tips
+For minimal mouse movement (similarly to training Construction), set NPC 'Attack' Options to "Hidden". Use resizable mode, zoom in, and set the camera angle so that when right-clicking on a bandit, the mouse cursor is on the "Pickpocket" option.
+
+Lure a bandit to a spot where he gets trapped and cannot move elsewhere. Make sure the bandit is not able to walk through you; this can be done by knocking out the bandit, quickly running away from the bandit and going back in front of him. The bandit will not teleport to its respawn location as long as you keep blackjacking. One of the best houses to lure a bearded or regular Pollnivnian bandit in is Ali the Dyer's house in the northern part of Pollnivneach, which is very small and has a ladder which can be used to quickly reset aggressiveness if needed. A Menaphite Thug can be lured into the southern part of the house just next to the bar.
+
+Having a full inventory minimises the possibility of getting stunned after pickpocketing a conscious bandit. The time saved from avoiding being stunned will significantly increase experience rates. Having full inventory does not completely prevent you pickpocketing a conscious bandit however, since even with full inventory you are able to do so on the same tick the bandit becomes conscious. If you are using Saradomin brews for healing, have the automatic vial smashing disabled so you have a full inventory after drinking the potions.
+
+Having a maximum stack of coin pouches (must be pouches from the NPC being blackjacked) will stop the player from being able to pickpocket a conscious bandit/thug however, the action of attempting to pickpocket the after a failed knockout attempt will stop the NPC from initiating combat after the initial hit giving players a larger window of opportunity to avoid falling into combat and having to reset. (Depending on Ardougne Diary completion the coin pouch limit is 28/56/84/140) Even though obtaining a max stack of coin pouches can be somewhat time consuming it is greatly recommended at lower levels as it will greatly reduce the need to reset combat and the reduction of experience rates due to failed knock out attempts and stun's from failed pickpocket attempts trying to avoid combat.
+
+Consider completing the blackjacking portion of Rogue Trader for the option to purchase a blackjack with defensive stats; which can help reduce damage taken from Menaphite Thugs.
+
+Levels 49–65/99: Stealing artefacts
+
+300px|right|thumb|Stealing artefacts in Port Piscarilius.
+
+Stealing artefacts in Port Piscarilius offers the fastest experience from level 49 to 65. This method remains as a feasible alternative for players who prefer something less click-intensive, or for players who want to train Thieving while doing actions that can be done while moving. Such actions include fletching ammo, casting High Level Alchemy, burning logs, cutting gems, making certain potions, and baking pies with the Bake Pie spell.
+
+To begin, lure two guards so that the bridges can be passed without being spotted. See this page for details. Once the guards have been set up, this method goes as follows:
+ Talk to Captain Khaled to be assigned a house to steal from.
+ Use the book of the dead/Kharedst's memoirs teleport to the Fisher's Flute, and steal the artefact from drawers inside the assigned house. A lockpick is required for this.
+ Smuggle the artefact without getting caught by the guards.
+ Bring the stolen artefact to Captain Khaled, and repeat. Recharge the book of the dead at the Old Memorial and restore run energy whenever needed.
+
+Each successful heist yields Thieving experience and 500–1,000 coins. Getting caught will lower experience rates fairly notably, so it is usually better to wait for an opportune moment to sneak past the patrollers than risk getting caught.
+
+The experience rates in the table below assume using stamina potions, the book of the dead, and guard lures. With good practice, it is possible to gain up to 270,000–280,000 experience per hour at level 99.
+
+  level XP/h 49 150,000 55 163,000 60 174,000 65 186,000 70 197,000 75 208,000 80 219,000 85 230,000 90 241,000 95 252,000 99 261,000
+
+Levels 84–99: Stealing from Rogues' Castle chests
+
+Stealing from Rogues' Castle chests in the Wilderness offers the fastest Thieving experience from level 84 onwards. Because the chests are located in the deep Wilderness in a multi-combat zone, it is recommended to minimise the risk to player killers.
+
+For this method, only bring things you are willing to lose. If you have completed the hard Wilderness Diary, the quickest way to get to Rogues' Castle is by using a Wilderness Obelisk to Level 50 Wilderness. Alternatively, bring a Knife and use the Ardougne or Edgeville lever to teleport into Deep Wilderness and slash the web north of the teleport location, then walk east till you encounter the castle. Be careful getting there, as you can encounter the Chaos Elemental, which can kill you if you are not cautious. When you reach the castle, watch out for other players, as this is a hot spot for both PKers and players doing Wilderness Slayer. The chest can be found near the north wall of the castle.
+
+Once you are at the chest, search for traps. If you do not search for traps, you will take damage instead. When you loot the chest, rogues will become aggressive and start attacking you, so make sure you use your Protect From Melee prayer before opening the chest. Doing this will net you about 2,450,000–2,500,000 coins per hour. A looting bag is not necessary, but it is recommended.
+
+The best strategy to avoid dying to PKers is to bring yourself to a low amount of HP by either trying to loot the chest without checking for traps or using a locator orb to damage yourself. When a PKer logs in or appears on your map, you can simply switch off your prayer and die to the Rogues instead of the PKer. Your items will be sent to your gravestone, and the PKer will not be able to take your loot. Alternatively, you can try running from the PKer by using the staircase in the castle and hopping between floors to give you enough time to log out.
+
+Experience rates and profit varies depending on player killers. Players can gain up to around 280,000–290,000 experience per hour when including occasional deaths and not banking the loot. Banking the loot will lower the rate to around 260,000–270,000 experience per hour. When uninterrupted, it is possible to gain up to 300,000 experience per hour.
+
+Levels 91–99: Pyramid Plunder
+
+300px|right|thumb|Pyramid Plunder in Sophanem
+The Pyramid Plunder minigame offers the fastest Thieving experience outside of the Wilderness from level 91 onwards. The strategy for Thieving experience is to loot the golden chest and all the urns in the last room, the golden chests along the way, and some urns in the second-to-last room if there is time. Players can begin training at Pyramid Plunder at level 71 or 81 as an alternative method to blackjacking or stealing artefacts, however, the experience rates are much lower before level 91.
+
+Players will need to have access to Sophanem by having started the quest Icthlarin's Little Helper, or using a pharaoh's sceptre teleport to Jalsavrah. High-healing food (such as Saradomin brews), some stamina potions, and some form of antipoison (preferably araxyte venom sacks to save inventory space) are needed inside the pyramid. For the highest experience rates, players will also need a charged pharaoh's sceptre for a direct teleport to the guardian mummy and noted artefacts for recharging it. Completing task sets in the Desert Diary will increase the amount of charges the pharaoh's sceptre can hold. Should the player not be able to get a pharaoh's sceptre, completing Contact! is recommended to access the bank near the pyramid. Otherwise, the player would have to travel back to a bank far from Sophanem every time they need more supplies.
+
+While training, players may loot a pharaoh's sceptre from the golden chests. It can be sold for profit or kept for use. Banking the artefacts is not recommended as this would greatly lower experience rates, and the artefacts are not very valuable. However, the golden artefacts can recharge the pharaoh's sceptre.
+
+The experience rates in the table below assume soloing and using the pharaoh's sceptre teleport. Higher rates can be achieved by having a duo partner or an alternative account. It takes approximately 335 games to get from 91 to 99 in Pyramid Plunder.
+
+  levels XP/h 71–80 125,000 81–90 190,000 91+ 270,000
+
+Other methods
+Levels 1–5: Men/Women
+From level 1 to 5, pickpocket men or women around RuneScape. Players who have their respawn point in Lumbridge can do so around Lumbridge Castle and simply die to regain Hitpoints. Alternatively, a man by the Draynor Village Agility Course start can be trapped inside the house so that he will stay in place. Reaching level 5 takes 49 successful pickpockets.
+
+Levels 5–25: Bakery stalls
+From level 5 to 25, steal from the eastern bakery stall in East Ardougne market. Stand under the baker to avoid getting caught by the guards, and drop the loot. Players can gain up to 19,200 experience per hour. Tea and silk stalls offer worse experience rates than bakery stalls due to slower respawns.
+thumb|Safespot for the bakery stall in East Ardougne.
+
+Levels 25–50: Fruit stalls
+From level 25 to 50, steal from fruit stalls in Hosidius. The best place to do this is in the easternmost house near the beach (see the map), which has 2 stalls close to each other and no guard dogs patrolling nearby. Steal from both stalls as fast as possible and drop the fruit while running between them. Eat the strange fruits or use stamina potions to restore run energy. Players can gain up to 42,750 experience per hour, or 34,200 experience per hour if stealing only from one stall.
+
+right|thumb|250px|The fruit stall found in front of Logava, with the guard dogs trapped between the wooden supports.
+If banking the fruits, steal from the stall at the Hosidius market. Bring 15–20 baskets and fill them to fit more fruits per trip. The guard dogs can be corner-trapped by luring them slightly north and then standing directly south of the stall (see the image). However, if only banking the golovanova fruit tops, using the two stalls east of the market is recommended for faster experience rates.
+
+Levels 50–99: Stealing valuables in Varlamore
+
+thumb|400px|A map showing the relevant areas for the activity.
+Stealing valuables in Civitas illa Fortis is a low-effort alternative to the faster methods, allowing for significant AFK time. This method requires level 50 Thieving and completion of Children of the Sun. A chisel is optional to break down some of the loot.
+
+To begin, pickpocket wealthy citizens at the bazaar for house keys. A street urchin will occasionally distract a wealthy citizen, which guarantees successful pickpockets and the player will automatically pickpocket them for around 20 seconds. This method alone can give 55k xp per hour with minimal effort (due to pickpocketing happening automatically for those 20 seconds followed by a wait period), or up to 95k xp per hour when hopping worlds with higher effort. Players should collect approximately 20 keys for every 1 hour of burglary they anticipate, which will take around 30 minutes with minimal effort, or 15 minutes if wearing a full set of rogue equipment which doubles the house keys stolen.
+
+Now enter one of the three houses available to be burgled. The burglable house is indicated by a closed door and the absence of the owner. Each cycle lasts around 3 minutes, beginning with a homeowner leaving the house and ending with their return. Steal from the furniture (chests, jewellery cases, and wardrobes) for 45 Thieving experience per steal, and to obtain valuables and other loot. Valuables stack in the inventory and will continue to be looted automatically for about 1 minute.
+
+A flashing arrow will occasionally appear above one of the objects. Searching this furniture grants 14 valuables and 630 Thieving experience, and then the player will continue to loot it with normal rates. If not searched within about 8 seconds, the opportunity will vanish.
+
+When the homeowner is returning (signaled by an urchin whistling), exit the house through the open window. If caught by the homeowner after they unlock their door, the player will lose most of the looted valuables from that house and be teleported a short distance away.
+
+Estimated experience rates for stealing valuables are shown in the table below; these rates do not take into account the time spent collecting the keys. Players can expect to gain around  per hour from trading in the valuables to Oriana, plus an additional  in jewellery and around 3 blessed bone statuettes which can be chiseled into 125 blessed bone shards each for some passive Prayer experience. Getting the gladiator rank at the Fortis Colosseum increases the profit from the valuables to around  per hour. Rogue equipment will not increase the valuables obtained.
+
+  level XP/h 50 72,000 60 80,000 70 93,000 80 95,000 90 100,000  99 105,000
+
+Levels 25/85–99: Underwater
+With the completion of Bone Voyage and access to the Fossil Island, underwater thieving (also known as "swimming") becomes available.
+
+Unlike most other training methods, it focuses on training two skills at once, Thieving and Agility, and while it is slower Thieving experience than other listed methods, the rate at which both skills are trained makes it efficient overall at some levels. Due to the rate scaling per level, both Thieving and Agility levels play a part in whether the method is worth it over alternatives. However, it tends to become consistently efficient from level 85 Thieving onwards. Alternatively, the experience can be gained in either Thieving or Agility rather than both, but this is generally inefficient due to the scaling used.
+
+Levels 55–99: Knights of Ardougne
+thumb|Using different items, or completing the medium Ardougne Diary tasks will change experience rates.
+Pickpocketing Knights of Ardougne is a slower but more straightforward alternative to the faster training methods. A knight can be lured so that the player can continuously pickpocket them without moving the mouse. The player will occasionally need to open the coin pouches to continue pickpocketing.
+
+Completing the medium Ardougne Diary is strongly recommended for a 10% higher success rate of pickpocketing. Use dodgy necklaces to have a 25% chance to resist being stunned and taking damage, which increases experience rates slightly. Wearing full rogue equipment grants double loot per pickpocket, though no extra experience is given. With completion of A Kingdom Divided, Shadow Veil can be used for an extra chance to resist the stun, stacking with dodgy necklaces for a total of 36.25%, though shadow veil starts to lose value around level 90. If using shadow veil, players should bring a lava staff and a stack of cosmic runes.  
+
+The experience rates in the table below assume the player has completed the medium Ardougne Diary and is using dodgy necklaces. The rates also assume some time is spent on mistakes and opening the coin pouches. Players stop failing to pickpocket Knights of Ardougne at level 95 with the medium diary perk, from which point onwards the tick-perfect rate is 252,900 experience per hour. 
+
+  level XP/h 55 86,000 60 98,000 65 109,000 70 124,000 75 141,000 80 159,000 85 182,000 90 209,000 95 240,000
+
+Training from level 55 to level 99 on Knights of Ardougne would yield around  without rogue equipment, and roughly  with the full set. Players can expect to use roughly 200 dodgy necklaces and need to heal 16,000 hitpoints worth of damage (with natural regeneration taken into account at 1x hitpoints restore rate) from level 55 to 95.
+
+Players can often find someone splashing a knight in the south bank on the following worlds, with many players taking part in pickpocketing the targeted knight.
+
+ World  Location  Members  Activity
+
+Lure north of the market
+thumb|left|An example of a trapped knight, with highlighted which tile to start shoving from, as well as a knight in the resulting trap.
+Attack a knight located in the south-eastern part of the Ardougne marketplace and lure him towards the building to the north of the marketplace. Go stand in the doorway of that building so that the knight is standing south next to you. Run two squares west so the knight should stand east of you. Then run into the square south of the doorway so the knight will stand on the doorway. Use the dragon spear's special attacks on the knight, and quickly run inside and close the door before the knight is able to walk back outside. You can also walk under the knight to force it to walk backwards but it may take a few attempts for it to walk the right direction. After waiting a while, the knight will move to most southern squares of the house and he will only be able to move between those two squares. If he is able to move elsewhere, you have lured a wrong knight and you will have to do this once again.
+
+Players can also simply hop worlds until you find one where the knight has already been lured.
+
+After the knight has been lured correctly, go stand north of him. Turn your camera west and all the way down, and zoom in. This way you are able to spam-click the same spot (around the chest) to pickpocket. It is important that you do not stand on any of the squares he is able to walk on, as he will get stuck and will despawn after 5 minutes of stationary activity.
+
+Lure south of the market
+thumb|220px|The starting square to place the knights, using the dragon spear special attack to trap him in the building, with the other knight already trapped.
+thumb|220px|Two Ardougne knights trapped by the docks. The camera here is vertical for clarity, but when Thieving should be rotated to be more level with the floor.
+This lure involves trapping two knights south-east of the southern bank. The benefit of this technique is that it does not require a second account to splash and, once set up, the player does not need to move their mouse, even to open coin pouches. The knights will also not despawn and thus it does not need to be set up again.
+
+To do this technique, a dragon spear or zamorakian hasta and runes for Snare or Entangle are required. Also the player must have their Game client layout set to "Resizable - Modern layout" to allow the menus to be minimized.
+
+ Attack one of the two knights found in the southern half of the market and lure it to the square shown (right), preferably with a fun weapon to not risk killing him.
+ Bind the knight with snare/entangle.
+ Use the dragon spear special attack 3 times until the knight is just north of the door, taking care to make sure you only attack the knight from his northern side.
+ If the snare has expired, snare him again and then open the door, push the knight one more time with the dragon spear special attack and close the door behind him.
+ Run south to ensure that the knight is no longer aggressive
+ Restore your special attack energy either by waiting a few minutes or using a restoration pool or better in your player-owned house.
+ Repeat steps 1–5 with the second knight.
+ Once the two knights are trapped in the building, use the second door to the east and stand to the south of the knights.
+ Set your camera facing west and all the way down, placing your coin pouch in a spot in your inventory that overlaps with the knights, which may vary based on your window size and ratio, bring placeholder items to ensure it always goes to this spot.
+ Change your settings; by clicking options, Advanced options and enable side-panels so that you can open and close your inventory with your set F-key (enabling mouse keys is also recommended).
+ Place your cursor over the coin pouch and keep it here, close your inventory using your F-key and pickpocket the knight.
+
+By following these steps, with your inventory closed you can pickpocket the eastern knight as it moves between the two tiles without moving your mouse. When you need to open your coin pouch, simply open your inventory and your coin pouch should be under your cursor. By remaining one square south of the two knights, they will never despawn.
+
+Splashing
+Another option is to use a splashing account to keep a knight into place. This can be done anywhere if the splashing account simply tanks the knight, but this requires having high Defence and wearing good defensive armour along with the Hitpoints cape and regen bracelet. Alternatively, lure a knight to a spot where the splasher is able to safespot the knight, such as in the south-eastern bank of Ardougne where it is possible to use the fences as blockades. The knight will not despawn as long as he is aggressive towards the splasher, and the splashing account stays logged in if it is attacking or tanking the knight. Splashing is performed on "sticky knights," a term to describe a knight that moves a lot less as it has been forced out of it's natural wander range. This will always be a female knight for the south bank.
+
+Players can also bring a stack of law runes and a staff giving unlimited water runes instead of food to make the process more simple. After death two law runes and the staff will be kept, enabling the player to quickly teleport back to the Ardougne marketplace. Pick up your coins and stack of law runes off the ground and continue pickpocketing. Enabling Rapid Heal can help extend trips longer.
+
+Levels 78–99: Dorgesh-Kaan rich chests
+thumb|Dorgesh-Kaan rich chests are marked in red and average chests marked in green.
+Stealing from the rich chests in Dorgesh-Kaan is a fairly low-effort alternative that offers decent experience. Enter one of the two houses in Dorgesh-Kaan that contain two rich chests. Open both chests with a lockpick for Thieving experience and loot, and hop worlds. Drop or bank the loot for more inventory space when needed. The chest loot will respawn after 5 minutes, which equates to roughly 13–15 world hops.
+
+To access Dorgesh-Kaan, players must have completed Death to the Dorgeshuun. A lockpick is required to open the chests. If banking the loot, bring the gem bag if available and some form of run energy restoration.
+
+Without banking, players can expect to gain up to 210,000–230,000 experience per hour providing there are not many other players hopping between worlds (assuming 340 chests per hour; 170 worlds). When banking the loot, players can expect to gain around 190,000 experience and 300,000 coins per hour.
+
+Levels 1–99: Sorceress's Garden
+
+The Sorceress's Garden minigame consists of navigating through a maze while avoiding guardians to pick fruit and squeeze them into juice. A pestle and mortar is used to squeeze the fruit into juice and a beer glass is used to hold the squeezed juice. Beer glasses can be bought from the Grand Exchange. Only one sq'irk can be obtained per trip through a garden.
+
+To unlock access to the Sorceress’s garden, talk to Osman in front of the palace about sq'irk juice. He is also the one to whom you trade your glasses of sq'irk juice in return for Thieving experience.
+
+Experience rates are unknown for some of the lower level gardens. Sorceress's Summer Garden (requiring 65 Thieving) provides a maximum of 150,000 per hour, however 'realistic' experience rates are closer to 140,000 experience per hour, given the need to bank the sq'irk once inventory is full. 
+
+Other potential benefits of this method include a modest amount of passive Farming experience, and a minimal amount of passive Cooking experience. Additionally, if using a "one-click" method to traverse the summer garden, there is a considerable amount of running time between actions which can either be used to AFK, or (for a minimal loss in Thieving experience rate) to "zero-time" train another skill such as Magic or Fletching.
+
+  levels Garden Notes 1–25 Winter Requiring 5 sq'irks to make one glass of juice, each glass of winter sq'irkjuice turned in rewards 350 Thieving experience. 25–45 Spring Requiring 4 sq'irks to make one glass of juice, each glass of spring sq'irkjuice turned in rewards 1,350 Thieving experience. 45–65 Autumn Requiring 3 sq'irks to make one glass of juice, each glass of autumn sq'irkjuice turned in rewards 2,350 Thieving experience. 65–99 Summer Requiring only 2 sq'irks to make one glass of juice, each glass of summer sq'irkjuice turned in rewards 3,000 Thieving experience. At level 65, 4,196 glasses of juice are required to make it to level 99. This translates to 8,392 trips through the Summer Garden.
+
+Level 82–99: Pickpocketing vyres
+Pickpocketing vyres at level 82 with rogue equipment, dodgy necklaces, and the hard Ardougne Diary completed will get 120,000–180,000 experience per hour and profit  coins per hour, depending on Thieving level. This will require completion of the Sins of the Father.
+
+As an alternative to using food, players may opt to use prayer regeneration potions in conjunction with the Redemption prayer. As the vyres inflict a flat 5 health points worth of damage, the prayer should be activated by at least 6 health points.
+
+Level 85–99: Pickpocketing elves
+Pickpocketing elves in Prifddinas is a slower but profitable alternative after completing Song of the Elves. The elves in Prifddinas yield enhanced crystal teleport seeds which can be sold for high profit. 
+
+At level 99 players can gain around 150,000 experience per hour and  coins per hour assuming that players use dodgy necklaces, and full rogue equipment.
+
+Levels 94–99: Master Farmers
+At level 94 and after completing the hard Ardougne Diary, players can pickpocket Master Farmers at 100% success rate. They yield ranarr and snapdragon seeds, which can be sold for very high profit. The rates for ranarr, snapdragon, and torstol seeds scales with the Farming level, up to level 85 Farming. Having at least level 75 Farming is recommended. Even though Master Farmers become available at level 38 Thieving, pickpocketing them at lower levels offers poor experience rates and profit due to high fail rates.
+
+The best location to pickpocket a Master Farmer is in the house east of the Outer Fortis General Store, south-east of Civitas illa Fortis. Talk to the Master Farmer inside to keep her in place, or lure her to a tile where she cannot move elsewhere.
+
+Players can gain up to 115,000–120,000 experience per hour.
+
+Level 99+: TzHaar-Hur
+
+thumb|The roaming TzHaar-Hur at the sourthern part of Mor Ul Rek near the TzHaar-Hur-Rin's Ore and Gem Store is trapped in this alcove (with the Shove special attack) and cannot move north.
+Pickpocketing TzHaar-Hur in the inner part of Mor Ul Rek is a viable option past level 99. Similarly to Knights of Ardougne, TzHaar-Hur can be lured into a spot where they cannot move on more than two tiles, allowing the player to repeatedly left-click to pickpocket them. As their loot does not include coins, the only other required interaction is healing and optionally replacing the dodgy necklace. This makes pickpocketing TzHaar-Hur much less attention-demanding than Knights of Ardougne, although with higher requirements.
+
+For this method, players will need to wear the Thieving cape and have completed the hard Ardougne Diary for increased pickpocket chance. The Thieving cape and the hard Ardougne Diary perks stack, which makes this method viable. Even though this method becomes available at level 90, it is generally not worth doing without the Thieving cape bonus, as this would lower experience rates a lot.
+
+Accessing the inner part of Mor Ul Rek requires having a fire cape. Players must wear ice gloves to be able to pickpocket the TzHaar-Hur. Wearing a dodgy necklace is also strongly recommended. Bring Saradomin brews and spare dodgy necklaces to extend trips. Wearing rogue equipment (excluding the gloves) is recommended for increased Tokkul and gems.
+
+If banking the gems, having a gem bag is strongly recommended, as gems are automatically stored there if it is open. Otherwise, they will fall to the floor if the inventory is full. Players are advised to take 3 dodgy necklaces and 3–4 Saradomin brews for each trip when banking the gems. A trip will last around 45 minutes.
+
+At level 99 Thieving, players can gain up to around 250,000–260,000 experience per hour. Banking the gems would lower the rate to around 240,000 experience per hour.
+
+References
+
+Category:Thieving
