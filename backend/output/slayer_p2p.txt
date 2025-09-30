@@ -1,0 +1,2229 @@
+--- Skill: Slayer (P2P) ---
+
+Slayer training
+For the
+Ironman
+guide, see
+Ironman Guide/Slayer
+.
+Slayer master
+Duradel
+.
+Slayer
+is a skill that allows players to kill
+monsters
+that may otherwise be immune to damage. Players must visit a
+Slayer Master
+, who will assign them a
+task
+to kill certain monsters. Slayer
+experience
+is roughly equal to a slain monster's
+Hitpoints
+and is awarded each time the player kills an assigned monster.
+This guide focuses on the fastest ways to train Slayer. While there are no real requirements to begin Slayer training, it is strongly recommended to have fairly high
+combat stats
+and to have completed many
+quests
+. This enables the ability to block more undesired Slayer assignments (known as "block slots," which are applied using the "
+block task
+" option for 100
+Slayer points
+, and have
+quest point
+requirements). High combat stats increase damage output considerably and allow the player to use the best
+equipment
+available. Having a higher
+combat level
+also gives access to better Slayer Masters, as the low-level Slayer Masters have worse task lists and give fewer Slayer reward points than the higher-level ones. Alternatively, players may choose to train combat stats while in the process of training Slayer.
+When slaying for the best experience rates, players will generally want to stick in
+multicombat areas
+such as the
+Catacombs of Kourend
+. Stacking high level Slayer monsters and hitting them with multi target damage, typically with
+barrage spells
+, but also with
+chins
+and
+dihn's bulwark
+special attacks. This will result in the best damage per second, and thus Slayer experience rates. Against 1x1 and 2x2 monsters, such as
+araxytes
+, the
+dwarf multicannon
+and
+venator bow
+will compete with barrage task rates.  When neither of these options are available, cannonable spots with ranged or melee are preferable. Use Slayer reward points or
+Turael
+to skip undesirable tasks as often as possible.
+Slayer provides lots of passive experience in combat skills. Because of the bonuses given by the
+Slayer helmet (i)
+, it offers some of the best rates of melee combat experience in the game. It also has the potential to be highly profitable.
+Slayer is a skill in which one can very heavily customise their experience. While this page focuses on efficiency, there is a great degree of variance of what can be done based on enjoyment, money made, wanting tasks for specific bosses, and any number of other considerations.
+Contents
+1
+General information
+1.1
+Access to Slayer masters
+1.2
+Access to Slayer tasks
+1.2.1
+Quests
+1.3
+Combat levels
+2
+Recommended stats
+3
+Recommended quests
+4
+Equipment
+5
+Using Slayer reward points
+5.1
+Cancelling and blocking tasks
+5.2
+Unlocking new tasks
+5.3
+Task extension
+5.4
+Task storage
+5.5
+Superior Slayer monsters
+5.6
+Killing perks
+6
+Dwarf multicannon
+7
+Prayer
+8
+Slayer locations
+9
+Player-owned houses
+9.1
+Useful unlocks
+9.2
+Location
+10
+Task summary
+11
+Quest experience
+12
+Alternate training methods
+General information
+Access to Slayer masters
+In general, obtain tasks from the highest-level
+Slayer master
+that your Combat and
+Slayer
+levels allow. The monsters they assign generally give more experience than lower-level Slayer masters.
+Duradel
+is the best Slayer master to use for the fastest experience, but some players may find that
+Nieve
+'s (or
+Steve
+'s) task weighting better suit their preferences. Note that just because the player can access better Slayer masters, this does not directly translate to more experience per hour. That is, maximising experience per hour is not simply a matter of always taking tasks from the highest-level Slayer master that is currently available to the player.
+Some players train Slayer using only one master. However, players typically train Slayer by switching between two masters. They do this by using one specific Slayer master that is appropriate for (or lower than) their level, and then switch to using a different higher-levelled Slayer master in order to take advantage of completion milestones. There are Slayer completion milestones for every 10th, 50th, 100th, 250th and 1000th task completion that award additional Slayer points. Higher-levelled masters will assign more difficult tasks than the typical Slayer master would, either in monster assigned or quantity given, but the reward is a greater bonus of Slayer points.
+Each Slayer master usually assigns various monsters based on a weight rating, which determines how likely the player is to get that task. Some Slayer masters have unique tasks to themselves, such as
+Konar quo Maten
+, who is the only one who assigns
+hydras
+. The latter three Slayer masters usually have a shared pool of assignable monsters, albeit with modifications to either the quantity or weighting.
+Requirements or quests for accessing different Slayer masters and areas include:
+Slayer Master
+Location
+Requirement to use
+Points/task
+10th
+50th
+100th
+250th
+1000th
+Turael
+/
+Aya
+[
+n 1
+]
+Burthorpe
+Any level
+0
+0
+0
+0
+0
+0
+Spria
+Draynor Village
+A Porcine of Interest
+0
+0
+0
+0
+0
+0
+Mazchna
+/
+Achtryn
+[
+n 2
+]
+Canifis
+Priest in Peril
+, 20 combat or 99 Slayer
+6
+30
+90
+50
+70
+100
+Vannaka
+Edgeville Dungeon
+40 combat or 99 Slayer
+8
+40
+120
+100
+140
+200
+Chaeldar
+Zanaris
+Lost City
+, 70 combat or 99 Slayer
+10
+50
+150
+250
+350
+500
+Konar quo Maten
+Mount Karuulm
+75 combat or 99 Slayer
+18
+[
+n 3
+]
+90
+[
+n 3
+]
+270
+[
+n 3
+]
+450
+[
+n 3
+]
+630
+[
+n 3
+]
+900
+[
+n 3
+]
+Nieve
+/
+Steve
+[
+n 4
+]
+Tree Gnome Stronghold
+85 combat or 99 Slayer
+12
+[
+n 5
+]
+60
+[
+n 5
+]
+180
+[
+n 5
+]
+300
+[
+n 5
+]
+420
+[
+n 5
+]
+600
+[
+n 5
+]
+Duradel
+/
+Kuradal
+[
+n 1
+]
+Shilo Village
+Shilo Village
+, 100 combat+50 Slayer or 99 Slayer
+15
+75
+225
+375
+525
+750
+Krystilia
+Edgeville
+Any level (Done at least 1 task)
+25
+125
+375
+625
+875
+1250
+^
+1.0
+1.1
+After
+While Guthix Sleeps
+^
+During
+While Guthix Sleeps
+^
+3.0
+3.1
+3.2
+3.3
+3.4
+3.5
+Completing the
+elite Kourend & Kebos Diary
+increases Konar's points by approximately 11.1%, from a base task value of 18 to 20.
+^
+After
+Monkey Madness II
+^
+5.0
+5.1
+5.2
+5.3
+5.4
+5.5
+Completing the
+elite Western Provinces Diary
+increases Nieve's/Steve's points to match that of Duradel.
+Access to Slayer tasks
+Some Slayer task monsters can be found during a quest or in other locations but require quests to be completed before they can be assigned as Slayer assignments.
+Quests
+Quest
+Monster
+Assigned by
+Barbarian Training
+Mithril dragon
+(can be toggled on/off)
+Waterfiend
+Bone Voyage
+Fossil Island Wyverns
+Elemental Workshop I
+Cabin Fever
+Cave horror
+Jungle horror
+Contact!
+Minions of Scabaras
+Death to the Dorgeshuun
+Molanisk
+Death Plateau
+Aviansie
+(can be toggled on/off)
+Spiritual creatures
+Desert Treasure I
+Dust devil
+Dragon Slayer I
+(started)
+Black dragon
+Blue dragon
+Bronze dragon
+Iron dragon
+Red dragon
+(can be toggled on/off)
+Steel dragon
+Dragon Slayer II
+Adamant dragon
+Rune dragon
+Elemental Workshop I
+Skeletal wyvern
+Ernest the Chicken
+Killerwatt
+The Fremennik Exiles
+Basilisk knight
+(alternative to normal
+basilisk
+)
+Haunted Mine
+Terror Dog
+Horror from the Deep
+Dagannoth
+Legends' Quest
+Shadow warrior
+Lost City
+Mutated zygomite
+Otherworldly being
+Lunar Diplomacy
+Suqah
+Monkey Madness II
+Demonic gorilla
+(alternative to
+black demon
+)
+Mourning's End Part II
+Dark beast
+Olaf's Quest
+(partial completion)
+Brine rat
+Path of Glouphrie
+Warped terrorbird
+(can be toggled on/off)
+Warped tortoise
+(can be toggled on/off)
+Perilous Moons
+Lesser nagua
+A Porcine of Interest
+Sourhog
+Priest in Peril
+Aberrant spectre
+Abyssal demon
+(or completion of
+Fairytale II - Cure a Queen
+)
+Araxyte
+Banshee
+Bloodveld
+Crawling hand
+Gargoyle
+Ghoul
+Infernal mage
+Nechryael
+Vampyre
+Werewolf
+Regicide
+(partial completion)
+Elves
+Royal Trouble
+Sea snake
+Rum Deal
+Fever spider
+Skippy and the Mogres
+Mogres
+Combat levels
+By default, Slayer masters will assign tasks based on the player's combat level, essentially blocking tasks that are significantly higher until the player reaches the recommended level. The player can speak with Slayer masters regarding their combat level by choosing the option "Let's talk about the difficulty of my assignments.", and they will let players know if combat level checking is enabled or disabled. By default, players will receive the message,
+The Slayer Masters will take your combat level into account when choosing tasks for you, so you shouldn't get anything too hard.
+If combat level checking is disabled, players will receive the message,
+The Slayer Masters may currently assign you any task in our lists, regardless of your combat level.
+This option can be changed at any time by speaking to them again.
+Slayer masters can sometimes assign players a task that may be difficult in combat level to complete. Such examples include blue dragons from
+Vannaka
+, which can be a challenging task for low-level players. While
+baby blue dragons
+are an option, there are a few requirements to access them. By making sure that combat level checking is enabled, a player will find themselves in fewer difficult combat situations.
+Recommended stats
+It is strongly recommended to have fairly high combat stats and to have completed a lot of quests for block slots before starting Slayer training. High combat stats increase damage output considerably and allow the player to use the best equipment available. Low-level Slayer masters also have poor task lists and give fewer Slayer reward points than the higher-level ones.
+A mid-level account with a combat level of 70 can start at Slayer master
+Chaeldar
+or with
+Konar quo Maten
+at level 75, and work their way towards higher-level Slayer masters such as
+Nieve
+and
+Duradel
+. An account with a combat level of 3 can start at
+Turael
+, but it is much more efficient to start at a higher level Slayer master after gaining combat levels and better equipment.
+Recommended quests
+Completing the following quests can improve the overall Slayer experience:
+Animal Magnetism
+gives an
+Ava's device
+, which reduces ammunition used while using
+Ranged
+weapons, and can be upgraded at higher ranged levels.
+Desert Treasure I
+grants access to
+Ancient Magicks
+, allowing the use of
+Ice Burst
+/
+Ice Barrage
+for Slayer tasks
+Fairytale I - Growing Pains
+grants access to
+fairy rings
+, granting easy access to many Slayer locations
+Dwarf Cannon
+gives the ability to use a
+dwarf multicannon
+, speeding up tasks at the cost of
+cannonballs
+Knight Waves Training Grounds
+unlocks the
+Piety
+prayer, boosting your melee stats
+Bear Your Soul
+unlocks the
+Soul bearer
+, which can transport
+ensouled heads
+to your bank
+Equipment
+Use the best equipment available for the fastest rates. If the player cannot afford best-in-slot equipment, it is best to prioritise
+melee strength
+and
+magic damage
+upgrades, with
+neck slot
+and
+ring slot
+items typically offering the most efficient upgrades by cost, followed by other armour upgrades.
+The
+black mask
+is a very useful item for training Slayer, as it provides significant boosts to melee accuracy and strength when killing monsters on the player's current Slayer task. When
+imbued
+through the
+Nightmare Zone
+, it provides additional bonuses to ranged accuracy and strength as well as magic accuracy and damage. Both versions of the black mask can be turned into a
+Slayer helmet
+after the ability to do so is unlocked from a Slayer master for 400 reward points. It is highly recommended that this upgrade be prioritised as soon as possible, as doing so will allow the player to enjoy the bonuses while killing Slayer monsters requiring special headgear, such as
+aberrant spectres
+,
+banshees
+,
+wall beasts
+,
+dust devils
+and
+smoke devils
+.
+The
+bracelet of slaughter
+and
+expeditious bracelet
+are popular choices for extending good tasks and quickening bad tasks respectively. Bracelets of slaughter are commonly used for extending barrage tasks like
+smoke devils
+which provide valuable experience, while
+expeditious bracelets
+are often used for tasks which players might otherwise skip, such as
+waterfiends
+. Due to their limited charges, it is often helpful to bring more than one per task. As they provide no combat bonuses, they are commonly equipped only as monsters die (if practical), with gloves with better bonuses being used for the rest of the kill, to maximize damage.
+Slayer rings
+can be used to access the
+Stronghold Slayer Cave
+,
+Slayer Tower
+and the
+Fremennik Slayer Dungeon
+. The first teleport also leads directly to
+Nieve
+, making her easily accessible to players using her as their current Slayer master. The ability to craft Slayer rings may be unlocked for 150 reward points. After completing the
+Haunted Mine
+and
+Mourning's End Part II
+quests, the ring will also have teleports to
+Tarn's Lair
+and the
+Mourner Tunnels
+, providing quick access to
+terror dogs
+and
+dark beasts
+respectively.
+If the player acquires an
+eternal gem
+, they may instead use that to create the
+eternal slayer ring
+, sharing all of the benefits of a normal slayer ring but with unlimited teleports.
+For Melee tasks, use equipment that offers the highest strength and accuracy bonuses, such as
+Amulet of rancour
+, the
+Ultor ring
+, and
+Ferocious gloves
+in combination with
+Torva armour
+and
+primordial boots
+.
+Sunfire fanatic armour
+can be used instead to give a higher Prayer bonus, reducing the amount of Prayer points drained per second.
+The
+abyssal whip
+is a strong and easily obtainable weapon that can be used for melee tasks, with the more expensive
+Ghrazi rapier
+being an even better alternative for melee combat. Avernic or dragon defenders should always be used with these weapons, except against wyverns. For dragon tasks, players should use extended super antifire potions so they can hold their defender.
+The charged
+scythe of Vitur
+offers the best damage output against monsters that are 3x3 or larger, such as
+dark beasts
+,
+kalphite
+, and
+gargoyles
+. This weapon can be quite expensive to use, however. The
+dragon hunter lance
+is the best weapon to use against draconic enemies, and
+emberlight
+should be used against demons. If the player cannot afford a dragon hunter lance or Ghrazi rapier for dragons, a stab weapon such as
+Zamorakian hasta
+or
+Osmumten's fang
+should be used.
+The
+Soulreaper axe
+is the strongest melee weapon available for most 1x1 and 2x2 slayer targets. When slaying conventional (e.g., non-dragon, non-demon) 1x1 targets such as
+ankou
+,
+earth warriors
+, small
+dagannoth
+,
+trolls
+, etc., the axe is a drastically more expensive option than the second-best melee weapon for such targets, the
+ghrazi rapier
+, but it offers 12-15% more damage per second. The axe also outperforms the
+Scythe of Vitur
+on common 2x2 slayer targets by 3-5%, such as
+suqah
+,
+mutated bloodveld
+, and large dagannoths. The axe is outperformed by
+emberlight
+against most demons, such as
+greater demons
+,
+lesser demons
+,
+abyssal demons
+,
+demonic gorillas
+, and
+tormented demons
+. The axe is outperformed by the
+dragon hunter lance
+against dragons, as most are weaker to stab than slash, and boast high defensive stats, unlike most other slayer monsters. Unlike the scythe, the axe does not expend charges to use.
+Dragon claws
+are generally the best special attack weapon to use for single combat.
+Dinh's bulwark
+is better for certain multi-combat areas (such as dagannoth), and is useful to draw aggression, however this can also be achieved with the use of a
+goading potion
+, freeing up special attack energy to be used for a weapon like the
+crystal halberd
+which can hit multiple targets. The
+dragon dagger
+is much cheaper than the dragon claws however, and the special attack can outperform dragon claws against monsters that have low Defence. Alternatively, players can use
+Saradomin godsword
+to restore Hitpoints and Prayer points during a task.
+Recommended equipment
+Recommended equipment for Melee
+Slot
+Item (most effective → least effective)
+Slayer helmet (i)
+Black mask (i)
+N/A
+N/A
+N/A
+Amulet of rancour
+Amulet of torture
+Amulet of fury
+Amulet of strength
+N/A
+Infernal cape
+Fire cape
+Mythical cape
+/
+Mixed hide cape
+Ardougne cloak 4
+Cape of Accomplishment
+Torva platebody
+/
+Oathplate chest
+Bandos chestplate
+Blood moon chestplate
+/
+Fighter torso
+Obsidian platebody
+Proselyte hauberk
+Torva platelegs
+/
+Oathplate legs
+Bandos tassets
+Blood moon tassets
+Obsidian platelegs
+Proselyte cuisse
+/
+Proselyte tasset
+/
+Verac's plateskirt
+Soulreaper axe
++
+Scythe of vitur
+Ghrazi rapier
+/
+Noxious halberd
+Abyssal whip
+Abyssal bludgeon
+Zamorakian hasta
+Avernic defender
+Dragon defender
+Dragonfire shield
+Toktz-ket-xil
+Book of war
+Rada's blessing 4
+God blessing
+/
+Rada's blessing 3/2
+N/A
+N/A
+N/A
+Expeditious bracelet
+/
+Bracelet of slaughter
+Ferocious gloves
+Barrows gloves
+Regen bracelet
+Combat bracelet
+Avernic treads (max)
+Primordial boots
+Dragon boots
+/
+Aranea boots
+Echo boots
+>
+Guardian boots
+Rune boots
+/
+Mixed hide boots
+>
+Climbing boots
+Ultor ring
+Berserker ring (i)
+Brimstone ring
+N/A
+N/A
+Dragon claws
+/
+Burning claws
++
+Dinh's bulwark
+Dragon dagger
++
+Crystal halberd
+Saradomin godsword
+N/A
+N/A
+Magic is commonly used to
+barrage
+or
+burst
+multiple monsters at once for fast Slayer experience. The
+Slayer helmet
+must be
+imbued
+to gain the accuracy and damage benefits on an assigned Slayer monster.
+Use equipment that gives the highest Magic damage bonuses, such as
+kodai wand
+,
+occult necklace
+,
+imbued god cape
+, and
+virtus robes
+.
+Use a weapon that can autocast
+Ancient Magicks
+. The cheapest of these is the
+ancient staff
+. The
+ancient sceptre
+,
+nightmare staff
+, and
+Kodai wand
+are progressively stronger alternatives.
+Most Slayer monsters which are commonly barraged (such as
+greater Nechryael
+and
+dust devils
+) have very low Magic defence, so having a higher Magic accuracy makes negligible difference on damage output. For those tasks players may wear equipment with high Prayer bonus, such as
+ring of the gods (i)
+,
+devout boots
+and
+book of darkness
+. Certain monsters (such as
+smoke devils
+and
+warped jellies
+) do have Magic defence however, so Magic
+accuracy
+will matter against them and players should wear equipment with high Magic accuracy bonuses.
+Dinh's bulwark
+special attack, fast attacking ranged weapon such as a
+toxic blowpipe
+,
+dwarf multicannon
+, or a
+goading potion
+can be used to draw aggression of monsters into a barrage pile. If additional Melee experience is desired, using a
+Crystal halberd
+on stacked monsters is a solid option.
+Recommended equipment
+Recommended equipment for Magic (Barrage)
+Slot
+Item (most effective → least effective)
+Slayer helmet (i)
+Black mask (i)
+N/A
+N/A
+N/A
+Occult necklace
+Bonecrusher necklace
+N/A
+N/A
+N/A
+Imbued god cape
+God capes
+Ardougne cloak 4
+Cape of Accomplishment
+Vestment cloak
+Virtus robe top
+Ancestral robe top
+Ahrim's robetop
+/
+Dagon'hai robe top
+Proselyte hauberk
+[
+a
+]
+/
+Vestment robe top
+Monk's robe top
+Virtus robe bottom
+Ancestral robe bottom
+Ahrim's robeskirt
+/
+Dagon'hai robe bottom
+Proselyte cuisse
+[
+a
+]
+/
+Vestment robe legs
+Monk's robe
+Kodai wand
+Nightmare staff
+Dragon hunter wand
+Ancient sceptre
+/
+Blue moon spear
+[
+b
+]
+Ancient staff
+Elidinis' ward (f)
+Elidinis' ward
+/
+Arcane spirit shield
+Ancient wyvern shield
+/
+Malediction ward
+/
+Mage's book
+Book of darkness
+Unholy book
+Rada's blessing 4
+God blessing
+/
+Rada's blessing 3/2
+N/A
+N/A
+N/A
+Bracelet of slaughter
+/
+Expeditious bracelet
+Confliction gauntlets
+Tormented bracelet
+Barrows gloves
+N/A
+Avernic treads (max)
+Eternal boots
+/
+Devout boots
+Holy sandals
+Aranea boots
+/
+Ancient ceremonial boots
+Mystic boots
+Magus ring
+Ring of the gods (i)
+Seers ring (i)
+/
+Brimstone ring
+Ring of wealth
+N/A
+Dinh's bulwark
++
+Crystal halberd
+N/A
+N/A
+N/A
+N/A
+^
+1.0
+1.1
+Better than Ahrim's if the monster has a low Magic level (e.g.
+dust devils
+).
+^
+Two-handed weapon.
+The
+venator bow
+is commonly used by players who desire a less intense form of Slayer training. The bow's ricochet effect easily grabs the aggression of multiple monsters, allowing it to be used on tasks that are commonly bursted/barraged at the cost of less Slayer experience per hour. On the other hand, the
+toxic blowpipe
+is the best option for players using Turael to boost Slayer points and for those do not value gaining Melee experience, as the blowpipe is usually faster than using Melee on most Turael tasks but at a higher cost.
+If players do not have either of these weapons, then it is not recommended to use Ranged in general Slayer training, as Ranged can be comfortably
+trained
+without a slayer task, and minor amount of experience can be gained through use of a dwarf multicannon regardless. However, some tasks may be preferable to be
+safespotted
+using Ranged if the target is vulnerable to it and the player wishes to conserve supplies.
+If using Ranged, the
+slayer helmet
+must be
+imbued
+to gain the accuracy and damage benefits on an assigned Slayer monster.
+Recommended equipment
+Recommended equipment for Ranged
+Slot
+Item (most effective → least effective)
+Slayer helmet (i)
+Black mask (i)
+N/A
+N/A
+N/A
+Necklace of anguish
+Bonecrusher necklace
+/
+Dragonbone necklace
+Amulet of fury
+Amulet of glory
+Unholy symbol
+/
+Holy symbol
+Dizana's quiver
+Ava's assembler
+Ava's accumulator
+Ranging cape
+Ava's attractor
+Masori body (f)
+Masori body
+Hueycoatl hide body
+Blessed body
+Black d'hide body
+Masori chaps (f)
+Masori chaps
+Hueycoatl hide chaps
+Blessed chaps
+Black d'hide chaps
+Venator bow
+Toxic blowpipe
+Magic shortbow (i)
+N/A
+N/A
+Amethyst arrow
+[
+a
+]
+Rada's blessing 4
+God blessing
+/
+Rada's blessing 3/2
+N/A
+N/A
+Expeditious bracelet
+/
+Bracelet of slaughter
+Zaryte vambraces
+Barrows gloves
+Blessed vambraces
+Black d'hide vambraces
+Avernic treads (max)
+Pegasian boots
+Blessed boots
+Aranea boots
+Boots of brimstone
+Venator ring
+Ring of the gods (i)
+Ring of suffering (i)
+Archers ring (i)
+Ring of wealth
+Toxic blowpipe
+N/A
+N/A
+N/A
+N/A
+^
+Only with a bow.
+Ranged is primarily used for Wilderness Slayer to boost Slayer points. The
+Webweaver bow
+and
+Craw's bow
+are the best weapons to use for most tasks, but for some tasks the
+toxic blowpipe
+is better due to its higher attack speed, and may be additionally preferred for the lesser risk. Players should bring 4 strong items, while the rest of the equipment should be cheap and replaceable items that the player will not mind losing. Notably, ether in the Webweaver and Craw's bow are always lost on death so players should not bring more than they are willing to lose.
+If using Ranged, the
+slayer helmet
+must be
+imbued
+to gain the accuracy and damage benefits on an assigned Slayer monster.
+Recommended equipment
+Recommended equipment for Ranged (Wilderness)
+Slot
+Item (most effective → least effective)
+Slayer helmet (i)
+Black mask (i)
+N/A
+Necklace of anguish
+Amulet of glory
+N/A
+Ava's assembler
+Ava's accumulator
+Ranging cape
+Black d'hide body
+N/A
+N/A
+Black d'hide chaps
+N/A
+N/A
+Webweaver bow
+Craw's bow
+Toxic blowpipe
+Rada's blessing 4
+God blessing
+/
+Rada's blessing 3/2
+N/A
+Expeditious bracelet
+N/A
+N/A
+Mixed hide boots
+Snakeskin boots
+N/A
+Ring of wealth
+Explorer's ring 4
+Ring of dueling
+Inventory
+Dwarf multicannon
+and some
+cannonballs
+(not
+all
+of your cannonballs, as they will be lost upon death to a PKer)
+Spare
+expeditious bracelets
+1-2
+divine ranging potions
+, 1
+stamina potion
+and 1
+anti-venom+
+Saradomin brews
+and
+super restores
+to survive player killers
+A teleport out of Wilderness such as
+royal seed pod
+or
+amulet of glory
+Teleport to house
+tablets or
+ring of dueling
+to restore stats
+1
+extended super antifire
+(when needed)
+Using Slayer reward points
+Slayer reward points
+are awarded for the 5th consecutive task and every task thereafter. These can be used to cancel undesirable tasks, permanently block assignments and unlock useful rewards.
+When training Slayer for the fastest experience, this is generally an optimal order for spending Slayer reward points:
+Blocks (including the special Fossil Island Wyvern block)
+Superior Slayer monsters
+Slayer helmet
+Extensions
+Extra unlocks (such as Slayer rings)
+Cancelling and blocking tasks
+Slayer reward points are mainly used to cancel undesirable tasks, which offer slow experience, poor profit or mediocre experience but take too long to complete. Cancelling a task costs 30 reward points each time, making it potentially expensive to try and get a specific assignment.
+Tasks that the player does not wish to ever do can be permanently blocked. The cost to block a task differs depending on the Slayer master:
+Turael
+/
+Aya
+and
+Spria
+: 40 points
+Mazchna
+/
+Achtryn
+: 50 points
+Vannaka
+: 60 points
+Chaeldar
+: 70 points
+Konar quo Maten
+: 80 points
+Nieve
+/
+Steve
+: 90 points
+Duradel
+/
+Kuradal
+: 100 points
+Krystilia
+: 100 points
+Each Slayer master has their own individual block list. Up to seven assigned monsters (or monster groups) can be blocked per Slayer master. To block an assignment, 50 quest points are required per slot, totaling up to 300 quest points for six slots. A seventh slot is available only with the completion of the elite
+Lumbridge & Draynor Diary
+. For toggled tasks like lizardmen, the player should simply cancel the toggle and the task itself, so that they cannot obtain the task anymore, which essentially acts as a block. With 500 Slayer points, a block can be applied to Fossil Island Wyverns. While significantly more expensive than any task block in-game, the player has the ability to freely toggle on and off this block as they desire.
+The main goal for Slayer training is to spend as much time as possible doing good tasks, and as little time as possible doing bad tasks. As such, it is best to make use of all the available blocks as soon as possible, and then use the cancel option as often as it can be used while maintaining a stable level of Slayer reward points. Players are also strongly advised to keep enough points in reserve to cancel several tasks in a row, in case of multiple undesirable assignments being given.
+The undesirable tasks with the highest weighting (highest chance of being given) should be blocked, as these will appear more often resulting in players burning through skips much faster compared to a task with a lower weighting. If the task is one given via toggle, the player can "block" the task in the future by simply toggling off, though points will need to be used again if the player wants to be assigned them. Otherwise, block tasks as needed; for example, between the choice of
+spiritual creatures
+(7) or
+rune dragons
+(2) from Duradel, blocking the former would be more beneficial than the latter.
+While the guide assumes that the player is training with Duradel,
+Nieve
+has a similar task list to him, albeit with the addition of some less desirable tasks such as
+brine rats
+and
+scabarites
+along with less weighting on other tasks. Simply adjust the task list to whatever slayer master is being used. Nieve, Konar and Duradel should be put into one group for non-Wilderness slayer, while Krystilia should be put in another due to being Wilderness-only slayer.
+An example of a block list for non-Wilderness slayer with these three masters in consideration could be:
+Wyrms
+(bad task in general when accounting for efficient slayer)
+Drakes
+(same as above)
+Trolls
+Suqah
+(good for experience, very poor drop table)
+Any remaining tasks up to preference
+For Krystilia, a block list would likely have the following:
+Bloodveld
+Spiritual creatures
+Green dragons
+Any remaining tasks up to preference
+When slaying for the fastest experience, spend the majority of the time doing high experience tasks, and spend the rest of the time doing relatively fast tasks for points. Even though a certain task offers decent experience in itself but takes fairly long to complete, such as black demons, it is likely not worth doing as this would mean spending less time doing tasks that offer much better experience per hour, thereby decreasing overall experience rates. The use of an
+Expeditious bracelet
+will help speed up undesirable tasks that need to be done.
+If slaying solely for money-making purposes, the block list should be adjusted to ensure that the desired task(s) have a better chance of being assigned. For example, if a player was looking for araxytes from Duradel (having a weight of 10), their chances of getting it would improve if they blocked abyssal demons and dark beasts (who have a weight of 12 and 11 respectively). This list would be subjected to personal preference and thus does not account for slayer experience.
+It is also required to have good gear before attempting a variant of the assigned monster, since these are generally stronger than their base variant in question.
+Examples of alternate slayer would include:
+Cerberus
+(hellhounds)
+Demonic gorillas
+,
+Skotizo
+(black demons)
+Kree'arra
+(aviansies)
+Abyssal Sire
+(abyssal demon)
+Thermonuclear smoke devil
+(smoke devil)
+Araxxor
+(araxyte)
+Tormented demon
+,
+K'ril Tsutsaroth
+, Skotizo (greater demons)
+King Black Dragon
+(black dragons)
+Vorkath
+(blue dragons)
+Kraken
+(cave kraken)
+Kalphite Queen
+(kalphites)
+Dagannoth Kings
+(dagannoth)
+Alchemical Hydra
+(hydras)
+Note that alternate slayer with Konar is more complicated, due to her location-only requirement. Many options become inaccessible, while the ones she does offer will also require that specific location to allow it. For example, if the player wanted to kill the Abyssal Sire on her tasks, she would have to assign them to slay them in the Abyss in order to do so; any other location would not allow it.
+Unlocking new tasks
+With unlocking, you do not need a quest to access them. Instead, you pay with Slayer points to get these monsters for your Slayer assignment. Be aware that these task unlocks generally apply to high level Slayer Masters.
+If you decide to stop doing assignments which are toggleable, consider if you will do the task again, or if alternatives are allowed, as these tasks generally have a high weight value and can potentially intercept a desirable task. TzHaar and lizardmen should generally not be blocked, as the former can be easily "cancelled" by entering and leaving the Fight Caves, while the latter is a very fast cannon task. Others, like red dragons and basilisks, should not be toggled on at all if not planning to kill them, since they are quite far from a bank and take a while to clear.
+Slayer Unlock
+Monster task
+Assigned By
+Notes
+Seeing Red
+Red dragons
+Konar,
+Nieve
+/
+Steve
+,
+Duradel
+/
+Kuradal
+Baby
+or
+brutal red dragons
+can be killed instead
+I hope you mith me
+Mithril dragons
+Konar, Nieve/Steve, Duradel/Kuradal
+Requires the player to speak with Otto about Barbarian training
+Watch the birdie
+Aviansie
+Chaeldar
+, Konar, Nieve/Steve, Duradel/Kuradal
+Kree'arra
+and his bodyguards also count for this task.
+Hot stuff
+TzHaar
+Chaeldar, Nieve/Steve, Duradel/Kuradal
+TzTok-Jad
+can be killed instead if you take the challenge,
+or
+TzKal-Zuk
+if you have defeated him once.
+Reptile got ripped
+Lizardmen
+Chaeldar, Konar, Nieve/Steve, Duradel/Kuradal
+Can kill
+Lizardman
+,
+lizardman brutes
+, or
+lizardman shamans
+.
+Like a boss
+All normal bosses
+Konar, Nieve/Steve, Duradel/Kuradal
+Corporeal Beast
+and
+The Nightmare
+not included. Assigned bosses are determined if you meet the access requirement(s).
+Warped Reality
+Warped creatures
+Konar
+,
+Duradel
+,
+Nieve
+, and
+Chaeldar
+Must have
+crystal chime
+in their inventory to fight them, so started
+The Path of Glouphrie
+is required.
+Earmuffs
+or
+Slayer helmet
+recommended.
+Task extension
+Some tasks can be extended for Slayer points, which will greatly increase the number that you can be assigned if they give you that creature for a task. Extending a task will significantly increase the amount of monsters assigned across
+all
+slayer masters, even if they normally assign less than another master would.
+Only extend tasks that have good value to them, especially if they offer good money or experience. For example, Duradel normally assigns 60-80 araxytes. However, unlocking the extension will cause him to instead increase the amount to 200-250 araxytes. Araxytes are an already lucrative task, as they have a
+superior
+, a
+boss
+variant, can be mostly AFK'ed and offer good experience. On the other hand, extending a task such as
+metal dragons
+are discouraged, since they don't have a lot of good drops or offer reasonable experience to justify extending them.
+Task storage
+With the
+Task Storage
+perk unlocked (requiring 500 Slayer points), players may store their current Slayer task, saving it for later. They may swap their current task and stored task when desired for no charge. Purchasing
+Task Storage
+is up to the player's preference; while the perk has a high upfront cost, it allows the player to break up long and monotonous Slayer tasks with potentially shorter ones.
+Superior Slayer monsters
+With the
+Bigger and Badder
+perk unlocked (requiring 50 Slayer points), several monsters have a 1/200 chance of attracting a
+superior variant
+of the monster after they are killed. Superior monsters are stronger than their normal counterparts, typically having a higher max hit and some of them may have a simple mechanic. They can also drop the valuable and sought-after
+eternal gem
+and
+imbued heart
+, both of which sell considerably well on the Grand Exchange, along with a 10x increased drop rate on clue scrolls should the monster be capable of dropping clue scrolls.
+Activating this perk is optional, but recommended since you can toggle it off without penalty if you do not want to fight superior monsters.
+Killing perks
+The only recommended killing perk to obtain is
+Gargoyle Smasher
+should the player do gargoyle tasks. High levelled Slayer masters will assign gargoyles quite frequently, and players will save a large amount of time by automatically smashing Gargoyles whenever they reach 9 hitpoints or lower, and automatically smashes
+Dawn
+and
+Dusk
+when they reach 8 hitpoints.
+'
+Shroom Sprayer
+can also be unlocked, but only if the player completes mutated zygomite tasks.
+Dwarf multicannon
+Green represents double shots. Red means no fire. For 1x1 monsters, players should lure them onto the green area.
+The
+dwarf multicannon
+adds a significant amount of extra damage output, and it should be used whenever viable. Using the cannon can be quite expensive, but the cost is justified by the saved time compared to not using one. For example, certain Melee tasks like
+suqahs
+,
+dagannoth
+and
+kalphites
+offer good experience per hour with the cannon as the cannon does a lot of damage in these multi-combat areas, but without the cannon the experience rates would be mediocre at best. The player will also gain some passive
+Ranged
+experience while getting nearly as much Melee experience per hour as the player would without using a cannon.
+The dwarf multicannon is typically used to speed up Melee tasks, and to lure
+smoke devils
+. For Melee tasks, it is best to find the best spot to stand to allow
+double cannon shots
+against one monster. This allows faster kills, slightly increasing experience rates. Around 750–1,500 cannonballs are used on an average task given by
+Duradel
+in a non-multiway combat area, whilst tasks which take place in a multiway combat area can exceed over 1,500.
+Should the player not be able to afford to use the cannon at all, it is better to simply make the money for the
+cannonballs
+rather than train Slayer without the cannon. Players should also consider how much time they will spend on tasks where the cannon is used, as having a cannon-heavy task list is much more expensive and generally less efficient than doing a lot of barrage tasks. For example, it may be a good idea not to extend tasks where little to no money is made back from the drops, such as black demons or suqahs. On some cannonable tasks monster drops will cover some of the cost of using the cannon, but usually not enough to break even. Most barrage tasks on the other hand usually break even or even profit slightly.
+Prayer
+Use protection and offensive prayers when training Slayer. Players will need to bring prayer potions or super restores to every task, and have a good supply of them in the bank. It is also recommended to have a high Prayer level, as it allows you to pay less attention to your Prayer points, and having a higher Prayer level allows you to restore more prayer points per prayer potion dose. The
+holy wrench
+also boosts the amount of prayer gained from prayer potions, thus reducing the number of prayer potions used. These make the overall lifespan of your potions much higher, and save a lot of money in the long run.
+Having the
+rejuvenation pool
+(or better) in the player-owned house or a quick access to any altar to restore Prayer points before starting a new task is useful. However, players should not constantly teleport out from the task area to restore Prayer points and run back there, as this lowers experience rates significantly and it is worth the money to simply drink prayer potions whenever needed. Furthermore, if a player leaves an area where they were fighting a popular slayer creature, it may open up the location for another player to "take their spot".
+The best available offensive prayers should always be used for Melee and Ranged, and also for Magic if having a higher Magic accuracy makes a notable difference on damage output (such as against smoke devils and Warped Jellies). It is recommended not to use offensive Magic prayers against monsters with low Magic defence, as this would have a negligible benefit to damage output unless the prayer offers one or more max hits. However, for Melee and Ranged offensive prayers increases the max hit and thus the damage output considerably, and using them is worth the cost.
+Use protection prayers on dangerous tasks where the monsters would deal heavy damage. Such tasks include all barrage tasks and most tasks in multi-combat areas,
+metal dragons
+, dark beasts, aberrant spectres and other damage-heavy tasks. Protection prayers along with Prayer-boosting armour (such as
+Proselyte armour
+) can also be used as a low-effort alternative to defensive armour and food. This requires paying less attention overall as the player will not take damage and the Prayer points are drained at a slower rate.
+Prayer flicking
+is a tedious and a click-intensive but an extremely efficient way of saving Prayer points. If you are willing to put the effort, it can more than triple the life span of your prayer points with proper timing.
+Slayer locations
+While some Slayer monsters are found in one or multiple habitats, there are dungeons throughout
+RuneScape
+where many monsters a Slayer master can assign can be found.
+Location
+Advantages
+Disadvantages
+Slayer Tower
+Has various Slayer monsters, some of them being less crowded due to other locations. You also receive more experience if you have the Morytania diaries done.
+Monsters on the upper floors are annoying to reach without high Agility and a cannon can't be used in the tower.
+Fremennik Slayer Dungeon
+Has various Slayer monsters, with most of them being found only in the dungeon.
+Can be somewhat annoying to reach the end of the dungeon without high Agility, some areas can be crowded.
+Stronghold Slayer Cave
+Has a handful of monsters that medium/high levelled Slayer masters assign, and close to a bank. A cannon can be used in this cave.
+Often crowded.
+Catacombs of Kourend
+Similar to the Stronghold Slayer Cave, but with stronger monsters and in some cases, better drops than those found elsewhere. It is also a multi-combat area so you can semi-afk more efficiently here. Some tasks are very efficient here, like
+dust devils
+and
+nechryael
+.
+Somewhat far without teleports to the dungeon, and a cannon can't be placed in the dungeon.
+Chasm of Fire
+Contains lesser, greater and black Demons. The black demons here can be more easily cannoned than those in
+Taverley Dungeon
+.
+Can be far if optimal teleports are not unlocked.
+Kalphite Cave
+More kalphites can be found in here.
+N/A
+Wilderness Slayer Cave
+All locations are multicombat and cannonable. Monsters also drop unique wilderness tertiary drops which can significantly increase average value of each kill.
+Is in the Wilderness so high risk of PKers interrupting tasks.
+Iorwerth Dungeon
+Upon their deaths, monsters in the dungeon have a chance of dropping 3-5
+crystal shards
+, while
+superior slayer monsters
+are guaranteed to drop 6-10.
+Must have completed
+Song of the Elves
+to access
+Prifddinas
+.
+The following transportation methods help players get to their tasks faster.
+Fairy ring
+teleport system - grants quick access to many high-level Slayer tasks. You can use the fairy rings after starting
+Fairytale II - Cure a Queen
+with a
+Lunar
+/
+Dramen
+staff. Not needed if you have completed all the Lumbridge & Draynor Village sets.
+Lunar Magic
+- used for
+NPC Contact
+, allowing you to talk to any Slayer master without travelling to them. However, the rewards interface cannot be accessed this way, so travel to
+any
+Slayer master may be necessary to cancel. Also used for
+Spellbook Swap
+to access non-tablet teleports like
+Trollheim Teleport
+and
+Ghorrock Teleport
+in the
+Ancient Magicks
+book. You must complete
+Lunar Diplomacy
+to use Lunar Magic. You must complete
+Desert Treasure I
+for Ancient Magicks.
+Slayer ring
+- can be used to teleport to several Slayer locations (obtained from a Slayer master for Slayer points). Slayer rings should be made in batches and treated as disposable to allow more loot to be banked. Players who wish to skip or block a task should use the
+Slayer ring
+to teleport to the Stronghold Slayer Cave, which is right next to
+Nieve
+.
+Karamja gloves 3
+- Reward for
+Hard Karamja Diary
+. (It allows you to teleport to
+Shilo Village
+for quickly getting a new task from
+Duradel
+).
+Karamja gloves 4
+allows the player to transport directly to Duradel.
+Xeric's talisman
+- can be used to teleport around
+Great Kourend
+to enter the
+Catacombs of Kourend
+or to fight Lizardmen.
+Player-owned houses
+Player-owned houses are a great asset for Slayer training, though it does take considerable input to get the required Construction levels.
+Useful unlocks
+At
+50
+Construction
+,
+portal chambers
+can be built. The portals can then be constructed and set to teleport to various destinations around
+RuneScape
+, covering many of the teleports that the spellbooks have. You need to have the respective Magic level and other requirements completed to attune a portal to a specific location.
+At
+72
+Construction
+, a
+portal nexus
+can be built. The nexus combines the various portals into a single object and room.
+At
+80
+Construction
+, an
+Ancient
+,
+Lunar
+, or
+Dark altar
+can be built. These can be used to swap to
+Ancient Magicks
+, the
+Lunar spellbook
+, or the
+Arceuus spellbook
+, respectively, or to swap from any spellbook back to the
+Standard spellbook
+. At
+90
+Construction
+, these can be upgraded to the
+Occult altar
+, providing access to the other two spellbooks.
+At
+90
+Construction
+, the
+ornate rejuvenation pool
+can be built, regenerating the player's special attack energy, run energy, prayer points, reduced stats, and health when interacted with. This saves a lot of supplies if you use the house a lot.
+At
+91
+Construction
+, the
+ornate jewellery box
+can be built, providing unlimited uses of the
+ring of dueling
+,
+games necklace
+,
+skills necklace
+,
+combat bracelet
+,
+amulet of glory
+, and
+ring of wealth
+teleports.
+At
+95
+Construction
+and
+83
+Farming
+, the
+spirit tree & fairy ring
+can be built. This provides the perks of both the
+spirit tree
+and
+fairy ring
+at once, which when combined with the ornate rejuvenation pool will save lots of supplies and essentially allows you to reach anywhere in
+RuneScape
+without having to use other items. It is worth noting two superior gardens can be built for a spirit tree in one and one fairy ring in the other garden before level 95 Construction with a crystal saw and stew Construction boosts.
+Location
+Scrolls of redirection
+can be used to teleport to
+player-owned house portals
+other than the house's current location.
+Level
+Location
+Advantages
+Disadvantages
+1
+Rimmington
+Close to
+Mudskipper Point
+for
+mogre
+,
+ice warrior
+, and
+skeletal wyvern
+tasks.
+Fairy ring
+code
+A
+I
+Q
+teleports directly to
+Mudskipper Point
+.
+Far from Slayer masters.
+10
+Taverley
+Somewhat close to
+Trollheim
+for
+troll
+,
+spiritual mage
+,
+spiritual ranger
+, and
+spiritual warrior
+tasks.
+Close to the
+Heroes' Guild
+and
+Taverley Dungeon
+for
+blue dragon
+tasks.
+Close to the
+Burthorpe Slayer master
+for reassignment of tasks.
+The
+games necklace
+and
+Trollheim tablet
+teleport closer to all these locations (except blue dragons).
+20
+Pollnivneach
+Close to the
+Smoke Dungeon
+.
+The
+Camulet
+is somewhat slower but cheaper.
+Far from Slayer masters.
+25
+Hosidius
+Close to one of the entrances to the
+Catacombs of Kourend
+.
+The
+Kourend Castle Teleport
+and the "Xeric's Heart" teleport on
+Xeric's talisman
+are significantly faster.
+30
+Rellekka
+Quick access to
+Lunar Isle
+for a spellbook swap.
+Close to the
+Fremennik Slayer Dungeon
+.
+Close to the
+Lighthouse
+for
+dagannoth
+tasks.
+Close to the
+Waterbirth Island Dungeon
+for high-level dagannoth kills (level 90 dagannoths and the
+Dagannoth Kings
+).
+Close to
+brine rats
+.
+The
+Lunar
+Moonclan Teleport
+or
+tablet
+can be used to get to Lunar Isle, and the
+Lunar altar
+can be built at 80 Construction in the player-owned house.
+The
+Slayer ring
+teleports to the Fremennik Slayer Dungeon.
+Fairy ring
+code
+A
+L
+P
+or the
+games necklace
+teleport closer to the Lighthouse dagannoths.
+The
+enchanted lyre
+teleports close to the POH portal.
+Fairy ring code
+D
+K
+S
+teleports closer to brine rats.
+Far from Slayer masters.
+40
+Brimhaven
+Close to the
+Brimhaven Dungeon
+.
+Fastest way to
+Duradel
+without the use of the
+NPC Contact
+or any means of teleportation such as
+Karamja gloves 3
+other than using the spirit tree patch followed by the cart-ride.
+Close to a bank.
+Few non-Slayer uses.
+50
+Yanille
+Close to
+blue dragons
+and
+greater demons
+in the
+Ogre Enclave
+.
+The
+Watchtower Teleport
+and the
+Castle Wars
+teleport on the
+ring of dueling
+are relatively close.
+Far from Slayer masters.
+70
+Prifddinas
+Close to the
+Iorwerth Dungeon
+, a
+respawn point
+, and a bank.
+The
+teleport crystal
+is essentially free.
+Far from Slayer masters.
+Task summary
+This is a list of monsters assigned by
+Duradel
+, along with the pros and cons of completing the task. This table aims to empower players in choosing their tasks based on the pros and cons of each task reflecting on experience rates, profit and the amount of effort required.
+Assignment
+Slayer level
+Weight
+Pros
+Cons
+Do/Skip/Block
+Approx. XP/h
+Aberrant spectres
+60
+7
+Relatively low-effort task. Valuable herbs and seeds cover most of the costs of using the cannon.
+Cannot be lured into double-hit cannon spots properly, which results in mediocre experience rates. Not worth doing for XP unless Slayer points are an issue.
+Skip
+35,000
+Abyssal demons
+85
+12
+Decent profit from
+abyssal whip
+drops. Decent experience when barraging. Decent experience and low-effort when using Venator bow.
+Long task and very commonly assigned. Consider blocking the task if money is not an issue.
+Do/Block
+80,000 (Magic)
+53,000 (Venator Bow)
+40,000 (Melee)
+Ankou
+1
+5
+Decent experience and relatively fast task when barraging in the Catacombs of Kourend. While risky, barraging Ankous in the
+Wilderness Slayer Cave
+provides up to 90,000 Slayer experience per hour and drops will cover the cost of using
+Blighted ancient ice sacks
+.
+Barraging will result in a loss due to lack of valuable drops.
+Do
+55,000 (Magic)
+Araxytes
+92
+10
+Good experience, decent profit, and boss version available. Unextended tasks can be done for quick points.
+Venom resistance required.
+Do
+100,000 (Cannon and Venator bow)
+Aviansie
+1
+8
+Kree'arra
+can be killed on task for good profit.
+Poor experience rates. Killing Kree'arra effectively requires very expensive equipment, and the profit is very inconsistent due to the value mostly being in the rare unique drops.
+Should not be unlocked
+10,000
+Basilisks
+40
+7
+Basilisk Knights
+can be killed on task for good profit.
+Poor experience rates.
+Should not be unlocked
+15,000
+Bloodveld
+50
+8
+Good experience rates when cannoning
+mutated bloodvelds
+in the
+Meiyerditch Laboratories
+. Drops cover the cost of using the cannon if in Meiyerditch Laboratories.
+Travelling to the Meiyerditch Laboratories can take a while. Using a cannon will result in a loss in the
+Stronghold Slayer Cave
+.
+Do
+100,000 (Cannon and Venator Bow)
+80,000 (Cannon and Melee)
+Black demons
+1
+8
+Decent experience rates, low-effort task.
+Demonic gorillas
+can be killed for good profit at the expense of experience rates.
+Long task, especially if killing demonic gorillas. Using the cannon will result in a loss. Skip unless killing demonic gorillas for profit, or if Slayer points are an issue.
+Skip
+45,000
+Black dragons
+1
+9
+If killing
+baby black dragons
+, a very fast task when unextended.
+Brutal black dragons
+can be killed for profit at higher levels.
+Mediocre experience rates.
+Do
+30,000
+Blue dragons
+1
+4
+Vorkath
+can be killed on task for good and consistent profit.
+Poor experience rates. Should be skipped if not killing Vorkath for profit.
+Skip
+25,000
+Bosses
+Varies (1 for all except a few)
+12
+Can be a relatively quick task depending on what boss you get, in addition to 5,000 Slayer experience upon completion of the task. Can potentially receive very valuable rare drops.
+Some bosses can be rather annoying to kill, and requires 200 Slayer points to unlock boss tasks.
+Should not be unlocked
+Varies
+Cave horrors
+58
+4
+Relatively fast task. Drops cover the cost of using the cannon.
+Poor experience rates. Not worth doing for XP unless Slayer points are an issue.
+Skip
+25,000
+Cave kraken
+87
+9
+Decent and low-effort profit when killing the
+boss variant
+.
+Poor experience rates. Killing cave krakens will result in a guaranteed loss due to the supplies needed to kill them with little net gain.
+Block
+15,000
+Dagannoth
+1
+9
+Good experience rates.
+Can be crowded in the
+Lighthouse Dungeon
+. Using the cannon will result in a loss.
+Do
+85,000
+Dark beasts
+90
+11
+Fast task when unextended. Relatively low-effort task.
+Somewhat mediocre experience rates.
+Do
+42,000
+Drakes
+84
+8
+Relatively low-effort task with high combat stats.
+Mediocre experience rates and long task. Not worth doing unless Slayer points are an issue.
+Skip/Block
+35,000
+Dust devils
+65
+5
+Good experience rates when barraging in the Catacombs of Kourend. Drops cover the rune costs.
+Can be crowded in the Catacombs of Kourend.
+Do
+100,000–110,000 (Magic)
+60,000 (Venator bow)
+35,000 (Melee)
+Elves
+1
+4
+Relatively low-effort task.
+Poor experience rates. Not worth doing unless Slayer points are an issue.
+Skip
+25,000
+Fire giants
+1
+7
+Relatively low-effort task. Relatively fast with imbued black mask and water wave+.
+Somewhat mediocre experience rates. Using the cannon will result in a loss. Good Magic XP using water spells due to 100% weakness.
+Do/Skip
+40,000
+Fossil Island Wyverns
+66, 82
+5
+Relatively low-effort task.
+Poor experience rates and mediocre profit. Not worth doing unless Slayer points are an issue.
+Block with the unique unlock
+15,000
+Gargoyles
+75
+8
+Decent profit, relatively low-effort task.
+Mediocre experience rates. Can be crowded in the Slayer Tower.
+Skip
+30,000
+Greater demons
+1
+9
+Relatively fast task when unextended. Relatively low-effort task.
+Tormented Demons
+and
+K'ril Tsutsaroth
+can be killed on task for profit.
+Mediocre experience rates and commonly assigned. Using the cannon will result in a loss.
+Do/Block
+38,000 (Regular)
+50,000 (Tormented Demons)
+Hellhounds
+1
+10
+Cerberus can be killed on task for good long-term profit. Relatively low-effort task if killing regular hellhounds, and good source of
+hard clue scrolls
+.
+Commonly assigned and long task. Using the cannon will result in a loss due to lack of drops. Killing Cerberus effectively requires expensive equipment, and the profit is very inconsistent due to the value mostly being in the rare unique drops. Should be blocked unless killing Cerberus for profit.
+Do/Block
+40,000 (Regular)
+25,000 (Cerberus)
+Kalphites
+1
+9
+Good experience rates when cannoning the soldiers. Relatively low-effort task.
+Using the cannon will result in a loss.
+Do
+75,000
+Kurask
+70
+4
+Somewhat decent profit.
+Can only be harmed with leaf-bladed weaponry, broad bolts or Slayer Dart, which results in poor experience rates. Not worth doing for XP unless Slayer points are an issue.
+Do/Skip
+20,000
+Lizardmen
+1
+10
+Decent experience rates when cannoning lizardmen. Relatively fast task.
+Commonly assigned, which makes this task not worth unlocking. Using the cannon will result in a loss.
+Should not be unlocked
+50,000
+Metal dragons
+1
+14
+Fast task with high combat stats and when using a dragon hunter lance.
+Mediocre to poor experience rates. Higher level dragons can be difficult to kill without good equipment.
+Do/Skip
+30,000 (Iron, Steel and Mithril)
+15,000 (Adamant and Rune)
+Mutated Zygomites
+57
+2
+Relatively fast task.
+Poor experience rates. Not worth doing unless Slayer points are an issue.
+Skip
+10,000
+Nechryael
+80
+9
+Good experience rates when barraging in the
+Catacombs of Kourend
+. Decent profit if meleeing.
+Often crowded in the Catacombs of Kourend.
+Do
+100,000 (Magic)
+40,000 (Melee)
+Red dragons
+1
+8
+Decent profit with high stats and when using a dragon hunter lance.
+Mediocre experience rates.
+Should not be unlocked
+30,000
+Skeletal Wyverns
+72
+7
+Decent profit with high combat stats and when using a dragon hunter lance.
+Poor experience rates.
+Skip
+15,000
+Smoke devils
+93
+9
+Barraging smoke devils currently offers the best experience rates in the game. Drops cover the rune costs.
+Luring smoke devils properly requires a lot of practice and effort.
+Do
+150,000 (Magic)
+55,000 (Melee)
+Spiritual creatures
+63, 68, 83
+7
+Mages can give decent profit and have relatively low hitpoints (75 for Zamorak, 85 for Saradomin)
+Poor experience rates. Not worth doing for XP unless Slayer points are an issue.
+Skip
+25,000
+Suqah
+1
+8
+Decent experience rates. Relatively fast task when unextended.
+No notable drops to cover the cost of using the cannon. Requires good defensive armour as well as
+Protect from Magic
+since they hit hard with both attack styles.
+Do/Skip
+55,000
+Trolls
+1
+6
+Decent experience rates when cannoning ice trolls on Jatizso or mountain trolls at Mount Quidamortem. Drops cover some of the costs of using the cannon.
+Ice trolls deal heavy damage. Travelling to Jatizso can take a while.
+Do/Skip
+50,000
+TzHaar
+1
+10
+Good experience rates when barraging in the inner part of Mor Ul Rek. Drops cover the rune costs. Alternatively, the option to do the Fight Caves on task will be given, or The Inferno if it's already completed. Task can be 'skipped' easily by dying inside The Inferno or Fight Caves if it is not desired.
+Barraging requires using blood spells. Completing the Inferno or the Fight Caves quickly requires having expensive equipment.
+Do/Should not be unlocked
+100,000 (Magic)
+Varies (Inferno/Fight Caves)
+Vyrewatch
+38
+8
+Killing
+Vyrewatch Sentinels
+in
+Darkmeyer
+can yield a somewhat decent profit. Does not require supplies, as prayer can be restored at the
+Statue
+.
+Can only be harmed with the
+Ivandis flail
+or
+blisterwood flail
+, which results in poor experience rates.
+Should not be unlocked
+15,000
+Warped creatures
+56
+8
+Decent experience when using a cannon. Drops cover cost of cannonballs. Food drops and bones to peaches can sustain a high level player.
+Mediocre experience when not using a cannon. Dungeon is multi-combat and creatures attack with both melee and range.
+Should not be unlocked
+55,000 (Cannon)
+Waterfiends
+1
+2
+Somewhat decent drops.
+Poor experience rates. Not worth doing unless Slayer points are an issue.
+Skip
+15,000
+Wyrms
+62
+8
+Somewhat decent drops.
+Mediocre experience rates. Not worth doing unless Slayer points are an issue.
+Skip
+35,000
+Quest experience
+Quest
+Experience
+reward
+Slayer
+requirement
+Other requirements
+Natural history quiz
+(
+miniquest
+)
+1,000
+-
+-
+Recipe for Disaster
+(
+Dwarf subquest
+)
+1,000
+-
+-
+Animal Magnetism
+1,000
+18
+19
+,
+30
+,
+35
+A Porcine of Interest
+1,000
+-
+-
+The General's Shadow
+(
+miniquest
+)
+2,000
+-
+-
+Royal Trouble
+5,000
+40
+40
+Wanted!
+5,000
+-
+32
+Lair of Tarn Razorlor
+(
+miniquest
+)
+5,000
+40
+-
+The Path of Glouphrie
+20,000
+56
+60
+,
+56
+,
+47
+,
+45
+Perilous Moons
+40,000
+48
+20
+,
+20
+,
+20
+,
+10
+Champions' Challenge
+(
+invisible miniquest
+)
+40,348
+-
+32
+The Fremennik Exiles
+50,000
+60
+65
+,
+60
+,
+60
+,
+55
+Monkey Madness II
+80,000
+69
+70
+,
+60
+,
+55
+,
+55
+Total
+191,348
+Alternate training methods
+Aside from quest rewards and traditional slayer training, the
+Temple Trekking minigame
+can provide Slayer XP at a low hourly rate via the XP rewards, alongside
+Agility
+,
+Firemaking
+,
+Fishing
+,
+Mining
+,
+Thieving
+, and
+Woodcutting
+. This may be useful for some accounts in niche scenarios - resource-lacking / Ironmen / combat focused accounts moving to skilling, or quest requirements.
+The
+money-making guide for Temple Trekking
+contains a profitable route and good process, though it can be adjusted to take easier companions instead of the recommended Hard ones if focusing purely on the XP tome rewards. XP tomes grant between 1100 and 1650 in one of the skills listed above
+(randomly selected, you do not get to choose which skill)
+, and can be claimed once per trek as a reward.
+Around 40 treks an hour are possible fully focusing (and if skipping all combat), and with the average XP tome granting 1375 XP, 55,000 XP across all skills can be expected, an average of around 7800 XP per skill. A more leisurely 30 treks / hour results in around 41,250 - around 5800XP / skill.
+Skill
+XP per hour (avg)
+Slayer
+5800 - 7800
+Agility
+5800 - 7800
+Firemaking
+5800 - 7800
+Fishing
+5800 - 7800
+Mining
+5800 - 7800
+Thieving
+5800 - 7800
+Woodcutting
+5800 - 7800
+Total
+41,250 - 55,000
+v
+t
+e
+Skill training guides
+Free-to-play guides
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Members' guides
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+Ironman guides
+Money making
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+Ultimate Ironman guides
+Item management
+Equipment
+Quests
+Minigames
+Money making
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+General guidelines
+Efficiency

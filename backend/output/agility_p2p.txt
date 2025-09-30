@@ -1,0 +1,566 @@
+--- Skill: Agility (P2P) ---
+
+Agility training
+Agility training
+Agility
+training involves a lot of point-clicking and some methods may require a lot of focus to maximise experience gain. Higher
+Agility
+level increases one's ability to regenerate
+run energy
+and grants access to various
+shortcuts
+.
+For the fastest rates, players should always run and use
+stamina potions
+(or some other form of run energy restoration) to maintain run energy if needed. Keeping
+weight at 0 or below
+is helpful, but not necessary. It is recommended to boost the Agility level by using
+summer pies
+or
+agility potions
+to train on a higher-level course earlier than it is available. Players who are failing obstacles very frequently or have low
+Hitpoints
+are advised to bring some food to restore health.
+Contents
+1
+Fastest experience
+1.1
+Levels 1–26/33: Questing
+1.2
+Levels 20–47: Brimhaven Agility Arena
+1.3
+Levels 47–62: Wilderness Agility Course
+1.4
+Levels 62–99: Hallowed Sepulchre
+2
+Other methods
+2.1
+Levels 1–99: Rooftop Agility Courses
+2.2
+Levels 15–40: Edgeville Dungeon monkeybars
+2.3
+Levels 15–74: Barbarian Fishing
+2.4
+Levels 30+: Agility Pyramid
+2.5
+Levels 40/50+: Brimhaven Agility Arena
+2.6
+Levels 48–52/60: Ape Atoll Agility Course
+2.7
+Levels 45–52/60: Shayzien Advanced Agility Course
+2.8
+Levels 50/62: Colossal Wyrm Agility Course
+2.9
+Levels 60–80/90: Werewolf Agility Course
+2.10
+Levels 75–99: Prifddinas Agility Course
+3
+References
+Fastest experience
+Levels 1–26/33: Questing
+Early levels can be skipped by completing
+quests that give Agility experience
+. Completing
+The Tourist Trap
+(using experience on Agility two times),
+Recruitment Drive
+,
+The Depths of Despair
+and
+The Grand Tree
+will grant a total of 19,700 experience, which will get the player from level 1 to 33. These quests can be easily done at a low level and they have little requirements, however all of them involve some sort of combat. Notably, the experience rewards from The Tourist Trap alone are enough to get the player from level 1 to 26, and it is faster to complete the quest than train on the low-level Agility courses.
+Levels 20–47: Brimhaven Agility Arena
+Brimhaven Agility Arena
+offers the fastest experience from level 20 to 47. Players must have 200 coins to pay the entry fee for the course. Level 40 is required to pass all obstacles in the course, but the
+Floor spikes
+trap provides the fastest experience rate and only requires Level 20 to pass. By repeatedly passing this trap, players can gain up to 30,000 experience per hour as low as level 15 with the use of
+Summer pie
+to boost your agility level. Bringing food is advised as you will occasionally fail the trap.
+Approximately every 60 seconds a pillar in the arena will activate (signified with a yellow arrow) and will improve experience rates if tagged, increasing by 30 XP every 10 levels. It will additionally reward the player with
+Agility arena tickets
+which can be traded in to
+Pirate Jackie the Fruit
+at the Arena entrance for additional experience. As your agility level increases it becomes more worth it to tag them for the additional experience.
+At level 40 you will be able to pass every obstacle in the arena, and you can then expect to gain around 45,000-50,000 experience per hour when tagging every pillar and using the floor spikes trap during the downtime. This is without the use of
+Karamja gloves
+; wearing
+Karamja gloves 2
+or above will increase the experience rates from passing obstacles and trading in tickets by 10%.
+Additionally, the floor spike obstacle can be used, which is very AFK and can achieve approx 36,000 experience per hour. Using the "Detached Camera" plugin, you can click a single tile to repeatedly jump back and forth. If the nearby ticket dispensers are active, tagging them can provide some extra experience.
+Levels 47–62: Wilderness Agility Course
+The
+Wilderness Agility Course
+offers the fastest experience rates from level 47 to 62. Level 52 is normally required to enter the course, but this can be boosted from level 47 with a
+summer pie
+. However, level 49 is required to pass the pipe obstacle, requiring occasional re-boosting if below.
+The easiest way to get there is to break an
+Ice Plateau Teleport tablet
+and run slightly south-east. Because this method involves the deep Wilderness, players should keep the risk to the minimum as there is a good chance of encountering
+player killers
+. Bring some summer pies to boost the Agility level and to heal the damage taken from failing the obstacles. Additionally, bring a
+knife
+or
+Wilderness sword
+to slash
+webs
+when going to the
+Mage Arena
+to bank for more supplies.
+Boots of lightness
+and the
+spottier cape
+can be worn to reduce weight.
+The experience bonus, agility ticket, and run energy refill at the end of the lap is only received if the player has passed all the obstacles in order. If the player fails the log balance, walk past the stepping stones to cross it again to be able to receive the completion bonus.
+Players can gain around 50,000–60,000 experience per hour when including fails and wilderness agility tickets. It also provides alchables, noted
+blighted items
+, and
+medium clue scrolls
+, making it a potentially
+lucrative money maker
+, even for
+Ironmen
+.
+Levels 62–99: Hallowed Sepulchre
+Main article:
+Hallowed Sepulchre/Strategies
+The Hallowed Sepulchre.
+The
+Hallowed Sepulchre
+offers the fastest experience from level 62 onwards. In the Sepulchre, the player will need to run through each floor while avoiding various traps. Doing so as quickly as possible requires good practice and timing, especially on the later floors.
+To access the Hallowed Sepulchre, players must have completed
+Sins of the Father
+. Having level 66
+Thieving
+to be able to loot the
+Grand Hallowed Coffin
+on floor 5 is recommended. If looting the other coffins on floors 4 and 5, the player will also need the following:
+56
+Construction
+to pass
+broken bridges
+54
+Prayer
+to pass
+Saradomin braziers
+7+
+Magic
+to pass
+portal frames
+62
+Ranged
+to pass
+pillars
+Use stamina potions (or some other form of run energy restoration) to restore run energy. Using the
+obelisks
+to restore run energy is slower than drinking stamina potions, and with enough mistakes it is possible to run out of run energy during the floor.
+The activity becomes highly profitable at level 92 Agility, where the player can loot the
+Grand Hallowed Coffin
+. Most of the profit comes from the
+ring of endurance
+, with the hourly profit currently being
+1,877,320.77
+. Players can also loot the
+coffins
+on floors 4 and 5 for extra profit, though this will lower the experience rates slightly. Looting the coffins on floors 1–3 is not recommended except for obtaining
+hallowed marks
+, as they offer much lower profit compared to the later floors.
+For 200 hallowed marks, players can unlock a private instance by speaking to the
+Mysterious stranger
+. In a private instance the floors will always spawn on the same trap rotation. This makes the floors more predictable, which will increase long-term experience rates.
+The experience rates in the table below assume having good practice and using a private instance. Expect lower rates when learning. The maximum experience rate caps at around 102,000–105,000 experience per hour, or 105,000–108,000 experience per hour without looting the Grand Coffin.
+Floor
+level
+Floor XP
+Cumulative XP
+Avg. floor completion time (s)
+Downtime (s)
+XP/h (grand coffin)
+XP/h (F4–F5 looting)
+1
+52
+575
+575
+31
+15
+45,000
+N/A
+2
+62
+925
+1,500
+41
+9
+56,300
+N/A
+3
+72
+1,600
+3,100
+58
+8
+68,900
+N/A
+4
+82
+2,875
+5,975
+100
+8
+79,700
+75,000
+5
+92
+5,725
+11,700
+136
+22
+98,500
+85,800
+Other methods
+Levels 1–99: Rooftop Agility Courses
+A mark of grace.
+Rooftop Agility Courses
+are slower but straightforward and less attention-intensive alternatives to the faster training methods. While training on one of the rooftop courses, there is a chance of finding a
+mark of grace
+. These can be used to purchase the pieces of the
+graceful outfit
+,
+recolour
+existing pieces of the graceful outfit, or purchase
+amylase crystals
+which can be sold for profit. Considering the GE price of
+amylase crystals
+, each mark of grace is worth
+9,830 coins
+.
+As rooftop courses are less attention-intensive it allows you to integrate other training methods while navigating the course, such as
+High Level Alchemy
+or
+Fletching training
+using
+Dart
+tips.
+Marks of grace despawn after 10 minutes, so it is recommended to pick them up as they appear. However, on the
+Ardougne Rooftop Course
+the marks can only spawn on one tile, which stacks the marks and resets the 10-minute timer. The spawn rate of marks on any rooftop course (excluding the Canifis Rooftop Course) is reduced to 20% of the normal rate once the player reaches 20 Agility levels higher than the requirement of that rooftop course.
+[
+1
+]
+For example, a player training on the Seers' Village course will get the reduced rate at level 80.
+There are non-rooftop courses that also award marks, either directly like the
+Werewolf Agility Course
+or indirectly via their own currency like the
+Colossal Wyrm Course
+. For a full list of sources of marks and approximate rates refer to
+Mark of grace§Marks of grace per hour
+.
+levels
+Course
+XP/h
+Est.
+/h
+Notes
+1–20
+Draynor Village
+9,000-10,000
+11.0–12.4
+Draynor Village Rooftop lap count required:38
+20–30
+Al Kharid
+11,000–12,000
+10.4–11.4
+30–40
+Varrock
+11,000–14,000
+8.4–10.8
+40–50
+Canifis
+14,000–17,000
+12.8–15.5
+This course offers relatively high marks of grace per hour for its level, with the caveat of having relatively low xp rates. Notably, the spawn rate for marks on this course does not decrease after reaching level 60.
+50–60
+Falador
+29,000–34,000
+9.7–11.3
+60–70
+Seers' Village
+Hard diary: 50,000–56,000
+No hard diary: 40,000–44,000
+Hard diary: 14.3–16.0
+Medium diary: 12.8–14.1
+Easy diary: 12.3–13.5
+No diary: 11.8–13.0
+The hard
+Kandarin Diary
+reward allows the player to toggle the
+Camelot Teleport
+location to just outside (south) of the Seers' bank, right in front of the start of the agility course. Using this teleport is required for the fastest rates on this course.
+70–80/90
+Pollnivneach
+Hard diary:
+53,000–58,000
+No hard diary: 47,000–51,000
+13-14
+Completion of the
+hard Desert Diary
+increases the experience gained from this course and is required for the fastest experience rates.
+80–90
+Rellekka
+Hard diary: 59,000–63,000
+No hard diary: 50,000–53,000
+13–15.5
+Completion of the
+hard Fremennik Diary
+increases the experience gained from this course and is required for the fastest experience rates.
+90–99
+Ardougne
+66,000–70,000
+Elite diary: 20.9–22.1
+No elite diary: 16.8–17.9
+Completing the elite
+Ardougne Diary
+grants more marks of grace per hour. Because marks of grace can only spawn on one tile on this course, players do not need to pick up the marks immediately as they spawn, since spawning a new mark resets the despawn timer of the whole stack, allowing them to stay on the ground for as long as the player continues doing laps.
+Levels 15–40: Edgeville Dungeon monkeybars
+Repeatedly crossing the
+monkeybar shortcut
+in the
+Edgeville Dungeon
+offers up to 13,200 experience per hour. With the right camera angle, it is possible to keep the mouse cursor in one spot and continuously click. Because the monkeybars are located in the Wilderness, the player may get attacked by
+player killers
+.
+Levels 15–74: Barbarian Fishing
+Barbarian Fishing
+grants small amounts of passive Agility and
+Strength
+experience. Levelling Fishing from level 58 to 99 by Barbarian Fishing would get the player from level 30 Agility to 74. If the player plans to train Fishing through Barbarian Fishing at any point, it is best to do so before training Agility as it would allow the player to skip the slower low-level methods.
+Levels 30+: Agility Pyramid
+A player training on the Agility Pyramid.
+The
+Agility Pyramid
+is a straightforward, profitable method of training agility with little requirements. Before reaching higher levels the failure rate may slow progress, but each completion of the pyramid awards a
+Pyramid top
+worth
+10,000
+coins
+when traded to
+Simon Templeton
+. Roughly 13 completions can be made per hour at early levels (30-50), for
+130,000
+gp/hour and 25,000 experience per hour. Upwards of 26 completions per hour can be made at higher levels, (70-99), for
+260,000
+gp/hour and approximately 44,000 experience per hour.
+Levels 40/50+: Brimhaven Agility Arena
+The
+Brimhaven Agility Arena
+offers a different approach to training agility. Every minute a ticket dispense will be marked, requiring you to navigate the course to 'tag' the pillar to receive a
+Agility arena ticket
+, which can be exchanged with Pirate Jackie the Fruit for 345
+Agility
+experience
+per ticket. Players wearing
+Karamja gloves 2
+,
+3
+or
+4
+will receive an additional 10% experience, giving 379.5 Agility experience per ticket.
+Experience rates vary depending on the player's Agility level. At level 99, expect to be able to achieve up to 67,000 Agility experience per hour. At level 40 Agility, players can earn roughly 28,000 XP per hour (or 30,000 experience per hour with Karamja gloves 2). At level 80 agility, players can earn roughly 35,000 experience per hour (or roughly 37,000 experience per hour with Karamja gloves 2). If the Elite tier of the Karamja Diary is complete, players can expect roughly 2,277 experience per hour added onto these rates (regardless of Agility level).
+Additionally, the floor spike trap obstacle just south west of the entrance can be used, which is very low focus and can achieve approximately 36,000 experience per hour. This can be used in one of two ways:
+Using the "Detached Camera"  runelite plugin, you can click a single tile to repeatedly jump back and forth.
+Using the GPU runelite plugin with "Draw distance" set high enough for you to be able to see the area beyond the arena's wall to the east. First cross the spike trap once to position your character correctly, then repeatedly anywhere beyond the arena walls to the east. If done correctly your character will run back and forth over the spike trap. This can be resumed if you stop clicking as long as you don't move your character away from the tiles they stand on after crossing the trap. If you need to reset your character just manually cross the trap and resume clicking outside the arena walls
+(video example)
+.
+If the nearby ticket dispensers are active, tagging them can provide some extra experience.
+Levels 48–52/60: Ape Atoll Agility Course
+The
+Ape Atoll Agility Course
+is a viable alternative for players who have completed chapter 2 of
+Monkey Madness I
+. To access this course, players must wear a
+ninja monkey greegree
+(either variant will work) or a
+Kruk greegree
+. Any other type of
+monkey greegree
+will not work.
+Boosts
+cannot be used to enter the course before level 48 Agility.
+Players can gain around 30,000–35,000 experience per hour at level 48, increasing to around 45,000–50,000 experience per hour at higher levels. Players stop failing the obstacles at level 75, from which point onwards it is possible to gain up to 55,000 experience per hour. Completing 2,000 laps of this course will additionally unlock all
+Monkey Backpacks
+, making it worthwhile for player wanting these cosmetic rewards.
+Levels 45–52/60: Shayzien Advanced Agility Course
+The
+Shayzien Advanced Agility Course
+is an alternative for players who cannot access the Ape Atoll Agility Course or do not wish to train on the Wilderness Agility Course. Completing this course requires a
+crossbow
+and a
+mith grapple
+. Players can gain around 35,000 experience per hour at level 45.
+Levels 50/62: Colossal Wyrm Agility Course
+The
+Colossal Wyrm Agility Course
+is a less click-intensive course that offers an alternative way to get
+Amylase crystals
+. The course rewards
+blessed bone shards
+for
+Prayer
+xp, and
+Termites
+, which can be traded in with
+Worm Tongue
+for a unique
+graceful recolour
+,
+calcified acorn
+,
+colossal wyrm teleport scrolls
+, and
+Amylase packs
+. The Amylase packs can also be sold to
+Grace
+for 8 marks of grace each, which makes the advanced course the fastest way to get marks of grace until the Ardougne rooftop course at level 90.
+There are two routes, the basic course requires 50 Agility and gives up to 30,000 xp/hr, and the advanced course requires 62 Agility and gives up to 41,000 xp/hr. The advanced route requires only 6 clicks per 60-second lap, with two sections of the course allowing a full 20 seconds of AFK time each.
+Levels 60–80/90: Werewolf Agility Course
+The
+Werewolf Agility Course
+is an alternative for those who seek for both decent experience rates and marks of grace. To access this course, players must have completed
+Creature of Fenkenstrain
+and wear a
+ring of charos
+. Consider switching to the Rellekka or Ardougne Rooftop Agility Course at level 80 or 90, respectively, as they offer similar experience rates and greater marks of grace per hour.
+While this course requires level 60 Agility to use, players can use
+summer pies
+to boost to level 60 even at level 55. At levels 72 (and 93), the chance of failure on the Death Slide is significantly reduced. With level 80 in Agility and Strength, the death-slide can no longer be failed, provided the player's weight is below 2kg.
+With good concentration and timing, players can gain up to around 50,000–55,000 experience per hour at lower levels and 67,000–68,000 experience per hour at higher. The
+Agility Trainer
+(the NPC the player returns the stick to) can be trapped into place by having another account talking to him, which increases experience rates slightly, up to 70,000 experience per hour at higher levels. In addition, players can get about 10–15 marks of grace per hour.
+Levels 75–99: Prifddinas Agility Course
+The
+Prifddinas Agility Course
+offers a less click-intensive training option from level 75 onwards, being similar to the
+Rooftop Agility Courses
+. Players must have completed
+Song of the Elves
+to access this course. Players can find
+crystal shards
+by using portals that randomly appear around the course, which act as shortcuts. These portal shortcuts are unique to each player, and grant the player a crystal shard every time they pass through them.
+Players can gain up to around 60,000 experience per hour at level 75, increasing to 65,000 experience per hour from level 90 onwards. Expect lower rates if idling. At maximum rates, players can also find 48.5 crystal shards per hour, worth approximately
+844,748.75 coins
+if used to create
+divine super combat potions
+.
+References
+^
+Jagex.
+Mod Ash's Twitter account
+. 3 August 2015.  Archived from
+the original
+on 25 May 2020. Mod Ash: "If your unboosted level is 20 higher than required for the course, the rate is reduced to 20% of its normal rate."
+v
+t
+e
+Skill training guides
+Free-to-play guides
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Members' guides
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+Ironman guides
+Money making
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+Ultimate Ironman guides
+Item management
+Equipment
+Quests
+Minigames
+Money making
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+General guidelines
+Efficiency
+v
+t
+e
+Agility
+Guides
+Agility
+Level up table
+Skill guide
+Calculators
+Experience
+Agility Arena tickets

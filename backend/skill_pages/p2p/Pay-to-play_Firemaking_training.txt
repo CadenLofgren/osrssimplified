@@ -1,0 +1,208 @@
+This article gives tips about training the Firemaking skill.
+
+## Contents
+
+- 1 Levels 1–99: Burning logs
+- 2 Other methods 2.1 Levels 1–99: Burning logs on a campfire 2.2 Levels 1–50: Creating pyre logs 2.3 Levels 50–99: Wintertodt
+- 2.1 Levels 1–99: Burning logs on a campfire
+- 2.2 Levels 1–50: Creating pyre logs
+- 2.3 Levels 50–99: Wintertodt
+- 3 Quests for Firemaking experience
+- 2.1 Levels 1–99: Burning logs on a campfire
+- 2.2 Levels 1–50: Creating pyre logs
+- 2.3 Levels 50–99: Wintertodt
+
+## Levels 1–99: Burning logs[edit|edit source]
+
+20000 |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+Burning logs is one of the fastest ways to train Firemaking. The best place to do this is at the eastern part of the Grand Exchange . The area has a lot of empty space and the bank is only one tile away from an area a log can be burned. When correctly timed, the player can move to another square in between lighting the logs, which allows the player to burn the logs in any formation. With fast enough banking and accurate clicks, it is possible to keep lighting the logs tick-perfectly every 4 ticks. Having noted logs in the inventory and unnoting them at the banker is recommended over using the bank interface.
+An easier but a slower method is to simply burn logs in a row from east to west. The best place to do this is at Varrock : use Varrock Teleport , light the logs from the fountain and bank at the Varrock west bank . Alternatively, players can use Camelot Teleport and bank at Seers' Village .
+The table below assumes 1,485 logs are burned per hour. Due to lower rates of success, it is recommended to use campfires for levels below around 35. However, since coloured logs are guaranteed to be lit successfully, these can be used without campfires.
+Levels | Log type | Experience | XP/h | Logs needed | Log price | Money spent | GP/XP
+1–30 | Red logs | 50 | 74,250 [ 1 ] | 268 | 192 | −51,456 | -3.84
+30–35 | Willow | 90 | 107,000 [ 2 ] | 101 | 46 | −10,166 | -0.51
+35–42 | Teak | 105 | 138,000 [ 2 ] | 221 | 258 | −57,018 | -2.46
+42–45 | Arctic pine | 125 | 185,625 | 128 | 505 | −64,640 | -4.04
+45–50 | Maple | 135 | 200,475 | 295 | 21 | −6,195 | -0.16
+50–60 | Mahogany | 157.5 | 233,887 | 1,095 | 375 | −410,625 | -2.38
+60–75 | Yew | 202.5 | 300,712 | 4,626 | 209 | −966,834 | -1.03
+75–90 | Magic | 303.8 | 451,143 | 13,614 | 872 | −11,871,408 | -2.87
+90–99 | Redwood | 350 | 519,750 | 21,966 | 868 | −19,066,488 | -2.48
+- ^ Logs burnt with a firelighter applied to them light successfully at the first attempt, and provide an additional 10 experience per log. The cheapest firelighter is currently the Red firelighter .
+- ^ 2.0 2.1 Includes some time lost to failed attempts when lighting the logs.
+Money spent in total, when not using coloured logs: −32,464,629
+
+## Other methods[edit|edit source]
+
+
+## Levels 1–99: Burning logs on a campfire[edit|edit source]
+
+Burning logs on a forester's campfire is a low-effort alternative to the faster methods. Choose a location where a campfire can be lit right next to a bank, such as the Grand Exchange , Rogues' Den , or the Crafting Guild . Burning an inventory of logs takes around 150 seconds.
+Experience rates and costs are shown in the table below. The first log added to the campfire takes 6 ticks to burn, and the following logs take 9 ticks. Allowing the logs to continue to be added to the campfire automatically results in roughly 665 logs burned per hour, while tending to the campfire manually while holding down spacebar results in up to 975 logs per hour.
+Log type | Levels | XP ea | XP/h Automatic | XP/h Manual | Logs needed | Log price | GP/XP | Money spent
+ | Logs | 1–15 | 40 | 26,600 | 39,000 | 61 | −125 | -3.12 | −7,625
+ | Oak logs | 15–30 | 60 | 39,900 | 58,500 | 183 | −50 | -0.83 | −9,150
+ | Willow logs | 30–35 | 90 | 59,850 | 87,750 | 101 | −46 | -0.51 | −4,646
+ | Teak logs | 35–42 | 105 | 69,825 | 102,375 | 221 | −258 | -2.46 | −57,018
+ | Arctic pine logs | 42–45 | 125 | 83,125 | 121,875 | 128 | −505 | -4.04 | −64,640
+ | Maple logs | 45–50 | 135 | 89,775 | 131,625 | 295 | −21 | -0.16 | −6,195
+ | Mahogany logs | 50–60 | 157.5 | 104,737 | 153,562 | 1,095 | −375 | -2.38 | −410,625
+ | Yew logs | 60–75 | 202.5 | 134,662 | 197,437 | 4,626 | −209 | -1.03 | −966,834
+ | Magic logs | 75–90 | 303.8 | 202,027 | 296,205 | 13,614 | −872 | -2.87 | −11,871,408
+ | Redwood logs | 90–99 | 350 | 232,750 | 341,250 | 21,966 | −868 | -2.48 | −19,066,488
+Total money spent with this method: −32,464,629
+To reduce cost, the more expensive logs like hardwoods and magic logs can be skipped over, resulting in this alternative progression:
+Logs | Levels | Exp | XP/h Automatic | XP/h Manual | Logs needed | Log price | GP/XP | Money spent
+ | Logs | 1-15 | 40 | 26,600 | 39,000 | 61 | −125 | -3.12 | −7,625
+ | Oak logs | 15-30 | 60 | 39,900 | 58,500 | 183 | −50 | -0.83 | −9,150
+ | Willow logs | 30-45 | 90 | 59,850 | 87,750 | 535 | −46 | -0.51 | −24,610
+ | Maple logs | 45-60 | 135 | 89,775 | 131,625 | 1,573 | −21 | -0.16 | −33,033
+ | Yew logs | 60-90 | 202.5 | 134,662 | 197,437 | 25,050 | −209 | -1.03 | −5,235,450
+ | Redwood logs | 90-99 | 350 | 232,750 | 341,250 | 21,966 | −868 | -2.48 | −19,066,488
+Total money spent with this method: −24,376,356
+
+## Levels 1–50: Creating pyre logs[edit|edit source]
+
+ | Due to an update , the information in this article may be out-of-date. Reason: As of 31 July 2024 update you need to either use the make-all interface or 1t them; need exp rates for both methods You can help improve it by updating the information.
+Creating pyre logs is a slow but potentially profitable alternative to burning logs at lower levels. This is done by using sacred oil on logs, which requires completion of the Shades of Mort'ton quest . Pyre logs can be created at level 1, even if the logs would require a higher level to burn.
+While creating pyre logs requires the usage of a make-all interface, it is possible to rapidly create pyre logs by holding down space and rapidly using sacred oil on logs, similar to 1-tick cooking karambwans.
+Experience rates vary depending on click speed and accuracy. Players can gain around 55,000 experience per hour with typical click speeds, including banking and given that one pyre log is made per tick (0.6 seconds). It is possible to get much higher rates, but they realistically cap at around 80,000 experience per hour for fastest sustainable click speeds.
+Note : Prices may vary, and re-selling the pyre logs might prove difficult if demand is low. Check trade volume and actual prices in the Grand Exchange before using this method for profit.
+Input | Output logs | Profit | XP | GP/XP
+Logs | Oil doses
+ | Regular | 125 | (2) | 1,118 |  | Regular pyre | 1,897 | 654 | 10 | 65.40
+ | Oak | 50 | (2) | 1,118 |  | Oak pyre | 1,706 | 538 | 10 | 53.80
+ | Willow | 46 | (3) | 2,541 |  | Willow pyre | 2,862 | 275 | 15 | 18.33
+ | Teak | 258 | (3) | 2,541 |  | Teak pyre | 3,143 | 344 | 15 | 22.93
+ | Arctic pine | 505 | (2) | 1,118 |  | Arctic pyre | 1,826 | 203 | 10 | 20.30
+ | Maple | 21 | (3) | 2,541 |  | Maple pyre | 2,182 | −380 | 15 | -25.33
+ | Mahogany | 375 | (3) | 2,541 |  | Mahogany pyre | 2,648 | −268 | 15 | -17.87
+ | Yew | 209 | (4) | 2,470 |  | Yew pyre | 2,792 | 113 | 20 | 5.65
+ | Magic | 872 | (4) | 2,470 |  | Magic pyre | 3,902 | 560 | 20 | 28.00
+ | Redwood | 868 | (4) | 2,470 |  | Redwood pyre | 3,990 | 652 | 20 | 32.60
+
+## Levels 50–99: Wintertodt[edit|edit source]
+
+Subduing Wintertodt from level 50 Firemaking onwards is a slower, but profitable and low-effort alternative to burning logs. It also grants passive Woodcutting experience from chopping the bruma roots , and the Pyromancer outfit , which increases Firemaking experience by 2.5%.
+The fastest way to gain Firemaking experience from Wintertodt is to be on an official World (307, 309, 311, 389), which have fast games that usually last around 4 minutes. Light a brazier as soon as the round starts, chop bruma roots until you have a full inventory and burn them in the brazier. Fix and relight the brazier if needed. Fletching the bruma roots into kindlings is only recommended when the player would not meet the 500-point mark for the extra experience gained at the end of the round. Otherwise, bruma roots should not be fletched into kindlings as this significantly hampers experience rates.
+Players can gain extra experience in between rounds by doing other activities during the downtime, such as burning logs, fletching darts or making jugs of wine .
+Experience rates scale depending on the player's level. It takes around 600 rounds and 50 hours (assuming an average kill length of 4 minutes and a 60 second pause) to get from level 50 to level 99 Firemaking if you fletch every log, and about 500 rounds and 40 hours if you do not.
+level | experience per hour | level | experience per hour
+50 | 161,000 | 50 | 10,000
+60 | 193,000 | 60 | 12,000
+70 | 226,000 | 70 | 15,000
+80 | 258,000 | 80 | 17,000
+90 | 290,000 | 90 | 19,000
+99 | 320,000 | 99 | 21,000
+
+## Quests for Firemaking experience[edit|edit source]
+
+Quest | Experience reward | Firemaking requirement | Other requirements | Enemy to defeat
+The Giant Dwarf | 1,500 | 16 | 12 , 33 , 14 | None
+Heroes' Quest | 1,575 | - | 55 , 53 , 53 , 25 , 50 | Multiple high level NPCs
+Enlightened Journey | 4,000 | 20 | 20 , 30 , 36 | None
+Enakhra's Lament | 7,000 | 45 | 50 , 43 , 39 , 45 | None
+Making Friends with My Arm | 40,000 | 66 | 35 , 72 , 68 | Multiple high level NPCs
+Total | 54,075 |  | 
+v t e Skill training guides
+Free-to-play guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft
+Members' guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ironman guides | Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ultimate Ironman guides | Item management Equipment Quests Minigames Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+General guidelines | Efficiency
+- v
+- t
+- e
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Item management
+- Equipment
+- Quests
+- Minigames
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Efficiency

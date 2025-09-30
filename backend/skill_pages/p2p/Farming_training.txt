@@ -1,0 +1,523 @@
+Farming training focuses heavily on doing tree runs , which is a recurring training method. Much like daily events and recurring money making methods , tree runs give Farming experience passively over time since it is possible to only do 1 or 2 runs per day. Instead of actively training the skill for hours, players only spend a few minutes to do a run, gaining a lot of Farming experience during that short amount of time, and then do other activities while waiting for the patches to grow. While trees take a very long while to grow in real time, players spend very little time actively doing tree runs.
+Doing tree runs costs money, and certain saplings and protection payments can be quite expensive. It is recommended to have a decent amount of money to be able to buy a lot of Farming supplies at once, and have a good money making method to sustain the cost of doing tree runs. Herb runs are often highly profitable and they also offer a fair amount of Farming experience, but usually it is better to look into money making alternatives that offer better profit.
+
+## Contents
+
+- 1 Starting off 1.1 Levels 1–38: Questing 1.2 Levels 1–15: Bagged plants 1.3 Levels 1–15: Making supercompost/ultracompost 1.4 Levels 1–15: Farming allotments 1.5 Levels 1–15: Sorceress's garden
+- 1.1 Levels 1–38: Questing
+- 1.2 Levels 1–15: Bagged plants
+- 1.3 Levels 1–15: Making supercompost/ultracompost
+- 1.4 Levels 1–15: Farming allotments
+- 1.5 Levels 1–15: Sorceress's garden
+- 2 Levels 15–99: Tree runs 2.1 Recommended quests and stats 2.2 General information and tips 2.3 Setup
+- 2.1 Recommended quests and stats
+- 2.2 General information and tips
+- 2.3 Setup
+- 3 Example tree runs 3.1 Example low-level tree run 3.1.1 Items needed 3.1.2 Doing the run
+- 3.1 Example low-level tree run 3.1.1 Items needed 3.1.2 Doing the run
+- 3.1.1 Items needed
+- 3.1.2 Doing the run
+- 4 Other methods 4.1 Herb runs 4.1.1 Setup 4.1.2 Allotment runs 4.1.3 GP/XP calculations 4.2 Tithe Farm
+- 4.1 Herb runs 4.1.1 Setup 4.1.2 Allotment runs 4.1.3 GP/XP calculations
+- 4.1.1 Setup
+- 4.1.2 Allotment runs
+- 4.1.3 GP/XP calculations
+- 4.2 Tithe Farm
+- 5 See also
+- 1.1 Levels 1–38: Questing
+- 1.2 Levels 1–15: Bagged plants
+- 1.3 Levels 1–15: Making supercompost/ultracompost
+- 1.4 Levels 1–15: Farming allotments
+- 1.5 Levels 1–15: Sorceress's garden
+- 2.1 Recommended quests and stats
+- 2.2 General information and tips
+- 2.3 Setup
+- 3.1 Example low-level tree run 3.1.1 Items needed 3.1.2 Doing the run
+- 3.1.1 Items needed
+- 3.1.2 Doing the run
+- 3.1.1 Items needed
+- 3.1.2 Doing the run
+- 4.1 Herb runs 4.1.1 Setup 4.1.2 Allotment runs 4.1.3 GP/XP calculations
+- 4.1.1 Setup
+- 4.1.2 Allotment runs
+- 4.1.3 GP/XP calculations
+- 4.2 Tithe Farm
+- 4.1.1 Setup
+- 4.1.2 Allotment runs
+- 4.1.3 GP/XP calculations
+
+## Starting off[edit|edit source]
+
+
+## Levels 1–38: Questing[edit|edit source]
+
+Early levels can be skipped by completing quests that give Farming experience . Completing the Goblin generals subquest of Recipe for Disaster , Fairytale I - Growing Pains , Forgettable Tale... (requires 17 Farming), The Garden of Death (requires 20 Farming), Garden of Tranquillity (requires 25 Farming), Enlightened Journey (requires 30 Farming), and My Arm's Big Adventure (requires 29 Farming) grants a total of 32,500 experience, which will get the player up to level 38. This skips much of the tedium of low-level Farming and allows the player to do effective farm runs immediately.
+
+## Levels 1–15: Bagged plants[edit|edit source]
+
+The fastest way to train the early levels is to plant bagged plants in the player-owned house . However, it is significantly more expensive than planting seeds.
+If the garden supplier does not have enough stock, players can hop worlds to buy more bagged plants.
+The quickest way to plant them, assuming that your house is in Rimmington , is to bring three watering cans, a stack of coins, and as many noted bagged plants as you can afford. You can hand your notes to Phials to un-note them (for a small fee) and refill your watering cans in the building just east of the well.
+Right-click the plant space and click on Build. To make the process even faster, spam the 1 button while planting and removing the bagged plants. This will select the bagged plant and confirm the removal, allowing you to plant and remove plants very quickly.
+Bagged plants are one of the only ways to actively train farming without waiting for anything to grow.
+Level | Plant | Experience | GE Price | GP/XP
+1 |  | Bagged plant 1 | 31 | −1,840 | -59.35
+6 |  | Bagged plant 2 | 70 | −6,345 | -90.64
+12 |  | Bagged plant 3 | 100 | −12,177 | -121.77
+5 |  | Bagged dead tree | 31 | −1,441 | -46.48
+10 |  | Bagged nice tree | 44 | −2,814 | -63.95
+15 |  | Bagged oak tree | 70 | −6,659 | -95.13
+30 |  | Bagged willow tree | 100 | −13,094 | -130.94
+45 |  | Bagged maple tree | 122 | −18,761 | -153.78
+60 |  | Bagged yew tree | 141 | −22,733 | -161.23
+75 |  | Bagged magic tree | 223 | −54,816 | -245.81
+56 |  | Thorny hedge (bagged) | 72 | −5,660 | -78.61
+60 |  | Nice hedge (bagged) | 100 | −11,701 | -117.01
+64 |  | Small box hedge (bagged) | 122 | −15,898 | -130.31
+65 |  | Topiary hedge (bagged) | 141 | −24,790 | -175.82
+72 |  | Fancy hedge (bagged) | 158 | −27,748 | -175.62
+76 |  | Tall fancy hedge (bagged) | 223 | −49,245 | -220.83
+80 |  | Tall box hedge (bagged) | 316 | −113,304 | -358.56
+66 |  | Bagged flower | 70 | −6,009 | -85.84
+66 |  | Bagged sunflower | 70 | −6,548 | -93.54
+71 |  | Bagged daffodils | 100 | −11,262 | -112.62
+71 |  | Bagged marigolds | 100 | −11,569 | -115.69
+76 |  | Bagged bluebells | 122 | −17,488 | -143.34
+76 |  | Bagged roses | 122 | −16,707 | -136.94
+
+## Levels 1–15: Making supercompost/ultracompost[edit|edit source]
+
+Another option to train the early levels is to make supercompost or ultracompost in a compost bin . Each bucket of supercompost grants 8.5 farming experience, or 10 experience with the addition of volcanic ash to produce ultracompost .
+Watermelons and pineapples are the easiest candidates for the produce used, with the latter easily purchased in convenient quantities from Trader Stan's Trading Post .
+
+## Levels 1–15: Farming allotments[edit|edit source]
+
+- Seed Table
+- Farming/Patch locations
+- Farming runs
+
+## Levels 1–15: Sorceress's garden[edit|edit source]
+
+In the Sorceress's Garden minigame , players can pick sq'irk fruits or herbs from the gardens. No Thieving level is required, but a higher Thieving level increases Thieving experience rates. Picking a sq'irk from the tree yields 30, 40, 50, or 60 Farming experience depending on the room's season. Completing the winter garden to 15 requires 81 laps. Picking from the herb patch yields 50 Farming experience and two random herbs from any garden which requires 49 laps.
+This method, once the gardens are set up correct for 1-click methods, is one of the least click-intensive ways to train. Training using only this method from 65 to 99 Thieving yields 503,520 Farming experience.
+
+## Levels 15–99: Tree runs[edit|edit source]
+
+Tree runs are the most effective way to gain Farming experience . To do this, plant the highest-tier tree , fruit tree , and hardwood tree saplings available, along with the special tree saplings ( calquat , celastrus , crystal , and redwood ). After the trees have grown, check the health of a fully grown tree for Farming experience, pay the gardener to chop down the tree, then replant the tree. Repeat until all patches have been checked and replanted.
+While tree runs are a passive training method, they offer by far the fastest effective experience. For example, if it took the player 5 minutes to do a tree run and the player gained 100,000 Farming experience from the run, the experience rate would effectively be 1,200,000 experience per hour (12 runs per one actively spent hour). Players would only spend 5 minutes on doing a run, then do something else while the trees grow.
+A tree run consisting of 6 magic trees , 6 dragonfruit trees , 1 calquat tree , and 1 celastrus tree takes around 5 minutes and 20 seconds. The run gives a total of 215,761.3 Farming experience when using payments, which would offer around 2,400,000 experience per actively spent hour. When including 4 mahogany trees once every 4 days and a redwood tree once every 5 days, the effective rate is around 2,500,000 experience per actively spent hour.
+Even though it is only possible to do 1 or 2 tree runs per day, doing tree runs over time ends up being much faster than doing methods that offer faster experience in real time, such as farming allotments. Tree runs should be the first priority for Farming training, and active training methods should only be done if Farming is the player's last skill to level 99. Getting level 99 Farming should take around 3–4 months at most if the player does tree runs fairly consistently.
+
+## Recommended quests and stats[edit|edit source]
+
+- Tree Gnome Village and The Grand Tree for access to spirit trees for transportation.
+- Bone Voyage for access to three hardwood patches on Fossil Island .
+- The Ribbiting Tale of a Lily Pad Labour Dispute for access to an additional hardwood patch in Varlamore .
+- Plague City for Ardougne Teleport (or Teleport to House to Rimmington ) to access Brimhaven faster via Captain Barnaby (if the player does not have access to redirection scrolls or does not have the player-owned house in Brimhaven).
+- Tai Bwo Wannai Trio to be able to use Tai bwo wannai teleport scrolls to the calquat patch. Alternatively, started Fairytale II - Cure a Queen for access to fairy rings .
+- Alternatively, started Fairytale II - Cure a Queen for access to fairy rings .
+- Started Mourning's End Part I for access to the fruit tree patch in Lletya and teleport crystals .
+- Song of the Elves for access to the crystal tree patch.
+- 40 to be able to move the player-owned house to Brimhaven
+- 40 for casting teleportation spells , although teleport tablets can be used instead.
+- Alternatively, started Fairytale II - Cure a Queen for access to fairy rings .
+
+## General information and tips[edit|edit source]
+
+Always pay the farmer to chop down the tree for replanting. This only costs a small amount of money and is much faster than chopping the tree. The celastrus tree has valuable harvest however, so it can be worthwhile to spend extra time to gather the celastrus barks .
+It is best to pay the farmer to look after the tree, so it cannot die and players are guaranteed to get the Farming experience from checking the health of the tree. The tree patch in Falador Park will never get diseased after completing the elite Falador Diary . To save money, it can be worthwhile to treat certain patches with ultracompost instead of paying the farmer to look after the tree. This is slower overall however, because the tree will occasionally die and the player would have spent time for no experience gained. Reviving a dead tree with Resurrect Crops helps to reduce the number of trees lost this way.
+Buy the saplings from the Grand Exchange . If seeking to save money, buy the tree seeds instead and grow them into saplings. Saplings are made by using a tree seed on a filled plant pot while having a gardening trowel in the inventory, using a watering can on the seedlings to water them and then waiting for them to grow into saplings. Saplings grow while stored in bank, so players do not have to have them in their inventory. Players who have level 68 Magic and have completed Dream Mentor can use Humidify spell to water the seedlings faster.
+Regular trees are usually more expensive compared to the other trees. Players who are not in a rush to level up Farming are advised to only farm fruit trees, hardwood trees and special trees for cheaper experience. Depending on the prices, it can also be worthwhile to farm palm trees instead of dragonfruit trees at higher levels, as growing dragonfruit trees costs 11.67 per experience and palm trees would only cost 4.53 per experience, including the protection payments.
+Saplings cannot be unnoted at a Tool Leprechaun. If there is not enough room to hold all the saplings needed, resupply at a bank during the run.
+Farming boosts can be used to access different tiers of the Farming Guild before obtaining the level required. The level is only checked when attempting to enter the area.
+
+## Setup[edit|edit source]
+
+2000K |  |  | 
+ |  |  | 
+ |  |  | 
+6 |  |  | 
+ |  |  | 
+ |  | 1000 | 8
+8 | 6 | 3 | 75
+ |  |  | 
+
+- Saplings 7 tree (one patch in the Farming Guild requires 65 Farming to access) 7 fruit tree (starting at 27 Farming. One patch in the Farming Guild requires 85 Farming to access) 4 hardwood (starting at 35 Farming. Three patches requires completion of Bone Voyage to access. One patch requires completion of The Ribbiting Tale of a Lily Pad Labour Dispute to access) 2 calquat (starting at 72 Farming) 1 crystal (starting at 74 Farming) 1 celastrus (starting at 85 Farming) 1 redwood (starting at 90 Farming)
+- 7 tree (one patch in the Farming Guild requires 65 Farming to access)
+- 7 fruit tree (starting at 27 Farming. One patch in the Farming Guild requires 85 Farming to access)
+- 4 hardwood (starting at 35 Farming. Three patches requires completion of Bone Voyage to access. One patch requires completion of The Ribbiting Tale of a Lily Pad Labour Dispute to access)
+- 2 calquat (starting at 72 Farming)
+- 1 crystal (starting at 74 Farming)
+- 1 celastrus (starting at 85 Farming)
+- 1 redwood (starting at 90 Farming)
+- Spade
+- Payments in bank notes (recommended) If not paying the farmer, a bottomless compost bucket containing ultracompost , or runes for Fertile Soil spell and volcanic ashes (after reading the ash covered tome )
+- If not paying the farmer, a bottomless compost bucket containing ultracompost , or runes for Fertile Soil spell and volcanic ashes (after reading the ash covered tome )
+- Coins
+- Teleport tabs or runes for Taverley house or Falador teleport, Brimhaven house or Ardougne teleport, Catherby or Camelot teleport, Lumbridge teleport and Varrock teleport.
+- Skills necklace (for the tree and fruit tree patches in the Farming Guild )
+- Ring of wealth (for access to the spirit tree at the Grand Exchange and slightly faster access to the Falador tree patch) Alternatively, Falador Teleport and Varrock Teleport to the Grand Exchange (after medium Varrock Diary) can be used instead
+- Alternatively, Falador Teleport and Varrock Teleport to the Grand Exchange (after medium Varrock Diary) can be used instead
+- Teleport crystal or its eternal version (for access to Prifddinas and Lletya)
+- Digsite pendant (for the hardwood tree patches in Fossil Island)
+- Fairy ring A J P and run south east (for the Avium Savannah hardwood tree patch)
+- Slayer ring (optional for Gnome Stronghold tree patch)
+- Tai bwo wannai teleport scroll (costs 3,192 , recommended for the calquat patch)
+- Stamina potion
+- Farmer's outfit or graceful outfit (optional)
+- 7 tree (one patch in the Farming Guild requires 65 Farming to access)
+- 7 fruit tree (starting at 27 Farming. One patch in the Farming Guild requires 85 Farming to access)
+- 4 hardwood (starting at 35 Farming. Three patches requires completion of Bone Voyage to access. One patch requires completion of The Ribbiting Tale of a Lily Pad Labour Dispute to access)
+- 2 calquat (starting at 72 Farming)
+- 1 crystal (starting at 74 Farming)
+- 1 celastrus (starting at 85 Farming)
+- 1 redwood (starting at 90 Farming)
+- If not paying the farmer, a bottomless compost bucket containing ultracompost , or runes for Fertile Soil spell and volcanic ashes (after reading the ash covered tome )
+- Alternatively, Falador Teleport and Varrock Teleport to the Grand Exchange (after medium Varrock Diary) can be used instead
+For hardwood trees, if protection payment is skipped and ultracompost ( 472 ) is used instead, growing teaks ( 35 Farming) costs 0.18 coins per experience, while mahogany trees ( 55 Farming) costs 0.20 coins per experience.
+For specialty trees, growing calquat tree ( 72 Farming) costs 0.23 coins per experience, requiring payment of 8 poison ivy berries.
+Level | Seed | Payment | Growth time | Experience | Total cost [ T 1 ] | GP/XP
+Planting | Checking | Total
+15 |  | Acorn |  | 1 basket of tomatoes | 3hr20m (5x40 min) | 14 | 467.3 | 481.3 | −659 | -1.37
+30 |  | Willow |  | 1 basket of apples | 4hr00m (6x40 min) | 25 | 1,456.5 | 1,481.5 | −698 | -0.47
+45 |  | Maple |  | 1 basket of oranges | 5hr20m (8x40 min) | 45 | 3,403.4 | 3,448.4 | −4,301 | -1.25
+60 |  | Yew |  | 10 cactus spines | 6hr40m (10x40 min) | 81 | 7,069.9 | 7,150.9 | −51,875 | -7.25
+75 |  | Magic |  | 25 coconuts | 8hr00m (12x40 min) | 145.5 | 13,768.3 | 13,913.8 | −140,898 | -10.13
+- ^ Seed Cost, Protection cost and 200 coins for removal.
+Level | Seed | Payment | Growth time | Experience | Total cost [ F 1 ] | GP/XP
+Plant | Check | Harvesting | Total | No harvest | Harvest | No harvest | Harvest
+27 |  | Apple |  | 9 sweetcorns | 16hr (6x160 min) | 22 | 1,199.5 | 51 | 1,272.5 | −913 | −721 | -0.75 | -0.57
+33 |  | Banana |  | 4 baskets of apples | 16hr (6x160 min) | 28 | 1,750.5 | 63 | 1,841.5 | −1,939 | −1,621 | -1.09 | -0.88
+39 |  | Orange |  | 3 baskets of strawberries | 16hr (6x160 min) | 35.5 | 2,470.2 | 81 | 2,586.7 | −1,635 | −543 | -0.65 | -0.21
+42 |  | Curry |  | 5 baskets of bananas | 16hr (6x160 min) | 40 | 2,906.9 | 90 | 3,036.9 | −2,841 | −2,409 | -0.96 | -0.79
+51 |  | Pineapple |  | 10 watermelons | 16hr (6x160 min) | 57 | 4,605.7 | 129 | 4,791.7 | −465 | 513 | -0.10 | 0.11
+57 |  | Papaya |  | 10 pineapples | 16hr (6x160 min) | 72 | 6,146.4 | 162 | 6,380.4 | −3,267 | 4,227 | -0.53 | 0.66
+68 |  | Palm tree |  | 15 papaya fruit | 16hr (6x160 min) | 110.5 | 10,150.1 | 249 | 10,509.6 | −45,695 | −33,959 | -4.45 | -3.23
+81 |  | Dragonfruit |  | 15 coconut | 16hr (6x160 min) | 140 | 17,335 | 420 | 17,825 | −207,960 | −198,666 | -11.90 | -11.15
+- ^ Seed Cost, Protection cost and 200 coins for removal, minus worth what is harvested.
+See also: Seeds#Trees and Seeds#Fruit trees for trees and protection.
+Level | Seed | Payment | Growth time | Experience | Total cost [ H 1 ] | GP/XP
+Planting | Checking | Total
+35 |  | Teak |  | 15 limpwurt roots | 74hr40m (7x640 min) | 35 | 7,290 | 7,325 | −5,133 | -0.70
+55 |  | Mahogany |  | 25 yanillian hops | 85hr20m (8x640 min) | 63 | 15,720 | 15,783 | −37,198 | -2.36
+- ^ Seed Cost, Protection cost and 200 coins for removal.
+Level | Seed | Payment | Growth time | Experience | Total cost [ S 1 ] | GP/XP
+Planting | Checking | Harvesting | Total
+72 |  | Calquat |  | 8 poison ivy berries | 21hr20m (8x160 min) | 129.5 | 12,096 | 291 | 12,516.5 | −2,207 | -0.18
+74 |  | Crystal acorn | N/A | 8hr00m (6x80 min) | 126 | 13,240 | N/A | 13,366 | [ S 2 ] | 
+85 |  | Celastrus |  | 8 potato cactus | 13hr20m (5x160 min) | 204 | 14,130 | 70.5 [ S 3 ] | 14,404.5 | 41,871 | 2.90
+90 |  | Redwood |  | 6 dragonfruit | 106hr40m (10x640 min) | 230 | 22,450 | N/A | 22,680 | −29,262 [ S 4 ] | -1.29
+- ^ Seed Cost, Protection cost and 200 coins for removal, minus the worth of what is harvested where applicable.
+- ^ Crystal tree yields roughly 30 crystal shards when treated with ultracompost , which average roughly 18,575.00 per shard when used to make divine super combat potions with 97 Herblore . Profit assumes you traded in a crystal weapon seed to Pennant for a crystal acorn.
+- ^ Yield increases depending on the type of compost used. A celastrus tree gives 9 barks on average when using ultracompost. ( see average yield calculation )
+- ^ Redwood trees cost 2000 coins to remove.
+
+## Example tree runs[edit|edit source]
+
+Start out at the Grand Exchange and buy all of the saplings, payments and teleports needed.
+In the first run, the player will have to rake all of the patches. In subsequent runs, this is only necessary if a growth cycle happens in between removing the tree and planting a new one. It is recommended to leave a rake at a Tool Leprechaun in case this happens.
+
+## Example low-level tree run[edit|edit source]
+
+2000K |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  | 100 | 100
+ |  |  | 
+This is an example setup for doing a tree run consisting of 6 trees, 5 fruit trees and 4 hardwood trees at level 35. This run does not include the Lletya fruit tree due to the quests required however the last step is shown as an example, nor the tree and fruit tree patches in the Farming Guild due to the Farming level requirements.
+The route assumes the player pays the farmers to chop down the trees and to look after them.
+- Coins
+- Spade
+- Stamina potion
+- 6 tree, 5 fruit tree, and 4 hardwood tree saplings
+- Payments in banknotes
+- Ring of wealth with at least 2 charges Alternatively, Falador teleport then run to Falador Park
+- Alternatively, Falador teleport then run to Falador Park
+- Skills necklace Alternatively, run from Varrock tree patch to Grand Exchange
+- Alternatively, run from Varrock tree patch to Grand Exchange
+- Teleports to Lumbridge, Varrock, and Catherby
+- Slayer Ring Alternatively, use the Spirit Tree to Tree Gnome Stronghold and run South-West
+- Alternatively, use the Spirit Tree to Tree Gnome Stronghold and run South-West
+- Teleport to house tablets and redirection scrolls for access to Taverley and Brimhaven house portals Alternatively, a teleport to Falador for the Taverley patch Alternatively, a teleport to Ardougne or Rimmington for the Brimhaven patch
+- Alternatively, a teleport to Falador for the Taverley patch
+- Alternatively, a teleport to Ardougne or Rimmington for the Brimhaven patch
+- Digsite pendant or a Digsite teleport for hardwood trees
+- Rake stored at a Tool Leprechaun
+- An Axe (Optional, if not paying for the farmers to remove the tree)
+- Alternatively, Falador teleport then run to Falador Park
+- Alternatively, run from Varrock tree patch to Grand Exchange
+- Alternatively, use the Spirit Tree to Tree Gnome Stronghold and run South-West
+- Alternatively, a teleport to Falador for the Taverley patch
+- Alternatively, a teleport to Ardougne or Rimmington for the Brimhaven patch
+For each step, check the health of the tree and replant it.
+- Teleport to Falador Park with the ring of wealth to the tree patch.
+- Teleport to Taverley and run east (or run north from Falador) to the tree patch.
+- Teleport to Lumbridge, exit the city west through the Lumbridge Castle walls and run a bit north to the tree patch.
+- Teleport to Varrock, run a bit north and then north-east to the tree patch.
+- Use your Slayer Ring to teleport to the Stronghold Cave or use the Spirit Tree to Tree Gnome Stronghold and run southwest to the tree patch.
+- Run across to the Spirit Tree just northeast of the Stronghold Cave to the fruit tree patch just east of it.
+- Use the Spirit Tree to teleport to Tree Gnome Village. Run to the southwest corner of the fence and squeeze through the entrance. Click on Elkoy to follow him through the maze, and run a bit southwest to the fruit tree patch.
+- Teleport to Catherby and run east to the fruit tree patch near the fishing spots.
+- Head to the Brimhaven fruit tree patch by using a house teleport to Brimhaven and running north. Alternatively with the help of 480 coins, players can take the Charter ship from the Catherby Docks to Brimhaven, very close to the patch. Another option is to teleport to Karamja with a charged amulet of glory and run west.
+- Teleport to the Digsite by using a digsite pendant or Digsite teleport. Run to the barge, quick-travel to Fossil Island, and run to the hardwood tree patches to the northwest.
+- Teleport to Lletya with the Teleport crystal to the fruit tree patch.
+- Teleport to the farming guild for a tree patch (65 farming required) and a fruit tree patch (85 farming required)
+- Travel to Varlamore and use the Quetzal to Kastori and run northeast to the calquat patch and then northwest to fruit tree patch.
+- Travel to Varlamore for a Hardwood patch at Locus Oasis (searchable). It is southeast of Fairy Ring AJP, or alternatively Quetzal to any landing spots south of Civitas illa Fortis (Hunter's Guild, Sunset Coast, or Outer Fortis, if built).
+- Travel to Auburnvale via the Quetzal transport. Run southwest to Nemus Retreat where there is a tree patch.
+- Teleport to Tai Bwo Wannai and run north to the calquat patch. Check the health of the tree and replant it.
+This section is a stub . Please help expand it .
+
+## Other methods[edit|edit source]
+
+
+## Herb runs[edit|edit source]
+
+Herb runs offer good profit, and decent Farming experience when growing high-level herbs such as torstols . Some players choose to do this to compensate the cost of doing tree runs, or to make money in general. Herbs take 80 minutes to grow. To gain extra Farming experience, players can farm allotments (such as snape grass ) along with herb runs.
+Always treat herb patches with ultracompost. This minimises the chance of disease, increases the expected yield, and ensures the minimum amount of 6 herbs per seed when used along with magic secateurs.
+By default, three herb patches are available for the player, with the remaining seven requiring the following:
+- Morytania : Completed of Priest in Peril
+- Harmony Island : Completion of the elite Morytania Diary
+- Hosidius : Visit Kourend at least once
+- Farming Guild : 65 Farming
+- Troll Stronghold : Completed My Arm's Big Adventure
+- Weiss : Completed Making Friends with My Arm and additionally built a Fire of Nourishment by the patches
+- Civitas illa Fortis : Completed Children of the Sun
+- Spade
+- Seed dibber (optional if the seed planting portion of Barbarian Training is complete)
+- Rake (can be stored with the Tool Leprechaun most of the time when harvesting and replanting)
+- Farmer's outfit and Stamina potion or weight-reducing gear
+- Teleports for the various patches (best listed first) Ardougne Ardougne cloak 4 Ardougne cloak 3 provides five daily teleports Ardougne cloak 2 provides three daily teleports Skills necklace (fishing guild) and run east Catherby Catherby Teleport from the Lunar spellbook or its tablet Camelot Teleport and run due east Falador Explorer's ring 3 or 4 Explorer's ring 2 provides three daily teleports Ring of the Elements (air altar) Farming Guild Skills necklace Fairy ring C I R and run south-west Spirit Tree Harmony Island (unlocked after completion of the Elite Morytania Diary ) Harmony Island Teleport or tablet Any method to reach Port Phasmatys and talk to Bill Teach Hosidius Xeric's talisman option Xeric's Glade House portal Spirit Tree and run east ( 45 ) Tithe Farm activity teleport Fairy ring A K R and run west Morytania Ectophial and run west Fenkenstrain's Castle Teleport from the Arceuus spellbook and run east Fairy ring A L Q Troll Stronghold (unlocked after My Arm's Big Adventure ) Stony basalt after Making Friends with My Arm Troll stronghold teleport and descend west Varlamore (unlocked after Children of the Sun ) Perfected quetzal whistle or its variations and run north Civitas illa Fortis Teleport or tablet and run west out of the city Quetzal and run west Fairy ring A J P and run north-west Weiss (unlocked after Making Friends with My Arm and lighting the Fire of Nourishment Icy basalt
+- Ardougne Ardougne cloak 4 Ardougne cloak 3 provides five daily teleports Ardougne cloak 2 provides three daily teleports Skills necklace (fishing guild) and run east
+- Ardougne cloak 4
+- Ardougne cloak 3 provides five daily teleports
+- Ardougne cloak 2 provides three daily teleports
+- Skills necklace (fishing guild) and run east
+- Catherby Catherby Teleport from the Lunar spellbook or its tablet Camelot Teleport and run due east
+- Catherby Teleport from the Lunar spellbook or its tablet
+- Camelot Teleport and run due east
+- Falador Explorer's ring 3 or 4 Explorer's ring 2 provides three daily teleports Ring of the Elements (air altar)
+- Explorer's ring 3 or 4
+- Explorer's ring 2 provides three daily teleports
+- Ring of the Elements (air altar)
+- Farming Guild Skills necklace Fairy ring C I R and run south-west Spirit Tree
+- Skills necklace
+- Fairy ring C I R and run south-west
+- Spirit Tree
+- Harmony Island (unlocked after completion of the Elite Morytania Diary ) Harmony Island Teleport or tablet Any method to reach Port Phasmatys and talk to Bill Teach
+- Harmony Island Teleport or tablet
+- Any method to reach Port Phasmatys and talk to Bill Teach
+- Hosidius Xeric's talisman option Xeric's Glade House portal Spirit Tree and run east ( 45 ) Tithe Farm activity teleport Fairy ring A K R and run west
+- Xeric's talisman option Xeric's Glade
+- House portal
+- Spirit Tree and run east ( 45 )
+- Tithe Farm activity teleport
+- Fairy ring A K R and run west
+- Morytania Ectophial and run west Fenkenstrain's Castle Teleport from the Arceuus spellbook and run east Fairy ring A L Q
+- Ectophial and run west
+- Fenkenstrain's Castle Teleport from the Arceuus spellbook and run east
+- Fairy ring A L Q
+- Troll Stronghold (unlocked after My Arm's Big Adventure ) Stony basalt after Making Friends with My Arm Troll stronghold teleport and descend west
+- Stony basalt after Making Friends with My Arm
+- Troll stronghold teleport and descend west
+- Varlamore (unlocked after Children of the Sun ) Perfected quetzal whistle or its variations and run north Civitas illa Fortis Teleport or tablet and run west out of the city Quetzal and run west Fairy ring A J P and run north-west
+- Perfected quetzal whistle or its variations and run north
+- Civitas illa Fortis Teleport or tablet and run west out of the city
+- Quetzal and run west
+- Fairy ring A J P and run north-west
+- Weiss (unlocked after Making Friends with My Arm and lighting the Fire of Nourishment Icy basalt
+- Icy basalt
+- Herb seeds
+- Herb Sack - can be used to store herbs instead of noting them at a Tool Leprechaun , which can be helpful if growing several kinds of herbs
+- Magic secateurs
+- Bottomless compost bucket filled with ultracompost Alternatively, ultracomposts can be brought, or runes for the Fertile Soil spell and volcanic ashes (after reading the ash covered tome )
+- Alternatively, ultracomposts can be brought, or runes for the Fertile Soil spell and volcanic ashes (after reading the ash covered tome )
+- Ardougne Ardougne cloak 4 Ardougne cloak 3 provides five daily teleports Ardougne cloak 2 provides three daily teleports Skills necklace (fishing guild) and run east
+- Ardougne cloak 4
+- Ardougne cloak 3 provides five daily teleports
+- Ardougne cloak 2 provides three daily teleports
+- Skills necklace (fishing guild) and run east
+- Catherby Catherby Teleport from the Lunar spellbook or its tablet Camelot Teleport and run due east
+- Catherby Teleport from the Lunar spellbook or its tablet
+- Camelot Teleport and run due east
+- Falador Explorer's ring 3 or 4 Explorer's ring 2 provides three daily teleports Ring of the Elements (air altar)
+- Explorer's ring 3 or 4
+- Explorer's ring 2 provides three daily teleports
+- Ring of the Elements (air altar)
+- Farming Guild Skills necklace Fairy ring C I R and run south-west Spirit Tree
+- Skills necklace
+- Fairy ring C I R and run south-west
+- Spirit Tree
+- Harmony Island (unlocked after completion of the Elite Morytania Diary ) Harmony Island Teleport or tablet Any method to reach Port Phasmatys and talk to Bill Teach
+- Harmony Island Teleport or tablet
+- Any method to reach Port Phasmatys and talk to Bill Teach
+- Hosidius Xeric's talisman option Xeric's Glade House portal Spirit Tree and run east ( 45 ) Tithe Farm activity teleport Fairy ring A K R and run west
+- Xeric's talisman option Xeric's Glade
+- House portal
+- Spirit Tree and run east ( 45 )
+- Tithe Farm activity teleport
+- Fairy ring A K R and run west
+- Morytania Ectophial and run west Fenkenstrain's Castle Teleport from the Arceuus spellbook and run east Fairy ring A L Q
+- Ectophial and run west
+- Fenkenstrain's Castle Teleport from the Arceuus spellbook and run east
+- Fairy ring A L Q
+- Troll Stronghold (unlocked after My Arm's Big Adventure ) Stony basalt after Making Friends with My Arm Troll stronghold teleport and descend west
+- Stony basalt after Making Friends with My Arm
+- Troll stronghold teleport and descend west
+- Varlamore (unlocked after Children of the Sun ) Perfected quetzal whistle or its variations and run north Civitas illa Fortis Teleport or tablet and run west out of the city Quetzal and run west Fairy ring A J P and run north-west
+- Perfected quetzal whistle or its variations and run north
+- Civitas illa Fortis Teleport or tablet and run west out of the city
+- Quetzal and run west
+- Fairy ring A J P and run north-west
+- Weiss (unlocked after Making Friends with My Arm and lighting the Fire of Nourishment Icy basalt
+- Icy basalt
+- Ardougne cloak 4
+- Ardougne cloak 3 provides five daily teleports
+- Ardougne cloak 2 provides three daily teleports
+- Skills necklace (fishing guild) and run east
+- Catherby Teleport from the Lunar spellbook or its tablet
+- Camelot Teleport and run due east
+- Explorer's ring 3 or 4
+- Explorer's ring 2 provides three daily teleports
+- Ring of the Elements (air altar)
+- Skills necklace
+- Fairy ring C I R and run south-west
+- Spirit Tree
+- Harmony Island Teleport or tablet
+- Any method to reach Port Phasmatys and talk to Bill Teach
+- Xeric's talisman option Xeric's Glade
+- House portal
+- Spirit Tree and run east ( 45 )
+- Tithe Farm activity teleport
+- Fairy ring A K R and run west
+- Ectophial and run west
+- Fenkenstrain's Castle Teleport from the Arceuus spellbook and run east
+- Fairy ring A L Q
+- Stony basalt after Making Friends with My Arm
+- Troll stronghold teleport and descend west
+- Perfected quetzal whistle or its variations and run north
+- Civitas illa Fortis Teleport or tablet and run west out of the city
+- Quetzal and run west
+- Fairy ring A J P and run north-west
+- Icy basalt
+- Alternatively, ultracomposts can be brought, or runes for the Fertile Soil spell and volcanic ashes (after reading the ash covered tome )
+At level 47 Farming, players can add allotment runs alongside their herb runs. Allotments usually consist of two sets of farmable patches, with the exception of the one on Harmony Island , which only has one. This level allows players to start growing watermelons . Each harvested watermelon provides 54.5 experience, and a fair amount of watermelons can be harvested with ultracompost and magic secateurs.
+Barring the patch on Harmony Island, all allotment patches are either watched by a gardener or have a flower patch. Players are highly encouraged to grow Nasturtiums on the flower patch, as this protects watermelons from disease and ensures they will never die, making yield the only priority.
+At level 61 Farming, players should replace the allotments with snape grass ; each harvested spike of grass provides 82 experience. The nasturtiums should also be replaced with white lilies , as this protects all allotments from disease.
+By default, three locations are available to the player, with the other six requiring quests and/or additional requirements:
+- Falador : No requirements
+- Catherby : No requirements
+- Ardougne : No requirements
+- Morytania : Completed Priest in Peril
+- Hosidius : Visit Kourend at least once
+- Farming Guild : 45 Farming
+- Harmony Island : Started The Great Brain Robbery
+- Prifddinas : Completion of Song of the Elves
+- Civitas illa Fortis : Completion of Children of the Sun
+
+## Tithe Farm[edit|edit source]
+
+At level 34, experience may be gained at the Tithe Farm minigame. In this way, players can gain significant Farming experience between the time it takes patches to grow, or train exclusively at the minigame to save money on seeds. From level 74 onwards, players can get around 90,000–100,000 experience per hour.
+Exclusive rewards obtained through tithe farm can prove useful in training farming, such as the farmer's outfit , the seed box , and the gricoller's can .
+
+## See also[edit|edit source]
+
+- Quest experience rewards - Farming
+v t e Skill training guides
+Free-to-play guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft
+Members' guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ironman guides | Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ultimate Ironman guides | Item management Equipment Quests Minigames Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+General guidelines | Efficiency
+- v
+- t
+- e
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Item management
+- Equipment
+- Quests
+- Minigames
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Efficiency

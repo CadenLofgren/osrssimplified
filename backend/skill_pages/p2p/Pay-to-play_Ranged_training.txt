@@ -1,0 +1,575 @@
+This article provides an overview of strategies used to train the Ranged skill.
+
+## Contents
+
+- 1 General training notes
+- 2 Fastest experience 2.1 Levels 1–32/36: Questing 2.2 Levels 1–45: Using dwarf multicannon 2.2.1 Cannoning with Slayer 2.2.2 Active cannoning methods 2.3 Levels 45–99: Chinning maniacal monkeys
+- 2.1 Levels 1–32/36: Questing
+- 2.2 Levels 1–45: Using dwarf multicannon 2.2.1 Cannoning with Slayer 2.2.2 Active cannoning methods
+- 2.2.1 Cannoning with Slayer
+- 2.2.2 Active cannoning methods
+- 2.3 Levels 45–99: Chinning maniacal monkeys
+- 3 Other methods 3.1 Levels 1–45/70: Crabs 3.1.1 Recommended weapons and armour 3.2 Levels 45–99: Chinning skeletal monkeys 3.3 Levels 70–99: Pest Control 3.4 Levels 70/80–99: Nightmare Zone 3.5 Levels 75/80–99: Training Ranged with Slayer 3.6 Levels 80–99: Monkeys with Venator bow
+- 3.1 Levels 1–45/70: Crabs 3.1.1 Recommended weapons and armour
+- 3.1.1 Recommended weapons and armour
+- 3.2 Levels 45–99: Chinning skeletal monkeys
+- 3.3 Levels 70–99: Pest Control
+- 3.4 Levels 70/80–99: Nightmare Zone
+- 3.5 Levels 75/80–99: Training Ranged with Slayer
+- 3.6 Levels 80–99: Monkeys with Venator bow
+- 4 Equipment choice 4.1 Head-slot items in order of effectiveness 4.2 Cape-slot items in order of effectiveness 4.3 Neck-slot items in order of effectiveness 4.4 Body-slot items in order of effectiveness 4.5 Shield-slot items in order of effectiveness 4.6 Legs-slot items in order of effectiveness 4.7 Hands-slot items in order of effectiveness 4.8 Feet-slot items in order of effectiveness 4.9 Ring-slot items in order of effectiveness
+- 4.1 Head-slot items in order of effectiveness
+- 4.2 Cape-slot items in order of effectiveness
+- 4.3 Neck-slot items in order of effectiveness
+- 4.4 Body-slot items in order of effectiveness
+- 4.5 Shield-slot items in order of effectiveness
+- 4.6 Legs-slot items in order of effectiveness
+- 4.7 Hands-slot items in order of effectiveness
+- 4.8 Feet-slot items in order of effectiveness
+- 4.9 Ring-slot items in order of effectiveness
+- 5 Comparison of ranged weapons
+- 2.1 Levels 1–32/36: Questing
+- 2.2 Levels 1–45: Using dwarf multicannon 2.2.1 Cannoning with Slayer 2.2.2 Active cannoning methods
+- 2.2.1 Cannoning with Slayer
+- 2.2.2 Active cannoning methods
+- 2.3 Levels 45–99: Chinning maniacal monkeys
+- 2.2.1 Cannoning with Slayer
+- 2.2.2 Active cannoning methods
+- 3.1 Levels 1–45/70: Crabs 3.1.1 Recommended weapons and armour
+- 3.1.1 Recommended weapons and armour
+- 3.2 Levels 45–99: Chinning skeletal monkeys
+- 3.3 Levels 70–99: Pest Control
+- 3.4 Levels 70/80–99: Nightmare Zone
+- 3.5 Levels 75/80–99: Training Ranged with Slayer
+- 3.6 Levels 80–99: Monkeys with Venator bow
+- 3.1.1 Recommended weapons and armour
+- 4.1 Head-slot items in order of effectiveness
+- 4.2 Cape-slot items in order of effectiveness
+- 4.3 Neck-slot items in order of effectiveness
+- 4.4 Body-slot items in order of effectiveness
+- 4.5 Shield-slot items in order of effectiveness
+- 4.6 Legs-slot items in order of effectiveness
+- 4.7 Hands-slot items in order of effectiveness
+- 4.8 Feet-slot items in order of effectiveness
+- 4.9 Ring-slot items in order of effectiveness
+
+## General training notes[edit|edit source]
+
+Using the rapid attack style will offer the highest damage output and the fastest experience rates. For chinchompas , the rapid attack style is called 'Medium fuse'. Longrange should only be used to train Defence while throwing chinchompas. Use the best ranged armour available to maximise damage output.
+Ava's devices return a percentage of certain ammunition fired. They are obtained from Ava after completing Animal Magnetism , which requires level 30 Ranged. Wearing one of the devices will save a lot of money and time when using certain Ranged weapons (such as darts or shortbows), as the player does not need as much ammunition or to pick it up as often. Ammunition recovery will not work if wearing a metallic body .
+Device | req. | Recovery rate | Effectiveness [ n 1 ]
+ | Ava's attractor | 30 | 60% | 2.5
+ | Ava's accumulator | 50 | 72% | 3.57
+ | Ava's assembler [ n 2 ] | 70 | 80% | 5
+- ^ The amount of times a given piece of ammunition can be used, on average, before being broken or lost.
+- ^ Also requires a Vorkath's head , which is obtainable after Dragon Slayer II .
+If picking up ammunition, speak to the Ranged combat tutor to toggle whether or not the ammunition will automatically be equipped.
+Void Knight equipment with the Void ranger helm is best against low defence monsters due to its damage-boosting set effect, while crystal armour or Masori armour are much better against higher defence monsters. Getting the void full set is not worthwhile timewise unless training to 99 using the fastest methods possible, however it is useful for Vorkath , low-switch Zulrah , Theatre of Blood , and it is required for an elite Western Provinces Diary task. Completing the hard Western Provinces diary unlocks the elite upgrade for the void knight top and robe for an extra 400 Pest Control points.
+
+## Fastest experience[edit|edit source]
+
+
+## Levels 1–32/36: Questing[edit|edit source]
+
+Early levels can be skipped by completing quests that give Ranged experience . Completing Shadow of the Storm (putting the experience reward on Ranged), Death to the Dorgeshuun , and Horror from the Deep grants a total of 16,662.5 experience, which will get the player from level 1 to 32. The level 40 Ranged requirement for Temple of Ikov can be bypassed by wielding knives or darts whilst wielding ice arrows, allowing for a further 10,500 experience. This will get the player up to level 36.
+
+## Levels 1–45: Using dwarf multicannon[edit|edit source]
+
+Using the dwarf multicannon offers the fastest experience up to level 45. Players must have completed Dwarf Cannon quest to use the dwarf multicannon, but there are no level requirements to use one. The cannon offers much higher damage output compared to other options at low levels, as it has a max hit of 30 with regular cannonballs regardless of the player's Ranged level. The accuracy of the multicannon is affected by the accuracy of the player's selected attack style, either ranged or melee, taking into account the attack bonus for that particular style.
+Cannoning can be fairly expensive, however. At level 45, chinning becomes a lot faster and is usually a cheaper alternative.
+Training Slayer grants passive Ranged experience from using the dwarf multicannon. It is always worth using the cannon wherever applicable, as the cost of using the cannon is justified by the saved time compared to not using one. A melee task can take almost twice as long if not using the cannon. For example, in multi-combat areas such as during dagannoth and kalphite tasks the cannon will deal most of the damage, while the player is getting nearly as much Melee experience as they would without using a cannon. Should the player not be able to afford to use the cannon, it is better to make the money for the cannonballs than train Slayer without the cannon.
+The amount of Ranged experience gained from Slayer depends on the player's task list. Players can expect to gain around 2–4 million Ranged experience from level 99 Slayer.
+Alternatively, kill monsters with the dwarf multicannon to actively train Ranged.
+- Ogres east of Castle Wars have no additional quest requirements, and cannoning them offers around 40,000 experience per hour from the cannon alone. They can be crowded, however.
+- Ogres in the Combat Training Camp require completing Biohazard , but can be less crowded.
+- Cannoning ice trolls north of Jatizso after completing The Fremennik Trials is a slower alternative at higher levels, but the drops cover the cost of the cannonballs. Use the coal rocks west of the eastern mining icon as a safespot. The trolls can deal heavy damage if not safespotted, so consider bringing backup food and runes for Telekinetic Grab for the loot.
+
+## Levels 45–99: Chinning maniacal monkeys[edit|edit source]
+
+For more information, see Maniacal monkey/Strategies .
+
+Throwing chinchompas (commonly known as "chinning") at maniacal monkeys is the fastest way to train Ranged. Maniacal monkeys are located in Kruk's Dungeon on Ape Atoll , which requires having started chapter II of Monkey Madness II to access. While chinning is much faster than any other methods, it also costs money.
+For the fastest experience rates, use equipment that maximises Ranged Strength , or Void Knight ranged equipment for its damage buff. This is because the maniacal monkeys have low defence. Void Knight equipment is higher DPS [ 1 ] than dragonhide armour due to its damage-boosting set effect; however Masori armour with Zaryte vambraces is better than standard Void Knight equipment [ 2 ] due to its ranged strength bonus increasing damage per second. Elite Void Knight equipment is best in slot for most players. This is because it often has marginally higher DPS but also the prayer bonus reduces the time needed to collect and drink prayer potions, further increasing experience rates. Though the difference is minimal, and both Void and Masori are excellent choices. If you don't have access to these, use Hueycoatl hide armour or Blessed dragonhide armour .
+Maniacal monkeys drop 1-dose prayer potions which negates the cost of using Protect from Melee and damage-boosting prayers. Players who have completed the hard Morytania Diary can alternatively use a bonecrusher necklace to restore Prayer points.
+Experience rates in the table below assume wearing the best damage-boosting equipment available, using Rigour , using two dancing accounts to stack the monkeys, using divine ranging potions , and throwing 1,970 chinchompas per hour. With Eagle Eye , the rates would be roughly 5–7% lower.
+level | XP/h | XP/h | XP/h
+45 | 290,000 | N/A | N/A
+55 | 360,000 | 430,000 | N/A
+65 | 470,000 | 540,000 | 690,000
+75 | 570,000 | 670,000 | 830,000
+85 | 640,000 | 740,000 | 930,000
+95 | 710,000 | 810,000 | 1,000,000
+99 | 740,000 | 840,000 | 1,030,000
+
+## Other methods[edit|edit source]
+
+
+## Levels 1–45/70: Crabs[edit|edit source]
+
+Killing crabs is an afkable and relatively cheap way of training Ranged at lower levels. Choose a spot that makes two or three spawns aggressive at the same time. Turn on Auto Retaliate, and kill crabs with the best Ranged setup available. After 10 minutes, reset aggressiveness by running away far enough, usually a minimap's length.
+There are five types of crabs the player can train on. They all have high Hitpoints, very low Defence and deal minimal damage.
+- Gemstone Crab near Tal Teklan in Varlamore has unlimited Hitpoints and only moves every 9 minutes, thus making it a very afk alternative. Multiple people can attack this crab, removing the risk of getting crashed or having to find an open spot.
+- Ammonite crabs on Fossil Island have 100 Hitpoints. They also drop unidentified fossils , which can be turned in for experience lamps in Varrock Museum after cleaning. They can be very crowded.
+- Swamp crabs have 75 Hitpoints and are weak to Ranged. A safe area is located south-west of Port Phasmatys near the Morytania Graveyard , where two crabs can become aggressive in a multi-combat zone.
+- Sand crabs near Hosidius have 60 Hitpoints and have no quest requirements, but are usually crowded.
+- Rock crabs near Rellekka have no quest requirements and are usually less crowded than sand and ammonite crabs, but only have 50 Hitpoints.
+Having at least level 30 Defence is recommended before starting Ranged training on these monsters to minimise the damage taken. Use a spot with fewer spawns if taking too much damage from too many crabs. If waiting for respawns, use a spot with more spawns or switch to a higher Hitpoints crab.
+
+Darts are the best weapon to use for both damage output and cost. Use the highest-level darts available up to amethyst ( 354 coins ) or adamant ( 49 coins ). Depending on the Grand Exchange prices, the following options can be good alternatives:
+- Rune knives ( 250 coins ) are slightly weaker than rune darts ( 247 coins ), but can be cheaper.
+- Magic shortbow (i) (or yew shortbow below level 50) with rune arrows ( 148 coins ) offers comparable damage output to adamant darts. Amethyst arrows ( 273 coins ) can be used with a magic shortbow (i) for extra damage, however they are notably more expensive compared to rune.
+- Hunters' sunlight crossbow (50 Hunter requirement) with moonlight antler bolts ( 276 coins ) is a stronger alternative to the magic shortbow (i), offering slightly higher damage output than adamant darts.
+Other crossbows are not recommended due to their slower attack speed, which makes them worse in damage output compared to the options above. While using the Dorgeshuun crossbow with bone bolts can be very cheap, even mithril darts offer much higher damage output and they are usually comparable in terms of cost.
+Players with level 60 Defence are advised to use an odium ward if using a one-handed weapon (such as darts), as it gives +4 Ranged strength and has no Ranged level requirement. The odium ward currently costs 5,827,731 coins . Players with level 75 Hitpoints can also use the necklace of anguish , however it is much more expensive (currently costing 18,586,328 coins ).
+Because crabs have very low Defence, having the highest possible Ranged accuracy bonuses is not too important. It is still recommended to at least upgrade the body and leg slot equipment whenever a better tier becomes available, since they give the most accuracy and defence bonuses of all the slots.
+
+## Levels 45–99: Chinning skeletal monkeys[edit|edit source]
+
+Throwing chinchompas at skeletal monkeys is only recommended for those who cannot access maniacal monkeys . Skeletal monkeys are located in the Ape Atoll Dungeon , which requires partial completion of Monkey Madness I to access.
+Being undead monsters, the salve amulet (ei) accuracy and damage boosts apply against them. However, the boosts only affect the primary target. Wearing the salve amulet is still recommended to reduce splashing, as chinchompas will miss all targets if they miss the main target.
+
+## Levels 70–99: Pest Control[edit|edit source]
+
+Participating at the Pest Control minigame and spending Void Knight commendation points on Ranged experience is an alternative training method at higher levels. Having a combat level of at least 100 for the veteran boat is recommended. Completion of the easy , medium and hard Combat Achievements increases the number of points earned per game.
+Experience rates in the table below assume 26 games per hour in the veteran boat, gaining 40,000 experience per hour from fighting pests, and spending 100 points at a time for 10% more experience per point.
+levels | XP/point (with 10% bonus) | XP/h (points/game)
+None (5) | Easy (6) | Medium (7) | Hard (8)
+70–73 | 281.6 | 76,600 | 83,900 | 91,300 | 98,600
+74–77 | 316.8 | 81,200 | 89,400 | 97,700 | 105,900
+78–81 | 352.0 | 85,800 | 94,900 | 104,000 | 113,200
+82–84 | 387.2 | 90,300 | 100,400 | 110,500 | 120,500
+85–88 | 422.4 | 94,900 | 105,900 | 116,900 | 127,900
+89–91 | 457.6 | 99,500 | 111,400 | 123,300 | 135,200
+92–94 | 492.8 | 104,100 | 116,900 | 129,700 | 142,500
+95–97 | 528.0 | 108,600 | 122,400 | 136,100 | 149,800
+98–99 | 563.2 | 113,200 | 127,900 | 142,500 | 157,100
+
+## Levels 70/80–99: Nightmare Zone[edit|edit source]
+
+For more information, see Nightmare Zone/Strategies .
+Using the normal customisable rumble setup in Nightmare Zone allows for 20 minutes of AFK Ranged training. After 20 minutes, the player will stop attacking the monsters and needs to interact with the client to start attacking again. Using the venator bow with super ranging potions and absorptions offers up to 140,000–150,000 (180,000-190,000 on hard mode) experience per hour at level 99. Slower but cheaper alternatives include the imbued magic shortbow with rune or amethyst arrows , or adamant darts with the twisted buckler .
+
+## Levels 75/80–99: Training Ranged with Slayer[edit|edit source]
+
+Using the toxic blowpipe or the venator bow for Slayer training is not considered efficient to do, however it is an option for players who do not value gaining Melee or Magic experience and want some variety to their training. The benefit of ranging Slayer tasks is that it is relatively decent Ranged experience per hour and it also results in slightly higher Slayer experience rates as the blowpipe offers slightly higher damage output compared to most Melee weapons. Training Ranged whilst on a task also enables the player to use a Slayer helmet (i) for a 15% boost to ranged accuracy and damage while also taking advantage of the accuracy bonuses of dragonhide or Armadyl armour. However, using the blowpipe is expensive, although this can be somewhat mitigated by monster drops. Using other weapons is not recommended as they have less damage output than using Melee.
+
+## Levels 80–99: Monkeys with Venator bow[edit|edit source]
+
+As a cheap (albeit slower) alternative to Chinning , the Venator bow can be used with Amethyst arrows to kill either Skeleton monkeys or Maniacal monkeys to get experience rates between 140,000 and 230,000 per hour. Skeleton monkeys have the benefit of being undead, allowing the player to use the Salve amulet(ei) to maximise DPS and therefore increase experience per hour. Maniacal monkeys are often preferred due to their increased numbers as well as their Prayer potion drops which enable long training sessions. Bring a light source and tinderbox to relight it if necessary. This could be the Kandarin headgear or a Bullseye Lantern if you wish for it to be brighter.
+Maniacal monkeys are located in Kruk's Dungeon on Ape Atoll, which requires having started chapter II of Monkey Madness II to access. The main benefit of this area is the endless monsters, always allowing for maximum hits with the Venator bow .
+For the fastest experience rates, use equipment that maximises Ranged strength , or Void knight ranged equipment for its damage buff. This is because the Skeleton monkeys and Maniacal monkeys have low defence. Full Masori with the Salve amulet(ei) has the potential to reach the highest experience per hour against Skeleton monkeys specifically, however when facing Maniacal monkeys Elite void equipment is generally better than Masori.
+Hypothetical experience rates with ideal gear can top 270,000 experience per hour, however this requires the player to always be attacking three targets with the Venator bow, and always be in combat. To ensure high rates, the player must also use Divine ranging potions and Rigour or Deadeye (Or less preferably, Eagle eye ) along with the Salve amulet(ei) . A more realistic maximum is 240,000 experience per hour when getting close to 99 ranged.
+The Dwarf multicannon can also be used against Maniacal monkeys, however it is generally not recommended as the player may see a shortage in monkeys and reduction in experience.
+Using Dragon arrows increases DPS by very little, and increases the cost massively. For this reason, it isn't worth it. Adamant arrows can provide a much cheaper alternative to Amethyst arrows while still gaining relatively high experience rates.
+The venator bow provides a solid, cheap, alternative to chinning. It requires less player involvement and training at Maniacal monkeys can continue indefinitely due to the Prayer potion drops - this lets the player camp at monkeys until they reach 99 ranged.
+
+## Equipment choice[edit|edit source]
+
+Items will be listed in order of how much they increase general ranged damage per second. In nearly all cases, optimising for offensive stats is more effective than optimising for defensive or balanced stats, especially when fighting low-offence, high hp monsters. In addition, optimising for ranged strength is usually better than optimising for accuracy except against high-defence monsters.
+Note: This doesn't include elite void knight equipment or void knight equipment which in many cases can be best-in-slot for training, providing the player uses the set. It also doesn't include the salve amulet(ei) or the slayer helmet (i) which can both be best-in-slot in specific use cases. The Wiki's DPS calculator can be used to determine which gear provides the highest DPS for a specific monster.
+
+## Head-slot items in order of effectiveness[edit|edit source]
+
+Item | Attack bonuses | Defence bonuses | Other
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Masori mask (f) | 0 | 0 | 0 | -1 | +12 | +8 | +10 | +12 | +12 | +9 | 0 | +2 | 0% | +1
+ | Masori mask | 0 | 0 | 0 | -1 | +12 | +3 | +4 | +3 | +6 | +4 | 0 | +2 | 0% | 0
+ | Armadyl helmet | -5 | -5 | -5 | -5 | +10 | +6 | +8 | +10 | +10 | +8 | 0 | 0 | 0% | +1
+ | Crystal helm | 0 | 0 | 0 | -10 | +9 | +12 | +8 | +14 | +10 | +18 | 0 | 0 | 0% | +2
+ | 3rd age range coif | 0 | 0 | 0 | -2 | +9 | +4 | +7 | +10 | +5 | +8 | 0 | 0 | 0% | 0
+ | Eclipse moon helm | 0 | 0 | 0 | -6 | +8 | +2 | +3 | +14 | +10 | +4 | +3 | 0 | 0% | 0
+ | Robin hood hat | 0 | 0 | 0 | -10 | +8 | +4 | +6 | +8 | +4 | +4 | 0 | 0 | 0% | 0
+ | Hueycoatl hide coif | 0 | 0 | 0 | -1 | +7 | +4 | +7 | +10 | +5 | +8 | 0 | 0 | 0% | +2
+ | Blessed coif | 0 | 0 | 0 | -1 | +7 | +4 | +7 | +10 | +4 | +8 | 0 | 0 | 0% | +1
+ | Karil's coif | 0 | 0 | 0 | -1 | +7 | +6 | +9 | +12 | +6 | +10 | 0 | 0 | 0% | 0
+ | Ranger hat | -5 | -5 | -5 | -5 | +6 | +7 | +10 | +11 | +5 | +8 | 0 | 0 | 0% | 0
+ | Archer helm | -5 | -5 | -5 | -5 | +6 | +6 | +8 | +10 | +6 | +6 | 0 | 0 | 0% | 0
+ | Spined helm | -6 | -6 | -6 | -6 | +6 | +6 | +6 | +6 | +6 | 0 | 0 | 0 | 0% | 0
+ | Shayzien helm (5) | 0 | 0 | 0 | -6 | +4 | +10 | +14 | +12 | -2 | +13 | 0 | 0 | 0% | 0
+ | Snakeskin bandana | 0 | 0 | 0 | -5 | +4 | +2 | +4 | +4 | +2 | +2 | 0 | 0 | 0% | 0
+ | Slayer helmet (i) | 0 | 0 | 0 | +3 | +3 | +30 | +32 | +27 | +10 | +30 | 0 | 0 | 0% | 0
+ | Coif | 0 | 0 | 0 | -1 | +2 | +4 | +6 | +8 | +4 | +4 | 0 | 0 | 0% | 0
+ | Leather cowl | 0 | 0 | 0 | 0 | +1 | +2 | +3 | +4 | +2 | +3 | 0 | 0 | 0% | 0
+
+## Cape-slot items in order of effectiveness[edit|edit source]
+
+Item | Attack bonuses | Defence bonuses | Other
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Dizana's quiver | 0 | 0 | 0 | 0 | +18 | +0 | +0 | +0 | +0 | +0 | 0 | +3 | 0% | 0
+ | Ava's assembler | 0 | 0 | 0 | 0 | +8 | +1 | +1 | +1 | +8 | +2 | 0 | +2 | 0% | 0
+ | Mixed hide cape | 0 | 0 | 0 | -15 | +5 | +2 | +2 | +2 | +5 | +1 | +1 | 0 | 0% | 0
+ | Ava's accumulator | 0 | 0 | 0 | 0 | +4 | 0 | +1 | 0 | +4 | 0 | 0 | 0 | 0% | 0
+ | Ava's attractor | 0 | 0 | 0 | 0 | +2 | 0 | 0 | 0 | +2 | 0 | 0 | 0 | 0% | 0
+ | Infernal cape | +4 | +4 | +4 | +1 | +1 | +12 | +12 | +12 | +12 | +12 | +8 | 0 | 0% | +2
+ | Fire cape | +1 | +1 | +1 | +1 | +1 | +11 | +11 | +11 | +11 | +11 | +4 | 0 | 0% | +2
+
+## Neck-slot items in order of effectiveness[edit|edit source]
+
+Item | Attack bonuses | Defence bonuses | Other
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Necklace of anguish | 0 | 0 | 0 | 0 | +15 | 0 | 0 | 0 | 0 | 0 | 0 | +5 | 0% | +2
+ | Amulet of fury | +10 | +10 | +10 | +10 | +10 | +15 | +15 | +15 | +15 | +15 | +8 | 0 | 0% | +5
+ | Bonecrusher necklace/Dragonbone necklace | +10 | +10 | +10 | +10 | +10 | +2 | +2 | +2 | +2 | +2 | +2 | 0 | 0% | +12
+ | Amulet of glory | +10 | +10 | +10 | +10 | +10 | +3 | +3 | +3 | +3 | +3 | +6 | 0 | 0% | +3
+ | Amulet of power | +6 | +6 | +6 | +6 | +6 | +6 | +6 | +6 | +6 | +6 | +6 | 0 | 0% | +1
+ | Amulet of accuracy | +4 | +4 | +4 | +4 | +4 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0
+ | Unholy symbol | +2 | +2 | +2 | +2 | +2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | +8
+
+## Body-slot items in order of effectiveness[edit|edit source]
+
+Item | Attack bonuses | Defence bonuses | Other
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Masori body (f) | 0 | 0 | 0 | -4 | +43 | +59 | +52 | +64 | +74 | +60 | 0 | +4 | 0% | +1
+ | Masori body | 0 | 0 | 0 | -4 | +43 | +37 | +35 | +38 | +25 | +33 | 0 | +4 | 0% | 0
+ | Armadyl chestplate | -7 | -7 | -7 | -15 | +33 | +56 | +48 | +61 | +70 | +57 | 0 | 0 | 0% | +1
+ | Crystal body | 0 | 0 | 0 | -18 | +31 | +46 | +38 | +48 | +44 | +68 | 0 | 0 | 0% | +3
+ | Eclipse moon chestplate | 0 | 0 | 0 | -15 | +31 | +15 | +18 | +57 | +55 | +32 | +3 | 0 | 0% | 0
+ | Hueycoatl hide body | 0 | 0 | 0 | -15 | +30 | +55 | +47 | +60 | +56 | +55 | 0 | 0 | 0% | +3
+ | Blessed body | 0 | 0 | 0 | -15 | +30 | +55 | +47 | +60 | +50 | +55 | 0 | 0 | 0% | +1
+ | 3rd age range top | 0 | 0 | 0 | -15 | +30 | +55 | +47 | +60 | +60 | +55 | 0 | 0 | 0% | 0
+ | Karil's leathertop | 0 | 0 | 0 | -15 | +30 | +47 | +42 | +50 | +65 | +57 | 0 | 0 | 0% | 0
+ | Black d'hide body | 0 | 0 | 0 | -15 | +30 | +30 | +38 | +45 | +45 | +50 | 0 | 0 | 0% | 0
+ | Mixed hide top | +4 | -2 | -3 | -15 | +27 | +33 | +39 | +43 | +30 | +32 | +2 | 0 | 0% | 0
+ | Red d'hide body | 0 | 0 | 0 | -15 | +25 | +26 | +34 | +36 | +36 | +45 | 0 | 0 | 0% | 0
+ | Blue d'hide body | 0 | 0 | 0 | -15 | +20 | +23 | +30 | +30 | +26 | +40 | 0 | 0 | 0% | 0
+ | Green d'hide body | 0 | 0 | 0 | -15 | +15 | +18 | +27 | +24 | +20 | +35 | 0 | 0 | 0% | 0
+ | Rangers' tunic | 0 | 0 | 0 | -15 | +15 | +6 | +9 | +12 | +6 | +6 | 0 | 0 | 0% | 0
+ | Snakeskin body | 0 | 0 | 0 | -5 | +12 | +25 | +28 | +32 | +15 | +35 | 0 | 0 | 0% | 0
+ | Frog-leather body | 0 | 0 | 0 | -5 | +10 | +23 | +26 | +30 | +15 | +32 | 0 | 0 | 0% | 0
+ | Studded body | 0 | 0 | 0 | -4 | +8 | +18 | +25 | +22 | +8 | +25 | 0 | 0 | 0% | 0
+ | Hardleather body | 0 | 0 | 0 | -4 | +8 | +12 | +15 | +18 | +6 | +15 | 0 | 0 | 0% | 0
+ | Leather body | 0 | 0 | 0 | -2 | +2 | +8 | +9 | +10 | +4 | +9 | 0 | 0 | 0% | 0
+
+## Shield-slot items in order of effectiveness[edit|edit source]
+
+Item | Attack bonuses | Defence bonuses | Other
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Twisted buckler | -7 | -8 | -7 | -10 | +18 | +22 | +24 | +22 | +26 | +58 | 0 | +10 | 0% | 0
+ | Dragonfire ward | -10 | -10 | -10 | -10 | +15 | +25 | +30 | +28 | +28 | +68 | -2 | +8 | 0% | 0
+ | Odium ward | -12 | -12 | -12 | -8 | +12 | 0 | 0 | 0 | +24 | +52 | 0 | +4 | 0% | 0
+ | Antler guard | +15 | +15 | +15 | +9 | +9 | -15 | -15 | -15 | -15 | -15 | +5 | +2 | 0% | +5
+ | Book of law | 0 | 0 | 0 | 0 | +10 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | +5
+ | Unholy book | +8 | +8 | +8 | +8 | +8 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | +5
+ | Blessed shield | -15 | -15 | -11 | -10 | +7 | +21 | +18 | +16 | +15 | +14 | 0 | 0 | 0% | +1
+ | Black d'hide shield | -15 | -15 | -11 | -10 | +7 | +21 | +18 | +16 | +15 | +14 | 0 | 0 | 0% | 0
+ | Red d'hide shield | -15 | -15 | -11 | -10 | +6 | +18 | +16 | +14 | +13 | +13 | 0 | 0 | 0% | 0
+ | Blue d'hide shield | -15 | -15 | -11 | -10 | +5 | +16 | +14 | +12 | +12 | +12 | 0 | 0 | 0% | 0
+ | Green d'hide shield | -15 | -15 | -11 | -10 | +4 | +14 | +12 | +11 | +9 | +11 | 0 | 0 | 0% | 0
+ | Book of balance | +4 | +4 | +4 | +4 | +4 | +4 | +4 | +4 | +4 | +4 | 0 | 0 | 0% | +5
+ | Snakeskin shield | -15 | -15 | -11 | -10 | +3 | +10 | +9 | +8 | +7 | +10 | 0 | 0 | 0% | 0
+ | Hard leather shield | -15 | -15 | -11 | -10 | +2 | +8 | +7 | +7 | +5 | +9 | 0 | 0 | 0% | 0
+
+## Legs-slot items in order of effectiveness[edit|edit source]
+
+Item | Attack bonuses | Defence bonuses | Other
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Masori chaps (f) | 0 | 0 | 0 | -2 | +27 | +35 | +30 | +39 | +46 | +37 | 0 | +2 | 0% | +1
+ | Masori chaps | 0 | 0 | 0 | -2 | +27 | +26 | +24 | +29 | +19 | +22 | 0 | +2 | 0% | 0
+ | Armadyl chainskirt | -6 | -6 | -6 | -10 | +20 | +32 | +26 | +34 | +40 | +33 | 0 | 0 | 0% | +1
+ | Crystal legs | 0 | 0 | 0 | -12 | +18 | +26 | +21 | +30 | +34 | +38 | 0 | 0 | 0% | +2
+ | Hueycoatl hide chaps | 0 | 0 | 0 | -10 | +17 | +31 | +25 | +33 | +30 | +31 | 0 | 0 | 0% | +2
+ | Blessed chaps | 0 | 0 | 0 | -10 | +17 | +31 | +25 | +33 | +28 | +31 | 0 | 0 | 0% | +1
+ | 3rd age range legs | 0 | 0 | 0 | -10 | +17 | +31 | +25 | +33 | +30 | +31 | 0 | 0 | 0% | 0
+ | Karil's leatherskirt | 0 | 0 | 0 | -10 | +17 | +26 | +20 | +28 | +35 | +33 | 0 | 0 | 0% | 0
+ | Black d'hide chaps | 0 | 0 | 0 | -10 | +17 | +26 | +20 | +26 | +23 | +26 | 0 | 0 | 0% | 0
+ | Eclipse moon tassets | 0 | 0 | 0 | -15 | +17 | +9 | +13 | +37 | +31 | +17 | +1 | 0 | 0% | 0
+ | Penance skirt | 0 | 0 | 0 | -10 | +15 | +26 | +21 | +28 | +19 | +26 | 0 | 0 | 0% | 0
+ | Rangers' tights | 0 | 0 | 0 | -10 | +15 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0% | 0
+ | Mixed hide legs | +3 | -1 | -2 | -10 | +14 | +20 | +23 | +22 | +16 | +20 | 0 | 0 | 0% | 0
+ | Red d'hide chaps | 0 | 0 | 0 | -10 | +14 | +15 | +18 | +22 | +18 | +20 | 0 | 0 | 0% | 0
+ | Blue d'hide chaps | 0 | 0 | 0 | -10 | +11 | +25 | +19 | +27 | +14 | +25 | 0 | 0 | 0% | 0
+ | Yak-hide armour (legs) | 0 | 0 | 0 | -5 | +10 | +25 | +20 | +15 | -2 | +10 | 0 | 0 | 0% | 0
+ | Green d'hide chaps | 0 | 0 | 0 | -10 | +8 | +22 | +16 | +24 | +8 | +22 | 0 | 0 | 0% | 0
+ | Studded chaps | 0 | 0 | 0 | -5 | +6 | +15 | +16 | +17 | +6 | +16 | 0 | 0 | 0% | 0
+ | Snakeskin chaps | 0 | 0 | 0 | -5 | +6 | +8 | +8 | +10 | +4 | +10 | 0 | 0 | 0% | 0
+ | Leather chaps | 0 | 0 | 0 | 0 | +4 | +2 | +2 | +1 | 0 | 0 | 0 | 0 | 0% | 0
+
+## Hands-slot items in order of effectiveness[edit|edit source]
+
+Item | Attack bonuses | Defence bonuses | Other
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Zaryte vambraces | -8 | -8 | -8 | 0 | +18 | +8 | +8 | +8 | +5 | +8 | 0 | +2 | 0% | +1
+ | Barrows gloves | +12 | +12 | +12 | +6 | +12 | +12 | +12 | +12 | +6 | +12 | +12 | 0 | 0% | 0
+ | Hueycoatl hide vambraces | 0 | 0 | 0 | -10 | +11 | +6 | +5 | +7 | +8 | 0 | 0 | 0 | 0% | +1
+ | Blessed vambraces | 0 | 0 | 0 | -10 | +11 | +6 | +5 | +7 | +8 | 0 | 0 | 0 | 0% | +1
+ | 3rd age vambraces | 0 | 0 | 0 | -10 | +11 | +6 | +5 | +7 | +9 | 0 | 0 | 0 | 0% | 0
+ | Black d'hide vambraces | 0 | 0 | 0 | -10 | +11 | +6 | +5 | +7 | +8 | 0 | 0 | 0 | 0% | 0
+ | Ranger gloves | 0 | 0 | 0 | -10 | +11 | +1 | +2 | +1 | +2 | 0 | 0 | 0 | 0% | 0
+ | Red d'hide vambraces | 0 | 0 | 0 | -10 | +10 | +5 | +4 | +6 | +6 | 0 | 0 | 0 | 0% | 0
+ | Dragon gloves | +9 | +9 | +9 | +5 | +9 | +9 | +9 | +9 | +5 | +9 | +9 | 0 | 0% | 0
+ | Blue d'hide vambraces | 0 | 0 | 0 | -10 | +9 | +4 | +3 | +5 | +4 | 0 | 0 | 0 | 0% | 0
+ | Rune gloves | +8 | +8 | +8 | +4 | +8 | +8 | +8 | +8 | +4 | +8 | +8 | 0 | 0% | 0
+ | Green d'hide vambraces | 0 | 0 | 0 | -10 | +8 | +3 | +2 | +4 | +2 | 0 | 0 | 0 | 0% | 0
+ | Adamant gloves | +7 | +7 | +7 | +4 | +7 | +7 | +7 | +7 | +4 | +7 | +7 | 0 | 0% | 0
+ | Regen bracelet | +8 | +8 | +8 | +3 | +7 | +6 | +6 | +6 | +3 | +6 | +7 | 0 | 0% | 0
+ | Combat bracelet | +7 | +7 | +7 | +3 | +7 | +5 | +5 | +5 | +3 | +5 | +6 | 0 | 0% | 0
+ | Mithril gloves | +6 | +6 | +6 | +3 | +6 | +6 | +6 | +6 | +3 | +6 | +6 | 0 | 0% | 0
+ | Shayzien gloves (5) | 0 | 0 | +2 | -1 | +6 | 0 | +2 | +3 | -1 | +2 | +3 | 0 | 0% | 0
+
+## Feet-slot items in order of effectiveness[edit|edit source]
+
+Item | Attack bonuses | Defence bonuses | Other
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Avernic treads (max) | +5 | +5 | +5 | +11 | +15 | +21 | +25 | +25 | +10 | +10 | +6 | +3 | +2% | 0
+ | Pegasian boots | 0 | 0 | 0 | -12 | +12 | +5 | +5 | +5 | +5 | +5 | 0 | 0 | 0% | 0
+ | Ranger boots | 0 | 0 | 0 | -10 | +8 | +2 | +3 | +4 | +2 | 0 | 0 | 0 | 0% | 0
+ | Blessed boots | 0 | 0 | 0 | -10 | +7 | +4 | +4 | +4 | +4 | +4 | 0 | 0 | 0% | +1
+ | Boots of brimstone | +3 | 0 | 0 | +3 | +5 | +10 | +10 | +10 | +5 | +5 | 0 | 0 | 0% | 0
+ | Mixed hide boots | 0 | 0 | 0 | -10 | +5 | +4 | +5 | +6 | +3 | +3 | +2 | 0 | 0% | 0
+ | Shayzien boots (5) | 0 | 0 | 0 | -2 | +4 | +5 | +7 | +8 | 0 | 0 | 0 | 0 | 0% | 0
+ | Snakeskin boots | 0 | 0 | 0 | -10 | +3 | +1 | +1 | +2 | +1 | 0 | 0 | 0 | 0% | 0
+ | Frog-leather boots | 0 | 0 | 0 | -8 | +2 | +1 | +1 | +1 | 0 | +1 | 0 | 0 | 0% | 0
+
+## Ring-slot items in order of effectiveness[edit|edit source]
+
+Item | Attack bonuses | Defence bonuses | Other
+ |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Venator ring | 0 | 0 | 0 | 0 | +10 | 0 | 0 | 0 | 0 | 0 | 0 | +2 | 0% | 0
+ | Archers ring (i) | 0 | 0 | 0 | 0 | +8 | 0 | 0 | 0 | 0 | +8 | 0 | 0 | 0% | 0
+ | Brimstone ring | +4 | +4 | +4 | +6 | +4 | +4 | +4 | +4 | +6 | +4 | +4 | 0 | 0% | 0
+ | Ring of shadows | +4 | +4 | +4 | +5 | +4 | +0 | +0 | +0 | +5 | +0 | +2 | 0 | 0% | +2
+ | Archers ring | 0 | 0 | 0 | 0 | +4 | 0 | 0 | 0 | 0 | +4 | 0 | 0 | 0% | 0
+Rings should be imbued as soon as possible using the Nightmare Zone, Soul Wars , or with a scroll of imbuing from the Emir's Arena . If the player cannot afford the archers ring, a ring of wealth is a decent alternative to help improve rare drop table rolls and pick up coins , but it does not increase damage.
+
+## Comparison of ranged weapons[edit|edit source]
+
+Name | level required | Ranged attack | Ranged strength (Max ammo) | Price | Notes
+ | Twisted bow | 85 | +70 | +20 (+80) | 1,523,924,014 | Has a passive effect where the higher the target's Magic level is, the more accurate and damaging the bow becomes. Uses arrows as ammunition up to and including dragon . Has the maximum attack range of 10 Identical attack speed of a longbow .
+ | Zaryte crossbow | 80 | +110 | (+122) | 350,225,405 | It is the only crossbow that grants defensive bonuses. One of two crossbows with a prayer bonus , along with the Armadyl crossbow from which it is crafted. Has a special attack which provides double accuracy on the next shot and guarantees the special effect of any enchanted bolts used if it hits. Costs 75% special attack energy. Its passive effect strengthens the effects of enchanted bolts by 10%.
+ | Bow of Faerdhinen | 80 | +128 | +106 | 130,756,481 | Has the highest ranged bonus of any ranged weapon, including a +106 Ranged Strength bonus. Receives noticeable damage and accuracy bonuses if worn alongside pieces of crystal armour . Has the maximum attack range of 10 When created, the bow starts off at 10,000 charges and degrades. The bow can be upgraded to the bow of Faerdhinen (c) to stop it from degrading.
+ | Venator bow | 80 | +90 | +25 (+85) | 69,008,976 | Has a passive effect when charged with ancient essence that allows arrows to ricochet to nearby targets when in a multicombat area. Uses arrows as ammunition up to and including dragon . Has an attack speed of 5, between that of a shortbow and a longbow.
+ | Scorching bow | 77 | +124 | +40 (+100) | 28,492,105 [ n 1 ] | Untradeable; created from a tormented synapse and magic longbow (u) with 74 Fletching . Uses arrows as ammunition up to and including dragon . Has the maximum attack range of 10 Has a passive effect that increases accuracy and damage by 30% against demons. Offers a special attack that binds demonic creatures in place for 20 ticks (12 seconds) and deals burn damage. Special attack cannot be used against non-demonic creatures.
+ | Toxic blowpipe | 75 | +30 | +20 (+55) | 10,001,570 | Requires Zulrah's scales (up to 16,383) and any unpoisoned darts to charge. Ranged strength bonus stacks with the darts that are used to charge the blowpipe (up to +55 ranged strength with dragon darts ). Has an attack speed of 3 (same as darts) in a non-pvp encounter or 4 in a pvp encounter (same as shortbows ). Offers a special attack where accuracy is increased by 100% and damage is increased by 50%, and heals the user by half of the damage dealt. Costs 50% special attack energy. Has 25% chance to inflict venom on an opponent.
+ | Heavy ballista | 75 | +125 | +15 (+165) | 968,428 | Has the second highest ranged bonus of any ranged weapon, including a +15 Ranged Strength bonus. Requires completion of Monkey Madness II to equip. Only accepts javelins as ammunition. Ava's devices retrieves fired javelins. Offers a special attack which increases accuracy and damage by 25% each for one shot. Costs 65% special attack energy.
+ | Eclipse atlatl | 75 | +87 | +40 (Melee) | 2,479,503 | Uniquely uses the player's melee strength bonuses when determining the amount of ranged damage dealt to a target. The max hit is based off of visible boosts to melee stats (eg. super combat potion ) and ranged boosting prayers (eg. Rigour ). Only accepts atlatl darts as ammunition. If worn with the rest of the eclipse moon armour set, it offers a set effect which has a 20% chance to inflict a stackable burn effect on the targets. Offers a special attack which consumes the remaining burn effect in exchange for increasing the player's minimum and maximum hit. Costs 50% special attack energy.
+ | Dragon hunter crossbow | 70 | +95 | (+122) | 48,066,793 | Offers the third highest one-handed Ranged attack bonus in the game, outclassed only by the Armadyl and Zaryte crossbow . Increases accuracy and damage by 30% and 25% respectively when fighting draconic creatures .
+ | Armadyl crossbow | 70 | +100 | (+122) | 32,850,653 | Has a slightly longer attack range than other crossbows . One of only two crossbows that offer a prayer bonus , the other being the Zaryte crossbow . Offers a special attack where the player's accuracy and enchanted bolts activation chance for that shot is doubled. Costs 50% special attack energy. One-handed, allowing the use of an off-hand shield or god book .
+ | Crystal bow | 70 | +100 | +78 | 565,317 [ n 2 ] | Offers a ranged strength of +78. Neither consumes nor requires ammunition. Has an attack speed of 5, between that of a shortbow and a crossbow. Has the maximum attack range of 10 Receives noticeable damage and accuracy bonuses if worn alongside pieces of crystal armour .
+ | Webweaver bow | 70 | +85 | +65 | 18,767,640 | Upgraded version of the Craw's bow , which requires the fangs of Venenatis to create. Must be charged with revenant ether to be fired, but it does provide its own ammo, similar to the crystal bow . While charged, an additional 50% ranged accuracy and damage boost is applied when attacking any NPC in the Wilderness . This effect will stack with a Slayer helmet or a Salve amulet and their variants, but not both simultaneously. This makes it the strongest ranged weapon in the Wilderness. Has a special attack that hits an enemy four times in succession with increased accuracy, each dealing up to 40% of the player's max hit, along with a chance to inflict poison , starting at 4 damage. Costs 50% special attack energy.
+ | Karil's crossbow | 70 | +84 | (+55) | 98,457 | One of the fastest crossbows, together with the hunters' crossbow . Can only fire bolt racks , which cannot be retrieved by an Ava's device . If worn with the rest of Karil the Tainted's equipment , it offers a set effect which lowers the target's Agility level (only works on players). Wearing an amulet of the damned together with the whole equipment set grants a 25% chance for an attack to hit twice, in which case the second hit will inflict half the damage of the first. Like all Barrows equipment , it degrades and will fully degrade after 15 hours of combat. It is repairable.
+ | Hunters' sunlight crossbow | 66 50 | +79 | (+60) | 6,982 | Offers the seventh highest one-handed Ranged attack bonus in the game, outclassed by the Zaryte crossbow , Armadyl crossbow , Dragon hunter , dragon crossbow and rune crossbows . Uses Sunlight antler bolts and Moonlight antler bolts as ammunition, giving +55 and +60 ranged strength which are equivalent to Amethyst arrows and Dragon arrows , respectively. Unlike most crossbows, it has a base attack speed of 4, making it comparable to a Magic shortbow (i) but with a slightly higher range (8 tiles) and accuracy. The addition of a ranged boosting shield further increases the accuracy and damage while also providing defensive bonuses. The Hunters' sunlight crossbow is significantly cheaper than the Magic shortbow (i) and Dragon crossbow . It is also easier to obtain for Ironmen, requiring 74 Fletching to make. However, Ironmen can only obtain the ammunition via Hunter .
+ | Dragon crossbow | 64 | +94 | (+122) | 1,111,995 | Offers the fourth highest one-handed Ranged attack bonus in the game, outclassed by the Zaryte crossbow , Armadyl crossbow , and dragon hunter crossbow . Offers a special attack where the player can hit any target in a 3x3 area, while in a multicombat area , making it one of three range weapons that can hit multiple targets. Costs 60% special attack energy.
+ | Rune crossbow | 61 | +90 | (+115) | 10,230 | Offers the fifth highest one-handed Ranged attack bonus in the game, outclassed by the Zaryte crossbow , Armadyl crossbow , Dragon hunter , and dragon crossbows . It is considerably cheaper than the Armadyl and dragon hunter crossbows.
+ | Craw's bow | 60 | +75 | +60 | 18,592,585 | Must be charged with revenant ether to be fired, but it does provide its own ammo, similar to the crystal bow . While charged, an additional 50% ranged accuracy and damage boost is applied when attacking any NPC in the Wilderness . This effect will stack with a Slayer helmet or a Salve amulet and their variants, but not both simultaneously. This makes it the second strongest ranged weapon in the Wilderness, surpassing the damage output of a toxic blowpipe with dragon darts . Shares the same bonuses as the magic shortbow (i) with the ranged strength of dragon arrows .
+ | Dark bow | 60 | +95 | (+60) | 964,376 | Offers the fifth highest Ranged attack bonus in the game, behind the bow of Faerdhinen (+128), heavy ballista (+125), the Zaryte crossbow (+110), and the crystal bow and Armadyl crossbow (+100). Has the ability to shoot two arrows at a time. The slowest weapon in the game, with an attack speed of 9 (5.4 seconds). Offers a powerful special attack, which if used with dragon arrows increases damage dealt by 50% with a minimum hit of 8 (30% with any other arrow type with a minimum. hit of 5). Costs 55% special attack energy.
+ | Magic shortbow | 50 | +69 | (+55) | 757 | The only shortbow to offer a special attack, which fires 2 shots in rapid succession but with reduced accuracy. Costs 55% special attack energy. Can be imbued with a magic shortbow scroll , increasing its ranged attack bonus to +75 and lowering the special attack cost to 50%.
+ | Magic shortbow (i) | +75 | 26,723
+ | Magic comp bow | 50 | +71 | (+55) | 1,545 | The only composite bow to offer a special attack, which is guaranteed to hit the target but is not boosted by damage-boosting prayers or the Slayer helmet (i) . Costs 35% special attack energy. Shares this special attack with the magic longbow. Is slightly more accurate than the magic longbow and 1 tick faster (1 tick slower than the shortbow), while keeping the same attack range of the longbow.
+ | Seercull | 50 | +69 | (+55) | 34,074 | Has slightly less accuracy but otherwise identical stats to the magic comp bow . Has a special attack that targets mages by lowering their Magic level, costing 100% special attack energy.
+ | Magic longbow | 50 | +69 | (+55) | 1,230 | The only longbow to offer a special attack, which is guaranteed to hit the target but is not boosted by damage-boosting prayers or the Slayer helmet (i) . Costs 35% special attack energy. Shares this special attack with the magic comp bow. Like all longbows, is 2 ticks slower than the magic shortbow, in exchange for 3 additional attack range. Unlike the magic shortbow, cannot be imbued.
+ | Adamant crossbow | 46 | +78 | (+100) | 1,757 | Offers the sixth highest one-handed Ranged attack bonus in the game. Has an attack speed equal to that of longbows and an attack range equal to that of shortbows. Because of the slower attack speed and the potential for overkill from its higher max hit, it deals less damage over extended periods than the magic shortbow, and should be used primarily when additional defence is needed through the use of a shield, or if enchanted bolt effects are needed.
+ | Chinchompas | 45 ( Grey ) | +45 | N/A | Varies [ n 3 ] | One of the four ranged weapons that offers the ability to hit more than one opponent at a time (similar to burst or barrage Ancient Magicks ), the others being the special attack of the dragon crossbow , with a similar attack, and rune thrownaxe , with a ricochet special type attack, and Venator bow with a passive ricochet attack. Regarded to be the best way of training Ranged, but at a very high cost. Has an attack speed of 4 (the same as scimitars , maces , and whips ).
+ | 55 ( Red ) | +70 | +15
+ | 65 ( Black ) | +80 | +30
+ | Salamanders | 30 (Green) | +20 | (+16) | 94 | Unique and versatile two-handed weapons that facilitate the use of all three combat styles.
+50 (Orange) | +29 | (+22) | 30
+60 (Red) | +47 | (+31) | 27
+70 (Black) | +69 | (+49) | 128
+80 (Tecu) | +87 | (+60) | 206,288
+ | Dorgeshuun crossbow | 28 | +42 | (+49) | 2,396 | Is one tick faster than most other crossbows, and it is able to fire bone bolts , which are significantly cheaper than most other ammunition of similar strength.
+ | Throwing knives | 40 ( Rune ) | +25 | +24 | Varies [ n 3 ] | Have high damage output, but are significantly more expensive compared to other low-level options.
+ | Shortbows | 40 ( Yew ) | +47 | (+49) | 334 | Offer slightly less damage output than using rune knives, but are a lot cheaper.
+ | Darts | 30 ( Adamant ) | N/A | +17 | Varies [ n 3 ] | Are cheap, deal decent damage and are easy to buy from the Grand Exchange. Adamant darts have comparable damage output to using a shortbow with rune arrows, so players should use whichever is cheaper.
+ | Dwarf multicannon | N/A | N/A | N/A | 756,417 | Can be set up and used alongside other weapons for passive Ranged damage and experience. Cannot be set up in all areas. Has a static max hit of 30 with cannonballs and 35 with granite cannonballs . Derives accuracy from player's current attack style (Ranged while ranging, Melee while meleeing, and whichever is higher with powered staves) while rolling against the target's Ranged defence.
+^ Untradeable; cost is of the tormented synapse and magic longbow (u) required to craft it. ^ Cost of having Ilfeen charge a crystal weapon seed after obtaining minimum cost. ^ 3.0 3.1 3.2 Cost of thrown weapons is only that of the ammo.
+- view
+- talk
+- edit
+- Has a passive effect where the higher the target's Magic level is, the more accurate and damaging the bow becomes.
+- Uses arrows as ammunition up to and including dragon .
+- Has the maximum attack range of 10
+- Identical attack speed of a longbow .
+- It is the only crossbow that grants defensive bonuses.
+- One of two crossbows with a prayer bonus , along with the Armadyl crossbow from which it is crafted.
+- Has a special attack which provides double accuracy on the next shot and guarantees the special effect of any enchanted bolts used if it hits. Costs 75% special attack energy.
+- Its passive effect strengthens the effects of enchanted bolts by 10%.
+- Has the highest ranged bonus of any ranged weapon, including a +106 Ranged Strength bonus.
+- Receives noticeable damage and accuracy bonuses if worn alongside pieces of crystal armour .
+- Has the maximum attack range of 10
+- When created, the bow starts off at 10,000 charges and degrades.
+- The bow can be upgraded to the bow of Faerdhinen (c) to stop it from degrading.
+- Has a passive effect when charged with ancient essence that allows arrows to ricochet to nearby targets when in a multicombat area.
+- Uses arrows as ammunition up to and including dragon .
+- Has an attack speed of 5, between that of a shortbow and a longbow.
+- Untradeable; created from a tormented synapse and magic longbow (u) with 74 Fletching .
+- Uses arrows as ammunition up to and including dragon .
+- Has the maximum attack range of 10
+- Has a passive effect that increases accuracy and damage by 30% against demons.
+- Offers a special attack that binds demonic creatures in place for 20 ticks (12 seconds) and deals burn damage. Special attack cannot be used against non-demonic creatures.
+- Special attack cannot be used against non-demonic creatures.
+- Special attack cannot be used against non-demonic creatures.
+- Requires Zulrah's scales (up to 16,383) and any unpoisoned darts to charge.
+- Ranged strength bonus stacks with the darts that are used to charge the blowpipe (up to +55 ranged strength with dragon darts ).
+- Has an attack speed of 3 (same as darts) in a non-pvp encounter or 4 in a pvp encounter (same as shortbows ).
+- Offers a special attack where accuracy is increased by 100% and damage is increased by 50%, and heals the user by half of the damage dealt. Costs 50% special attack energy.
+- Has 25% chance to inflict venom on an opponent.
+- Has the second highest ranged bonus of any ranged weapon, including a +15 Ranged Strength bonus.
+- Requires completion of Monkey Madness II to equip.
+- Only accepts javelins as ammunition.
+- Ava's devices retrieves fired javelins.
+- Offers a special attack which increases accuracy and damage by 25% each for one shot. Costs 65% special attack energy.
+- Uniquely uses the player's melee strength bonuses when determining the amount of ranged damage dealt to a target. The max hit is based off of visible boosts to melee stats (eg. super combat potion ) and ranged boosting prayers (eg. Rigour ).
+- Only accepts atlatl darts as ammunition.
+- If worn with the rest of the eclipse moon armour set, it offers a set effect which has a 20% chance to inflict a stackable burn effect on the targets.
+- Offers a special attack which consumes the remaining burn effect in exchange for increasing the player's minimum and maximum hit. Costs 50% special attack energy.
+- Offers the third highest one-handed Ranged attack bonus in the game, outclassed only by the Armadyl and Zaryte crossbow .
+- Increases accuracy and damage by 30% and 25% respectively when fighting draconic creatures .
+- Has a slightly longer attack range than other crossbows .
+- One of only two crossbows that offer a prayer bonus , the other being the Zaryte crossbow .
+- Offers a special attack where the player's accuracy and enchanted bolts activation chance for that shot is doubled. Costs 50% special attack energy.
+- One-handed, allowing the use of an off-hand shield or god book .
+- Offers a ranged strength of +78.
+- Neither consumes nor requires ammunition.
+- Has an attack speed of 5, between that of a shortbow and a crossbow.
+- Has the maximum attack range of 10
+- Receives noticeable damage and accuracy bonuses if worn alongside pieces of crystal armour .
+- Upgraded version of the Craw's bow , which requires the fangs of Venenatis to create.
+- Must be charged with revenant ether to be fired, but it does provide its own ammo, similar to the crystal bow .
+- While charged, an additional 50% ranged accuracy and damage boost is applied when attacking any NPC in the Wilderness . This effect will stack with a Slayer helmet or a Salve amulet and their variants, but not both simultaneously. This makes it the strongest ranged weapon in the Wilderness.
+- Has a special attack that hits an enemy four times in succession with increased accuracy, each dealing up to 40% of the player's max hit, along with a chance to inflict poison , starting at 4 damage. Costs 50% special attack energy.
+- One of the fastest crossbows, together with the hunters' crossbow .
+- Can only fire bolt racks , which cannot be retrieved by an Ava's device .
+- If worn with the rest of Karil the Tainted's equipment , it offers a set effect which lowers the target's Agility level (only works on players).
+- Wearing an amulet of the damned together with the whole equipment set grants a 25% chance for an attack to hit twice, in which case the second hit will inflict half the damage of the first.
+- Like all Barrows equipment , it degrades and will fully degrade after 15 hours of combat. It is repairable.
+- Offers the seventh highest one-handed Ranged attack bonus in the game, outclassed by the Zaryte crossbow , Armadyl crossbow , Dragon hunter , dragon crossbow and rune crossbows .
+- Uses Sunlight antler bolts and Moonlight antler bolts as ammunition, giving +55 and +60 ranged strength which are equivalent to Amethyst arrows and Dragon arrows , respectively.
+- Unlike most crossbows, it has a base attack speed of 4, making it comparable to a Magic shortbow (i) but with a slightly higher range (8 tiles) and accuracy. The addition of a ranged boosting shield further increases the accuracy and damage while also providing defensive bonuses.
+- The Hunters' sunlight crossbow is significantly cheaper than the Magic shortbow (i) and Dragon crossbow . It is also easier to obtain for Ironmen, requiring 74 Fletching to make. However, Ironmen can only obtain the ammunition via Hunter .
+- Offers the fourth highest one-handed Ranged attack bonus in the game, outclassed by the Zaryte crossbow , Armadyl crossbow , and dragon hunter crossbow .
+- Offers a special attack where the player can hit any target in a 3x3 area, while in a multicombat area , making it one of three range weapons that can hit multiple targets. Costs 60% special attack energy.
+- Offers the fifth highest one-handed Ranged attack bonus in the game, outclassed by the Zaryte crossbow , Armadyl crossbow , Dragon hunter , and dragon crossbows .
+- It is considerably cheaper than the Armadyl and dragon hunter crossbows.
+- Must be charged with revenant ether to be fired, but it does provide its own ammo, similar to the crystal bow .
+- While charged, an additional 50% ranged accuracy and damage boost is applied when attacking any NPC in the Wilderness . This effect will stack with a Slayer helmet or a Salve amulet and their variants, but not both simultaneously. This makes it the second strongest ranged weapon in the Wilderness, surpassing the damage output of a toxic blowpipe with dragon darts .
+- Shares the same bonuses as the magic shortbow (i) with the ranged strength of dragon arrows .
+- Offers the fifth highest Ranged attack bonus in the game, behind the bow of Faerdhinen (+128), heavy ballista (+125), the Zaryte crossbow (+110), and the crystal bow and Armadyl crossbow (+100).
+- Has the ability to shoot two arrows at a time.
+- The slowest weapon in the game, with an attack speed of 9 (5.4 seconds).
+- Offers a powerful special attack, which if used with dragon arrows increases damage dealt by 50% with a minimum hit of 8 (30% with any other arrow type with a minimum. hit of 5). Costs 55% special attack energy.
+- The only shortbow to offer a special attack, which fires 2 shots in rapid succession but with reduced accuracy. Costs 55% special attack energy.
+- Can be imbued with a magic shortbow scroll , increasing its ranged attack bonus to +75 and lowering the special attack cost to 50%.
+- The only composite bow to offer a special attack, which is guaranteed to hit the target but is not boosted by damage-boosting prayers or the Slayer helmet (i) . Costs 35% special attack energy. Shares this special attack with the magic longbow.
+- Is slightly more accurate than the magic longbow and 1 tick faster (1 tick slower than the shortbow), while keeping the same attack range of the longbow.
+- Has slightly less accuracy but otherwise identical stats to the magic comp bow .
+- Has a special attack that targets mages by lowering their Magic level, costing 100% special attack energy.
+- The only longbow to offer a special attack, which is guaranteed to hit the target but is not boosted by damage-boosting prayers or the Slayer helmet (i) . Costs 35% special attack energy. Shares this special attack with the magic comp bow.
+- Like all longbows, is 2 ticks slower than the magic shortbow, in exchange for 3 additional attack range.
+- Unlike the magic shortbow, cannot be imbued.
+- Offers the sixth highest one-handed Ranged attack bonus in the game.
+- Has an attack speed equal to that of longbows and an attack range equal to that of shortbows.
+- Because of the slower attack speed and the potential for overkill from its higher max hit, it deals less damage over extended periods than the magic shortbow, and should be used primarily when additional defence is needed through the use of a shield, or if enchanted bolt effects are needed.
+- One of the four ranged weapons that offers the ability to hit more than one opponent at a time (similar to burst or barrage Ancient Magicks ), the others being the special attack of the dragon crossbow , with a similar attack, and rune thrownaxe , with a ricochet special type attack, and Venator bow with a passive ricochet attack.
+- Regarded to be the best way of training Ranged, but at a very high cost.
+- Has an attack speed of 4 (the same as scimitars , maces , and whips ).
+- Unique and versatile two-handed weapons that facilitate the use of all three combat styles.
+- Is one tick faster than most other crossbows, and it is able to fire bone bolts , which are significantly cheaper than most other ammunition of similar strength.
+- Have high damage output, but are significantly more expensive compared to other low-level options.
+- Offer slightly less damage output than using rune knives, but are a lot cheaper.
+- Are cheap, deal decent damage and are easy to buy from the Grand Exchange.
+- Adamant darts have comparable damage output to using a shortbow with rune arrows, so players should use whichever is cheaper.
+- Can be set up and used alongside other weapons for passive Ranged damage and experience.
+- Cannot be set up in all areas.
+- Has a static max hit of 30 with cannonballs and 35 with granite cannonballs .
+- Derives accuracy from player's current attack style (Ranged while ranging, Melee while meleeing, and whichever is higher with powered staves) while rolling against the target's Ranged defence.
+- ^ Untradeable; cost is of the tormented synapse and magic longbow (u) required to craft it.
+- ^ Cost of having Ilfeen charge a crystal weapon seed after obtaining minimum cost.
+- ^ 3.0 3.1 3.2 Cost of thrown weapons is only that of the ammo.
+v t e Skill training guides
+Free-to-play guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft
+Members' guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ironman guides | Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ultimate Ironman guides | Item management Equipment Quests Minigames Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+General guidelines | Efficiency
+- v
+- t
+- e
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Item management
+- Equipment
+- Quests
+- Minigames
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Efficiency
+- ^ Damage per second.
+- ^ In most setups Masori beats Void. That being said, DPS and therefore experience depends on ranged level, prayers used, other equipment used, and other factors. It's best to check your DPS yourself to compare.

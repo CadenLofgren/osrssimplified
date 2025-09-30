@@ -1,0 +1,177 @@
+{
+  "Attack": {
+    "p2p": [
+      "skill_pages\\p2p\\Pay-to-play_melee_training.txt"
+    ],
+    "f2p": [
+      "skill_pages\\f2p\\Free-to-play_melee_training.txt"
+    ]
+  },
+  "Strength": {
+    "p2p": [
+      "skill_pages\\p2p\\Pay-to-play_melee_training.txt"
+    ],
+    "f2p": [
+      "skill_pages\\f2p\\Free-to-play_melee_training.txt"
+    ]
+  },
+  "Defence": {
+    "p2p": [
+      "skill_pages\\p2p\\Pay-to-play_melee_training.txt"
+    ],
+    "f2p": [
+      "skill_pages\\f2p\\Free-to-play_melee_training.txt"
+    ]
+  },
+  "Ranged": {
+    "p2p": [
+      "skill_pages\\p2p\\Pay-to-play_Ranged_training.txt"
+    ],
+    "f2p": [
+      "skill_pages\\f2p\\Free-to-play_Ranged_training.txt"
+    ]
+  },
+  "Prayer": {
+    "p2p": [
+      "skill_pages\\p2p\\Pay-to-play_Prayer_training.txt"
+    ],
+    "f2p": [
+      "skill_pages\\f2p\\Free-to-play_Prayer_training.txt"
+    ]
+  },
+  "Magic": {
+    "p2p": [
+      "skill_pages\\p2p\\Pay-to-play_Magic_training.txt"
+    ],
+    "f2p": [
+      "skill_pages\\f2p\\Free-to-play_Magic_training.txt"
+    ]
+  },
+  "Runecrafting": {
+    "p2p": [
+      "skill_pages\\p2p\\Pay-to-play_Runecraft_training.txt"
+    ],
+    "f2p": []
+  },
+  "Construction": {
+    "p2p": [
+      "skill_pages\\p2p\\Construction_training.txt"
+    ],
+    "f2p": []
+  },
+  "Hitpoints": {
+    "p2p": [
+      "skill_pages\\p2p\\Hitpoints_training.txt",
+      "skill_pages\\p2p\\Pay-to-play_Hitpoints_training.txt"
+    ],
+    "f2p": [
+      "skill_pages\\f2p\\Free-to-play_Hitpoints_training.txt"
+    ]
+  },
+  "Agility": {
+    "p2p": [
+      "skill_pages\\p2p\\Agility_training.txt",
+      "skill_pages\\p2p\\Agility_training.txt"
+    ],
+    "f2p": []
+  },
+  "Herblore": {
+    "p2p": [
+      "skill_pages\\p2p\\Herblore_training.txt"
+    ],
+    "f2p": []
+  },
+  "Thieving": {
+    "p2p": [
+      "skill_pages\\p2p\\Thieving_training.txt"
+    ],
+    "f2p": []
+  },
+  "Crafting": {
+    "p2p": [
+      "skill_pages\\p2p\\Pay-to-play_Crafting_training.txt",
+      "skill_pages\\p2p\\Pay-to-play_Crafting_training.txt"
+    ],
+    "f2p": [
+      "skill_pages\\f2p\\Free-to-play_Crafting_training.txt"
+    ]
+  },
+  "Fletching": {
+    "p2p": [
+      "skill_pages\\p2p\\Fletching_training.txt"
+    ],
+    "f2p": []
+  },
+  "Slayer": {
+    "p2p": [
+      "skill_pages\\p2p\\Slayer_training.txt"
+    ],
+    "f2p": []
+  },
+  "Hunter": {
+    "p2p": [
+      "skill_pages\\p2p\\Hunter_training.txt"
+    ],
+    "f2p": []
+  },
+  "Mining": {
+    "p2p": [
+      "skill_pages\\p2p\\Pay-to-play_Mining_training.txt",
+      "skill_pages\\p2p\\Pay-to-play_Mining_training.txt"
+    ],
+    "f2p": [
+      "skill_pages\\f2p\\Free-to-play_Mining_training.txt"
+    ]
+  },
+  "Smithing": {
+    "p2p": [
+      "skill_pages\\p2p\\Pay-to-play_Smithing_training.txt",
+      "skill_pages\\p2p\\Pay-to-play_Smithing_training.txt"
+    ],
+    "f2p": [
+      "skill_pages\\f2p\\Free-to-play_Smithing_training.txt"
+    ]
+  },
+  "Fishing": {
+    "p2p": [
+      "skill_pages\\p2p\\Pay-to-play_Fishing_training.txt",
+      "skill_pages\\p2p\\Pay-to-play_Fishing_training.txt"
+    ],
+    "f2p": [
+      "skill_pages\\f2p\\Free-to-play_Fishing_training.txt"
+    ]
+  },
+  "Cooking": {
+    "p2p": [
+      "skill_pages\\p2p\\Pay-to-play_Cooking_training.txt",
+      "skill_pages\\p2p\\Pay-to-play_Cooking_training.txt"
+    ],
+    "f2p": [
+      "skill_pages\\f2p\\Free-to-play_Cooking_training.txt"
+    ]
+  },
+  "Firemaking": {
+    "p2p": [
+      "skill_pages\\p2p\\Pay-to-play_Firemaking_training.txt",
+      "skill_pages\\p2p\\Pay-to-play_Firemaking_training.txt"
+    ],
+    "f2p": [
+      "skill_pages\\f2p\\Free-to-play_Firemaking_training.txt"
+    ]
+  },
+  "Woodcutting": {
+    "p2p": [
+      "skill_pages\\p2p\\Pay-to-play_Woodcutting_training.txt",
+      "skill_pages\\p2p\\Pay-to-play_Woodcutting_training.txt"
+    ],
+    "f2p": [
+      "skill_pages\\f2p\\Free-to-play_Woodcutting_training.txt"
+    ]
+  },
+  "Farming": {
+    "p2p": [
+      "skill_pages\\p2p\\Farming_training.txt"
+    ],
+    "f2p": []
+  }
+}

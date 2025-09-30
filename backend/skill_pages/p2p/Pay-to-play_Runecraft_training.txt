@@ -1,0 +1,677 @@
+This guide describes the most effective methods to train the Runecraft skill.
+
+## Contents
+
+- 1 General information and tips 1.1 Recommended quests 1.2 Essence pouches 1.3 Rune pouch 1.4 Using daeyalt essence
+- 1.1 Recommended quests
+- 1.2 Essence pouches
+- 1.3 Rune pouch
+- 1.4 Using daeyalt essence
+- 2 Starting off 2.1 Levels 1–32/34: Questing 2.2 Levels 1–50: Making talisman tiaras
+- 2.1 Levels 1–32/34: Questing
+- 2.2 Levels 1–50: Making talisman tiaras
+- 3 Levels 23–99: Lava runes 3.1 Solo lavas 3.2 Using lava runners
+- 3.1 Solo lavas
+- 3.2 Using lava runners
+- 4 Levels 27–99: Guardians of the Rift
+- 5 Levels 1–99: Ourania Altar 5.1 Setup 5.2 Runecrafting and tips
+- 5.1 Setup
+- 5.2 Runecrafting and tips
+- 6 Levels 77–99: Crafting blood/soul runes in Arceuus 6.1 More information and tips
+- 6.1 More information and tips
+- 7 Other methods 7.1 Levels 1–99: Arceuus Library 7.2 Levels 15–99: Other combination runes 7.3 Levels 50-99: Imbuing desiccated pages 7.4 Levels 59–82/91: Double cosmic runes 7.5 Levels 82–99: Double astral runes 7.6 Levels 91–95/99: Double nature runes 7.7 Levels 95–99: Double law runes 7.8 Levels 90–99: Aether runes 7.9 Levels 95–99: Wrath runes 7.9.1 Setup and runecrafting
+- 7.1 Levels 1–99: Arceuus Library
+- 7.2 Levels 15–99: Other combination runes
+- 7.3 Levels 50-99: Imbuing desiccated pages
+- 7.4 Levels 59–82/91: Double cosmic runes
+- 7.5 Levels 82–99: Double astral runes
+- 7.6 Levels 91–95/99: Double nature runes
+- 7.7 Levels 95–99: Double law runes
+- 7.8 Levels 90–99: Aether runes
+- 7.9 Levels 95–99: Wrath runes 7.9.1 Setup and runecrafting
+- 7.9.1 Setup and runecrafting
+- 8 Post 99
+- 9 References
+- 1.1 Recommended quests
+- 1.2 Essence pouches
+- 1.3 Rune pouch
+- 1.4 Using daeyalt essence
+- 2.1 Levels 1–32/34: Questing
+- 2.2 Levels 1–50: Making talisman tiaras
+- 3.1 Solo lavas
+- 3.2 Using lava runners
+- 5.1 Setup
+- 5.2 Runecrafting and tips
+- 6.1 More information and tips
+- 7.1 Levels 1–99: Arceuus Library
+- 7.2 Levels 15–99: Other combination runes
+- 7.3 Levels 50-99: Imbuing desiccated pages
+- 7.4 Levels 59–82/91: Double cosmic runes
+- 7.5 Levels 82–99: Double astral runes
+- 7.6 Levels 91–95/99: Double nature runes
+- 7.7 Levels 95–99: Double law runes
+- 7.8 Levels 90–99: Aether runes
+- 7.9 Levels 95–99: Wrath runes 7.9.1 Setup and runecrafting
+- 7.9.1 Setup and runecrafting
+- 7.9.1 Setup and runecrafting
+
+## General information and tips[edit|edit source]
+
+Most Runecraft training methods involve using essence. Pure essence is most commonly used, as it can be used for all rune types and is typically cheaper than rune essence .
+The Raiments of the Eye set grants 60% more runes when the full outfit is worn, though no extra experience is given. The outfit can be obtained through the Guardians of the Rift minigame. Getting the outfit is recommended if the player plans to train with profitable methods.
+Drinking stamina potions is generally the best option for restoring run energy. The ring of endurance is also useful, as it reduces the run energy drain and doubles the duration of the stamina potion effect when charged.
+
+## Recommended quests[edit|edit source]
+
+The quests listed in the table below offer very useful rewards for a lot of training methods. Completing them is strongly recommended before doing a lot of Runecraft training.
+Quest | Requirements | Notes
+Rune Mysteries | None | Prerequisite for many quests, including ones below.
+Enter the Abyss | Completion of Rune Mysteries | Required for repairing essence pouches . Also awards 1,000 Runecraft experience.
+Temple of the Eye | Completion of Enter the Abyss 10 Runecraft | A total of 9,210 Runecraft experience is earned by completing the quest. Unlocks the Guardians of the Rift minigame. Awards a medium pouch .
+The Eyes of Glouphrie | Completion of The Grand Tree 5 Construction 46 Magic | Awards 6,000 Runecraft experience, which will allow the player to skip most of the early levels.
+Lunar Diplomacy | Various, see the quest page . | The Lunar spellbook gives access to very useful spells used in some of the fastest training methods. The quest also awards 5,000 Runecraft experience. NPC Contact can be used to quickly repair essence pouches. Casting this spell requires level 67 Magic. Ourania Teleport provides a very fast access to the Ourania Altar . Casting this spell requires level 71 Magic. Magic Imbue negates the need for a talisman when crafting combination runes . Casting this spell requires level 82 Magic.
+10 Runecraft
+5 Construction 46 Magic
+- NPC Contact can be used to quickly repair essence pouches. Casting this spell requires level 67 Magic.
+- Ourania Teleport provides a very fast access to the Ourania Altar . Casting this spell requires level 71 Magic.
+- Magic Imbue negates the need for a talisman when crafting combination runes . Casting this spell requires level 82 Magic.
+
+## Essence pouches[edit|edit source]
+
+Essence pouches can be filled with essence and then emptied to add the essence back into the player's inventory. This allows the player to carry more essence per run, which will increase experience rates in most cases. A small pouch is given to the player after completing Enter the Abyss . A medium pouch is awarded after completing Temple of the Eye .
+To fill an essence pouch, simply click on it while having essence in the inventory. The pouches can be filled without closing the bank interface. A filled essence pouch can be emptied by holding the Shift key and then clicking on the pouch. To enable the Shift-click empty configuration, toggle on 'Shift click to drop items' through settings .
+Essence pouches are dropped by abyssal leeches , guardians , and walkers . They reside in the Abyss and in the Abyssal Area . The Abyss can be accessed through the Mage of Zamorak in level 5 Wilderness north of Edgeville, and the Abyssal Area through the fairy ring A L R . The pouches are dropped in increasing size; a player who already has the small pouch will get a medium pouch next, and so on. The pouches can be obtained prior to having the required Runecraft levels to use them. However, players cannot store any essence inside of them without the Runecraft level requirement.
+The colossal pouch is made by using an abyssal needle to stitch together a small, medium, large, and giant pouch. This requires unboosted levels of 25 Runecraft and 56 Crafting.
+The pouches above small degrade after enough use. When degraded, they will hold less essence than they normally would. To repair the pouches, talk to the Dark mage in the Abyss or via NPC Contact . The player can alternatively have Apprentice Cordelia repair the pouches for 1 abyssal pearl after unlocking the service for 25 abyssal pearls. Repair the pouches right before they become degraded or as soon as they do. If the pouches are not repaired, they will eventually vanish after enough use, in which case the player will have to get new ones. The small pouch can be obtained from the Dark mage for free if lost.
+Type | level | Capacity | Cumulative capacity | Uses before decay (approx.)
+ | Small pouch | 1 | 3 | 3 | No decay
+ | Medium pouch | 25 | 6 | 9 | 45
+ | Large pouch | 50 | 9 | 18 | 29
+ | Giant pouch | 75 | 12 | 30 | 10
+ | Colossal pouch | 85 | 40 | 40 | 8
+
+## Rune pouch[edit|edit source]
+
+The rune pouch (not to be confused with essence pouches ) can store 16,000 of three types of runes. It saves inventory space for methods where runes are used for casting spells, such as NPC Contact for repairing essence pouches. This will increase experience rates for those methods. To get a rune pouch, buy a rune pouch note from the Grand Exchange and use it on a banker in exchange for a rune pouch. A rune pouch note currently costs 5,286,769 .
+
+## Using daeyalt essence[edit|edit source]
+
+Players who have completed Sins of the Father can obtain untradeable daeyalt essence through mining daeyalt shards . Mining the shards requires level 60 Mining. Daeyalt essence can be used and stored in essence pouches like pure essence , but provides a 50% bonus to Runecraft experience when used. The experience bonuses of daeyalt essence and Ourania Altar stack multiplicatively for a total of 255%. Like with pure essence, the daeyalt essence cannot be used in place of dark essence fragments to craft blood or soul runes at the Kourend altars.
+Obtaining and using daeyalt essence is slower overall than buying pure essence from the Grand Exchange and using it. The efficiency can be calculated using this formula:
+1 . 5 1 + X Y Where X is Essence used per hour and Y is shards mined per hour.
+Example :
+Someone uses up 2538 essence per hour at the Ourania Altar [ 1 ] , and they mine about 4400 Shards at daeyalt essence mine per hour.
+This results in ≈ 0 . 9 5 1 2 8 or 9 5 . 1 2 8 % efficiency. That means, in this example, spending the time to mine daeyalt essence and then crafting it, yields 9 5 . 1 2 8 % of the experience you would get if you were to craft runes using bought pure essence instead.
+While the efficiency is below 100% most of the time, it is still a low-effort alternative to training Runecraft . Since you can spend one third of your training time AFK Mining, then only two thirds of the time actively running the essence to any altar while still getting (for example) 95% of the experience you would normally get. There is also little variance in daeyalt mining opposed to the fast clicks and quick banking required to Runecraft. If you can be 95% efficient mining Daeyalt, but only 75% efficient runecrafting, daeyalt will benefit your gameplay style, and may be more efficient overall. Maximum theoretical efficiency of mining shards with a dragon pickaxe is 4856 an hour.
+
+## Starting off[edit|edit source]
+
+
+## Levels 1–32/34: Questing[edit|edit source]
+
+Early levels can be skipped by completing quests that give Runecraft experience . Completing Enter the Abyss miniquest , The Ascent of Arceuus , The Eyes of Glouphrie , Temple of the Eye and The Slug Menace grants a total of 20,210 experience, which will get the player from level 1 to 33. This allows the player to craft lava runes right from the start or do the Guardians of the Rift minigame. All these quests have low requirements and can be done at a fairly low level.
+Lunar Diplomacy grants an additional 5,000 experience, which will get the player to level 36, but it has much higher requirements. However, being on the lunar spellbook is highly recommended for crafting lava runes and for Ourania Altar .
+
+## Levels 1–50: Making talisman tiaras[edit|edit source]
+
+
+Making talisman tiaras is one of the fastest training methods up to level 50. It also has no quest or skill level requirements. This method is fairly click-intensive and can be very expensive depending on the talisman prices, so it is only recommended for players who wish to get through the early levels as fast as possible and do not mind spending some money. Crafting lava runes offers faster experience rates from level 50 onwards. Players who are looking for a lower-effort alternative to making talisman tiaras or crafting lava runes are advised to complete quests to skip the early levels and do the Guardians of the Rift minigame.
+Talisman tiaras are made by using a talisman on the corresponding altar with a tiara in the inventory. The tiara can be also used on the altar, but the left-click option on tiaras is wear, so it is suggested to use the talisman instead. Wearing a tiara also makes the altar left-click and removes an animation on getting into the altar.
+The ring of the elements is required for the fastest rates, as it provides fast teleports to all the elemental runic altars. Using an amulet of glory is recommended for fast banking, as equipping it allows the player to make 14 tiaras per inventory. A ring of dueling can alternatively be used for fast access to the altar and to the bank if making tiaras at the Fire Altar .
+The experience rates assume 1,450 tiaras made per hour. With accurate clicks and good banking, it is possible to make up to around 1,550 tiaras per hour. The profit rates assume using a ring of the elements to get to the altar and the amulet of glory for banking. Elemental tiaras may not be viable due to low trading volumes.
+Type | XP/h | GP/XP | Tiaras needed | Total profit (1–50)
+ | Air tiara | 36,300 | -10.16 | 4,054 | −1,029,543
+ | Water tiara | 43,500 | -10.03 | 3,378 | −1,016,708
+ | Earth tiara | 47,100 | -18.58 | 3,118 | −1,883,235
+ | Fire tiara | 50,800 | -50.97 | 2,896 | −5,165,088
+ | Elemental tiara | 58,000 | -40.00 | 2,534 | −4,053,320
+
+## Levels 23–99: Lava runes[edit|edit source]
+
+Crafting lava runes is the fastest way to train Runecraft. They are made by visiting the Fire Altar with essence and at least an equal amount of earth runes. Having a binding necklace equipped ensures combination runes are crafted 100% of the time.
+For the fastest rates, players will need level 82 Magic and completion of Lunar Diplomacy to cast the spell Magic Imbue . It negates the need for a talisman in combination runecrafting, which will increase experience rates. Players who cannot use the spell will need to use earth talismans instead.
+
+## Solo lavas[edit|edit source]
+
+ | This article or section is incomplete and could do with improvement. Reason: Solo rava rates aren't accurate, it is possible to get 110k–115k xp/h at level 99 You can discuss this issue on the talk page or edit this article to improve it.
+
+ |  |  | 
+100K |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+16000 | 16000 |  | 
+An optimal setup consists of the following:
+- A fire or elemental tiara to enter the Fire Altar. An attuned hat of the eye may be used as well.
+- A binding necklace to consistently craft combination runes.
+- A mist battlestaff and a tome of fire (or smoke battlestaff and a tome of water ) for unlimited air , water , and fire runes .
+- A Crafting cape or a ring of dueling for banking. Using Menu Entry Swaps allows for left-click teleports without removing your cape or ring.
+- Ring of the elements (if using the Crafting cape ) or a ring of dueling to get to the Fire Altar.
+- Weight-reducing clothing (optional).
+- A large stack of earth runes for crafting combination runes, used on the altar to craft the combination runes.
+- A rune pouch to bring astral and cosmic runes for NPC Contact and Magic Imbue .
+- Essence pouches for bringing extra pure essence : with 75+ Runecraft, the giant and large pouch ; without 75 Runecraft, all pouches available.
+- Pure essence for the rest of the inventory.
+- RuneLite with Menu Entry Swapper for instant click teleports, fills, and emptying.
+The ring of the elements spawns the player one tile closer to the altar than the ring of dueling on average, though as the player moves two tiles at a time this does not always save time. The ring of the elements carries more charges than the ring of dueling, making banking easier.
+The player may want to only use the two largest essence pouches available. The time saved filling and emptying the pouches could result in faster laps and better experience rates, as well allowing the dueling ring and binding necklaces to discharge evenly. If using essence pouches without Magic Imbue, bring another earth talisman as the runes in the pouches would not be made into lava runes.
+Experience rates are shown in the table below. The rates vary depending on performance and how many essence pouches are available. Before level 99, players can gain up to 93,000 experience per hour at maximum efficiency. Due to the click-intensive process this method involves, players may be more likely to see rates closer to 85,000–90,000 experience per hour. At level 99, the maximum possible experience rate caps at around 98,000 experience per hour.
+level | Runes/lap | XP/h | GP/XP
+Earth talisman | Magic Imbue | Earth talisman [ n 1 ] [ n 2 ] | Magic Imbue [ n 2 ] | Earth talisman [ n 3 ] | Magic Imbue [ n 3 ]
+23 | 26 | 26 | 38,220 | 38,220 | -2.63 | -1.38
+50 [ n 4 ] | 40 | 41 | 58,800 | 60,270 | -2.58 | -0.53
+75 [ n 5 ] | 44 | 45 | 64,680 | 66,150 | -2.25 | -0.53
+85 [ n 6 ] | 63 | 64 | 91,600 | 93,000 | -1.29 | 0.00
+99 [ n 6 ] [ n 7 ] | 63 | 64 | 96,600 | 98,000 | -1.29 | 0.00
+- ^ Will not vary with level if you do not use pouches, which is strongly recommended as using pouches requires multiple talisman per trip.
+- ^ 2.0 2.1 Assumes 140 laps per hour
+- ^ 3.0 3.1 Assumes 24 stamina doses per hour.
+- ^ Assumes small , medium , and large pouches (containing 18 additional essence).
+- ^ Assumes large and giant pouches (containing 21 additional essence).
+- ^ 6.0 6.1 Assumes colossal pouch (containing 40 additional essence).
+- ^ Assumes runecrafting cape or max cape to prevent pouch degradation
+
+## Using lava runners[edit|edit source]
+
+Crafting lava runes using essence runners is the fastest method to train Runecraft. This method is very expensive , so it is only recommended for wealthy players who wish to gain experience as fast as possible and do not mind spending a lot of money. It also requires good coordination and accurate clicks, as the player will need to rapidly accept trades and craft runes at the altar.
+Essence running services have a considerable potential of having connections with real-world trading . Use caution and be selective when arranging essence running, as exchanging gold for an in-game service with real-world traders will risk the account getting permanently banned .
+The fastest method is to have four runners run the essence while the runecrafter stands at the altar. Having two to three runners is only recommended for inexperienced runecrafters who are learning the method.
+Alternatively, craft lava runes normally (as a solo player) and have 1 runner trade extra essence every lap. This method is also known as duo or 1+1 lavas. This method is slower than using 4 runners, but also cheaper.
+A runner typically costs around 12-15 million coins per hour. The price can vary depending on the runner's experience.
+Experience rates and costs are shown in the table below. The costs assume the player is paying 12 million coins per hour per runner. The rates can also vary depending on how well the runecrafter and the runners perform. At maximum efficiency, it is possible to gain up to around 320,000 experience per hour.
+Method | XP/h | GP/XP
+4 runners (0+4) | 280,000 | -172.13
+3 runners (0+3) | 190,000 | -190.23
+Duo (1+1, colossal pouch) | 162,000 | -74.07
+
+## Levels 27–99: Guardians of the Rift[edit|edit source]
+
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+5000 | 1000 | 10000 | 
+The Guardians of the Rift minigame is an alternative way of training Runecraft. In addition to Runecraft experience, the minigame also offers passive Mining and Crafting experience. The minigame is profitable and offers useful rewards , such as the colossal pouch for holding more essence and Raiments of the Eye set for crafting extra runes.
+To participate in the minigame, players must have completed Temple of the Eye . The experience gained from completing the quest is enough to get the player from level 10 to 27, which is required for the minigame. There are also a number of quests that are very useful to have completed, which are listed below.
+- Lunar Diplomacy to be able to cast NPC Contact to quickly repair essence pouches
+- Lost City to craft cosmic runes
+- Troll Stronghold to craft law runes
+- Mourning's End Part II to craft death runes
+- Sins of the Father to craft blood runes
+Use the best pickaxe and all essence pouches available. The rune pouch is strongly recommended to save inventory space. Players who do not have the Raiments of the Eye outfit yet are advised to wear any tier of the Varrock armour to have a 10% chance to mine double guardian fragments at once. Players may also make use of the celestial ring if they have it.
+Players who have the abyssal lantern should light it with redwood logs if possible. This makes it so the player does not need to repair essence pouches via NPC Contact, which saves 1–3 inventory slots, depending on if the player is using a rune pouch. Players who cannot use redwood logs or are wearing the Runecraft cape are advised to use yew logs for the point boost it provides. Also note that if the player is using combination rune strategies, redwood logs do not save any inventory space if steam runes are used to cast magic imbue , so yew logs are recommended.
+Through Guardians of the Rift players can obtain the Raiments of the Eye set. It provides 10% more runes per piece worn and an additional 20% set bonus, for a total of 60% when wearing a full set. The abyssal needle is used to combine essence pouches into the colossal pouch . It can hold up to 40 essence, making it the best essence pouch to use. Valuable runes obtained through the minigame can be kept for later use or sold on the Grand Exchange for profit.
+The experience rates in the table below assume using the best pouch(es) available. From level 85 onwards, the rates assume doing the minigame in small, coordinated teams for faster experience.
+level | XP/h | XP/h | XP/h
+40–50 | 25,000 | 2,300 | 1,200
+50–75 | 40,000 | 3,700 | 2,000
+75–85 | 50,000 | 4,700 | 2,500
+85–99 | 65,000 | 6,200 | 3,200
+99 | 70,000 | 6,600 | 3,500
+
+## Levels 1–99: Ourania Altar[edit|edit source]
+
+Crafting runes at the Ourania Altar (also known as the ZMI Altar) is a profitable lower-effort alternative to lava runes. The altar can be accessed at any Runecraft level. Unlike the other runic altars, the Ourania Altar converts essence into a random assortment of runes, which improves in cash and experience value as the player levels Runecraft.
+For this method, players will need to have unlocked the Ourania Teleport on the Lunar spellbook for a fast access to the altar. This requires completion of Lunar Diplomacy and speaking to Baba Yaga while on the Lunar spellbook. Being on the Lunar spellbook is also needed for casting NPC Contact to quickly repair essence pouches . Having level 71 Magic is strongly recommended to be able to cast both of these spells.
+Having the rune pouch is strongly recommended to have more inventory space for the essence. The medium Ardougne Diary reward increases the amount of runes that are crafted, however no experience is given for the extra runes.
+The official worlds for the Ourania Altar are Worlds 327 and 480 . Use one of these worlds to have a lower chance of being targeted by the monsters, as the world will often be filled with other players training Runecraft. Alternatively, two alternate accounts can be used to lure the monsters so that they do not hit the player; this also allows training another skill such as Fletching whilst running to the altar for greater macro-efficiency.
+Experience rates are shown in the table below, and assume players have all of the essence pouches available at each level. The rates and the experience per essence scale depending on the Runecraft level. At higher levels, the player can expect to make somewhere around 350,000–400,000 coins per hour depending on the rune prices.
+level | XP/h | XP/essence
+Pure | Daeyalt | Pure | Daeyalt
+1–9 | 20,423 | 30,635 | 9.39 | 14.09
+10–19 | 22,881 | 34,322 | 10.52 | 15.78
+20–24 | 24,665 | 36,997 | 11.34 | 17.01
+25–29 | 28,797 | 43,195 | 11.34 | 17.01
+30–39 | 31,158 | 46,737 | 12.27 | 18.41
+40–49 | 32,758 | 49,137 | 12.90 | 19.35
+50–59 | 42,077 | 63,115 | 13.47 | 20.21
+60–69 | 42,577 | 63,865 | 13.63 | 20.45
+70–74 | 45,576 | 68,363 | 14.59 | 21.89
+75–79 | 57,270 | 85,905 | 14.59 | 21.89
+80–84 | 58,487 | 87,731 | 14.90 | 22.35
+85–89 | 72,526 | 108,789 | 14.90 | 22.35
+90–98 | 74,716 | 112,074 | 15.35 | 23.03
+99 | 77,121 | 115,682 | 15.58 | 23.37
+
+## Setup[edit|edit source]
+
+
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+To quickly access the bank, players need to pay 20 of any kind of rune (excluding combination runes) by setting a quick-payment deal with Eniola . Mind or elemental runes are usually the cheapest option. Clear the rune pouch and essence pouch space holders, and fill the entire bank with bank fillers (or use the bank's 'Deposit Lock Settings'). This way, the player can quickly deposit all the crafted runes without depositing any necessary items. Have essence, 1-dose stamina potions , and cosmic runes near the 'Deposit inventory' button for efficient banking.
+The optimal setup consists of the following:
+- All essence pouches available
+- Dust battlestaff (or a staff of earth and air runes ) for casting Ourania Teleport and NPC Contact
+- Rune pouch holding payment, astral , and law runes . Bring cosmic runes as well if using the divine rune pouch .
+- Some defensive equipment (not needed if using alternative accounts to lure the monsters)
+- Raiments of the Eye set for extra profit (optional but recommended)
+- Ring of endurance with at least 500 charges (optional)
+Players who find that they are taking a lot of damage can wear the Hitpoints cape along with a regen bracelet . This will most likely outheal any damage taken. Lower-level players are advised to bring more defensive equipment (such as wearing a black d'hide body and a helm of neitiznot ) and use cheap food to heal themselves if needed. A ring of suffering (i) can be considered as an alternative to the ring of endurance if greater defensive bonuses are desired, or the Steel ring / Granite ring (i) if the suffering is too expensive.
+ |  |  | 
+Players who do not have level 71 Magic to cast Ourania Teleport can use the respective teleport tablets instead, though this will require an extra inventory slot.
+At level 75 Runecraft and higher, players may opt to replace law runes in the rune pouch with cosmic runes. This removes the need to withdraw cosmic runes for casting NPC Contact, and at higher levels it is very unlikely that the player will not craft any law runes at the altar. Players with the divine rune pouch can bring cosmic runes without this consideration.
+The inventory and gear setup provided assumes using Lunar spellbook with 96 Magic to cast Spellbook Swap to Arceuus spellbook and cast Vile Vigour for run energy as needed (otherwise utilize stamina potions). Mind runes should be set up to be used as default when banking with Eniola .
+
+## Runecrafting and tips[edit|edit source]
+
+Starting at the bank, run to the altar using the shorter route by running south and then east. Craft runes at the altar until you have run out of essence. Cast Ourania Teleport , run south-west to the ladder and climb down, and bank at Eniola. Drink a stamina potion dose to restore run energy whenever needed.
+Turn off Auto Retaliate and set NPC 'Attack' options to 'Hidden' to avoid attacking and retaliating against the monsters. Turning the camera south allows for easy vision while running to the ladder and throughout the cave.
+Instead of using stamina potions, players can restore run energy by casting Spellbook Swap to use Vile Vigour from the Arceuus spellbook . This method requires level 96 Magic and completion of A Kingdom Divided . Restore prayer points at the altar next to the Ourania Cave entrance.  Casting Spellbook Swap or Vile Vigour does not interrupt running, so it is best to cast the spells while running to the ladder leading to the cave.
+Having the divine rune pouch allows the player to store soul, cosmic, astral and payment runes in one inventory spot. The player can use the law rune acquired from runecrafting at the altar to cast Ourania Teleport. Alternatively, players can store aether, law, astral and payment runes. This will remove the small chance of not creating a law rune at the altar.
+If there are multiple players training Runecraft in the same world, the player can get to the altar with less effort by trading or using an item on other players running to the altar, provided that they do not stop at all. Following other players (instead of trading or using an item on them) is not recommended, as players can get stuck behind walls if there is enough distance between them. Using the increased draw distance of approved, non-standard clients such as RuneLite , it is possible to one-click from the cave entrance to the altar. This removes the need to follow others or click multiple times along the path.
+
+## Levels 77–99: Crafting blood/soul runes in Arceuus[edit|edit source]
+
+
+Crafting blood or soul runes in Arceuus is a profitable low-effort alternative to the faster training methods. This method also provides passive Mining and Crafting experience. Blood runes can be crafted at level 77 and soul runes at level 90.
+Crafting runes in Arceuus requires level 38 Mining , level 38 Crafting , a chisel , and a pickaxe. The pickaxe tier does not matter, so use the black pickaxe or the lightest one available. A chisel spawns at the runestone mine. Having a high Agility level (78+) is recommended for faster run energy restoration, and a ring of endurance with at least 500 charges for reduced run energy consumption. Level 73 Agility is required for the western rock scramble shortcut. The medium Kourend & Kebos Diary reward grants the player a 5% chance to mine two dense essence blocks at once (no Mining or Crafting experience is given for the extra block), which will increase experience rates slightly.
+Starting at the Arceuus essence mine, this method goes as follows:
+- Mine a full inventory of dense essence blocks.
+- Use them on the Dark Altar to create dark essence blocks.
+- Chisel the dark essence blocks into fragments while running back to the mine.
+- Mine a second inventory of essence blocks, and use them on the Dark Altar.
+- Chisel 1 dark essence block into fragments.
+- Head to the runic altar and craft runes.
+- Chisel the second inventory of dark essence blocks into fragments.
+- Craft runes once more and return to the essence mine.
+The experience and profit rates in the table below assume completion of the medium Kourend & Kebos Diary and running to the altar. Expect lower rates if idling.
+level | Method | XP/h | GP/h
+ |  |  | With | No outfit
+77 |  | 36,000 | 5,755 | 4,211 | 554,186 / 588,823 [ n 1 ] | 346,367 / 381,003 [ n 1 ]
+77 | + | 34,500 | 5,515 | 4,036 | 640,672 / 673,866 [ n 1 ] | 441,511 / 474,705 [ n 1 ]
+90 |  | 44,000 | 5,666 | 4,146 | 886,821 | 554,263
+- ^ 1.0 1.1 1.2 1.3 With completion of the elite Kourend & Kebos Diary, which grants 10% additional blood runes.
+
+## More information and tips[edit|edit source]
+
+While using the Abyss can be slightly faster than running to the altar, doing so is generally not recommended because of the extra effort and risk involved. Players using the Abyss are advised to bank the runes every so often to reduce the risk to a potential player killer. To craft blood or soul runes via the Abyss, players must craft runes at the respective altar before using a dark essence block on the rift to unlock it.
+Players who have completed the elite Lumbridge & Draynor Diary and have a revitalisation pool and fairy ring in their player-owned house can alternatively use Teleport to house to make the procedure slightly faster and remove the need for the graceful outfit. A construction cape or rune pouch with law, dust, and an empty spot for the crafted runes will allow for no lost inventory slots. If on Arceuus spellbook, you can use Home teleport every half hour, which teleports you next to the altar.
+- For blood runecrafting, after making a second inventory of dark essence blocks teleport to your house, restore run energy with the pool, use the fairy ring C I S and run to the altar.
+- For soul runecrafting, after crafting runes at the altar teleport to your house, restore run energy with the pool, use the fairy ring C I S and return to the essence mine.
+The chance for a runestone not to deplete scales with the Mining level. The Mining level thresholds and the expected depletion times are shown in the table below. The dragon pickaxe special attack can be used to boost the Mining level to the next threshold. Otherwise the pickaxe type does not matter, as blocks are mined every 9 ticks.
+level | Expected mines/depletion | Expected seconds/depletion
+38 | 6.9 | 37.4
+43 | 7.1 | 38.4
+48 | 7.3 | 39.5
+53 | 7.5 | 40.7
+58 | 7.8 | 41.9
+63 | 8.0 | 43.2
+68 | 8.3 | 44.6
+73 | 8.5 | 44.6
+77 | 8.8 | 47.7
+82 | 9.1 | 49.4
+87 | 9.5 | 51.2
+92 | 9.8 | 53.2
+97 | 10.2 | 55.3
+
+## Other methods[edit|edit source]
+
+
+## Levels 1–99: Arceuus Library[edit|edit source]
+
+Helping customers in the Arceuus Library is a viable Runecraft training method that has no requirements. To do this, talk to Villia or Professor Gracklebone to have them request a book. Ask Biblia on the top floor for a hint on where the requested book is, fetch the book, and give it to the customer. The customer will give a book of arcane knowledge in return. Read it and use option 2 for Runecraft experience, and continue by helping the other customer. Sam is further away from the book locations, so only fetch books for Villia or Professor Gracklebone.
+Each book of arcane knowledge gives Runecraft experience equal to 5x the player's Runecraft level. Because of this linear scaling, it is strongly recommended to complete quests that give Runecraft experience to get past the initial slow experience. With good performance, players can turn in around 150–160 books per hour when using third party client features to find the books faster, however without them players can only turn in 90–100 books per hour.
+Experience rates are shown in the table below. Use the Arceuus Library Books Calculator to determine how many books are needed to reach a target level or experience.
+level | XP/h
+150 books/h | 100 books/h
+1 | 750 | 500
+10 | 7,500 | 5,000
+20 | 15,000 | 10,000
+30 | 22,500 | 15,000
+40 | 30,000 | 20,000
+50 | 37,500 | 25,000
+60 | 45,000 | 30,000
+70 | 52,500 | 35,000
+80 | 60,000 | 40,000
+90 | 67,500 | 45,000
+99 | 74,250 | 49,500
+
+## Levels 15–99: Other combination runes[edit|edit source]
+
+Crafting other combination runes can be a profitable alternative to lava runes . Because of somewhat low trading volumes, the runes may take long to sell at a good profit.
+Mud runes can be crafted at level 13. Use water runes on the Earth Altar and the ring of the elements to get there.
+Level | Runes/Lap Talisman | Runes/Lap Imbue | XP/HR Talisman [ m 1 ] | XP/HR Imbue [ m 1 ] | GP/XP Water Talisman [ m 2 ] | GP/XP Imbue [ m 2 ]
+13 | 26 | 26 | 34,580 | 34,580 | 5.60 | 5.76
+50 [ m 3 ] | 40 | 41 | 53,200 | 54,530 | 5.90 | 6.47
+75 [ m 4 ] | 44 | 45 | 58,520 | 59,850 | 6.09 | 6.60
+85 [ m 5 ] | 63 | 64 | 82,900 | 84,100 | 6.22 | 6.58
+- ^ 1.0 1.1 Assumes 140 laps per hour.
+- ^ 2.0 2.1 Assumes 24 stamina doses per hour.
+- ^ Assumes small, medium, and large pouches.
+- ^ Assumes large and giant pouches.
+- ^ Assumes colossal pouch.
+Smoke runes can be crafted from level 15 onwards. This method is similar to crafting lava runes, except the air runes are used instead of earth runes. The experience and profit rates are shown in the table below.
+Level | Runes/Lap Talisman | Runes/Lap Imbue | XP/HR Talisman [ s 1 ] | XP/HR Imbue [ s 1 ] | GP/XP Air Talisman [ s 2 ] | GP/XP Imbue [ s 2 ]
+15 | 26 | 26 | 34,580 | 34,580 | 3.25 | 3.21
+50 [ s 3 ] | 40 | 41 | 53,200 | 54,530 | 3.73 | 4.04
+75 [ s 4 ] | 44 | 45 | 58,520 | 59,850 | 3.92 | 4.20
+85 [ s 5 ] | 63 | 64 | 82,900 | 84,100 | 4.65 | 4.67
+- ^ 1.0 1.1 Assumes 140 laps per hour.
+- ^ 2.0 2.1 Assumes 24 stamina doses per hour.
+- ^ Assumes small, medium, and large pouches.
+- ^ Assumes large and giant pouches.
+- ^ Assumes colossal pouch.
+Steam runes can be crafted from level 19 onwards. This method is similar to crafting lava runes, except the water runes are used instead of earth runes. The experience and profit rates are shown in the table below.
+Level | Runes/Lap Talisman | Runes/Lap Imbue | XP/HR Talisman [ e 1 ] | XP/HR Imbue [ e 1 ] | GP/XP Water Talisman [ e 2 ] | GP/XP Imbue [ e 2 ]
+19 | 26 | 26 | 36,400 | 36,400 | 6.10 | 6.25
+50 [ e 3 ] | 40 | 41 | 56,000 | 57,400 | 6.50 | 7.04
+75 [ e 4 ] | 44 | 45 | 61,600 | 63,000 | 6.70 | 7.19
+85 [ e 5 ] | 63 | 64 | 87,200 | 88,500 | 7.30 | 7.64
+- ^ 1.0 1.1 Assumes 140 laps per hour.
+- ^ 2.0 2.1 Assumes 24 stamina doses per hour.
+- ^ Assumes small, medium, and large pouches.
+- ^ Assumes large and giant pouches.
+- ^ Assumes colossal pouch.
+
+## Levels 50-99: Imbuing desiccated pages[edit|edit source]
+
+Fighting the Royal Titans and forfeiting loot to receive Desiccated pages can provide competitive runecraft experience rates. The pages are untradeable and stackable, and can be converted into burnt , soaked , or soiled pages for 50 runecraft experience per page.
+With high combat stats and suitable gear, in duos, this can work out at approximately 20,000 runecraft experience per hour for each player with additional combat experience and opportunities to receive the tertiary drops from the Royal Titans .
+
+## Levels 59–82/91: Double cosmic runes[edit|edit source]
+
+For more information about runecrafting through the Abyss, see Abyss/Strategies .
+Crafting cosmic runes requires completion of the Lost City quest. Even though cosmic runes become available at level 27, it is not recommended to craft them before level 59 due to much lower profit. Crafting double cosmic runes offers very slow experience, but it can yield good profit at lower levels depending on the rune prices.
+The fastest way to craft cosmic runes is through the Abyss . Alternatively, players can use a fairy ring to teleport to Zanaris and run to the altar, which can be slightly faster for those with low Mining and/or Agility levels. Players will need to have level 66 Agility for the shortcut, as well as quick access to a fairy ring, such as the quest point cape , Construction cape or necklace of passage .
+With 70+ Agility and a quest point cape or another form of quick fairy ring teleport, it is possible to get 60 inventories done per hour with high concentration using essence pouches . For this method, players should be on the Lunar Spellbook and have a rune pouch containing air, astral, and cosmic runes ready in their bank for casting NPC Contact when replacing their ring of dueling . Stamina potions , or a revitalisation pool in the player's POH , will also be required.
+Level | XP/Run | Value/Run | XP 45 Inventories/Hour | GP 45 Inventories/Hour | XP 50 Inventories/Hour | GP 50 Inventories/Hour | XP 55 Inventories/Hour | GP 55 Inventories/Hour | XP 60 Inventories/Hour | GP 60 Inventories/Hour
+59 | 344 | 7,568 | 15,480 | 340,560 | 17,200 | 378,400 | 18,920 | 416,240 | 20,640 | 454,080
+75 | 432 | 9,504 | 19,440 | 427,680 | 21,600 | 475,200 | 23,760 | 522,720 | 25,920 | 570,240
+85 | 536 [ a ] | 11,792 | 24,120 | 530,640 | 26,800 | 589,600 | 29,480 | 648,560 | 32,160 | 707,520
+Level | XP/Run | Value/Run | XP 45 Inventories/Hour | GP 45 Inventories/Hour | XP 50 Inventories/Hour | GP 50 Inventories/Hour | XP 55 Inventories/Hour | GP 55 Inventories/Hour | XP 60 Inventories/Hour | GP 60 Inventories/Hour
+59 | 344 | 12,108.80 | 15,480 | 544,896.00 | 17,200 | 605,440.00 | 18,920 | 665,984.00 | 20,640 | 726,528.00
+75 | 432 | 15,206.40 | 19,440 | 684,288.00 | 21,600 | 760,320.00 | 23,760 | 836,352.00 | 25,920 | 912,384.00
+85 | 536 [ a ] | 18,867.20 | 24,120 | 849,024.00 | 26,800 | 943,360.00 | 29,480 | 1,037,696.00 | 32,160 | 1,132,032.00
+- ^ 1.0 1.1 Assumes colossal pouch.
+Note: These figures above do not include the cost for recharging amulets of glory, stamina potions, and pure essence. 60 inventories per hour is only attainable when using fairy rings.
+- XP per run: 344 at 59 , 432 at 75
+- Value of runes: 7,568 at 59 , 9,504 at 75
+- Experience needed (59–65): 201,542
+- Pure essence needed: 25,193
+- № of inventories (43 ess per inventory): 586
+- Total profit: 4,383,582
+
+## Levels 82–99: Double astral runes[edit|edit source]
+
+
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+10 | 16000 | 16000 | 
+Crafting double astral runes can yield good profit depending on the rune prices. This method requires completion of Lunar Diplomacy . Even though astral runes become available at level 40 Runecraft, it is not recommended to craft them before level 82 due to much lower profit.
+To craft astral runes, cast Tele Group Moonclan on the Lunar spellbook , run south-east to the altar, craft runes, and bank for more essence. Repair the essence pouches via NPC Contact and restore run energy as needed. Bank the astral runes from the rune pouch when it becomes full.
+The optimal setup consists of the following:
+- All essence pouches available, or the colossal pouch (at level 85).
+- Dust battlestaff and the rune pouch with astral, law, and cosmic runes.
+- Crafting cape or a ring of dueling for fast banking.
+- Raiments of the eye set for extra profit (recommended).
+- Some defensive equipment to reduce damage taken from the suqah .
+- Ring of endurance with at least 500 charges if using the Crafting cape (optional).
+Experience and profit rates are shown in the table below. The rates assume using rings of dueling to bank at Castle Wars and using the best essence pouch(es) available. The profit rates include the cost of teleports, NPC Contact runes (before level 99), stamina potions , and pure essence . At level 99, it is possible to gain up to 59,000 experience per hour.
+Some players like to use the Nardah teleport on the Desert amulet 4 from the Elite Desert Diary to refill their energy and health by praying at the Elidinis Statuette . This eliminates the need for stamina potions, food and/or defensive equipment.
+level | XP/h | GP/h
+With | No outfit
+82 | 42,000 | 832,798 | 485,211
+85 | 53,000 | 1,072,155 | 633,535
+99 | 55,000 | 1,116,418 | 661,245
+
+## Levels 91–95/99: Double nature runes[edit|edit source]
+
+For more information about runecrafting through the Abyss, see Abyss/Strategies .
+Even though nature runes become available at level 44, it is not recommended to craft them before level 91 due to much lower profit. Crafting double nature runes without using the Achievement diary cape offers slow experience, but it can yield good profit depending on the rune prices. With the Achievement diary cape, experience and profit rates increase significantly, offering some of the highest profit per hour in Runecraft, along with competitive experience rates.
+There are four main ways to reach the nature altar: by using the Abyss ; by using the fairy ring C K R and running north-east; by using the Karamja gloves 3 or 4 teleport to the gem mine; or by using the Achievement diary cape teleport to Kaleb Paramaya . Both the Karamja gloves and the Achievement diary cape methods require level 79 Agility, in order to use the shortcut on the north wall of Shilo village .
+The Achievement diary cape method is over twice as fast as the other methods; however, the cape has very high requirements. The Abyss, fairy ring and Karamja gloves methods are similar in speed. Players with level 79 Agility or higher should use the Karamja gloves method. Players with low Mining and Agility are likely to get higher rates using the fairy ring, and players without fast access to a fairy ring and without access to the Agility shortcut should use the Abyss.
+Players using the Achievement diary cape can use the cape's teleport to Jarr for banking, saving the need for an extra bank teleport item. For the fairy ring method, players will need to have a quick access to a fairy ring that does not take up inventory space, such as quest point cape , Construction cape or necklace of passage ; and use a ring of dueling to bank at Castle Wars .
+Training Runecraft from level 91 to level 99 using this method requires 792,400 pure essence and yields 1,584,800 nature runes, which can be sold for tremendous profit.
+Level | Teleportation Method | XP/HR | GP/HR
+No outfit | With
+91 | Travel through the Abyss [ o 2 ] | 31,680 | 725,120 | 1,160,192.00
+C K R [ o 2 ]
+Karamja gloves 3 or 4 [ o 2 ]
+Achievement diary cape [ o 3 ] | 69,120 | 1,582,080 | 2,531,328.00
+- ^ Rates assume that you are using the Colossal pouch and bringing 64 pure essence each run.
+- ^ 2.0 2.1 2.2 Abyss, fairy ring and Karamja gloves rates assume 55 runs per hour.
+- ^ Achievement diary cape rates assume 120 runs per hour.
+Note: These figures above do not include the cost for recharging amulets of glory, stamina potions, and pure essence.
+- Experience needed (91–99): 7,131,600
+- Pure essence needed: 792,400
+- № of inventories (64 ess per inventory): 12,382
+- Total profit: 161,649,600 (without outfit); 259,590,240 (with outfit)
+
+## Levels 95–99: Double law runes[edit|edit source]
+
+For more information about runecrafting through the Abyss, see Abyss/Strategies .
+Crafting double law runes offers very slow experience, but it can yield good profit depending on the rune prices. Players are able to craft two law runes per pure essence at level 95, and they grant 9.5 experience per pure essence used. Even though law runes become available at level 54, it is not recommended to craft them before level 95 due to much lower profit.
+The fastest way of crafting law runes is through the Abyss. However, players cannot bring any weapons or armour as the Law Altar is located on Entrana . This can be overcome by bringing a bronze pickaxe to every trip and dropping it before entering the portal. It is faster to have a pickaxe in the inventory and use the Mining obstacles, than use the Thieving obstacles which do not require any space.
+Alternatively, players can use the balloon transport system from Castle Wars to Entrana , run to the altar and bank at Castle Wars. This is slightly slower than using the Abyss, but requires paying less attention. Each trip with a balloon uses a regular log, and it is recommended to store multiple logs into the crates beforehand to save a bit of time. When arriving to Entrana, click straight north and this will result in the pathfinder generating a path to run all around the island, which can then be cancelled after crossing the bridge to get to the Law Altar.
+Training Runecraft from level 95 to level 99 using this method requires 448,724 pure essence and yields 897,448 law runes, which can be sold for tremendous profit.
+Level | XP/Run | Value/Run | XP 45 Inventories/Hour | GP 45 Inventories/Hour | XP 50 Inventories/Hour | GP 50 Inventories/Hour | XP 55 Inventories/Hour | GP 55 Inventories/Hour
+95 | 636.5 [ a ] | 15,946 | 28,642.5 | 717,570 | 31,825 | 797,300 | 35,007.5 | 877,030
+Level | XP/Run | Value/Run | XP 45 Inventories/Hour | GP 45 Inventories/Hour | XP 50 Inventories/Hour | GP 50 Inventories/Hour | XP 55 Inventories/Hour | GP 55 Inventories/Hour
+95 | 636.5 [ a ] | 25,513.60 | 28,642.5 | 1,148,112.00 | 31,825 | 1,275,680.00 | 35,007.5 | 1,403,248.00
+- ^ 1.0 1.1 Assumes colossal pouch.
+Note: These figures above do not include the cost for recharging amulets of glory, stamina potions, and pure essence.
+- Must have completed Troll Stronghold
+- Experience per run: 513
+- Value per run: 12,852
+- Experience needed (95–99): 4,262,873
+- Pure essence needed: 448,724
+- № of inventories (54 essence per inventory): 8,310
+- Total profit: 105,898,864
+
+## Levels 90–99: Aether runes[edit|edit source]
+
+
+ |  |  | 
+100K |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  | 160K | 
+If you're not 99 runecrafting make sure to attach a cosmic tiara to the Hat of the eye . Or bring a cosmic tiara, cosmic talisman, or use the abyss as a point of entry into the altar.
+16000 | 16000 |  | 
+Crafting aether runes offers relatively fast experience and can be profitable depending on the Grand Exchange prices. They are crafted by using soul runes on the Cosmic Altar with aether catalyst in the inventory. Crafting aether runes requires level 90 Runecraft.
+This method requires the following:
+- Soul runes and aether catalyst in the inventory.
+- Level 82 Magic to cast Magic Imbue and NPC Contact , runes for them (astral, fire, water, air, and cosmic), and the rune pouch to save inventory space. With completion of elite Lumbridge & Draynor Diary wear a mist/smoke battlestaff and a tome of fire/water, respectively, to save runes. The crafted aether runes can be used for a cosmic rune for the NPC Contact spell.
+- With completion of elite Lumbridge & Draynor Diary wear a mist/smoke battlestaff and a tome of fire/water, respectively, to save runes.
+- The crafted aether runes can be used for a cosmic rune for the NPC Contact spell.
+- Binding necklaces to ensure combination runes are crafted 100% of the time.
+- Colossal pouch (or essence pouches up to giant) to carry more essence per run.
+- Fast access to fairy rings . The fairy ring in the player-owned house and using the Constuction cape teleport is the best option. Alternatively, use the quest point cape teleport or the eternal slayer ring . Completion of the elite Lumbridge & Draynor Diary allows using fairy rings without a dramen staff .
+- Alternatively, use the quest point cape teleport or the eternal slayer ring .
+- Completion of the elite Lumbridge & Draynor Diary allows using fairy rings without a dramen staff .
+- Level 66 Agility for access to the shortcut in Zanaris .
+- A fast bank teleport , such as the Crafting cape or a ring of dueling .
+- Raiments of the Eye set for extra profit (strongly recommended for this method).
+- With completion of elite Lumbridge & Draynor Diary wear a mist/smoke battlestaff and a tome of fire/water, respectively, to save runes.
+- The crafted aether runes can be used for a cosmic rune for the NPC Contact spell.
+- Alternatively, use the quest point cape teleport or the eternal slayer ring .
+- Completion of the elite Lumbridge & Draynor Diary allows using fairy rings without a dramen staff .
+Starting at the bank, use the fairy ring to Zanaris. Run south to the altar, going through the eastern jutting wall shortcut. Cast Magic Imbue, use soul runes on the altar to craft aether runes.
+Experience rates in the table below assume using the POH fairy ring with the Construction cape and rings of dueling to bank at Castle Wars . Expect lower rates if using worse teleports or having extra items in the inventory. The profit rates include the cost of teleports, NPC Contact runes (before level 99), and pure essence . At level 99, it is possible to gain up to 104,000 experience per hour.
+level | XP/h | GP/h
+With | No outfit
+90 (no colossal pouch) | 71,000 | 945,605 | 63,785
+90 (colossal pouch) | 101,000 | 1,362,645 | 108,225
+99 (Runecraft cape) | 102,000 | 1,378,616 | 111,776
+
+## Levels 95–99: Wrath runes[edit|edit source]
+
+
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+Crafting wrath runes is a profitable alternative to the faster methods. This method requires completion of Dragon Slayer II . Players will also need to run past aggressive dragons, so dragonfire protection is necessary.
+Players can gain up to around 44,880 experience per hour using this method assuming they are able to complete 85 runs/hour, though this requires decent focus and a nearly optimal setup to achieve. At this rate, players would also make 1,497,870 profit per hour at the current rune prices ( 2,403,324.00 when using the Raiments of the Eye ). Using this method from level 95 to 99 would take around 95 hours and would offer roughly 140,175,000 profit. A more relaxed pace of 75 runs/hour would yield an hourly rate of 39,600 experience and 1,321,650 profit ( 2,120,580.00 when using the Raiments of the Eye ), and would take approximately 107 hours to reach level 99 from level 95. Higher rates are possible but difficult to achieve without a Max Cape or Runecraft Cape to eliminate the need for repairing essence pouches.
+Level | XP/Run | Value/Run | XP 75 Inventories/Hour | GP 75 Inventories/Hour | XP 85 Inventories/Hour | GP 85 Inventories/Hour
+95 | 528 [ a ] | 17,622 | 39,600 | 1,321,650 | 44,880 | 1,497,870
+Level | XP/Run | Value/Run | XP 75 Inventories/Hour | GP 75 Inventories/Hour | XP 85 Inventories/Hour | GP 85 Inventories/Hour
+95 | 528 [ a ] | 28,274.40 | 39,600 | 2,120,580.00 | 44,880 | 2,403,324.00
+- ^ 1.0 1.1 Assumes colossal pouch.
+The optimal setup consists of the following:
+- Wrath tiara or Raiments of the Eye
+- A shield that offers dragonfire protection, such as the dragonfire shield
+- Mythical cape
+- Bank teleport , such as the Crafting cape or a ring of dueling
+- All essence pouches
+- Weight-reducing clothing
+- Regen bracelet
+- Some defensive equipment
+- Charged Ring of Endurance
+For efficient banking, players should have essence, 1-dose stamina potions, runes for NPC Contact , and some cheap food near the 'Deposit inventory' button. Players are also recommended to lock their mythical cape and essence pouch using deposit lock in the bank settings. This way, players can quickly deposit all the crafted runes without depositing any necessary items.
+This method goes as follows:
+- Fill pouches and inventory with essence.
+- Teleport to Myths' Guild with the mythical cape.
+- Run through cave and into altar.
+- Craft wrath runes.
+- Teleport to a bank, and repeat the process. Drink stamina potions, eat food as needed, and repair the essence pouches as needed. Alternatively, you may teleport to your house or Nardah via the Desert Amulet 4 to restore both health and run energy to conserve supplies.
+
+## Post 99[edit|edit source]
+
+After level 99, experience rates will remain constant. Assuming that the player is wearing full Raiments of the Eye , is using colossal pouch , wears their runecraft cape and has access to the most efficient teleports and method-specific gear and items such as an abyssal lantern and binding necklaces , the table below provides some expected rates of experience per hour: [ n 1 ]
+Method | Xp/hour (low) [ n 2 ] [ n 3 ] | Xp/hour (high) [ n 2 ] [ n 4 ] | Intensity [ n 5 ] | Yield [ n 6 ]
+Dessicated pages |  | 20,000 | Medium | Various uniques, dessicated pages , various types of drops from the Royal Titans
+Cosmic runes | 24,120 | 32,160 | Very high | Cosmic runes
+Law runes (Abyss) | 28,642 | 35,007 | Very high | Law runes
+Blood runes (Arceuus) | 25,000 | 36,000 | Low | Blood runes , Crafting and Mining experience
+Soul runes (Arceuus) | 30,000 | 44,000 | Low | Soul runes , Crafting and Mining experience
+Wrath runes | 39,600 | 44,880 | High | Wrath runes
+Blood runes (True altar) |  | 49,245 | High | Blood runes
+Astral runes |  | 55,000 | High | Astral runes
+Nature runes |  | 69,120 | High | Nature runes
+Guardians of the Rift |  | 70,000 | High | Various runes , abyssal pearls , various unique drops, Crafting and Mining experience
+Arceuus library |  | 74,250 | Medium | Nothing
+Ourania Altar (pure) |  | 77,000 | Low-Medium | Various runes
+Mud runes |  | 84,100 | Very high | Mud runes
+Smoke runes |  | 84,100 | Very high | Smoke runes
+Steam runes |  | 88,500 | Very high | Steam runes
+Lava runes (magic imbue) | 90,000 | 98,000 | Very high | Lava runes
+Aether runes |  | 102,000 | Very high | Aether runes
+Ourania Altar (daeyalt) |  | 115,682 | Low-Medium | Various runes
+Lava runes (runners) | 162,000 | 280,000 | Extremely high | Extremely expensive, obtained lava runes do not compensate for expenses.
+- ^ Unless specifically mentioned, experience rates for traditional runecrafting assume using pure essence instead of Daeyalt, which provides 50% extra experience at the cost of having to initially be mined manually.
+- ^ 2.0 2.1 Experience rates are mostly copied from elsewhere in the article. Rates mentioned earlier in article are leading.
+- ^ Low rates are based on playing more casually and/or making mistakes.
+- ^ High rates are based on playing actively and making few to no mistakes.
+- ^ 'Extremely low' means at most one click every few minutes, 'very low' means roughly a single click per minute, 'low' means a few clicks per minute, 'high' means many clicks per minute, 'very high' means a click every few ticks, and 'extremely high' means constant clicking.
+- ^ A selection of the most relevant/common yield for each activity.
+
+## References[edit|edit source]
+
+- ^ Nowimnotalurker. "Stats from 70-77 rc at ZMI altar" . Reddit . 12 June 2018.  Archived from the original on 9 September 2020. Nowimnotalurker: "Pure essence: Amount used: 46,953. Time Taken: 18.5hrs."
+v t e Skill training guides
+Free-to-play guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft
+Members' guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ironman guides | Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ultimate Ironman guides | Item management Equipment Quests Minigames Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+General guidelines | Efficiency
+- v
+- t
+- e
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Item management
+- Equipment
+- Quests
+- Minigames
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Efficiency

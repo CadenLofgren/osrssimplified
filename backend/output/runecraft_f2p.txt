@@ -1,0 +1,591 @@
+--- Skill: Runecraft (F2P) ---
+
+Free-to-play Runecrafting training
+This article is about the free-to-play guide. For the members' guide, see
+Pay-to-play Runecraft training
+.
+When crafting runes at a
+runic altar
+, it is a good idea to wear the corresponding
+tiara
+in your
+head slot
+. This acts as an equipable
+talisman
+, saving an inventory space over a normal talisman. It also allows the player to enter a particular runic altar by left-clicking on the corresponding mysterious ruins, as opposed to having to use the talisman on them, thereby saving time. Talisman tiaras may be purchased from the
+Grand Exchange
+, from other players, or crafted by a player themselves. To create a talisman tiara, the player must have a plain tiara and the corresponding talisman in their
+inventory
+, and use the tiara on the altar of that particular talisman. For example, a player who wishes to create an
+air tiara
+must enter the
+Air Altar
+ruins, and use the tiara on the altar with an
+air talisman
+in their inventory. The talisman itself is lost in the process.
+All runes craftable by
+free-to-play
+RuneScape players may be crafted from either
+rune essence
+,
+pure essence
+or
+Runecrafting cores
+.
+Body cores
+give the most experience, but they are very hard to obtain in large quantities. To obtain enough, one needs to spend most of their combat training by killing
+Body Golems
+.
+For rune or pure essence, using one over the other makes no difference to experience gained or the number of runes crafted per essence. It is therefore recommended to use the cheaper option, which is
+pure essence
+(
+2
+each) rather than
+rune essence
+(
+13
+each). As a free-to-play player, you will not be able to mine your own pure essence, but you can still purchase it through the Grand Exchange or from other players directly.
+Note that
+energy potions
+(
+48.00
+per dose) restore 10% run energy with each dose, and using them either at the bank or while running greatly increases experience gained from all of the below methods by 30–50% over just letting your run energy recharge normally (the actual percent experience per hour gained depending on the method and your
+Agility
+level).
+Contents
+1
+Levels 1–9/14/20: Air runes
+2
+Levels 9–14/20: Earth runes
+3
+Levels 14–20: Fire runes
+4
+Levels 20–99: Body runes
+4.1
+Using teleports
+4.2
+Using runners
+5
+Fastest Experience
+5.1
+Levels 1–99: Body tiaras
+5.2
+Levels 1–99: Earth tiaras
+5.3
+Levels 1–99: Water tiaras
+5.4
+Air tiaras
+5.5
+Comparison table for crafting tiaras
+Levels 1–9/14/20:
+Air runes
+In
+free-to-play
+, the standard way to begin training
+Runecraft
+is by crafting
+air runes
+, which grants 5 Runecraft experience per pure essence or rune essence used (140 experience for an inventory of 28). The
+Air Altar
+is located just south of
+Falador
+, with a bank close by. Players with 37
+Magic
+can use
+Falador Teleport
+to return back slightly closer to the bank after crafting the runes and speed up experience rates, otherwise simply run back and forth between the altar and bank. Continue to craft air runes until you reach level 9, at which point it is best to move on to crafting
+earth runes
+.
+Experience needed (1–9): 969
+Pure essence or rune essence needed: 194
+№ of inventories (28 essence per inventory): 7
+Cost of pure essence:
+388
+Air runes value:
+970
+Profit:
+582
+Levels 9–14/20:
+Earth runes
+Players with a
+Runecraft
+level of at least 9 are able to craft
+earth runes
+, which grant 6.5 experience per pure essence or rune essence used (182 experience for an inventory of 28). The
+Earth Altar
+is located north-east of
+Varrock
+, near the
+sawmill
+. The distance between the altar and bank is a brisk walk away, and
+Varrock teleport
+allows even faster return to the bank (use an
+earth tiara
+to save a slot), so you can earn more experience in less time. You will accumulate a decent amount of earth runes, which you may sell or retain as you see fit.
+Experience needed (9–14): 1,138
+Pure essence or rune essence needed: 176
+№ of inventories (28 essence per inventory): 7
+Cost of pure essence:
+352
+Earth runes value:
+1,056
+Profit:
+704
+Levels 14–20:
+Fire runes
+At level 14, it is possible to craft
+fire runes
+, which grant 7 experience per pure essence or rune essence used (196 experience for an inventory of 28). The
+Fire Altar
+is located west of the
+Emir's Arena
+north of
+Al Kharid
+. The closest bank is the
+Al Kharid bank
+. (Due to the farther bank distance, fire runes result in less experience per hour than earth runes [Fire giving 6533xp/hr, Earth giving 6911xp/hr]).
+Experience needed (14-20): 2,363
+Pure essence or rune essence needed: 338
+№ of inventories (28 essence per inventory): 13
+Cost of pure essence:
+676
+Fire runes value:
+1,690
+Profit:
+1,014
+Levels 20–99:
+Body runes
+Players with a
+Runecraft
+level of at least 20 are able to craft
+body runes
+, which grant 7.5 experience per pure essence or rune essence used (210 experience for an inventory of 28). Body runes are useful for a number of
+spells
+, such as
+Confuse
+and
+Weaken
+, which are often used for low-intensity
+Magic
+training. Body runes are the highest level runes that
+free-to-play
+players are able to craft and crafting them grants the highest possible Runecraft experience per GP for free-to-play players. You will accumulate a huge amount of body runes, which you may sell or retain as you see fit.
+From levels 20 to 45, one body rune will be created per essence used. From levels 46 to 91, two body runes will be created per essence used. From level 92 onwards, three body runes will be created per essence used.
+Experience needed (20–99): 13,029,961
+Pure essence or rune essence needed: 1,737,329
+Body runes created: 4,335,146
+№ of inventories (28 essence per inventory): 62,048
+Cost of pure essence:
+3,474,658
+Body runes value:
+21,675,730
+Profit:
+18,201,072
+There are several ways to increase the efficiency of body rune crafting.
+Using teleports
+The closest free-to-play players can teleport to the body rune altar is the teleport to
+Barbarian Village
+using the
+imbued skull sceptre
+. 
+The closest free-to-play players can teleport to a bank on a non PvP world is using
+Falador teleport
+to go to the
+Falador
+west bank. The closest free-to-play players can teleport to a bank on a PvP world is using
+Lumbridge teleport
+.
+Therefore, the fastest method of runecrafting body runes without help of others is to keep law and water runes (or earth runes on the PvP world) and an
+imbued skull sceptre
+in your inventory as well as equipping a
+staff of air
+and a
+body tiara
+(or, equip the imbued skull sceptre and carry air runes, to lower your weight by 2.5 kg).
+This would allow players to teleport to
+Barbarian Village
+with the skull sceptre, run up to the altar to craft the runes, then teleport to
+Falador
+(or
+Lumbridge
+on the PvP world) to bank and repeat. This method results in around 20,000 experience per hour (or 25,000 experience per hour in the PvP world) provided the player uses
+energy potions
+to keep their run energy from depleting.
+Be very careful to only take items you're willing to lose to PvP worlds, as you can be
+Snared
+and
+Tele Blocked
+and killed when you're not in the Lumbridge safe zone. As long as you aren't Tele Blocked, however, you can teleport yourself back to the safe zone in Lumbridge, and even when carrying fewer runes with you to have a smaller risk, this method is still faster than the non-PVP method.
+Using runners
+Players who are not an
+Ironman
+can use essence runners to provide essence to them at the
+Body Altar
+. This can either be done by paying other players in-game for their services, or by employing alternate accounts. Using the strategy below requires very few clicks per account, making it easy to manage two or three alternate accounts on the same screen running essence. Note that for most clicks, one should click the next spot
+before
+the player completes the route started by the previous click.
+When using 2 extra runners and no energy potions, this gives experience rates of approximately 17,000 experience per hour. Using 3 this can become up to 24,000 experience per hour, and 5 runners give up to 30,000 experience per hour.
+Click
+Location
+1
+Next to the Soul Wars portal (Click here to close the bank interface)
+Show map
+(red)
+2
+Just below the Edgeville monastery
+Show map
+(red)
+3
+The body rune altar entrance
+Show map
+(red)
+4
+Just west of the body rune altar (Walking here instead of directly crafting saves one tile of walking)
+Show map
+5
+The portal to exit the body rune altar
+Show map
+6
+The very end of Barbarian village (Now turn your camera to facing east)
+Show map
+(green)
+7
+Just behind the Soul Wars portal
+Show map
+(green)
+8
+The Edgeville bank booth (Now turn your camera to facing south)
+Show map
+(green)
+Fastest Experience
+Levels 1–99: Body tiaras
+Talisman
+imbued
+tiaras
+require 1
+Runecraft
+to make, they range from
+air tiaras
+to
+body tiaras
+and each yield 5 times the amount of experience from runecrafting their respective rune. Making one requires a
+tiara
+and a corresponding talisman to use on the respective altar. This method yields the fastest free-to-play Runecraft experience rates, except for stacked up
+runecrafting cores
+.
+Optimal experience rates of up to 47,000 experience per hour can be attained by using a dangerous
+PvP World
+, teleporting to
+Barbarian Village
+using a skull sceptre (i), running to the
+Body Altar
+, and making the body tiaras.
+Lumbridge Teleport
+for the closest
+bank
+and repeat. This requires 31
+Magic
+, a
+staff of air
+,
+law runes
+, and
+earth runes
+, as well as enough
+bone fragments
+to recharge the
+skull sceptre (i)
+.
+Energy potions
+will be necessary to keep your run
+energy
+up. It may be more efficient to carry
+air runes
+instead of using a
+staff of air
+in order to lower your weight by 2.5 kg at the added cost of spending air runes to teleport.
+If avoiding
+PvP Worlds
+, the closest teleport to a bank is the
+Falador Teleport
+.
+Experience needed (1–99): 13,034,431
+Tiaras
+needed: 347,585
+Body talismans
+needed: 347,585
+Total Cost:
+599,236,540
+Body tiaras
+created: 347,585
+Profit/Loss:
+−597,498,615
+Number of inventories (12 Tiaras + 12 Talismans): 28,966
+Levels 1–99: Earth tiaras
+Earth tiaras
+yield up to 27,000 experience per hour. Run to the
+Earth Altar
+and then
+Varrock Teleport
+, requiring 25
+Magic
+, you must have
+law
+and
+fire runes
+with a
+staff of air
+equipped.
+Energy potions
+will be required to keep your run
+energy
+up.
+Experience needed (1–99): 13,034,431
+Tiaras
+needed: 401,060
+Earth talismans
+needed: 401,060
+Total Cost:
+240,234,940
+Earth tiaras
+created: 401,060
+Profit/Loss:
+−239,432,820
+Number of inventories (13 Tiaras + 13 Talismans): 30,850
+Levels 1–99: Water tiaras
+Water tiaras
+yield up to 25,000 experience per hour. Optimally, run to the
+Water Altar
+and then
+Lumbridge Teleport
+, requiring 31
+Magic
+, you must have
+law
+and
+earth runes
+with a
+staff of air
+equipped. If done on a
+PvP World
+a
+bank chest
+is next to the teleport, saving about 30 seconds per run.
+Energy potions
+will be required to keep your run
+energy
+up.
+If you are not teleporting and do not want to use a PvP world, the closest bank is in
+Draynor Village
+.
+Experience needed (1–99): 13,034,431
+Tiaras
+needed: 434,333
+Water talismans
+needed: 434,333
+Total Cost:
+129,431,234
+Water tiaras
+created: 434,333
+Profit/Loss:
+−127,693,902
+Number of inventories (12 Tiaras + 12 Talismans): 33,411
+Air tiaras
+Air talismans
+can be
+drop tricked
+if you haven't progressed in the
+Rune Mysteries
+quest
+, explained
+here
+. This is very slow experience and recommended only for
+ironman mode
+.
+Comparison table for crafting tiaras
+Tiara
+Experience
+Materials
+Material cost
+Tiara value
+Profit/Loss
+Profit/Loss per XP
+Air tiara
+25
+249
+2
+−247
+-9.88
+Mind tiara
+27.5
+1,241
+3
+−1,238
+-45.02
+Water tiara
+30
+298
+4
+−294
+-9.80
+Earth tiara
+32.5
+599
+2
+−597
+-18.37
+Fire tiara
+35
+1,782
+5
+−1,777
+-50.77
+Body tiara
+37.5
+1,724
+5
+−1,719
+-45.84
+v
+t
+e
+Skill training guides
+Free-to-play guides
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Members' guides
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+Ironman guides
+Money making
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+Ultimate Ironman guides
+Item management
+Equipment
+Quests
+Minigames
+Money making
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+General guidelines
+Efficiency
+v
+t
+e
+Free-to-play guides
+Skills
+Combat
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Gathering
+Mining
+Fishing
+Woodcutting
+Processing
+Crafting
+Smithing
+Cooking
+Firemaking
+Runecraft
+Achievements
+Quests
+Quests list
+Quest rewards
+Optimal quest guide
+Other
+Adventure Paths
+Collection log
+Combat Achievements
+Steam Achievements
+Account builds
+Account builds
+Ironman guide
+Combat pure guide
+Miscellaneous
+Free-to-play
+PvP
+Clues
+Bestiary
+Food
+Music
+Money making guide
+Transportation guide
+Closest points of interest
+Cosmetic items

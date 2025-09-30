@@ -1,0 +1,343 @@
+Crafting training methods usually cost money and require a lot of capital to buy the supplies needed. Prices of materials will fluctuate, so check the Grand Exchange prices before buying and selling them in large quantities.
+
+## Contents
+
+- 1 Starting off
+- 2 Fastest experience 2.1 Levels 1–20: Leather items 2.2 Levels 20–62/77/99: Cutting gems 2.3 Levels 54–77/99: Battlestaves 2.4 Levels 63/77–99: D'hide bodies
+- 2.1 Levels 1–20: Leather items
+- 2.2 Levels 20–62/77/99: Cutting gems
+- 2.3 Levels 54–77/99: Battlestaves
+- 2.4 Levels 63/77–99: D'hide bodies
+- 3 Other methods 3.1 Levels 1–83/99: Molten glass 3.2 Levels 5–99: Crafting jewellery 3.3 Levels 26–46/99: Crafting drift nets 3.4 Levels 61–99: Casting Superglass Make 3.5 Level 52-99 Fixing goblin lamps in Dorgesh-Kaan 3.5.1 Items required 3.5.2 Making your own light orbs 3.6 Levels 83–99: Cutting amethyst
+- 3.1 Levels 1–83/99: Molten glass
+- 3.2 Levels 5–99: Crafting jewellery
+- 3.3 Levels 26–46/99: Crafting drift nets
+- 3.4 Levels 61–99: Casting Superglass Make
+- 3.5 Level 52-99 Fixing goblin lamps in Dorgesh-Kaan 3.5.1 Items required 3.5.2 Making your own light orbs
+- 3.5.1 Items required
+- 3.5.2 Making your own light orbs
+- 3.6 Levels 83–99: Cutting amethyst
+- 4 Quests for Crafting experience
+- 2.1 Levels 1–20: Leather items
+- 2.2 Levels 20–62/77/99: Cutting gems
+- 2.3 Levels 54–77/99: Battlestaves
+- 2.4 Levels 63/77–99: D'hide bodies
+- 3.1 Levels 1–83/99: Molten glass
+- 3.2 Levels 5–99: Crafting jewellery
+- 3.3 Levels 26–46/99: Crafting drift nets
+- 3.4 Levels 61–99: Casting Superglass Make
+- 3.5 Level 52-99 Fixing goblin lamps in Dorgesh-Kaan 3.5.1 Items required 3.5.2 Making your own light orbs
+- 3.5.1 Items required
+- 3.5.2 Making your own light orbs
+- 3.6 Levels 83–99: Cutting amethyst
+- 3.5.1 Items required
+- 3.5.2 Making your own light orbs
+
+## Starting off[edit|edit source]
+
+There are plenty of quests that give Crafting experience upon completion, which allows the player to skip a lot of early Crafting training. If the player is going to complete them anyway, it is best to do as early as possible since the experience rewards benefit more at lower levels as the training methods are slower.
+
+## Fastest experience[edit|edit source]
+
+
+## Levels 1–20: Leather items[edit|edit source]
+
+From level 1 to 20, craft the highest-level leather item available. Leather currently costs 359 each and all items only require one leather to craft. In order to craft any leather items, you need a needle and some thread . Since each thread is good for around 5 uses, to get to level 20 with this method, you will need around 50 thread .
+Level | Leather item | XP | needed | Total cost
+1–7 |  | Gloves | 13.8 | 48 | 17,232
+7–9 |  | Boots | 16.2 | 19 | 6,821
+9–11 |  | Cowl | 18.5 | 21 | 7,539
+11–14 |  | Vambraces | 22 | 34 | 12,206
+14–20 |  | Body | 25 | 95 | 34,105
+Total | 217 | 77,903
+This will require a total of 217 leather, for a total cost of 77,903 . Every leather item is created in 3 ticks (1.8 seconds), so the total creation time for all 217 leather items is 651 ticks (390.6 seconds).
+
+## Levels 20–62/77/99: Cutting gems[edit|edit source]
+
+Cutting (uncut) gems offers the fastest experience up to level 77. However, cutting dragonstones is much more expensive compared to the lower-level gems, so it is recommended to keep cutting diamonds until level 62 and continue with fire battlestaves. Depending on the prices, it may be worthwhile to also skip cutting diamonds, and cut rubies until level 58 and continue with earth battlestaves.
+Even though onyxes offer faster experience, they are not viable due to incredibly high cost and limited supply.
+The experience rates and costs are shown in the table below. The rates assume players cut 2,780 gems per hour.
+Level | Gem | XP | XP/h | # to next | GE Price | GP/XP
+Uncut | Cut | Diff
+20 |  | Sapphire | 50 | 139,000 | 106 | 235 | 210 | −25 | -0.50
+27 |  | Emerald | 67.5 | 187,650 | 156 | 486 | 368 | −118 | -1.75
+34 |  | Ruby | 85 | 236,300 | 355 | 1,168 | 784 | −384 | -4.52
+43 |  | Diamond | 107.5 | 298,850 | 1,082 | 2,492 | 1,613 | −879 | -8.18
+55 |  | Dragonstone | 137.5 | 382,250 | ( 62) 1,216 | 16,146 | 11,074 | −5,072 | -36.89
+( 77) 9,520
+
+## Levels 54–77/99: Battlestaves[edit|edit source]
+
+Crafting battlestaves offers relatively fast experience and is usually cheaper compared to other methods. While this method is usually relatively cheap, buying the supplies requires a lot of capital.
+Fire and air battlestaves have comparable experience rates to green and blue d'hide bodies, respectively, so choose based on the Grand Exchange prices. Green and blue d'hide bodies require a lot less capital.
+Players who have completed tiers of the Varrock Diary may also purchase noted battlestaves daily from Zaff for a reduced price. This will save 1,226 per battlestaff compared to purchasing them from the Grand Exchange.
+Crafting d'hide bodies becomes considerably faster at level 77 and even more so at level 84, but air battlestaves remain as a good cheaper alternative.
+The experience rates shown in the table below assume 2,450 battlestaves crafted per hour. Expect lower rates if idling. With perfect banking, it is possible to craft up to 2,625 battlestaves per hour. High Level Alchemy can be cast on the battlestaves later to reduce costs while also gaining passive Magic experience. If including the time taken to cast High Level Alchemy, only 800 battlestaves can be made and alched per hour.
+Level | Battlestaff | XP | XP/h | # to next | GE Price | GP/XP | Profit (HA) | Profit (HA)/XP
+Buy | Sell | Diff
+54 |  | Water | 100 | 245,000 | 736 | 8,709 | 8,701 | −8 | -0.08 | 488 | 4.88
+58 |  | Earth | 112.5 | 276,000 | 972 | 8,759 | 8,702 | −57 | -0.51 | 438 | 3.89
+62 |  | Fire | 125 | 306,000 | 1,300 | 9,022 | 8,636 | −386 | -3.09 | 175 | 1.40
+66 |  | Air | 137.5 | 337,000 | ( 77) 7,123 | 9,131 | 8,660 | −471 | -3.43 | 66 | 0.48
+
+## Levels 63/77–99: D'hide bodies[edit|edit source]
+
+Crafting d'hide bodies becomes the fastest viable training method from level 77 onwards. Players can begin crafting green d'hide bodies at level 63, or blue d'hide bodies at level 71 as an alternative method to cutting gems or crafting battlestaves.
+Use the costume needle to craft 9 d'hide bodies per inventory. The player can obtain one from the Costumer in Aldarin after completing Death on the Isle . Without the costume needle the player will need thread to craft d'hide bodies, which only allows making 8 d'hide bodies per inventory and will lower experience rates slightly.
+Turn on deposit lock in the bank menu to bank efficiently. This allows the player to only deposit d'hide bodies with the 'Deposit inventory' button without depositing the costume needle.
+The player can use tick manipulation to start the crafting process one tick faster. To do this, have an alternative account to lure aggressiveness of a gnome at the Gnome Stronghold south bank . Position the gnome so that they stand on an adjacent tile to the bank booth. Equip a shortbow without ammo and set the attack option to Rapid. When banking, quickly attempt to attack the gnome before using the needle on a leather. This will skip the stall from making the first item when done correctly, which will increase experience rates slightly.
+Green and blue d'hide bodies offer comparable experience rates to fire and air battlestaves, respectively. Choose whichever is cheaper. However, green and blue d'hide bodies require a lot less capital. Black d'hide bodies offer the fastest experience but they are typically much more expensive compared to other methods, so look into cheaper alternatives if seeking to save money.
+The experience rates in the table below assume good banking and paying attention. Expect lower rates if idling or making mistakes with banking. With tick manipulation, players can craft up to 1,860 d'hide bodies per hour. Without tick manipulation, it is possible to craft up to 1,800 d'hide bodies per hour when using the costume needle. High Level Alchemy can be cast on the d'hide bodies later to reduce costs while also gaining passive Magic experience. The High Level Alchemy prices assume a staff of fire or equivalent is used. If including the time taken to cast high alchemy, only about 700 d'hide bodies can be made and alched per hour.
+Level | D'hide body | XP | XP/h | GE Price | GP/XP | Profit (HA) | Profit (HA)/XP
+& [ n 1 ] | [ n 2 ] | Tick manip. [ n 3 ] | Buy | Sell | Diff
+63 |  | Green | 186 | 313,000 | 317,000 | 332,000 | 4,623 | 4,047 | −576 | -3.10 | −46 | -0.25
+71 |  | Blue | 210 | 354,000 | 358,000 | 374,000 | 5,679 | 4,713 | −966 | -4.60 | −166 | -0.79
+77 |  | Red | 234 | 394,000 | 399,000 | 417,000 | 7,227 | 5,724 | −1,503 | -6.42 | −592 | -2.53
+84 |  | Black | 258 | 435,000 | 440,000 | 460,000 | 9,870 | 7,040 | −2,830 | -10.97 | −1,885 | -7.31
+- ^ Assumes 1,685 actions per hour when crafting eight d'hide bodies per inventory.
+- ^ Assumes 1,705 actions per hour when crafting nine d'hide bodies per inventory.
+- ^ Assumes 1,783 actions per hour when using tick manipulation and crafting nine d'hide bodies per inventory.
+
+## Other methods[edit|edit source]
+
+
+## Levels 1–83/99: Molten glass[edit|edit source]
+
+Blowing molten glass with a glassblowing pipe offers very slow experience rates, but it requires little attention and a low amount of capital. Most low-level items are not viable due to high cost, but certain higher-level ones, such as unpowered orbs, may be very cheap depending on the prices. Consider making money through other means and training with faster methods, such as cutting low-level gems.
+Level | Item | XP | XP/h [ n 1 ] | GE Price | GP/XP
+Buy | Sell | Diff
+1 |  | Beer glass | 17.5 | 30,625 | 104 | 60 | −44 | -2.59
+4 |  | Empty candle lantern | 19 | 33,250 | 104 | 5 | −99 | -5.21
+12 |  | Empty oil lamp | 25 | 43,750 | 104 | 12 | −92 | -3.68
+33 |  | Vial | 35 | 61,250 | 104 | 3 | −101 | -2.89
+42 |  | Empty fishbowl | 42.5 | 74,375 | 104 | 34 | −70 | -1.65
+46 |  | Unpowered orb | 52.5 | 91,875 | 104 | 49 | −55 | -1.05
+49 |  | Lantern lens | 55 | 96,250 | 104 | 16 | −88 | -1.60
+87 |  | Empty light orb | 70 | 122,500 | 104 | Not sold | −104 | -1.49
+- ^ Assumes 1,750 glass items blown per hour.
+
+## Levels 5–99: Crafting jewellery[edit|edit source]
+
+Starting at level 5, players can begin crafting gold jewellery using a gold bar and the appropriate mould at a furnace. The type of jewellery crafted depends on the mould used, with rings, necklaces, amulets, and bracelets being the primary options.
+The best location for crafting is Prifddinas, as it features the shortest distance between a bank and a furnace. If you do not have access to Prifddinas , Edgeville is the next best option. Another alternative is the Shilo Village furnace, which is even closer to the bank than Edgeville’s but requires a 20gp fee per use (players can deposit bulk payments in the coffer for convenience).
+If available, wearing weight-reducing clothing will help reduce run energy drain, making trips more efficient. At higher crafting levels, certain jewellery items, such as dragonstone can be profitable, though they tend to be traded in lower quantities.
+Zenyte and Onyx jewellery were not included because their profit margins are often inaccurate, they would also require an immense cash down to buy in bulk. Zenytes are also just rarely sold on the Grand Exchange.
+The following rates used for experience per hour are 1400 for a gem and metal bar, 1600 for just metal bars, or 960 for a gem and metal bar with stringing.
+Item | Crafting | XP/hour | Materials | Profit/Loss | GP/hour
+Level | Exp
+ | Opal ring | 1 | 10 | 14,000 | Silver bar Opal | 449 | 628,600
+ | Opal necklace | 16 | 35 | 49,000 | Silver bar Opal | 450 | 630,000
+ | Opal bracelet | 22 | 45 | 63,000 | Silver bar Opal | 297 | 415,800
+ | Opal amulet (u) | 27 | 55 | 77,000 | Silver bar Opal | 155 | 217,000
+ | Opal amulet | 27 | 59 | 56,640 | Silver bar Opal Ball of wool | 167 | 160,320
+ | Jade ring | 13 | 32 | 44,800 | Silver bar Jade | 314 | 439,600
+ | Jade necklace | 25 | 54 | 75,600 | Silver bar Jade | 380 | 532,000
+ | Jade bracelet | 29 | 60 | 84,000 | Silver bar Jade | 280 | 392,000
+ | Jade amulet (u) | 34 | 70 | 98,000 | Silver bar Jade | 399 | 558,600
+ | Jade amulet | 34 | 74 | 71,040 | Silver bar Jade Ball of wool | 434 | 416,640
+ | Topaz ring | 16 | 35 | 49,000 | Silver bar Red topaz | −1,972 | −2,760,800
+ | Topaz necklace | 32 | 70 | 44,800 | Silver bar Red topaz | −3,885 | −5,439,000
+ | Topaz bracelet | 38 | 75 | 105,000 | Silver bar Red topaz | 618 | 865,200
+ | Topaz amulet (u) | 45 | 80 | 112,000 | Silver bar Red topaz | −1,728 | −2,419,200
+ | Topaz amulet | 45 | 84 | 80,640 | Silver bar Red topaz Ball of wool | 66 | 63,360
+ | Gold ring | 5 | 15 | 24,000 | Gold bar | 56 | 89,600
+ | Gold necklace | 6 | 20 | 32,000 | Gold bar | 82 | 131,200
+ | Gold bracelet | 7 | 25 | 40,000 | Gold bar | 146 | 233,600
+ | Gold amulet (u) | 8 | 30 | 48,000 | Gold bar | 66 | 105,600
+ | Gold amulet | 8 | 34 | 34,340 | Gold bar Ball of wool | 1 | 1,010
+ | Sapphire ring | 20 | 40 | 56,000 | Gold bar Sapphire | 114 | 159,600
+ | Sapphire necklace | 22 | 55 | 77,000 | Gold bar Sapphire | 137 | 191,800
+ | Sapphire bracelet | 23 | 60 | 84,000 | Gold bar Sapphire | 242 | 338,800
+ | Sapphire amulet (u) | 24 | 65 | 91,000 | Gold bar Sapphire | 108 | 151,200
+ | Sapphire amulet | 24 | 69 | 66,240 | Gold bar Sapphire Ball of wool | 105 | 100,800
+ | Emerald ring | 27 | 55 | 77,000 | Gold bar Emerald | 154 | 215,600
+ | Emerald necklace | 29 | 60 | 84,000 | Gold bar Emerald | 163 | 228,200
+ | Emerald bracelet | 30 | 65 | 91,000 | Gold bar Emerald | 251 | 351,400
+ | Emerald amulet (u) | 31 | 70 | 98,000 | Gold bar Emerald | 78 | 109,200
+ | Emerald amulet | 31 | 74 | 71,040 | Gold bar Emerald Ball of wool | 95 | 91,200
+ | Ruby ring | 34 | 70 | 98,000 | Gold bar Ruby | 110 | 154,000
+ | Ruby necklace | 40 | 75 | 105,000 | Gold bar Ruby | 166 | 232,400
+ | Ruby bracelet | 42 | 80 | 112,000 | Gold bar Ruby | 198 | 277,200
+ | Ruby amulet (u) | 50 | 85 | 119,000 | Gold bar Ruby | 157 | 219,800
+ | Ruby amulet | 50 | 89 | 85,440 | Gold bar Ruby Ball of wool | 158 | 151,680
+ | Diamond ring | 43 | 85 | 119,000 | Gold bar Diamond | 130 | 182,000
+ | Diamond necklace | 56 | 90 | 126,000 | Gold bar Diamond | 197 | 275,800
+ | Diamond bracelet | 58 | 95 | 133,000 | Gold bar Diamond | 165 | 231,000
+ | Diamond amulet (u) | 70 | 100 | 140,000 | Gold bar Diamond | 92 | 128,800
+ | Diamond amulet | 70 | 104 | 99,840 | Gold bar Diamond Ball of wool | 152 | 145,920
+ | Dragonstone ring | 55 | 100 | 140,000 | Gold bar Dragonstone | −243 | −340,200
+ | Dragon necklace | 72 | 105 | 147,000 | Gold bar Dragonstone | −269 | −376,600
+ | Dragonstone bracelet | 74 | 110 | 154,000 | Gold bar Dragonstone | 110 | 154,000
+ | Dragonstone amulet (u) | 80 | 150 | 210,000 | Gold bar Dragonstone | −508 | −711,200
+ | Dragonstone amulet | 80 | 154 | 147,840 | Gold bar Dragonstone Ball of wool | −460 | −441,600
+
+## Levels 26–46/99: Crafting drift nets[edit|edit source]
+
+Drift nets can be crafted from 2 jute fibre each. About 1,000 can be made per hour for 60,000 experience per hour and 575,000 coins per hour when using the loom and bank chest at Fossil Island 's Museum Camp . This is better experience per hour compared to glassblowing until 46 Crafting, which unlocks unpowered orbs . It nets 10.45 coins per experience gained. This is a potential money making method , though check Grand Exchange prices and volume before attempting it.
+
+## Levels 61–99: Casting Superglass Make[edit|edit source]
+
+Players who have 77 Magic (can be boosted ) and have completed Lunar Diplomacy , which requires 61 Crafting along with other requirements (cannot boost from lower levels to complete), can cast Superglass Make with the lunar spellbook . With Superglass Make, players can convert an inventory of buckets of sand with soda ash , seaweed , giant seaweed (recommended), or swamp weed into molten glass, granting 78 Magic experience as well as Crafting experience (180 Crafting experience per inventory with 18 buckets of sand and 3 giant seaweed or 130 Crafting experience per inventory with 13 buckets of sand with 13 of any other compatible item) and players can profit from selling molten glass or use the created molten glass for additional Crafting experience without much of a loss.
+For this training method, astral runes (2 astral runes per cast), 3 giant seaweed, and 18 buckets of sand will be needed per inventory while equipped with either a smoke battlestaff or an air battlestaff with tome of fire . On average, it will make 1.3 glass for regular seaweed, soda ash, or swamp weed, or up to 1.6 glass per sand with giant seaweed.
+With moderate focus, 600 casts per hour is achievable, with up to 850 being attainable at peak efficiency, achieving 108,000–153,000 Crafting and 46,800–66,300 Magic experience per hour from giant seaweed while making a good amount of profit. Withdraw 18 buckets of sand and 3 giant seaweed, close the bank, cast Superglass Make, and then bank them within a few ticks before the end of the animation. For the best experience and money-making rates, ignore any dropped glass, as this will still yield 0.15 extra molten glass per bucket of sand compared to regular seaweed or other compatible item.
+
+## Level 52-99 Fixing goblin lamps in Dorgesh-Kaan[edit|edit source]
+
+Lamps can be fixed in Dorgesh-Kaan for both crafting and firemaking experience. This requires completion of The Lost Tribe and level 52 crafting and firemaking. Each lamp requires a light orb to fix. The light orbs can be purchased on the Grand Exchange or crafted yourself, however crafting the complete light orbs requires level 87 crafting.
+Around ten lamps will be broken at any one time, and are unique to each player; each player will see different lamps around Dorgesh-Kaan as broken.
+Fixing the lamps yields an average of 550 crafting and 550 firemaking experience. The player instead receives an additional of 174 crafting experience per lamp if crafting the light orbs — 70 for blowing the glass and 104 for adding the wire, though this takes longer.
+The player receives 500 firemaking and 500 crafting experience each time a lamp is fixed. For every 50 lamps fixed, the player will receive an additional 2,500 experience in both crafting and firemaking. Upon fixing a lamp, should the player still be carrying additional light orbs afterwards, they will be notified whether there is another lamp in need of fixing nearby. This will be accompanied by a flashing arrow on their minimap if so. Light orbs can be thieved from the chests in Dorgesh-kaan, but in relatively low numbers.
+Skilled players can reach 130,000 crafting experience and 100,000 firemaking experience per hour, if making the light orbs.
+While still learning, players should expect as low as 90,000 crafting experience per hour.
+The average chest and rich chest are both found in high numbers on the route and can grant additional light orbs. The chests grant 200 thieving experience and 650 thieving experience per successful attempt, respectively. This will mean the player gains less crafting experience, but more thieving experience and extra cave goblin wire from both chest types, and empty light orbs and light orbs from the rich chests.
+- Light orbs filling most of the inventory, with more in the bank. These can be bought on the grand exchange.
+- Empty light orbs or molten glass with a glassblowing pipe if making your own light orbs. This requires 87 crafting. The player will also need cave goblin wire for each light orb, which can be thieved nearby at the wire machine with 44 thieving.
+- Stamina potion and low-weight equipment such as the Graceful outfit . The ring of endurance may be beneficial here.
+- Lockpicks if thieving the chests
+See the light orb page for more detailed information.
+Players should take an inventory of empty light orbs to the wire machine . Either craft the empty light orbs ahead of time or take an inventory of molten glass and craft it while running to the wire machine. Once there, fill all of the light orbs with cave wire. Then, either work clockwise or counterclockwise around the city fixing lamps. After fixing a lamp at the bank, grab more items from the bank and start again. Every time the player fixes a lamp, the game will indicate where a nearby broken lamp is. Because only one lamp location is given, players should also keep an eye out for other nearby lamps that can also be repaired and prioritise lamps in an order that requires the least amount of backtracking. Whenever there are no nearby lamps, using a Dorgesh-kaan sphere to teleport to a random location in the city can help to reach another broken lamp quickly.
+
+## Levels 83–99: Cutting amethyst[edit|edit source]
+
+Cutting amethyst into ranging material with a chisel will often yield very small losses (or even profits) while also granting more experience than glassblowing, making it a viable method for those who are willing to sacrifice the speed of other methods for cheaper (or profitable) Crafting experience.
+Level | Amethyst item | XP | XP/h | GE Price | GP/XP
+Buy | Sell | Diff
+83 |  | Bolt tips | 60 | 165,000 | 3,659 | 3,210 | −449 | -7.48
+85 |  | Arrowtips | 60 | 165,000 | 3,659 | 3,735 | 76 | 1.27
+87 |  | Javelin heads | 60 | 165,000 | 3,659 | 3,775 | 116 | 1.93
+89 |  | Dart tip | 60 | 165,000 | 3,659 | 3,808 | 149 | 2.48
+
+## Quests for Crafting experience[edit|edit source]
+
+Quest | Experience reward | Crafting requirement | Other requirements
+Sheep Shearer | 150 | - | -
+Goblin Diplomacy | 200 | - | -
+Tower of Life | 500 | - | 10
+In Search of the Myreque | 600 | - | 25
+Misthalin Mystery | 600 | - | -
+Dwarf Cannon | 750 | - | -
+Animal Magnetism | 1,000 | 19 | 18 , 30 , 35
+The Golem | 1,000 | 20 | 25
+Making History | 1,000 | 24 | -
+Tears of Guthix | 1,000 | 20 | 49 , 20
+Recipe for Disaster ( Goblin generals subquest ) | 1,000 | - | -
+Recipe for Disaster ( Pirate Pete subquest ) | 1,000 | - | 31 , 42 (if making your own Fishbowl )
+Murder Mystery | 1,406 | - | -
+Recipe for Disaster ( Skrach Uglogwee subquest ) | 1,500 | - | 41 , 20
+Cold War | 2,000 | 30 | 10 , 30 , 34
+Enlightened Journey | 2,000 | 36 | 20 , 20 , 30
+In Aid of the Myreque | 2,000 | 25 | 15 , 7
+Shades of Mort'ton | 2,000 | 20 | 15 , 5
+Observatory Quest | 2,250 | - | -
+The Giant Dwarf | 2,500 | 12 | 16 , 33 , 14
+The Fremennik Trials | 2,812.4 | - | -
+The Great Brain Robbery | 3,000 | 16 | 30 , 50
+Nature Spirit | 3,000 | 18 | -
+The Slug Menace | 3,500 | 30 | 30 , 30 , 30
+Shilo Village | 3,875 | 20 | 32 , 4
+Getting Ahead | 4,000 | 30 | 26
+Elemental Workshop I | 5,000 | 20 | 20 , 20
+The Fremennik Isles | 5,000 | 46 | 20 , 40 , 56
+Death on the Isle | 5,000 | - | 32 , 34
+Cabin Fever | 7,000 | 45 | 42 , 50 , 40
+Enakhra's Lament | 7,000 | 50 | 45 , 43 , 39 , 45
+Elemental Workshop II | 7,500 | 20 | 20 , 30
+The Hand in the Sand | 9,000 | 49 | 17
+The Fremennik Exiles | 50,000 | 65 | 60 , 60 , 60 , 55
+Total | 135,143 | 
+v t e Skill training guides
+Free-to-play guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft
+Members' guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ironman guides | Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ultimate Ironman guides | Item management Equipment Quests Minigames Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+General guidelines | Efficiency
+- v
+- t
+- e
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Item management
+- Equipment
+- Quests
+- Minigames
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Efficiency

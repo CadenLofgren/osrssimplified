@@ -1,0 +1,370 @@
+--- Skill: Firemaking (F2P) ---
+
+Free-to-play Firemaking training
+Firemaking training
+See also:
+Pay-to-play Firemaking training
+Contents
+1
+Training
+1.1
+Overview
+2
+Level 1–99
+2.1
+Level 1–15: Normal logs
+2.2
+Level 15–30: Oak logs
+2.3
+Level 30–45: Willow logs
+2.4
+Level 45–60: Maple logs
+2.5
+Level 60–99: Yew logs
+3
+Other methods
+3.1
+Level 30–99: Willow logs
+3.2
+Level 45–99: Maple logs
+Training
+The fastest Firemaking experience is gained by burning the highest-tier log available. The best place to do this tick-perfectly is at the eastern part of the
+Grand Exchange
+, as the bank is only one tile away from an area a log can be burned and the area has a lot of empty space. When correctly timed, the player can move to another square in between lighting the logs, which allows the player to burn the logs in any formation. The player should have noted logs in the inventory, and use them on a banker while standing 2 steps away when banking for more logs. A log is lit every 4 game ticks or 2.4 seconds, meaning a theoretical perfect rate of 1,500 logs per hour; the table below assumes 1,485 logs lit per hour.
+An easier but a slower method is to simply burn logs in a row from east to west. The best place to do this is at
+Varrock
+: use
+Varrock Teleport
+, light the logs from the fountain and bank at the
+Varrock west bank
+.
+Additionally, with the introduction of
+Forestry
+, players can utilize the
+Forester's Campfire
+as a method of AFK Firemaking training at the same
+Firemaking
+experience
+per log although much slower this way.
+Overview
+Level
+Log type
+XP
+GE Price
+GP/XP
+XP/HR
+Regular
+[
+t 1
+]
+Collecting
+ashes
+[
+t 2
+]
+Campfire
+[
+t 3
+]
+1
+Normal
+40
+125
+-3.12
+59,400
+42,000
+26,600
+15
+Oak
+60
+50
+-0.83
+89,100
+63,000
+39,900
+30
+Willow
+90
+46
+-0.51
+133,650
+94,500
+59,850
+45
+Maple
+135
+21
+-0.16
+200,475
+141,750
+89,775
+60
+Yew
+202.5
+209
+-1.03
+300,712.5
+212,625
+134,662.5
+^
+Assumes that 1,485 logs are burnt per hour.
+^
+Assumes that 1,050 logs are burnt per hour.
+^
+Assumes that 665 logs are burnt per hour.
+Level 1–99
+This section will show the time and number of
+logs
+needed to reach level 99
+Firemaking
+if switching to each newly unlocked log type you can burn as soon as possible. It would take a player approximately 44 hours to reach level 99 Firemaking from level 1 if switching to each newly unlocked log type that they can burn as soon as possible.
+Level 1–15:
+Normal logs
+The quickest way to get from level 1 to level 15 is by burning
+normal logs
+, which grant 40 experience per log. Normal logs from trees,
+evergreen
+,
+dead
+and
+dying trees
+can be cut nearly everywhere in
+Gielinor
+ranging from
+Lumbridge
+to the
+Wilderness
+. Purchasing the logs for 1 to 15 Firemaking is not necessary as getting level 15 is only several minute's work; only 61 logs have to be burnt to raise Firemaking from level 1 to 15. One must cut normal logs to train the first levels of
+Woodcutting
+anyway, so one may as well burn these logs to obtain 15 Firemaking.
+Experience needed: 2,411
+Logs needed: 61
+Time: 2 minutes 27 seconds (147 seconds)
+Money spent:
+−7,625
+Level 15–30:
+Oak logs
+The quickest way to get from level 15 to level 30 is by burning
+oak logs
+, which grant 60 experience per log.
+Oak trees
+can be cut almost everywhere. Level 15 Woodcutting to cut the oak logs may be useful; oak logs can also be bought from other players.
+Experience needed: 10,952
+Oak logs needed: 183
+Time: 7 minutes 20 seconds (440 seconds)
+Money spent:
+−9,150
+Level 30–45:
+Willow logs
+The quickest way to get from level 30 to level 45 is by burning
+willow logs
+, which grant 90 experience per log. Willow logs can be bought from other players or they can be cut with a Woodcutting level of at least 30.
+Willow trees
+can be cut near the
+River Lum
+in
+Lumbridge
+, near
+Edgeville
+, near the sea south of
+Draynor Village
+bank, south of the
+cabbage
+patch north-west of Draynor Village, or in
+Rimmington
+.
+Experience needed: 48,149
+Willow logs needed: 535
+Time: 21 minutes 24 seconds (1,284 seconds)
+Money spent:
+−24,610
+Level 45–60:
+Maple logs
+The quickest way to get from level 45 to level 60 is by burning
+maple logs
+, which grant 135 experience per log. Free to play players may cut them or purchase them via the
+Grand Exchange
+. Many players choose to burn maple logs from level 45 until level 99.
+Experience needed: 212,230
+Maple logs needed: 1,572
+Time: 1 hour 2 minutes 53 seconds (3,773 seconds)
+Money spent:
+−33,012
+Level 60–99:
+Yew logs
+The fastest way to get from level 60 to level 99 is by burning
+yew logs
+, which grant 202.5 experience per log. These can be cut yourself, but it is much more efficient overall to buy them from other players. Though faster, this method is considerably more expensive than burning willow or maple logs.
+Experience needed: 12,760,689
+Yew logs needed: 63,016
+Time: 42 hours 39 seconds (151,239 seconds)
+Money spent:
+−13,170,344
+Other methods
+Level 30–99:
+Willow logs
+Using exclusively willow logs are a cheap, albeit slow, route to achieving level 99 in
+Firemaking
+. Burning willow logs grants 90 experience per log.
+Experience needed: 13,021,068
+Willow logs needed: 144,679
+Time: 96 hours 27 minutes 11 seconds (347,230 seconds)
+Money spent:
+−6,655,234
+Level 45–99:
+Maple logs
+The cheapest way to get from level 45 to level 99 is by burning maple logs, which grants 135 experience per log. Currently, maple logs (
+21
+coins) are cheaper than willow logs (
+46
+coins), so this method is recommended for free-to-players on a budget. As maple logs give 45 more experience per log than willows and cost
+25
+less coins, this method is strictly better than burning willow logs once players reach level 45, and is the most cost-efficient method overall for those not utilising yew logs.
+Experience needed: 12,972,919
+Maple logs needed: 96,096
+Time: 64 hours 3 minutes 52 seconds (230,631 seconds)
+Money spent:
+−2,018,016
+v
+t
+e
+Skill training guides
+Free-to-play guides
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Members' guides
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+Ironman guides
+Money making
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+Ultimate Ironman guides
+Item management
+Equipment
+Quests
+Minigames
+Money making
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+General guidelines
+Efficiency
+v
+t
+e
+Free-to-play guides
+Skills
+Combat
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Gathering
+Mining
+Fishing
+Woodcutting
+Processing
+Crafting
+Smithing
+Cooking
+Firemaking
+Runecraft
+Achievements
+Quests
+Quests list
+Quest rewards
+Optimal quest guide
+Other
+Adventure Paths
+Collection log
+Combat Achievements
+Steam Achievements
+Account builds
+Account builds
+Ironman guide
+Combat pure guide
+Miscellaneous
+Free-to-play
+PvP
+Clues
+Bestiary
+Food
+Music
+Money making guide
+Transportation guide
+Closest points of interest
+Cosmetic items

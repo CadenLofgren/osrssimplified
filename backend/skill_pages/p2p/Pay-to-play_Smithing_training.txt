@@ -1,0 +1,274 @@
+This article gives tips about training Smithing .
+
+## Contents
+
+- 1 Fastest experience 1.1 Levels 1–39: Questing 1.2 Levels 1–40: Anvil smithing 1.3 Levels 40–99: Blast Furnace gold bars
+- 1.1 Levels 1–39: Questing
+- 1.2 Levels 1–40: Anvil smithing
+- 1.3 Levels 40–99: Blast Furnace gold bars
+- 2 Other methods 2.1 Levels 15–99: Giants' Foundry 2.2 Levels 15–99: Blast Furnace 2.3 Levels 20–99: Smithing dart tips 2.4 Levels 35–99: Smithing cannonballs 2.5 Levels 48–99: Smithing armour 2.6 Levels 95/98–99+: Smithing 3-bar rune items
+- 2.1 Levels 15–99: Giants' Foundry
+- 2.2 Levels 15–99: Blast Furnace
+- 2.3 Levels 20–99: Smithing dart tips
+- 2.4 Levels 35–99: Smithing cannonballs
+- 2.5 Levels 48–99: Smithing armour
+- 2.6 Levels 95/98–99+: Smithing 3-bar rune items
+- 3 Quests for Smithing experience
+- 1.1 Levels 1–39: Questing
+- 1.2 Levels 1–40: Anvil smithing
+- 1.3 Levels 40–99: Blast Furnace gold bars
+- 2.1 Levels 15–99: Giants' Foundry
+- 2.2 Levels 15–99: Blast Furnace
+- 2.3 Levels 20–99: Smithing dart tips
+- 2.4 Levels 35–99: Smithing cannonballs
+- 2.5 Levels 48–99: Smithing armour
+- 2.6 Levels 95/98–99+: Smithing 3-bar rune items
+
+## Fastest experience[edit|edit source]
+
+
+## Levels 1–39: Questing[edit|edit source]
+
+Early levels can be skipped by completing quests that give Smithing experience . Completing The Knight's Sword , Sleeping Giants , Elemental Workshop I and II , The Giant Dwarf , Heroes' Quest , and Freeing Pirate Pete subquest of Recipe for Disaster grants a total of 36,982 experience , which will get the player from level 1 to 39. Players would then only need to smith 2 iron platebodies to get level 40 Smithing, where they can start smelting gold bars in the Blast Furnace. Even without Heroes' Quest, this method yields 34,725 experience, requiring players to make only 20 iron platebodies to get to level 40. Notably, The Knight's Sword grants 12,725 experience and can be completed in less than 10 minutes.
+
+## Levels 1–40: Anvil smithing[edit|edit source]
+
+From level 1 to 40, smith various items at the anvil just south of the west Varrock bank. Make the highest-level item available for the fastest experience rates. Higher-levelled items require more than one bar to make, fewer actions will be required and this will result in more experience per hour. This will result in a loss, but the overall loss is relatively small as reaching level 40 would only take less than an hour.
+The items and materials needed to reach level 40 are shown in the table below. While there are some items which are potentially cheaper to make, these low-level items are uncommonly traded on the Grand Exchange and their prices fluctuate a lot. Players who wish to save money are advised to do quests that give Smithing experience to skip most of the early levels.
+Levels | XP needed | Item | Bars required (each) | XP each | XP/h | # for goal | Bars required (total) | Profit
+1–5 | 388 |  | Bronze dagger | 1 | 12.5 | 13,900 | 32 | 32 Bronze bar | −384
+5–9 | 581 |  | Bronze scimitar | 2 | 25 | 25,700 | 24 | 48 Bronze bar | −3,432
+9–18 | 2,554 |  | Bronze warhammer | 3 | 37.5 | 36,200 | 69 | 207 Bronze bar | −17,733
+18–24 | 3,505 |  | Bronze platebody | 5 | 62.5 | 52,100 | 57 | 285 Bronze bar | −25,422
+24–33 | 11,219 |  | Iron warhammer | 3 | 75 | 72,300 | 150 | 450 Iron bar | −85,650
+33–39 | 15,401 |  | Iron platebody | 5 | 125 | 104,200 | 124 | 620 Iron bar | −110,856
+39–40 | 3,756 |  | Steel warhammer | 3 | 112.5 | 108,500 | 34 | 102 Steel bar | −50,796
+1–40 | 37,224 |  | 572 Bronze bar , 1,070 Iron bar , and 102 Steel bar | −294,273
+and 102 Steel bar
+
+## Levels 40–99: Blast Furnace gold bars[edit|edit source]
+
+
+Smelting gold bars at the Blast Furnace becomes the fastest viable training method at level 40. This method costs money, and it can be fairly expensive depending on the Grand Exchange prices.
+For optimal rates, players will need goldsmith gauntlets for more experience per gold ore (increased from 22.5 to 56.2) and ice gloves to quickly cool the bar dispenser. The goldsmith gauntlets require completion of Family Crest , and the ice gloves level 50 Mining (boostable) and killing the Ice Queen . Use stamina potions to restore run energy. If available, also wear weight-reducing clothing and the ring of endurance with at least 500 charges to reduce run energy consumption.
+To gain access to Keldagrim , talk to the Dwarven Boatman inside the dungeon east of Rellekka to start The Giant Dwarf . Once the quest has been started, players can get to the Blast Furnace by using the Grouping teleport there or using the minecart from the Grand Exchange to Keldagrim. Use one of the official Blast Furnace worlds where dwarf NPCs will keep the furnace running for 72,000 coins per hour. Below level 60, the Blast Furnace Foreman will require a payment every 10 minutes to be able to use the furnace.
+To start off, deposit an inventory of gold ore into the ore belt while wearing goldsmith gauntlets; this is done to fill the bar dispenser and ensure that, with sufficient speed, you will never have to wait for the bar dispenser to be full. After that, this method goes as follows:
+- Withdraw an inventory of gold ore at the bank chest and deposit it into the conveyor belt.
+- AFTER the gold bars smelt and you gain experience (ensuring the goldsmith gauntlet experience rate), equip the ice gloves and quickly run to the bar dispenser to grab the bars.
+- Deposit the gold bars at the bank and withdraw more gold ore.  Re-equip goldsmith gauntlets.
+- Withdraw a stamina potion dose and drink it on the way to the conveyor belt to restore run energy when needed.
+The experience rates and costs are shown in the table below. The experience rates can vary depending on performance. The costs include the hourly Blast Furnace fee and the profit from selling the gold bars, and assume using 40 stamina potion doses per hour.
+Method | XP/h | GP/h | GP/XP | Ores needed (40–99) | Total profit (40–99)
+Goldsmith gauntlets | 380,000 | −319,651 | -0.84 | 231,267 | −10,933,070
+No goldsmith gauntlets | 164,000 | −333,361 | -2.03 | 577,654 | −26,419,289
+Smithing cape | 410,000 | −333,530 | -0.81 | N/A | N/A
+To speed up banking, you can either:
+- lock the inventory slots where your goldsmith gauntlets or ice gloves are.
+OR
+- clear the placeholders for goldsmith gauntlets and ice gloves, and fill the bank with bank fillers . This way, the player can quickly deposit the bars without depositing any necessary items.
+Additionally to both options, have gold ore and 1-dose stamina potions near the 'Deposit inventory' button.
+With fast and accurate clicks, players can minimise downtime with a technique called 0-tick banking. To do this, the player needs to deposit the bars, withdraw gold ore, and start running back to the conveyor belt on the same tick. The easiest way to start running back to the conveyor belt is to click through the chatbox on resizable client layout. Enable 'Transparent chatbox' and 'Click through transparent chatbox' in the settings. Consistent 0-tick banking will increase experience rates to 390,000 experience per hour, or 420,000 experience per hour when wearing the Smithing cape.
+Gold bars can be smelted faster at the Blast Furnace by using one or three runners. Instead of banking for the ores, have runners trade more gold ore in exchange for gold bars. Because this method is very expensive , it is only recommended for wealthy players who wish to gain experience as fast as possible and do not mind spending a lot of money. This method also requires good coordination and accurate clicks, as the player will need to quickly accept trades and smelt bars at the furnace.
+The experience rates and costs are shown in the table below. The profit rates assume paying 7 million coins per hour per runner and paying for the gold ore.
+Method | XP/h | GP/XP
+1 runner | 530,000 | -15.67
+3 runners | 680,000 | -33.32
+
+## Other methods[edit|edit source]
+
+For anvil smithing methods, the closest anvil to a bank is in the Trahaearn district of Prifddinas . Players who have not completed Song of the Elves should use the anvil just south of the west Varrock bank. The anvil just south of the Yanille bank is slightly farther than the one in Varrock.
+The experience rates for anvil smithing depends on the type of metal being smithed and number of bars being used per item. The following table shows the calculated experience per hour of each type of metal bar vs. how many bars are used per item, assuming an optimal 11-tick bank time, as possible at the south-eastern Prifddinas bank. The cost and level requirements can be checked by using the Smithing tables . Note that this does not factor in the Smiths' Uniform , with which experience rates increase from about 15% to 25% depending on what is being smithed.
+# of bars |  |  |  |  |  | 
+1 bar | 13,900 | 27,700 | 41,600 | 55,500 | 69,300 | 83,200
+2 bars | 25,700 | 51,300 | 77,000 | 102,600 | 128,300 | 153,900
+3 bars | 36,200 | 72,300 | 108,500 | 144,600 | 180,800 | 217,000
+5 bars | 52,100 | 104,200 | 156,200 | 208,300 | 260,400 | 312,500
+
+## Levels 15–99: Giants' Foundry[edit|edit source]
+
+
+Forging swords at the Giants' Foundry minigame is a lower-effort alternative to the faster methods. This method requires completion of Sleeping Giants . To forge a sword, get a commission from Kovac , set the moulds, fill the crucible with bars or metal items, and pour the molten metal to start refining the sword. Use the right tool at the right temperature to increase the sword's completion to 100%. Hand the finished sword to Kovac for Smithing experience, coins, and foundry reputation .
+Use a mix of two metals for the best experience rates. Mithril-adamantite swords are generally the best option for experience rates and cost. An 18/10 ratio to achieve 89 metal quality allows for higher experience per hour and less attention required at the cost of slightly more bars used. Adamantite-runite swords are only recommended for players who wish to obtain the unique rewards as quickly as possible, as they are usually much more expensive and only offer slightly faster experience than mithril-adamantite swords.
+Buy the improved moulds first (that you have the Smithing levels to use) and then the Smiths' Uniform . The improved moulds increase the sword quality substantially, which increases experience rates and effectively lowers the material costs. The optimal mould unlock order can be seen here . Wearing the full Smiths' Uniform will increase the experience rates by roughly 5%. Run energy is restored with each sword completed, so the Graceful outfit is not beneficial in this activity.
+The table below shows the average experience and gold rates for optimal alloys, with the average scoring of commissions, all optimal moulds, optimal player performance, and without the Smiths' Uniform . The performance and the commissions issued will vary, and so these rates may also slightly vary hour-to-hour, albeit within 10% of deviation. Similarly, changes in Grand Exchange market prices will also result in changes in expenses and thus profits.
+Unless stated otherwise, the alloys are in a 1:1 ratio. Due to optimal moulds requiring up to level 81 Smithing, this Smithing level is assumed for this table. Claws are not considered as smelting material due to their low trading volumes.
+Alloy | Level | Swords/hr | Material cost | XP/hr | Rep /hr | Reward GP/hr [ n 1 ] | Using bars | Using items
+Bars/hr [ n 2 ] | Items/hr [ n 3 ] | Profit/hr | GP/XP | Profit/hr | GP/XP
+ | Bronze / Iron [ n 4 ] | 15 | 16 | 71,904 | 1,776 | 97,920 | 1,264 | 195,840 | 123,936 | 1.27 | 194,064 | 1.98
+ | Iron / Steel | 30 | 16 | 165,312 | 16,800 | 133,920 | 1,568 | 267,840 | 102,528 | 0.77 | 251,040 | 1.87
+ | Steel / Mithril | 50 | 14 | 273,616 | 83,104 | 164,640 | 1,722 | 329,280 | 55,664 | 0.34 | 246,176 | 1.50
+ | Mithril / Adamantite | 70 | 12 | 451,416 | 254,520 | 198,000 | 1,836 | 396,000 | −55,416 | -0.28 | 141,480 | 0.71
+ | Adamantite / Runite | 85 | 11 | 2,181,718 | 1,657,040 | 253,110 | 2,068 | 506,220 | −1,675,498 | -6.62 | −1,150,820 | -4.55
+- ^ Coins received from Kovac as a reward for each sword completed.
+- ^ Based on price of using unsmithed bars.
+- ^ Based on best price per bar items of each metal, other than claws .
+- ^ Using a 9/19 alloy. 14/14 is nearly identical in quality.
+
+## Levels 15–99: Blast Furnace[edit|edit source]
+
+Smelting bars (other than gold or silver) at the Blast Furnace offers slow experience, but it usually provides decent profit. Having the ice gloves and coal bag is strongly recommended to significantly increase the number of bars created per hour. Players will also need weight-reducing clothing and stamina potions to always have run energy. Optimal bar patterns can be found on the Blast Furnace page. The capital required to run the furnace for a full hour may be considerable for some players.
+Experience and profit rates are listed in the table below. The numbers assume using one of the official worlds, having the coal bag, wearing ice gloves, and using 36 stamina potion doses per hour.
+Lvl | Money making guides | Bars/Hour [ t 1 ] | Cash Capital | XP/Hour | Profit/Hour | Profit after GE tax
+15 |  | Smelting iron bars | 6,000 | 958,665 | 75,000 | 193,335 | 175,335
+30 |  | Smelting steel bars | 5,400 | 1,897,065 | 94,500 | 1,051,335 | 997,335
+50 |  | Smelting mithril bars | 3,600 | 1,976,265 | 108,000 | 1,083,735 | 1,022,535
+70 |  | Smelting adamantite bars | 2,700 | 3,689,865 | 101,250 | 1,270,035 | 1,172,835
+85 |  | Smelting runite bars | 2,160 | 23,738,985 | 107,500 | 2,893,815 | 2,362,455
+- ^ Based on 200 trips per hour, except for iron.
+
+## Levels 20–99: Smithing dart tips[edit|edit source]
+
+Smithing dart tips offers very slow experience, but it requires very little attention. This method usually breaks even or makes a small profit due to their high demand for their use of training Fletching . The player must have completed The Tourist Trap quest to be able to smith dart tips. 10 dart tips are created per bar. A full inventory takes 81 seconds to process using Make-X.
+Experience and profit rates are listed in the table below. The numbers assume 13,000 dart tips are made per hour when wearing the Smiths' Uniform and 10,600 dart tips made per hour without set.
+level | Bar | Method | Uniform | No uniform | Profit/XP
+XP/h | Profit/h | XP/h | Profit/h
+4 |  | Bronze dart tips | 16,250 | 410,800 | 13,250 | 334,960 | 25.28
+19 |  | Iron dart tips | 32,500 | 426,400 | 26,500 | 347,680 | 13.12
+34 |  | Steel dart tips | 48,750 | 278,200 | 39,750 | 226,840 | 5.71
+54 |  | Mithril dart tips | 65,000 | 182,000 | 53,000 | 148,400 | 2.80
+74 |  | Adamant dart tips | 81,250 | 94,900 | 66,250 | 77,380 | 1.17
+89 |  | Rune dart tips | 97,500 | −3,224,000 | 79,500 | −2,628,800 | -33.07
+
+## Levels 35–99: Smithing cannonballs[edit|edit source]
+
+Smithing cannonballs offers even slower experience than dart tips, but requires even less attention, and usually makes a profit . 4 cannonballs are created per steel bar; a double ammo mould smelts two steel bars at once, doubling the experience rates. A full inventory takes 160 seconds to process using Make-X, or roughly half that with a double ammo mould.
+Experience and profit rates are listed in the table below. The numbers assume 2,400 cannonballs are made per hour, or twice that with a double ammo mould.
+Level | Mould | XP/Hour | Profit/Hour | Profit/XP
+35 |  | Ammo mould | 13,824 | 186,000 | 12.11
+35 |  | Double ammo mould | 27,648 | 372,000 | 12.11
+
+## Levels 48–99: Smithing armour[edit|edit source]
+
+Smithing armour at an anvil is only recommended for account builds that cannot get goldsmith gauntlets . Depending on the Grand Exchange prices, adamant platebodies can be a viable alternative to smelting gold bars at the Blast Furnace as they offer relatively fast experience rates. Smith the highest-tier platebody available, starting from steel platebodies at level 48, moving to mithril at level 68 and then to adamant at level 88. From level 66 to 68, players can smith mithril platelegs or plateskirts as a slightly slower but cheaper alternative to steel platebodies.
+Due to low buy limits, some High Level Alchemy focused clan chats (commonly found in Varrock west bank of world 308) may offer to buy in bulk for a better rate than the Grand Exchange price, benefiting both seller and buyer. This can lower the loss from making low-level armour, and potentially make Smithing a profitable activity doing adamant platebodies to level 99.
+Levels | Item | XP/Hour | Profit/Hour | Profit/XP | Profit (HA)/Hour | Profit (HA)/XP
+48–68 |  | Steel platebody | 144,000 | −1,666,133.33 | -10.67 | −1,360,397.87 | -8.71
+66–68 |  | Mithril platelegs | 140,000 | −1,362,132.00 | -9.42 | −1,053,652.00 | -7.29
+66–68 |  | Mithril plateskirt | 140,000 | −1,361,168.00 | -9.41 | −1,053,652.00 | -7.29
+68–88 |  | Mithril platebody | 200,000 | −1,442,269.20 | -6.92 | −1,027,335.60 | -4.93
+88–99 |  | Adamant platebody | 240,000 300,000 [ n 1 ] | 29,164.80 34,720.00 | 0.11 | 579,962.88 690,432.00 | 2.23
+- ^ Experience per hour only obtainable wearing the Smiths' Uniform at the anvil in Prifddinas . When maintaining max efficiency: 1 tick banking, using a bar on the anvil and clicking the banker instead of the booth >310,000/h is obtainable.
+
+## Levels 95/98–99+: Smithing 3-bar rune items[edit|edit source]
+
+Smithing rune platelegs , plateskirts , or 2h swords at an anvil offers decent experience, and it is also profitable. Players will need to have level 99 to be able to make these items, but Kovac's grog (starting from level 95) or Dwarven stout (starting from level 98) can be used to boost for that level. Each of these smithed items yields the same amount of experience, so players should make whatever offers the best profit. Players may also cast High Level Alchemy to increase profits, however this is only recommended if you have a lot of disposable gold.
+Assuming 60 grogs used at level 95, 900 items smithed per hour and alching the items, this would yield −1,976,460 per hour with an expected GP/XP of -9.76 ;- When using preserve this would decrease to 40 grogs or −925,540 per hour with an expected GP/XP of -4.57 ( 0.62 and 2.35 GP/XP at level 96 and 97 respectively), while normal dwarven stouts at 98 would yield 1,168,140 for a GP/XP of 5.77 .
+Item | XP/Hour | Profit/Hour | Profit/XP | Profit (HA)/Hour | Profit (HA)/XP
+ | Platelegs | 210,000 | −118,449 | -0.55 | 1,259,948.00 | 5.81
+ | Plateskirt | 210,000 | 63,558 | 0.29 | 1,259,948.00 | 5.81
+ | 2h sword | 210,000 | 124,227 | 0.57 | 1,259,948.00 | 5.81
+
+## Quests for Smithing experience[edit|edit source]
+
+Quest | Experience reward | Smithing requirement | Other requirements
+The Forsaken Tower | 500 | - | -
+Recipe for Disaster ( Pirate Pete subquest ) | 1,000 | - | 31
+Heroes' Quest | 2,257 | - | 55 , 53 , 53 , 25 , 50
+The Giant Dwarf | 2,500 | - | 14 , 12 , 16 , 33
+Between a Rock... | 5,000 | 50 | 30 , 40
+Elemental Workshop I | 5,000 | 20 | 20 , 20
+Sleeping Giants | 6,000 | 15 | -
+Devious Minds | 6,500 | 65 | 50 , 50
+Cabin Fever | 7,000 | 50 | 42 , 45 , 40
+Elemental Workshop II | 7,500 | 30 | 20
+The Knight's Sword | 12,725 | - | 10
+Defender of Varrock | 15,000 | 55 | 52
+Song of the Elves | 40,000 | 70 | 70 , 70 , 70 , 70 , 70 , 70 , 70
+Dragon Slayer II | 80,000 | 70 | 200 , 75 , 68 , 62 , 60 , 60 , 50 , 50
+Total | 190,982 |  | 
+v t e Skill training guides
+Free-to-play guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft
+Members' guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ironman guides | Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ultimate Ironman guides | Item management Equipment Quests Minigames Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+General guidelines | Efficiency
+- v
+- t
+- e
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Item management
+- Equipment
+- Quests
+- Minigames
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Efficiency

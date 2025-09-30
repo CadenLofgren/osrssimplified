@@ -1,0 +1,3713 @@
+--- Skill: Strength (F2P) ---
+
+Free-to-play melee training
+Melee training
+This article is about the free-to-play guide. For the members' guide, see
+Pay-to-play melee training
+.
+This article provides information about effective ways to train
+Attack
+,
+Strength
+,
+Defence
+, and
+Hitpoints
+through
+melee
+combat
+in free-to-play.
+This guide is organised into sections based on skill levels. For example, if the section header is Levels 20 to 30, you should begin training at the area with an Attack and Strength level of at least 20. Defence is also preferred to be at that level, but is not always required. The solution to lower Defence is to bring more food, or use food that heals more.
+Contents
+1
+Equipment choice
+2
+Maximum hit
+2.1
+Strength levels 1 to 99
+2.1.1
+Rune scimitar
+2.1.2
+Barronite mace
+2.1.3
+Rune sword
+3
+Suggested training methods for best experience
+3.1
+Levels 1 to 20
+3.2
+Levels 20 to 40
+3.3
+Levels 40 to 60
+3.4
+Levels 60 to 99
+4
+Suggested training methods for both experience and profit hybrid
+4.1
+Levels 1 to 10
+4.2
+Levels 10 to 20
+4.3
+Levels 20 to 30
+4.4
+Levels 30 to 50+
+4.5
+Levels 40 to 60+
+4.6
+Levels 50 to 70+
+4.7
+Levels 80 to 99
+5
+Alternative training methods for good experience
+5.1
+Greater demons at the Demonic Ruins
+5.2
+Alternative accounts in Clan Wars
+5.3
+Alternative accounts in Castle Wars
+Equipment choice
+Players should always use the best
+scimitar
+they can equip as scimitars offer the highest damage per second of any other type of free-to-play melee weapon due to their high speed and high strength bonus. Use the
+amulet of strength
+if it gives a higher max hit for your
+Strength
+level, otherwise use the
+amulet of power
+for more accuracy, defence, and especially if it provides the same maximum damage as the amulet of strength at certain Strength levels with certain attack styles. Use full
+melee armour
+sets against monsters that use
+melee
+, and
+ranged armour
+against monsters that use
+magic
+. A
+chainbody
+is more useful than a
+platebody
+against monsters that use crush.
+As for boots, you may start off with
+fancy boots
+or
+fighting boots
+(both have same stats as members'
+bronze boots
+) that are awarded in the
+Stronghold of Security
+, or
+leather boots
+if you don't want to reclaim the stronghold boots when you die. The best-in-slot boots for melee combat is
+decorative boots (gold)
+for its melee defence and its +1 Strength bonus (same stats as members'
+adamant boots
+). However, the time it takes to obtain gold decorative boots (400
+castle wars tickets
+) is not worth the time spent to train melee skills to 99 but if you quickly want more defence bonus over fancy or fighting boots to tank more hits,
+decorative boots (red)
+(same stats as members'
+steel boots
+) is a decent defence upgrade with +4 more defence bonus than fancy/fighting boots that can easily be obtained within a few
+Castle Wars
+matches (4 castle wars tickets) and with a bit more time put into Castle Wars,
+decorative boots (white)
+(same stats as members'
+mithril boots
+, 40 castle wars tickets) is a good defence upgrade with +3 more defence bonuses than red boots if you don't wish to spend a lot of time going for decorative boots (gold) for the gold boots' +1 Strength Bonus.
+As for capes, all coloured
+capes
+,
+team capes
+, and the
+cabbage cape
+share the same defence bonus and are best-in-slot for free-to-play players. For gloves,
+gilded d'hide vambraces
+are best-in-slot but require 40
+Ranged
+to equip and may be prohibitively expensive for some players. A cheaper alternative is
+green d'hide vambraces
+, otherwise the next best choice is
+leather vambraces
+or
+leather
+/
+coloured gloves
+depending on enemy attack style until 40 Ranged is achieved.
+Recommended equipment for
+Melee
+gear
+Slot
+Item (most effective → least effective)
+Rune god full helm
+(+1
+Prayer bonus
+)
+/
+Rune full helm
+(40
+Defence
+)
+Decorative full helm (gold)
+[
+d 1
+]
+/
+Adamant full helm
+(30
+Defence
+)
+Mithril full helm
+(20
+Defence
+)
+Black full helm
+(10
+Defence
+)
+Steel full helm
+(5
+Defence
+)
+Amulet of strength
+or
+Amulet of power
+depending on
+Strength
+, weapon, and
+attack style
+.
+Amulet of accuracy
+Amulet of defence
+Holy symbol
+[
+d 2
+]
+N/A
+Any cape with stats (
+Black cape
+,
+Cabbage cape
+,
+Team-1 cape
+, etc.)
+N/A
+N/A
+N/A
+N/A
+Crush defence
+Rune chainbody
+(40
+Defence
+)
+Stab or slash defence
+Rune god platebody
+(+1
+Prayer bonus
+)
+/
+Rune platebody
+(40
+Defence
+,
+Dragon Slayer I
+)
+Crush defence
+Adamant chainbody
+(30
+Defence
+)
+Stab or slash defence
+Decorative armour (gold platebody)
+[
+d 1
+]
+/
+Adamant platebody
+(30
+Defence
+)
+Crush defence
+Mithril chainbody
+(20
+Defence
+)
+Stab or slash defence
+Mithril platebody
+(20
+Defence
+)
+Crush defence
+Black chainbody
+(10
+Defence
+)
+Stab or slash defence
+Black platebody
+(10
+Defence
+)
+Crush defence
+Steel chainbody
+(5
+Defence
+)
+Stab or slash defence
+Steel platebody
+(5
+Defence
+)
+Rune god plateskirt
+(+1
+Prayer bonus
+)
+/
+Rune plateskirt
+(40
+Defence
+)
+Decorative armour (gold platelegs)
+[
+d 1
+]
+/
+Adamant plateskirt
+(30
+Defence
+)
+Mithril plateskirt
+(20
+Defence
+)
+Black plateskirt
+(10
+Defence
+)
+Studded chaps
+(20
+Ranged
+)
+Rune scimitar
+(40
+Attack
+)
+Barronite mace
+[
+d 3
+]
+(40
+Attack
+)
+Adamant scimitar
+(30
+Attack
+)
+Mithril scimitar
+(20
+Attack
+)
+Black scimitar
+(10
+Attack
+)
+Rune god kiteshield
+(+1
+Prayer bonus
+)
+/
+Rune kiteshield
+(40
+Defence
+)
+Decorative shield (gold)
+[
+d 1
+]
+/
+Adamant kiteshield
+(30
+Defence
+)
+Mithril kiteshield
+(20
+Defence
+)
+Black kiteshield
+(10
+Defence
+)
+Steel kiteshield
+(5
+Defence
+)
+Gilded d'hide vambraces
+(40
+Ranged
+)
+Stab defence
+Leather vambraces
+Crush or magic defence
+Green d'hide vambraces
+(40
+Ranged
+)
+Leather gloves
+[
+d 4
+]
+N/A
+N/A
+Decorative boots (gold)
+[
+d 5
+]
+(30
+Defence
+)
+Decorative boots (white)
+(20
+Defence
+)
+Decorative boots (red)
+(5
+Defence
+)
+Fancy boots
+/
+Fighting boots
+Leather boots
+^
+1.0
+1.1
+1.2
+1.3
+Gold decorative armour
+pieces (besides the legs) are more effective to run in than their adamant counterparts as they weigh less.
+Decorative armour (gold platelegs)
+weighs the same as an
+adamant plateskirt
+but weighs less than
+adamant platelegs
+.
+^
+Holy symbol
+provide no offensive bonuses but it provides a +8
+Prayer bonus
+that is useful for using
+prayers
+for a longer period of time.
+^
+The barronite mace is the best weapon to use against
+runecrafting
+golems
+in the
+Ruins of Camdozaal
+, even better than the rune scimitar, due to its golembane effect. Otherwise this is the second best weapon against anything else.
+^
+Leather gloves have greater crush defence than leather vambraces, equal to that of green d'hide vambraces.
+^
+Decorative boots (gold)
+provide a +1 Strength bonus, equivalent to the
+adamant boots
+. It is the only piece of melee armour in free-to-play that provide a
+Strength bonus
+. No other pieces of free-to-play melee armour provide Strength or attack bonuses.
+Maximum hit
+See also:
+Maximum melee hit
+Rune scimitars
+offer the best damage per second (DPS) in free-to-play and is recommended to use for melee training from Level 40
+Attack
+and all melee skill onwards so it is recommended to achieve Level 40 Attack as soon as possible. Training Attack slightly increases the attack accuracy of your hits. However, training Strength is important for increasing maximum damage which also increases damage per second.
+To further increase damage per second, there are three free-to-play
+neck slot
+items that can provide attack and/or strength bonuses including
+amulet of accuracy
+,
+amulet of power
+, and
+amulet of strength
+. If the player cannot afford an amulet of power or if an
+ironman
+cannot acquire an amulet of strength (
+50
+to craft a
+ruby amulet
+and
+49
+for
+Lvl-3 Enchant
+) or an amulet of power (
+70
+to craft a
+diamond amulet
+and
+57
+for
+Lvl-4 Enchant
+), the amulet of accuracy from
+Imp Catcher
+is a weaker alternative to the amulet of power (without a strength bonus) until the player can acquire one of the other two amulets.
+The skill to train first depends on the player's preference and a preferential example could be to keep melee skills (and Defence) within five or ten levels of each other while prioritising one combat skill over the others. If the player wants to deal the most damage first, the player would prioritise training Strength until they achieve a new maximum hit for a different attack style to train the next combat skill with the amulet of power.
+Strength levels 1 to 99
+The following tables below will determine the maximum of damage certain weapons can inflict on enemies at certain attack styles with the following amulets at certain Strength levels so that you can determine which enchanted amulet you should use at certain Strength levels. The
+aggressive attack style
+adds an invisible +3 Strength level boost, the amulet of power adds a +6 Melee Strength bonus, and the amulet of strength adds a +10 Melee Strength bonus. Amulet of accuracy is not included in the table since it does not provide a strength bonus, and even though
+gold decorative boots
+from
+Castle Wars
+provide a Melee Strength bonus of +1 with higher defence bonuses than
+fighting boots
+/
+fancy boots
+, the amount of time it takes to acquire the boots (over 40 hours if winning Castle Wars every time to 400
+castle wars tickets
+) is not worth the time to train Attack, Strength, and Defence to 99 and so the tables will not account for gold decorative boots' bonus.
+Strength levels higher than 99 are strength
+boosts
+from the use of
+beer
+or
+strength potion
+. At level 99 Strength, a strength potion will temporarily boost strength up to 111.
+Rune scimitar
+Neck slot item and attack style
+Level
+Amulet of power
+Amulet of strength
+Aggressive
+Non-aggressive
+Aggressive
+Non-aggressive
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+2
+2
+3
+2
+4
+3
+2
+3
+2
+5
+3
+2
+3
+2
+6
+3
+2
+3
+3
+7
+3
+3
+3
+3
+8
+3
+3
+4
+3
+9
+4
+3
+4
+3
+10
+4
+3
+4
+3
+11
+4
+3
+4
+4
+12
+4
+4
+4
+4
+13
+4
+4
+4
+4
+14
+4
+4
+5
+4
+15
+5
+4
+5
+4
+16
+5
+4
+5
+4
+17
+5
+4
+5
+5
+18
+5
+5
+5
+5
+19
+5
+5
+6
+5
+20
+6
+5
+6
+5
+21
+6
+5
+6
+5
+22
+6
+5
+6
+6
+23
+6
+6
+6
+6
+24
+6
+6
+6
+6
+25
+6
+6
+7
+6
+26
+7
+6
+7
+6
+27
+7
+6
+7
+6
+28
+7
+6
+7
+7
+29
+7
+7
+7
+7
+30
+7
+7
+8
+7
+31
+7
+7
+8
+7
+32
+8
+7
+8
+7
+33
+8
+7
+8
+8
+34
+8
+7
+8
+8
+35
+8
+8
+8
+8
+36
+8
+8
+9
+8
+37
+9
+8
+9
+8
+38
+9
+8
+9
+8
+39
+9
+8
+9
+9
+40
+9
+9
+9
+9
+41
+9
+9
+10
+9
+42
+9
+9
+10
+9
+43
+10
+9
+10
+9
+44
+10
+9
+10
+10
+45
+10
+9
+10
+10
+46
+10
+10
+11
+10
+47
+10
+10
+11
+10
+48
+11
+10
+11
+10
+49
+11
+10
+11
+11
+50
+11
+10
+11
+11
+51
+11
+11
+11
+11
+52
+11
+11
+12
+11
+53
+11
+11
+12
+11
+54
+12
+11
+12
+11
+55
+12
+11
+12
+12
+56
+12
+11
+12
+12
+57
+12
+12
+13
+12
+58
+12
+12
+13
+12
+59
+12
+12
+13
+12
+60
+13
+12
+13
+13
+61
+13
+12
+13
+13
+62
+13
+12
+13
+13
+63
+13
+13
+14
+13
+64
+13
+13
+14
+13
+65
+14
+13
+14
+13
+66
+14
+13
+14
+14
+67
+14
+13
+14
+14
+68
+14
+14
+15
+14
+69
+14
+14
+15
+14
+70
+14
+14
+15
+14
+71
+15
+14
+15
+15
+72
+15
+14
+15
+15
+73
+15
+14
+15
+15
+74
+15
+15
+16
+15
+75
+15
+15
+16
+15
+76
+15
+15
+16
+15
+77
+16
+15
+16
+16
+78
+16
+15
+16
+16
+79
+16
+15
+17
+16
+80
+16
+16
+17
+16
+81
+16
+16
+17
+16
+82
+17
+16
+17
+17
+83
+17
+16
+17
+17
+84
+17
+16
+18
+17
+85
+17
+17
+18
+17
+86
+17
+17
+18
+17
+87
+17
+17
+18
+18
+88
+18
+17
+18
+18
+89
+18
+17
+18
+18
+90
+18
+17
+19
+18
+91
+18
+18
+19
+18
+92
+18
+18
+19
+18
+93
+19
+18
+19
+19
+94
+19
+18
+19
+19
+95
+19
+18
+20
+19
+96
+19
+19
+20
+19
+97
+19
+19
+20
+19
+98
+19
+19
+20
+20
+99
+20
+19
+20
+20
+100
+20
+19
+20
+20
+101
+20
+19
+21
+20
+102
+20
+20
+21
+20
+103
+20
+20
+21
+20
+104
+20
+20
+21
+21
+105
+21
+20
+21
+21
+106
+21
+20
+22
+21
+107
+21
+20
+22
+21
+108
+21
+21
+22
+21
+109
+21
+21
+22
+22
+110
+22
+21
+22
+22
+111
+22
+21
+22
+22
+Barronite mace
+Free-to-play
+ironmen
+can only acquire a rune scimitar through
+smithing
+at level 90 Smithing (or level 89 Smithing with a
+dwarven stout
+). Until then, the second best option for free-to-play ironmen to effectively train melee combat is
+barronite mace
+, which can be obtained by exchanging a
+barronite guard
+,
+barronite handle
+,
+barronite head
+, and 1,500
+barronite shards
+to
+Ramarno
+in the
+Ruins of Camdozaal
+after the completion of
+Below Ice Mountain
+.
+Neck slot item and attack style
+Level
+Amulet of power
+Amulet of strength
+Aggressive
+Non-aggressive
+Aggressive
+Non-aggressive
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+2
+2
+2
+2
+4
+3
+2
+3
+2
+5
+3
+2
+3
+2
+6
+3
+2
+3
+2
+7
+3
+3
+3
+3
+8
+3
+3
+3
+3
+9
+3
+3
+4
+3
+10
+4
+3
+4
+3
+11
+4
+3
+4
+3
+12
+4
+3
+4
+4
+13
+4
+4
+4
+4
+14
+4
+4
+4
+4
+15
+4
+4
+5
+4
+16
+5
+4
+5
+4
+17
+5
+4
+5
+4
+18
+5
+4
+5
+5
+19
+5
+5
+5
+5
+20
+5
+5
+6
+5
+21
+6
+5
+6
+5
+22
+6
+5
+6
+5
+23
+6
+5
+6
+6
+24
+6
+6
+6
+6
+25
+6
+6
+6
+6
+26
+6
+6
+7
+6
+27
+7
+6
+7
+6
+28
+7
+6
+7
+6
+29
+7
+6
+7
+7
+30
+7
+7
+7
+7
+31
+7
+7
+7
+7
+32
+7
+7
+8
+7
+33
+8
+7
+8
+7
+34
+8
+7
+8
+7
+35
+8
+7
+8
+8
+36
+8
+8
+8
+8
+37
+8
+8
+9
+8
+38
+8
+8
+9
+8
+39
+9
+8
+9
+8
+40
+9
+8
+9
+9
+41
+9
+8
+9
+9
+42
+9
+9
+9
+9
+43
+9
+9
+10
+9
+44
+9
+9
+10
+9
+45
+10
+9
+10
+9
+46
+10
+9
+10
+10
+47
+10
+9
+10
+10
+48
+10
+10
+11
+10
+49
+10
+10
+11
+10
+50
+10
+10
+11
+10
+51
+11
+10
+11
+11
+52
+11
+10
+11
+11
+53
+11
+10
+11
+11
+54
+11
+11
+12
+11
+55
+11
+11
+12
+11
+56
+12
+11
+12
+11
+57
+12
+11
+12
+12
+58
+12
+11
+12
+12
+59
+12
+12
+12
+12
+60
+12
+12
+13
+12
+61
+12
+12
+13
+12
+62
+13
+12
+13
+12
+63
+13
+12
+13
+13
+64
+13
+12
+13
+13
+65
+13
+13
+14
+13
+66
+13
+13
+14
+13
+67
+13
+13
+14
+13
+68
+14
+13
+14
+14
+69
+14
+13
+14
+14
+70
+14
+13
+14
+14
+71
+14
+14
+15
+14
+72
+14
+14
+15
+14
+73
+14
+14
+15
+14
+74
+15
+14
+15
+15
+75
+15
+14
+15
+15
+76
+15
+14
+15
+15
+77
+15
+15
+16
+15
+78
+15
+15
+16
+15
+79
+15
+15
+16
+15
+80
+16
+15
+16
+16
+81
+16
+15
+16
+16
+82
+16
+15
+17
+16
+83
+16
+16
+17
+16
+84
+16
+16
+17
+16
+85
+17
+16
+17
+17
+86
+17
+16
+17
+17
+87
+17
+16
+17
+17
+88
+17
+17
+18
+17
+89
+17
+17
+18
+17
+90
+17
+17
+18
+17
+91
+18
+17
+18
+18
+92
+18
+17
+18
+18
+93
+18
+17
+19
+18
+94
+18
+18
+19
+18
+95
+18
+18
+19
+18
+96
+18
+18
+19
+19
+97
+19
+18
+19
+19
+98
+19
+18
+19
+19
+99
+19
+18
+20
+19
+100
+19
+19
+20
+19
+101
+19
+19
+20
+19
+102
+19
+19
+20
+20
+103
+20
+19
+20
+20
+104
+20
+19
+20
+20
+105
+20
+19
+21
+20
+106
+20
+20
+21
+20
+107
+20
+20
+21
+20
+108
+20
+20
+21
+21
+109
+21
+20
+21
+21
+110
+21
+20
+22
+21
+111
+21
+20
+22
+21
+Rune sword
+The third best option would be the
+rune sword
+, or alternatively the
+rune mace
+at certain Strength levels depending on which amulet you use, both of which can be bought from the
+Champions' Guild
+. While
+rune longswords
+are stronger and more accurate than rune swords and rune maces, it is slower, resulting in a lower damage per second. Rune swords provide the third best melee damage per second in free-to-play and are good for
+ironmen
+to train with until a barronite mace or rune scimitar is obtained.
+The maximum hit table below is for the rune sword.
+Neck slot item and attack style
+Level
+Amulet of power
+Amulet of strength
+Aggressive
+Non-aggressive
+Aggressive
+Non-aggressive
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+2
+2
+2
+2
+4
+3
+2
+3
+2
+5
+3
+2
+3
+2
+6
+3
+2
+3
+2
+7
+3
+3
+3
+3
+8
+3
+3
+3
+3
+9
+3
+3
+4
+3
+10
+4
+3
+4
+3
+11
+4
+3
+4
+3
+12
+4
+3
+4
+4
+13
+4
+4
+4
+4
+14
+4
+4
+4
+4
+15
+4
+4
+5
+4
+16
+5
+4
+5
+4
+17
+5
+4
+5
+4
+18
+5
+4
+5
+5
+19
+5
+5
+5
+5
+20
+5
+5
+5
+5
+21
+5
+5
+6
+5
+22
+6
+5
+6
+5
+23
+6
+5
+6
+5
+24
+6
+5
+6
+6
+25
+6
+6
+6
+6
+26
+6
+6
+7
+6
+27
+6
+6
+7
+6
+28
+7
+6
+7
+6
+29
+7
+6
+7
+7
+30
+7
+6
+7
+7
+31
+7
+7
+7
+7
+32
+7
+7
+8
+7
+33
+7
+7
+8
+7
+34
+8
+7
+8
+7
+35
+8
+7
+8
+8
+36
+8
+7
+8
+8
+37
+8
+8
+8
+8
+38
+8
+8
+9
+8
+39
+9
+8
+9
+8
+40
+9
+8
+9
+8
+41
+9
+8
+9
+9
+42
+9
+9
+9
+9
+43
+9
+9
+10
+9
+44
+9
+9
+10
+9
+45
+10
+9
+10
+9
+46
+10
+9
+10
+10
+47
+10
+9
+10
+10
+48
+10
+10
+10
+10
+49
+10
+10
+11
+10
+50
+10
+10
+11
+10
+51
+11
+10
+11
+10
+52
+11
+10
+11
+11
+53
+11
+10
+11
+11
+54
+11
+11
+11
+11
+55
+11
+11
+12
+11
+56
+11
+11
+12
+11
+57
+12
+11
+12
+11
+58
+12
+11
+12
+12
+59
+12
+11
+12
+12
+60
+12
+12
+13
+12
+61
+12
+12
+13
+12
+62
+12
+12
+13
+12
+63
+13
+12
+13
+13
+64
+13
+12
+13
+13
+65
+13
+12
+13
+13
+66
+13
+13
+14
+13
+67
+13
+13
+14
+13
+68
+13
+13
+14
+13
+69
+14
+13
+14
+14
+70
+14
+13
+14
+14
+71
+14
+13
+14
+14
+72
+14
+14
+15
+14
+73
+14
+14
+15
+14
+74
+14
+14
+15
+14
+75
+15
+14
+15
+15
+76
+15
+14
+15
+15
+77
+15
+14
+16
+15
+78
+15
+15
+16
+15
+79
+15
+15
+16
+15
+80
+15
+15
+16
+16
+81
+16
+15
+16
+16
+82
+16
+15
+16
+16
+83
+16
+15
+17
+16
+84
+16
+16
+17
+16
+85
+16
+16
+17
+16
+86
+17
+16
+17
+17
+87
+17
+16
+17
+17
+88
+17
+16
+17
+17
+89
+17
+17
+18
+17
+90
+17
+17
+18
+17
+91
+17
+17
+18
+17
+92
+18
+17
+18
+18
+93
+18
+17
+18
+18
+94
+18
+17
+19
+18
+95
+18
+18
+19
+18
+96
+18
+18
+19
+18
+97
+18
+18
+19
+19
+98
+19
+18
+19
+19
+99
+19
+18
+19
+19
+100
+19
+18
+20
+19
+101
+19
+19
+20
+19
+102
+19
+19
+20
+19
+103
+19
+19
+20
+20
+104
+20
+19
+20
+20
+105
+20
+19
+20
+20
+106
+20
+19
+21
+20
+107
+20
+20
+21
+20
+108
+20
+20
+21
+20
+109
+20
+20
+21
+21
+110
+21
+20
+21
+21
+111
+21
+20
+22
+21
+Suggested training methods for best experience
+Levels 1 to 20
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Chicken
+North-east of
+Lumbridge
+just east of
+River Lum
+, south of
+River Lum
+in
+Farmer Fred
+'s chicken coop
+1
+3
+None
+Advantages
+Disadvantages
+No food required.
+Feathers
+are dropped in groups of 5-15 and are stackable, and can be sold for some profit.
+Bones will drop frequently, allowing the player to train their
+Prayer
+as well.
+Only 3 HP (12xp) per kill. Once you start hitting 4's with your
+Strength
+and weapon, chickens are no longer a good melee training monster but they are still good for training Prayer and collecting feathers.
+Non-aggressive.
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Monk
+Edgeville Monastery
+5
+15
+None
+Advantages
+Disadvantages
+No food required as you can ask monks to heal you for free.
+Good training for 1 Defence pures.
+15 HP (60xp) per kill plus more experience per kill if they heal themselves for 2 HP. Players can continue killing monks towards Level 20 melee skills.
+No drops other than
+bones
+Non-aggressive.
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Seagull
+Port Sarim
+ports,
+Corsair Cove
+2, 3
+6, 10
+None
+The start of
+The Corsair Curse
+to train on seagulls at the Corsair Cove.
+Advantages
+Disadvantages
+10 HP (40xp) per kill from the level 3 seagulls.
+Seagulls cannot hit you, making it viable for no-damage accounts.
+No drops other than
+bones
+.
+A long death animation before dropping bones.
+Non-aggressive.
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Giant rat
+Lumbridge Swamp
+,
+Edgeville Dungeon
+,
+Varrock Sewers
+3, 6
+5, 10
+None
+Your best weapon and armour. Food may be required but they drop
+raw rat meat
+.
+Small fishing net
+,
+tinderbox
+, and an
+axe
+may be optional to fish
+shrimps
+south-east of Lumbridge Swamp.
+Advantages
+Disadvantages
+They always drop
+raw rat meat
+, which can be cooked for
+Cooking
+XP and
+heal
+for 3 hitpoints.
+No valuable drops.
+Lumbridge Swamp may be crowded and giant rats are slightly distanced from each other.
+They have a tendency to hit 1's on players with little defence and no armour.
+Non-aggressive.
+Levels 20 to 40
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Giant frogs
+Lumbridge Swamp
+13
+23
+None
+Bring your best armour (
+chainbody
+recommended) and weapons. If food is needed, bring an
+axe
+and a
+tinderbox
+to kill nearby
+giant rats
+and cut down
+dead trees
+to cook their meat.
+Advantages
+Disadvantages
+High HP (23 HP for 92 melee experience per kill), low defence, and they deal little damage.
+Always drops
+big bones
+which can be sold for guaranteed profit (
+282
+) or used for
+Prayer
+experience while training.
+They rarely drop
+beginner clue scrolls
+.
+For lower level players, food isn't required if an
+axe
+and
+tinderbox
+is brought (kill nearby
+giant rats
+for
+raw rat meat
+and make a fire using a nearby
+dead tree
+)
+Sometimes crowded.
+No valuable drops other than a
+beginner clue scroll
+to solve.
+Levels 40 to 60
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Flesh Crawlers
+Catacomb of Famine (level 2) of
+Stronghold of Security
+28, 35, 41
+25
+Travelling through Vault of War (level 1) once. Decent combat.
+Bring your best armour and weapons, and food.
+Advantages
+Disadvantages
+They only deal 1 HP of damage but higher level Flesh Crawlers can hit quite accurately.
+Always aggressive towards players of all levels, making this a great afk training method at any level.
+They have access to the
+gem drop table
+and rarely drop
+uncut gems
+.
+No
+bone
+drops.
+Higher level Flesh Crawlers will quickly damage players, even if it is just 1 HP per hit as they have a very fast attack speed of 1.8 seconds per attack.
+Not as profitable in free-to-play as other monsters around these levels. They are only profitable in member worlds.
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Zombie (Stronghold of Security)
+Catacomb of Famine (level 2) of
+Stronghold of Security
+30, 44, 53
+30, 40, 50
+Travelling through Vault of War (level 1) once. Decent combat.
+Bring your best armour (
+chainbody
+recommended) and weapons. 40+
+Defence
+is recommended.
+Advantages
+Disadvantages
+The zombies in the Stronghold of Security are a decent alternative to Flesh Crawlers.
+They are aggressive towards players up to twice their combat level + 1.
+They have access to the
+gem drop table
+and very rarely drop
+uncut gems
+.
+By Combat Level 107, zombies in the Stronghold of Security are no longer aggressive.
+Not as profitable in free-to-play as other monsters around these levels. They are only profitable in member worlds.
+Levels 60 to 99
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Giant spider
+Pit of Pestilence (level 3) of
+Stronghold of Security
+50
+50
+Travelling through Vault of War (level 1) and Catacomb of Famine (level 2) once. High-level combat.
+If fishing for food by the riverbank of
+Barbarian Village
+, bring a
+fly fishing rod
+and
+feather
+. Prioritise
+salmon
+over
+trout
+.
+If retrieving food from the Edgeville bank for longer trips, bring 1 or 2
+strength potions
+and the rest should be
+anchovy pizzas
+or
+swordfish
+.
+Advantages
+Disadvantages
+Always aggressive towards players of all levels, making this a great afk training method at any level to 99 and beyond.
+After aggression ends in 10 minutes, if the player is training among the giant spiders just north of the ladder upon entering the first room of giant spiders from the ladder, players can re-aggro them by running to the end of the corners of the room of giant spiders: Top-left corner of the room after the first 10 minutes, then top-right corner of the room after the next 10 minutes, then bottom-right corner of the room after the next 10 minutes, repeat. If this doesn't seem to work (as in if aggressive areas covers the entire room, usually due to
+random events
+teleporting the player), climbing up the ladder and climbing back down will reset aggression too.
+Giant spiders can sometimes hit up to a maximum of 7 points of damage.
+No drops other than
+beginner clue scrolls
+.
+Unattended players could still possibly die before aggression ends. This happens less often at higher Defence but it's still possible.
+Hardcore ironmen, pay attention to your character at all times!
+Suggested training methods for both experience and profit hybrid
+For cheap food try the
+Jug of Wine
+.
+Levels 1 to 10
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Chicken
+North-east of
+Lumbridge
+just east of
+River Lum
+, south of
+River Lum
+in
+Farmer Fred
+'s chicken coop
+1
+3
+None
+Advantages
+Disadvantages
+No food required.
+Feathers
+are dropped in groups of 5-15 and are stackable, and can be sold for some profit or be used for
+fly fishing
+.
+Bones will drop frequently, allowing the player to train their
+Prayer
+as well.
+Only 3 HP (12xp) per kill. Once you start hitting 4's with your
+Strength
+and weapon, chickens are no longer a good melee training monster but they are still good for training Prayer and collecting feathers.
+Non-aggressive.
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Goblin
+East of
+Lumbridge Castle
+past the
+River Lum
+2
+5
+None
+Your best weapon and armour. Food if you try this from level 3.
+Advantages
+Disadvantages
+They are fairly weak at level 2, and therefore can be easily slain for 20-24 experience points.
+They can commonly drop
+water runes
+, as well as
+body runes
+and
+earth runes
+for magic training later.
+While uncommon, they drop
+beginner clue scrolls
+more often than men, women, and cows.
+If
+Goblin Diplomacy
+has yet to be completed, the player could hold onto 3 goblin mails from killing goblins for that quest but goblin mails could also be found inside crates at
+Goblin Village
+.
+Lumbridge is a common place for new players to train their combat skills and the area may be crowded.
+While goblins do drop an assortment of items including coins, they only provide little profit.
+They have a tendency to hit 1's on players with little defence and no armour.
+Non-aggressive.
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Men
+and
+Women
+Varies, including
+Lumbridge
+2
+7
+None
+Your best weapon and armour. Food if you try this from level 3.
+Advantages
+Disadvantages
+Very common and weak NPC.
+Often close to banks.
+Decent amount of hitpoints so you don't have to switch targets as often as you do when fighting chickens.
+Non-aggressive.
+Often not grouped close together.
+Morally questionable.
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Cow
+North-east of
+Lumbridge
+just east of
+River Lum
+, north of the windmill north-west of Lumbridge,
+Crafting Guild
+, and the farm south of Falador
+2
+8
+None
+Your best weapon and armour. Food if you try this from level 3 but they drop
+raw beef
+.
+Advantages
+Disadvantages
+They always drop
+cowhide
+, which can either be sold to the Grand Exchange for profit (
+235
+) or be used to train
+Crafting
+.
+They always drop
+raw beef
+, which can be cooked for
+Cooking
+XP and
+heal
+for 3 hitpoints.
+It is a common place for new players to train their combat skills or make starting money and the area may be crowded.
+They have a tendency to hit 1's on players with little defence and no armour.
+Non-aggressive.
+Levels 10 to 20
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Giant rat
+Lumbridge Swamp
+,
+Edgeville Dungeon
+,
+Varrock Sewers
+3, 6
+5, 10
+None
+Your best weapon and armour. Food may be required but they drop
+raw rat meat
+.
+Small fishing net
+,
+tinderbox
+, and an
+axe
+may be optional to fish
+shrimps
+south-east of Lumbridge Swamp.
+Advantages
+Disadvantages
+They always drop
+raw rat meat
+, which can be cooked for
+Cooking
+XP and
+heal
+for 3 hitpoints.
+No valuable drops.
+Lumbridge Swamp may be crowded.
+They have a tendency to hit 1's on players with little defence and no armour.
+Non-aggressive.
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Minotaur
+Vault of War (level 1) of
+Stronghold of Security
+12
+10
+None
+Your best weapon and armour and 15+
+Defence
+. Level 20
+Fishing
+and Level 15
+Cooking
+to catch and cook
+trout
+(and
+salmon
+at Level 30 Fishing and Level 25 Cooking) outside the stronghold with a
+fly fishing rod
+and
+feathers
+.
+Advantages
+Disadvantages
+They commonly drop
+iron arrows
+, which can be used for
+Ranged
+training
+.
+They drop noted items such as
+rune essences
+for
+runecrafting
+and
+copper ores
+and
+tin ores
+for early smithing XP (or to sell at the Grand Exchange).
+They commonly drop
+bronze full helms
+, which can be sold at the
+Helmet Shop
+in
+Barbarian Village
+.
+They uncommonly drop
+right skull halves
+, which can be used to build or recharge
+skull sceptres
+(+3 charges or more for each tier of the
+Varrock Diary
+completed) or be
+cut
+into
+bone fragments
+, which can either charge the
+skull sceptre (i)
+or be sold on the Grand Exchange for
+700
+each (
+2,100
+per right skull halves, or
+700
+more for each tier of the
+Varrock Diary
+completed up to
+4,900
+with all tiers of the Varrock Diary completed).
+They have access to the
+gem drop table
+and rarely drop
+uncut gems
+.
+They occasionally drop
+beginner clue scrolls
+.
+You could optionally continue training on them until melee skills are at 30 if you wish to collect more arrows and other drops.
+Often crowded.
+They have a tendency to hit 2's on players with little defence and no armour.
+Non-aggressive.
+Levels 20 to 30
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Al Kharid warrior
+Al Kharid Palace
+9
+19
+None
+Decent but cheap food like
+trout
+or
+salmon
+. Alternatively, you can buy
+kebabs
+for 1 gp each in Al Kharid. Also bring your best armour and weapons, because they can deal some damage.
+Advantages
+Disadvantages
+Lots of warriors to fight.
+Aggressive
+if one warrior is attacked — all nearby others will come and fight. This makes it easy to always be fighting something, which is advantageous at higher levels.
+The bank is very close by.
+Often crowded.
+Being ganged up at lower levels.
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Barbarian
+Barbarian Village
+10, 15, 17
+18, 24, 24
+None
+Bring your best armour and weapons, because they can deal some damage. While there are
+cooked meat
+in the mead hall, players could also fish and cook trout and salmon by
+River Lum
+east of Barbarian Village with a
+fly fishing rod
+and
+feathers
+(other players also often drop fish too).
+Advantages
+Disadvantages
+They uncommonly drop
+runes
+(including
+chaos
+,
+earth
+,
+fire
+, and rarely
+law runes
+) and
+bronze arrows
+.
+They have access to the
+gem drop table
+and very rarely drop
+uncut gems
+.
+There are
+cooked meat
+in the mead hall for healing.
+Sometimes crowded.
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Giant frogs
+Lumbridge Swamp
+13
+23
+None
+Bring your best armour (
+chainbody
+recommended) and weapons.
+Advantages
+Disadvantages
+High HP (23), low defence, and they deal little damage.
+Always drops
+big bones
+which can be sold for guaranteed profit (
+282
+) or used for
+Prayer
+experience while training.
+They rarely drop
+beginner clue scrolls
+.
+Players could continuing until level 40 melee skills.
+Sometimes crowded.
+No valuable drops other than a
+beginner clue scroll
+to solve.
+Levels 30 to 50+
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Hill Giant
+or
+Hill Giant (Giants' Plateau)
+Edgeville Dungeon
+,
+Giants' Plateau
+28
+35
+Brass key
+(for the shed shortcut if going to
+Edgeville Dungeon
+), decent combat
+Your best armour (
+chainbody
+recommended) and weapons, and some moderate-to-high-healing food
+Advantages
+Disadvantages
+Decently high HP for level (35).
+They have decent profitable drops for lower-level players such as
+limpwurt roots
+(
+324
+) and they have access to the
+gem drop table
+that rarely drop
+uncut gems
+.
+Chance of dropping a
+giant key
+, which allows the player to fight
+Obor
+, who also has good drops and a chance of dropping the valuable
+hill giant club
+(
+1,188,697
+).
+They sometimes drop
+law runes
+,
+cosmic runes
+,
+nature runes
+, low-level equipment (varies depending on type of Hill Giant), and rarely drop
+chaos runes
+and
+death runes
+.
+Always drop
+big bones
+which can be sold for guaranteed profit (
+282
+) or used for
+Prayer
+experience while training.
+Faster aggression reset than Stronghold of Security, due to no doors. Just walk until you can't see giants on the minimap and return.
+Highly crowded in most worlds.
+They can be a bit rough and tough against lower levels.
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Hobgoblin
+Asgarnian Ice Dungeon
+,
+Crandor
+,
+Edgeville Dungeon
+, west of
+Crafting Guild
+28, 42
+29, 49
+Brass key
+(for the shed shortcut of
+Edgeville Dungeon
+), decent-to-mid-level combat
+Your best armour (
+chainbody
+recommended) and weapons, and some moderate-to-high-healing food
+Advantages
+Disadvantages
+A decent alternate monster of training your melee combat skills and profiting when hill giants are overcrowded.
+Level 42 hobgoblins have high HP of 49 but they are stronger than their level 28 counterparts and are recommended to be fought at 40+ melee levels.
+They have decent profitable drops for lower-level players as they very commonly drop
+limpwurt roots
+(
+324
+) and they have access to the
+gem drop table
+that rarely drop
+uncut gems
+.
+They drop similar runes as hill giants do (except for
+death runes
+) but they don't drop them as often as hill giants.
+They can be a bit rough and tough against lower levels, especially the Level 42 hobgoblins.
+Levels 40 to 60+
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Moss giant
+Varrock Sewers
+,
+Crandor
+42
+60
+Mid-level combat, a
+knife
+or slash weapon if travelling in the Varrock Sewers to cut webs.
+Food, armour (
+chainbody
+recommended),
+staff of fire
+and
+nature runes
+for
+High Level Alchemy
+, runes for
+Varrock Teleport
+Advantages
+Disadvantages
+Fairly high HP for level.
+Decent alchable drops such as
+black sq shield
+(
+691
+),
+mithril sword
+(
+507
+), and
+steel kiteshield
+(
+510
+).
+Good rune drops such as
+law runes
+,
+nature runes
+,
+chaos runes
+,
+cosmic runes
+, and rarely
+death runes
+.
+Chance of dropping a
+mossy key
+, which allows the player to fight
+Bryophyta
+, who also has good alchable drops. Additionally, Bryophyta can rarely drop its
+essence
+(
+10,023,768
+) which can be crafted into
+Bryophyta's staff
+(
+10,156,268
+) by bringing the essence and
+50,000
+to
+Zaff
+at his store in
+Varrock
+.
+Always drops
+big bones
+which can be sold for guaranteed profit (
+282
+) or used for
+Prayer
+experience while training.
+They have access to the
+gem drop table
+and rarely drop
+uncut gems
+.
+Varrock Sewers are often crowded.
+Hits hard if you have low Defence or weak armour.
+All of their (F2P) locations are far from a bank
+Levels 50 to 70+
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Ice giant
+Asgarnian Ice Dungeon
+,
+Frozen Waste Plateau
+in the
+Wilderness
+53
+70
+Good combat
+Food, rune equipment,
+staff of fire
+and
+nature runes
+for
+High Level Alchemy
+, runes for
+Falador
+and
+Varrock Teleport
+Advantages
+Disadvantages
+Stronger alternative to moss giants.
+Decent alchable drops such as
+black kiteshield
+(
+979
+),
+mithril mace
+(
+351
+), and
+mithril sq shield
+(
+936
+)
+Often drops
+adamant arrows
+.
+Good rune drops such as
+law runes
+,
+nature runes
+, and rarely
+cosmic runes
+and
+death runes
+.
+Always drops
+big bones
+which can be sold for guaranteed profit (
+282
+) or used for
+Prayer
+experience while training.
+They have access to the
+gem drop table
+and rarely drop
+uncut gems
+.
+These enemies are tougher and stronger than moss giants, thus, they are usually inferior to them for experience.
+Long distance from a bank in either available location.
+Found in areas along side
+ice warriors
+, which tend to get in the way due to their high level of aggression.
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Body golem
+Ruins of Camdozaal
+50
+60
+Below Ice Mountain
+, good combat
+Food, rune equipment,
+barronite mace
+Advantages
+Disadvantages
+Barronite mace
+deals more damage per second on
+golems
+in the ruins than any other weapon.
+The player has a +5 permanent Defence boost if
+Charm of Defence
+is active.
+If not using extra
+barronite guards
+for
+barronite shards
+or to create additional
+barronite maces
+, they can be
+high-level alchemised
+for
+5,119
+coins.
+Charm of Luck
+will increase the drop rate by 5%.
+Sometimes drop
+uncut gems
+up to
+ruby
+.
+Drops
+clay
+and
+ores
+up to
+iron
+.
+Drops
+noted
+rune essences
+and
+body cores
+for
+Runecraft
+training.
+Close to a
+bank
+.
+Requires a quest to complete and may take a lot of time put into creating a
+barronite mace
+.
+No bones or ashes drop for Prayer experience.
+Levels 80 to 99
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Ogress warrior
+and
+Ogress shaman
+Corsair Cove Dungeon
+82
+82
+Protect from Magic
+(37
+Prayer
+as you'll get attacked by shamans),
+Protect from Melee
+(43
+Prayer
+), started
+The Corsair Curse
+,
+Dragon Slayer I
+(for the
+Resource Area
+)
+Swordfish
+(they can be fished in the Resource Area with a
+harpoon
+), rune equipment (
+rune chainbody
+recommended),
+staff of fire
+and
+nature runes
+for
+High Level Alchemy
+,
+chisel
+to cut gems and high alch them, runes for
+Falador
+and
+Varrock Teleport
+, waiting 10 minutes to de-
+aggro
+ogresses)
+Advantages
+Disadvantages
+Fishing spots to fish for food in the Resource Area (required the completion of
+Dragon Slayer I
+).
+Good alchable drops such as
+mithril kiteshield
+(
+1,326
+),
+rune med helm
+(
+11,057
+),
+rune full helm
+(
+21,120
+), and
+rune battleaxe
+(
+24,960
+), and the very rare unique drop
+shaman mask
+(
+4,800
+) but it could sell at the Grand Exchange for
+14,345
+.
+Often drops a good variety of
+runes
+such
+law runes
+,
+nature runes
+,
+chaos runes
+,
+cosmic runes
+, and
+death runes
+.
+They common drop
+uncut gems
+. You could bring a
+chisel
+to cut them and high level alchemise
+emeralds
+and higher-tier gems rather than banking uncut gems for more experience per trip.
+Sapphires
+don't make much profit from high level alchemy, so they can optionally be dropped while saving nature runes for everything else.
+Highly crowded in few areas.
+Without praying or prayer flicking protection prayers, shamans and warriors can hit up to a maximum damage of 8 and quite often if your Defence is underleveled.
+Must wait 10 minutes in an area to de-aggro ogresses in the area.
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Lesser demon
+Crandor and Karamja Dungeon
+82
+81
+Partial completion of
+Dragon Slayer I
+, 30
+coins
+to travel to
+Karamja
+from
+Port Sarim
+Protect from Melee
+(43
+Prayer
+),
+swordfish
+, rune equipment,
+staff of fire
+and
+nature runes
+for
+High Level Alchemy
+, runes for
+Varrock Teleport
+Advantages
+Disadvantages
+Less defence than ogresses as a good alternative for more experience points but profits less.
+High alchable drops include
+steel full helm
+(
+330
+),
+mithril sq shield
+(
+936
+),
+mithril chainbody
+(
+1,170
+), and
+rune med helm
+(
+11,520
+).
+Commonly drops a good amount of
+fire runes
+and occasionally drops
+chaos runes
+and
+death runes
+.
+They have access to the
+gem drop table
+and rarely drop
+uncut gems
+.
+Drops
+vile ashes
+that give 25 Prayer XP per kill or can be sold on the
+Grand Exchange
+for
+97
+each.
+Drops, while still decent, are not as amazing as ogresses' or greater demons' drops.
+Without praying or prayer flicking Protect from Melee, they can hit up to a maximum damage of 8.
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Ankou
+Sepulchre of Death (level 4) of
+Stronghold of Security
+75 (NE), 82 (SW), 86 (NW)
+60 (NE), 65 (SW), 70 (NW)
+None
+Protect from Melee
+(43
+Prayer
+),
+swordfish
+, rune equipment (
+rune chainbody
+recommended),
+chisel
+to cut
+left skull halves
+into
+bone fragments
+Advantages
+Disadvantages
+Less defence than ogresses and an alternative to
+lesser demons
+but less
+Prayer
+experience and money.
+Level 75 ankous can be found in the north-eastern room without any other monsters to interrupt while the 10-minute aggression timer is on-going.
+Very commonly drops
+law runes
+and commonly drops
+black robes
+(
+809
+),
+adamant arrows
+,
+rune essences
+, and
+mithril ores
+.
+They uncommonly drop
+left skull halves
+, which can be used to build or recharge
+skull sceptres
+(+5 charges or more for each
+Varrock Diary
+tier completed) or be
+cut
+into
+bone fragments
+, which can either charge the
+skull sceptre (i)
+or be sold on the Grand Exchange for
+700
+each (
+3,500
+per left skull halves, or
+700
+more for each tier of the
+Varrock Diary
+completed up to
+6,300
+with all tiers of the Varrock Diary completed).
+They have access to the
+gem drop table
+and rarely drop
+uncut gems
+.
+Edgeville Monastery
+'s altar (requires
+31
+Prayer
+to access the
+1
+st
+floor
+[
+UK
+]
+2
+nd
+floor
+[
+US
+]
+) that is outside the stronghold is not too far away and restores over +2 Prayer.
+Drops, while still okay, are not as amazing as ogresses' or greater demons' drops. At times, even the
+lesser demons
+'
+rune med helm
+rare drops profit more until all tiers of the
+Varrock Diary
+are completed in
+Members
+to maximise profit from left skull halves' bone fragments.
+Less Prayer XP for their
+bones
+than killing ogresses or lesser demons.
+Without praying or prayer flicking Protect from Melee, they can hit up to a maximum damage of 7 (level 75) or 8 (levels 82 or 86).
+Rooms with skeletons in them will get in the way while the aggression timer is still going.
+Alternative training methods for good experience
+Greater demons at the Demonic Ruins
+Monster name
+Location(s)
+Combat level
+Hitpoints
+Requirements
+Recommendations
+Greater demon
+Demonic Ruins
+of the
+Wilderness
+92
+89
+High combat,
+rune scimitar
+or
+rune
+/
+barronite mace
+, prayer equipment (
+monk's robes
+and
+holy symbol
+),
+Protect from Melee
+(43+ Prayer)
+70+
+Attack
+and
+Strength
+(lower levels may be fine too with better Attack/Strength prayers), high prayer level, no other equipment
+Advantages
+Disadvantages
+Your prayer will gradually be restored in the Demonic Ruins. You'll never run out of prayer points with
+Burst of Strength
++
+Clarity of Thought
+(or only one of the higher-tier prayers) and
+Protect from Melee
+constantly active. With the
+rune mace
+giving the player +4
+prayer bonus
+and
+barronite mace
++2 prayer bonus (while being slightly stronger), you may be able to step up to stronger offensive prayers while maintaining prayer but the rune mace is weaker than a rune scimitar.
+Good high alchable drops such as
+rune full helm
+(
+21,120
+),
+adamant platelegs
+(
+3,840
+), and
+mithril kiteshield
+(
+1,326
+).
+Drops
+vile ashes
+that give 25 Prayer XP per kill.
+Ignoring drops, this is also an afk training method.
+Common hotspot for
+player killers
+. If you wish to bank your expensive drops, don't stay long.
+If you don't plan on picking up drops, there is nothing much to worry about if you have
+Protect Item
+on as you won't lose anything from being PKed unless if the PKer baits you into attacking them
+first
+.
+To continue training on greater demons, if your
+respawn
+point is in
+Lumbridge
+(
+Edgeville
+respawn is recommended), run across
+River Lum
+and up towards the farm house, grab a
+bronze axe
+, run back south towards the Lumbridge
+Canoe Station
+, and travel to the Wilderness (57
+Woodcutting
+required). If you need a new set of
+monk's robes
+, they can be found on the
+1
+st
+floor
+[
+UK
+]
+2
+nd
+floor
+[
+US
+]
+of the
+Edgeville Monastery
+.
+Alternative accounts in Clan Wars
+If you have a
+1 Defence combat pure
+and high Hitpoints (80+ HP for example), stock them up with
+jugs of wine
+and attack them in the Free-For-All
+Clan Wars
+portal. This is the fastest combat training method in free-to-play when done efficiently. This training method is not recommended for players who have not yet made a one-Defence combat pure account and it wouldn't be worth the time training one up just for this training method alone. But it is recommended for alternate accounts created after a high HP one-Defence combat pure account.
+Alternatively,
+wizard's mind bombs
+can reduce a character's Defence towards 0 Defence but Defence will regenerate by a point every 60 seconds.
+Alternative accounts in Castle Wars
+Thanks to the
+castle wars bracelet
+and
+castlewars brew
+, the
+Castle Wars
+minigame provides considerable combat bonuses in comparison to the
+Clan Wars
+minigame. By attacking a
+1 Defence combat pure
+holding a captured flag, you can achieve the highest
+maximum melee hits
+in
+free-to-play
+worlds. The alternative account can be healed with
+bandages
+without the need to bring any supplies. To make the healing more effective, wear a
+castle wars bracelet
+. Note that the healing scales with the
+Hitpoints
+level, so to maximise the effect the account needs at least 90 level.
+v
+t
+e
+Skill training guides
+Free-to-play guides
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Members' guides
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+Ironman guides
+Money making
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+Ultimate Ironman guides
+Item management
+Equipment
+Quests
+Minigames
+Money making
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+General guidelines
+Efficiency
+v
+t
+e
+Free-to-play guides
+Skills
+Combat
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Gathering
+Mining
+Fishing
+Woodcutting
+Processing
+Crafting
+Smithing
+Cooking
+Firemaking
+Runecraft
+Achievements
+Quests
+Quests list
+Quest rewards
+Optimal quest guide
+Other
+Adventure Paths
+Collection log
+Combat Achievements
+Steam Achievements
+Account builds
+Account builds
+Ironman guide
+Combat pure guide
+Miscellaneous
+Free-to-play
+PvP
+Clues
+Bestiary
+Food
+Music
+Money making guide
+Transportation guide
+Closest points of interest
+Cosmetic items

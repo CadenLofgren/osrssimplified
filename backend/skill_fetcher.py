@@ -1,104 +1,158 @@
 import requests
-import mwparserfromhell
-import os
+from bs4 import BeautifulSoup
+from database import get_db
+from models import Skill
+from sqlalchemy.orm import Session
+import hashlib
 
-skills = [
-    "Attack", "Strength", "Defence", "Ranged", "Prayer", "Magic", "Runecrafting",
-    "Construction", "Hitpoints", "Agility", "Herblore", "Thieving", "Crafting",
-    "Fletching", "Slayer", "Hunter", "Mining", "Smithing", "Fishing", "Cooking",
-    "Firemaking", "Woodcutting", "Farming"
-]
+API_URL = "https://oldschool.runescape.wiki/api.php"
 
-f2p_skills = {
-    "Attack", "Strength", "Defence", "Ranged", "Prayer", "Magic",
-    "Hitpoints", "Mining", "Smithing", "Fishing", "Cooking",
-    "Firemaking", "Woodcutting", "Crafting", "Agility"
+# Full OSRS skills with their free-to-play (f2p) and pay-to-play (p2p) training pages
+SKILLS = {
+    "Attack": {
+        "f2p": "Free-to-play_melee_training",
+        "p2p": "Pay-to-play_melee_training",
+    },
+    "Strength": {
+        "f2p": "Free-to-play_melee_training",
+        "p2p": "Pay-to-play_melee_training",
+    },
+    "Defence": {
+        "f2p": "Free-to-play_melee_training",
+        "p2p": "Pay-to-play_melee_training",
+    },
+    "Hitpoints": {
+        "f2p": "Free-to-play_melee_training",  # shared melee page
+        "p2p": "Pay-to-play_melee_training",
+    },
+    "Ranged": {
+        "f2p": "Free-to-play_ranged_training",
+        "p2p": "Pay-to-play_ranged_training",
+    },
+    "Prayer": {
+        "f2p": "Free-to-play_prayer_training",
+        "p2p": "Pay-to-play_prayer_training",
+    },
+    "Magic": {
+        "f2p": "Free-to-play_magic_training",
+        "p2p": "Pay-to-play_magic_training",
+    },
+    "Runecraft": {
+        "f2p": "Free-to-play_Runecraft_training",
+        "p2p": "Pay-to-play_Runecraft_training",
+    },
+    "Construction": {
+        "p2p": "Pay-to-play_Construction_training",
+    },
+    "Agility": {
+        "p2p": "Agility_training",
+    },
+    "Herblore": {
+        "p2p": "Herblore_training",
+    },
+    "Thieving": {
+        "p2p": "Thieving_training",
+    },
+    "Crafting": {
+        "f2p": "Free-to-play_Crafting_training",
+        "p2p": "Pay-to-play_Crafting_training",
+    },
+    "Fletching": {
+        "p2p": "Fletching_training",
+    },
+    "Slayer": {
+        "p2p": "Slayer_training",
+    },
+    "Hunter": {
+        "p2p": "Hunter_training",
+    },
+    "Mining": {
+        "f2p": "Free-to-play_Mining_training",
+        "p2p": "Pay-to-play_Mining_training",
+    },
+    "Smithing": {
+        "f2p": "Free-to-play_Smithing_training",
+        "p2p": "Pay-to-play_Smithing_training",
+    },
+    "Fishing": {
+        "f2p": "Free-to-play_Fishing_training",
+        "p2p": "Pay-to-play_Fishing_training",
+    },
+    "Cooking": {
+        "f2p": "Free-to-play_Cooking_training",
+        "p2p": "Pay-to-play_Cooking_training",
+    },
+    "Firemaking": {
+        "f2p": "Free-to-play_Firemaking_training",
+        "p2p": "Pay-to-play_Firemaking_training",
+    },
+    "Woodcutting": {
+        "f2p": "Free-to-play_Woodcutting_training",
+        "p2p": "Pay-to-play_Woodcutting_training",
+    },
+    "Farming": {
+        "p2p": "Farming_training",
+    },
 }
 
-GROUP_REPLACEMENTS = {
-    "Attack": "Free-to-play melee training",
-    "Strength": "Free-to-play melee training",
-    "Defence": "Free-to-play melee training"
-}
-
-OUTPUT_DIR = "skill_pages"
-os.makedirs(OUTPUT_DIR, exist_ok=True)  # create folder if it doesn't exist
-
-def fetch_page(page: str):
-    url = "https://oldschool.runescape.wiki/api.php"
+def fetch_html_content(page_title: str) -> str:
+    """Fetch rendered HTML from OSRS Wiki."""
     params = {
         "action": "parse",
-        "page": page,
+        "page": page_title,
+        "prop": "text",
         "format": "json",
-        "prop": "wikitext",
-        "redirects": 1
     }
-    response = requests.get(url, params=params)
-    response.raise_for_status()
+    response = requests.get(API_URL, params=params)
     data = response.json()
 
-    page_title = data["parse"]["title"]
-    wikitext = data["parse"]["wikitext"]["*"]
+    if "error" in data:
+        raise Exception(f"Error fetching {page_title}: {data['error']}")
 
-    wikicode = mwparserfromhell.parse(wikitext)
-    clean_text = wikicode.strip_code()
-    return page_title, clean_text
+    html_content = data["parse"]["text"]["*"]
+    soup = BeautifulSoup(html_content, "html.parser")
 
+    # Strip edit links
+    for el in soup.select(".mw-editsection"):
+        el.decompose()
 
-def fetch_skill_pages(skill: str):
-    pages = []
-    seen_titles = set()
+    return str(soup)
 
-    # Base page
-    try:
-        title, text = fetch_page(f"{skill}_training")
-        if title not in seen_titles:
-            pages.append((title, text))
-            seen_titles.add(title)
-    except Exception as e:
-        print(f"⚠️ Could not fetch {skill}_training: {e}")
+def store_skills():
+    db: Session = next(get_db())
+    for skill, pages in SKILLS.items():
+        for mode, page in pages.items():
+            try:
+                content = fetch_html_content(page)
+                content_hash = hashlib.sha256(content.encode("utf-8")).hexdigest()
 
-    if skill in f2p_skills:
-        # Pay-to-play
-        try:
-            title, text = fetch_page(f"Pay-to-play {skill} training")
-            if title not in seen_titles:
-                pages.append((title, text))
-                seen_titles.add(title)
-        except Exception as e:
-            print(f"⚠️ Could not fetch Pay-to-play {skill} training: {e}")
+                existing = (
+                    db.query(Skill)
+                    .filter(Skill.name == skill, Skill.mode == mode)
+                    .first()
+                )
 
-        # Free-to-play
-        try:
-            title, text = fetch_page(f"Free-to-play {skill} training")
-            if title not in seen_titles:
-                pages.append((title, text))
-                seen_titles.add(title)
-        except Exception as e:
-            group = GROUP_REPLACEMENTS.get(skill)
-            if group:
-                try:
-                    title, text = fetch_page(group)
-                    if title not in seen_titles:
-                        pages.append((title, text))
-                        seen_titles.add(title)
-                        print(f"ℹ️ Used group page '{group}' for {skill}")
-                except Exception as e2:
-                    print(f"⚠️ Could not fetch group page {group} for {skill}: {e2}")
-            else:
-                print(f"⚠️ Could not fetch Free-to-play {skill} training: {e}")
+                if existing:
+                    if existing.hash == content_hash:
+                        print(f"↔️ No change for {skill} ({mode}).")
+                    else:
+                        existing.content = content
+                        existing.hash = content_hash
+                        db.commit()
+                        print(f"🔄 Updated {skill} ({mode}).")
+                else:
+                    new_skill = Skill(
+                        name=skill,
+                        mode=mode,
+                        content=content,
+                        hash=content_hash,
+                    )
+                    db.add(new_skill)
+                    db.commit()
+                    print(f"✅ Added {skill} ({mode}).")
 
-    return pages
-
+            except Exception as e:
+                print(f"❌ Failed for {skill} ({mode}): {e}")
 
 if __name__ == "__main__":
-    for skill in skills:
-        print(f"Fetching {skill}...")
-        pages = fetch_skill_pages(skill)
-        for page_title, text in pages:
-            # Sanitize filename
-            filename = f"{page_title.replace(' ', '_')}.txt"
-            filepath = os.path.join(OUTPUT_DIR, filename)
-            with open(filepath, "w", encoding="utf-8") as f:
-                f.write(text)
-    print(f"✅ All skills saved to individual files in '{OUTPUT_DIR}'")
+    store_skills()

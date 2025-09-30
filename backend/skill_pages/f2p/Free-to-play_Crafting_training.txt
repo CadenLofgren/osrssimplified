@@ -1,0 +1,295 @@
+This guide outlines the best methods and alternative options for training the Crafting skill in free-to-play .
+
+## Contents
+
+- 1 Quests that reward Crafting experience
+- 2 Potter's wheel, spinning wheel and furnace locations 2.1 Ultimate Ironman
+- 2.1 Ultimate Ironman
+- 3 Common training methods 3.1 In-Place Training Methods 3.2 Commuter Training Methods
+- 3.1 In-Place Training Methods
+- 3.2 Commuter Training Methods
+- 4 Levels 1–99 4.1 Armour 4.2 Pottery 4.3 Gold jewellery 4.4 Silver jewellery 4.5 Gems
+- 4.1 Armour
+- 4.2 Pottery
+- 4.3 Gold jewellery
+- 4.4 Silver jewellery
+- 4.5 Gems
+- 5 Miscellaneous 5.1 Stringing Amulets
+- 5.1 Stringing Amulets
+- 2.1 Ultimate Ironman
+- 3.1 In-Place Training Methods
+- 3.2 Commuter Training Methods
+- 4.1 Armour
+- 4.2 Pottery
+- 4.3 Gold jewellery
+- 4.4 Silver jewellery
+- 4.5 Gems
+- 5.1 Stringing Amulets
+
+## Quests that reward Crafting experience[edit|edit source]
+
+- Sheep Shearer : 150 Crafting experience
+- Goblin Diplomacy : 200 Crafting experience
+- Misthalin Mystery : 600 Crafting experience
+Completing all of these quests will provide enough experience to level up Crafting from level 1 to level 8.
+
+## Potter's wheel, spinning wheel and furnace locations[edit|edit source]
+
+Barbarian Village has a potter's wheel medium distance to closest bank (West Varrock bank). No clay rocks or water source nearby.
+- Varrock south-west mine to Varrock west bank is a good place to mine clay.
+- Waterpump (Falador) to Falador west bank is the closest water source to a bank. Water fountain in centre of Varrock square to Varrock west bank is also a good water source close to a bank.
+Lumbridge bank to the spinning wheel downstairs is a good combination for a bank plus spinning wheel.
+Edgeville has the furnace closest to a bank for crafting silver or gold. Al Kharid bank to a furnace is a decent location for a relatively short distance between bank and furnace, for crafting silver and gold.
+Upon reaching Crafting Level 40, the Crafting Guild has no bank nearby, but contains clay rocks, a water source , a potter's wheel, and a pottery kiln. The crafting guild also has  two spinning wheels . A flock of wool-producing sheep can be found just a short walk north of the guild.
+
+## Ultimate Ironman[edit|edit source]
+
+Until level 40, ultimate ironmen can mine clay in West Varrock mine , canoe up to Edgeville and use the well as a water source, then walk down to Barbarian Village wheel and kiln, then boat back down to Champions' Guild /West Varrock mine. Yields 650–720 experience per run, depending on the amount of open inventory spaces.
+After level 40, use the Crafting Guild. Mining and smelting gold, crafting them into jewellery to sell at Grum's Gold Exchange. is a good way to make money while training Mining , Crafting and Smithing as an Ultimate Ironman.
+
+## Common training methods[edit|edit source]
+
+
+## In-Place Training Methods[edit|edit source]
+
+These methods do not require any moving, and thus can be performed at the Grand Exchange or in a Bank (assuming you have already gathered the necessary resources).
+Level required | Method | Experience | Materials | Material cost | Product value | Profit / loss | GP/XP
+18 | Crafting leather chaps | 27 | Soft leather x 1 | 359 | 6 | −353 | -13.07
+28 | Crafting hardleather bodies | 35 | Hard leather x 1 | 251 | 11 | −240 | -6.86
+20 | Cutting sapphires | 50 | Uncut sapphire x 1 | 235 | 214 | −21 | -0.42
+27 | Cutting emeralds | 67.5 | Uncut emerald x 1 | 486 | 375 | −111 | -1.64
+34 | Cutting rubies | 85 | Uncut ruby x 1 | 1,168 | 799 | −369 | -4.34
+43 | Cutting diamonds | 107.5 | Uncut diamond x 1 | 2,492 | 1,645 | −847 | -7.88
+
+## Commuter Training Methods[edit|edit source]
+
+These methods require the player to move from place to place.  The most common of which is moving back and forth between bank and a furnace . For the purposes of crafting jewellery, Edgeville furnace is the closest furnace to a bank.
+Level required | Method | Experience | Materials | Material cost | Product value | Profit / loss | GP/XP
+8 | Making bowls | 33 | Soft clay x 1 | 116 | 27 | −89 | -2.70
+8 | Smelting unstrung gold amulets | 30 | Gold bar x 1 | 105 | 174 | 69 | 2.30
+23 | Smelting tiaras | 52.5 | Silver bar x 1 | 89 | 138 | 49 | 0.93
+50 | Crafting Ruby Amulets | 85 | Gold bar x 1 Ruby x 1 | 904 | 1,082 | 178 | 2.09
+56 | Crafting Diamond Necklaces | 90 | Gold bar x 1 Diamond x 1 | 1,750 | 1,986 | 236 | 2.62
+
+## Levels 1–99[edit|edit source]
+
+Players are encouraged to change between training methods as necessary as the cost of certain methods fluctuates over time.
+
+## Armour[edit|edit source]
+
+Level | Product | XP per item | XP/Hour | Experience needed | Materials needed | Material costs | Product value | Profit / Loss
+1–7 |  | Leather gloves | 13.8 | 18,900 | 650 | 48 × Leather | 17,232 | 816 | −16,416
+7–9 |  | Leather boots | 16.2 | 22,750 | 319 | 20 × Leather | 7,180 | 860 | −6,320
+9–11 |  | Leather cowl | 18.5 | 25,900 | 389 | 21 × Leather | 7,539 | 105 | −7,434
+11–14 |  | Leather vambraces | 22 | 30,800 | 749 | 34 × Leather | 12,206 | 102 | −12,104
+14–18 |  | Leather body | 25 | 35,000 | 1,416 | 57 × Leather | 20,463 | 57 | −20,406
+18–28 |  | Leather chaps | 27 | 37,800 | 7,301 | 271 × Leather | 97,289 | 1,626 | −95,663
+28–99 |  | Hardleather body | 35 | 91,000 | 13,023,607 | 372,103 × Hard leather | 93,397,853 | 4,093,133 | −89,304,720
+Total | 13,034,431 | 451 × Leather ; 372,103 × Hard leather | 93,559,403 | 4,096,693 | −89,462,710
+
+## Pottery[edit|edit source]
+
+This guide assumes all products are formed and fired.
+Level | Product | XP per item | Experience needed | Materials needed | Material costs | Product value | Profit / loss
+1–7 |  | Pot | 12.6 | 650 | 52 × Soft clay | 6,032 | 2,132 | −3,900
+7–8 |  | Pie dish | 25 | 151 | 6 × Soft clay | 696 | 120 | −576
+8–99 |  | Bowl | 33 | 13,033,630 | 394,959 × Soft clay | 45,815,244 | 10,663,893 | −35,151,351
+Total | 13,034,431 | 395,017 × Soft clay | 45,821,972 | 10,666,145 | −35,155,827
+
+## Gold jewellery[edit|edit source]
+
+Level | Product | XP per item | XP/Hour | Experience needed | Materials needed | Material costs | Product value | Profit | Profit / item | GP/XP
+5–6 |  | Gold ring | 15 | 20,250 [ 1 ] | 124 | 8 × Gold bar | 840 | 1,312 | 472 | 59.00 | 3.93
+6–8 |  | Gold necklace | 20 | 27,000 [ 1 ] | 289 | 15 × Gold bar | 1,575 | 2,850 | 1,275 | 85.00 | 4.25
+8–20 |  | Gold amulet (u) | 30 | 40,500 [ 1 ] | 3,669 | 122 × Gold bar | 12,915 | 21,402 | 8,487 | 69.00 | 2.30
+20–22 |  | Sapphire ring | 40 | 42,000 [ 2 ] | 1,154 | 29 × Gold bar ; 29 × Sapphire | 9,251 | 12,789 | 3,538 | 122.00 | 3.05
+22–24 |  | Sapphire necklace | 55 | 57,750 [ 2 ] | 1,404 | 26 × Gold bar ; 26 × Sapphire | 8,294 | 12,090 | 3,796 | 146.00 | 2.65
+24–31 |  | Sapphire amulet (u) | 65 | 68,250 [ 2 ] | 7,805 | 120 × Gold bar ; 120 × Sapphire | 38,280 | 52,200 | 13,920 | 116.00 | 1.78
+31–40 |  | Emerald amulet (u) | 70 | 73,500 [ 2 ] | 22,391 | 320 × Gold bar ; 320 × Emerald | 153,600 | 182,080 | 28,480 | 89.00 | 1.27
+40–43 |  | Ruby necklace | 75 | 78,750 [ 2 ] | 13,115 | 175 × Gold bar ; 175 × Ruby | 158,200 | 190,925 | 32,725 | 187.00 | 2.49
+43–56 |  | Diamond ring | 85 | 89,250 [ 2 ] | 184,040 | 1,573 × Gold bar ; 1,573 × Diamond | 2,752,750 | 3,017,014 | 264,264 | 168.00 | 1.98
+56–70 |  | Diamond necklace | 90 | 94,500 [ 2 ] | 553,587 | 6,151 × Gold bar ; 6,151 × Diamond | 10,764,250 | 12,215,886 | 1,451,636 | 236.00 | 2.62
+70–99 |  | Diamond amulet (u) | 100 | 105,000 [ 2 ] | 12,296,804 | 122,968 × Gold bar ; 122,968 × Diamond | 215,194,000 | 231,056,872 | 15,862,872 | 129.00 | 1.29
+Total | 13,034,431 | 131,506 × Gold bar , 175 × Sapphire , 320 × Emerald , 175 × Ruby , 129,719 × Diamond | 227,493,160 | 244,898,842 | 17,405,682 | 132.36 | 1.34
+- ^ 1.0 1.1 1.2 At 1,350 items per hour
+- ^ 2.0 2.1 2.2 2.3 2.4 2.5 2.6 2.7 At 1,050 items per hour
+
+## Silver jewellery[edit|edit source]
+
+Level | Product | XP per item | Experience needed | Materials needed | Material costs | Product value | Profit / loss | Profit / item
+16–23 |  | Unstrung symbol | 50 | 3,545 | 71 × Silver bar | 6,319 | 6,603 | 284 | 4.00
+23–99 |  | Tiara | 52.5 | 13,028,140 | 248,155 × Silver bar | 22,085,795 | 34,245,390 | 12,159,595 | 49.00
+Total | 13,034,431 | 248,226 × Silver bar | 22,092,114 | 34,251,993 | 12,159,879 | 48.99
+
+## Gems[edit|edit source]
+
+Level | Product | XP per item | XP/Hour | Experience needed | Materials needed | Material costs | Product value | Profit / loss | Profit / loss / item | GP/XP
+20–27 |  | Sapphire | 50 | 145,000 | 5,260 | 105 × Uncut sapphire | 24,675 | 22,470 | −2,205 | −21 | -0.42
+27–34 |  | Emerald | 67.5 | 175,000 | 10,494 | 155 × Uncut emerald | 75,330 | 58,125 | −17,205 | −111 | -1.64
+34–43 |  | Ruby | 85 | 230,000 | 30,115 | 354 × Uncut ruby | 413,472 | 282,846 | −130,626 | −369 | -4.34
+43–99 |  | Diamond | 107.5 | 290,000 | 12,984,092 | 120,783 × Uncut diamond | 300,991,236 | 198,688,035 | −102,303,201 | −847 | -7.88
+Total | 13,034,431 | See above | 301,504,713 | 199,051,476 | −102,453,237 | 
+Players have been observed cutting gems with the help of banknotes to make training more efficient. It requires the player to convert non-stackable uncut gems into notes from a bank. Then use the noted uncut gems on the bank/teller to receive gems for cutting; cut the resulting un-noted uncut gems with a chisel . Deposit cut gems into a deposit box; un-note more uncut gems from the noted uncut gems stack in inventory via bank/teller; repeating this process until the desired level is reached. Corsair Cove is a great place for this method because the bank and deposit box are 2 ticks away from each other, reducing time spent walking and manually depositing/withdrawing items to and from the bank. This method actually helps to offset the loss of potential experience per hour by cutting less expensive gems due to all the entities required for cutting being in such close proximity.
+
+## Miscellaneous[edit|edit source]
+
+For the purposes of crafting jewellery, Edgeville furnace is the closest furnace to a bank.
+
+## Stringing Amulets[edit|edit source]
+
+Combining a ball of wool with one of many types of unstrung amulets.  This action can be performed anywhere, requires no skills or equipment, and is very fast (only takes two ticks ).  Each amulet strung awards 4 crafting experience, regardless of what is being strung.  When near a bank, it is possible to string 2500 amulets per hour, awarding 10,000 XP.  Also, the Grand Exchange can make this a profitable endeavor:
+Inputs | Output | Input Cost | Output Cost | Profit Per | GP/Hour
+Unstrung symbol Ball of wool | Unblessed symbol | 151 | 104 | −47 | −117,500
+Gold amulet (u) Ball of wool | Gold amulet | 232 | 167 | −65 | −162,500
+Sapphire amulet (u) Ball of wool | Sapphire amulet | 493 | 491 | −2 | −5,000
+Emerald amulet (u) Ball of wool | Emerald amulet | 627 | 645 | 18 | 45,000
+Ruby amulet (u) Ball of wool | Ruby amulet | 1,140 | 1,142 | 2 | 5,000
+Diamond amulet (u) Ball of wool | Diamond amulet | 1,937 | 1,999 | 62 | 155,000
+v t e Skill training guides
+Free-to-play guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft
+Members' guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ironman guides | Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ultimate Ironman guides | Item management Equipment Quests Minigames Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+General guidelines | Efficiency
+- v
+- t
+- e
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Item management
+- Equipment
+- Quests
+- Minigames
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Efficiency
+v t e Free-to-play guides
+Skills | Combat Melee Ranged Magic Defence Prayer Hitpoints Gathering Mining Fishing Woodcutting Processing Crafting Smithing Cooking Firemaking Runecraft | Combat | Melee Ranged Magic Defence Prayer Hitpoints | Gathering | Mining Fishing Woodcutting | Processing | Crafting Smithing Cooking Firemaking Runecraft
+Combat | Melee Ranged Magic Defence Prayer Hitpoints
+Gathering | Mining Fishing Woodcutting
+Processing | Crafting Smithing Cooking Firemaking Runecraft
+Achievements | Quests Quests list Quest rewards Optimal quest guide Other Adventure Paths Collection log Combat Achievements Steam Achievements | Quests | Quests list Quest rewards Optimal quest guide | Other | Adventure Paths Collection log Combat Achievements Steam Achievements
+Quests | Quests list Quest rewards Optimal quest guide
+Other | Adventure Paths Collection log Combat Achievements Steam Achievements
+Account builds | Account builds Ironman guide Combat pure guide
+Miscellaneous | Free-to-play PvP Clues Bestiary Food Music Money making guide Transportation guide Closest points of interest Cosmetic items
+- v
+- t
+- e
+Combat | Melee Ranged Magic Defence Prayer Hitpoints
+Gathering | Mining Fishing Woodcutting
+Processing | Crafting Smithing Cooking Firemaking Runecraft
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Mining
+- Fishing
+- Woodcutting
+- Crafting
+- Smithing
+- Cooking
+- Firemaking
+- Runecraft
+Quests | Quests list Quest rewards Optimal quest guide
+Other | Adventure Paths Collection log Combat Achievements Steam Achievements
+- Quests list
+- Quest rewards
+- Optimal quest guide
+- Adventure Paths
+- Collection log
+- Combat Achievements
+- Steam Achievements
+- Account builds
+- Ironman guide
+- Combat pure guide
+- Free-to-play
+- PvP
+- Clues
+- Bestiary
+- Food
+- Music
+- Money making guide
+- Transportation guide
+- Closest points of interest
+- Cosmetic items

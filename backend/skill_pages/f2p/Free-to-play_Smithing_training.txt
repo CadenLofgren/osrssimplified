@@ -1,0 +1,408 @@
+This guide outlines the best methods for training the Smithing skill in free-to-play . There are a few ways to profit with Smithing in free-to-play, such as smelting bars or making rune equipment , however it is more beneficial to simply perform the fastest experience methods and use the saved time to make money from alternative methods.
+
+## Contents
+
+- 1 Fastest experience 1.1 General Advice 1.2 Level 1-29: The Knight's Sword 1.3 Level 18/29-33: Bronze platebodies 1.4 Level 33-48: Iron platebodies 1.5 Level 48-68: Steel platebodies 1.6 Level 68-88: Mithril platebodies 1.7 Level 87/88-98: Adamant platebodies 1.8 Level 98-99: Rune platebodies
+- 1.1 General Advice
+- 1.2 Level 1-29: The Knight's Sword
+- 1.3 Level 18/29-33: Bronze platebodies
+- 1.4 Level 33-48: Iron platebodies
+- 1.5 Level 48-68: Steel platebodies
+- 1.6 Level 68-88: Mithril platebodies
+- 1.7 Level 87/88-98: Adamant platebodies
+- 1.8 Level 98-99: Rune platebodies
+- 2 Alternative methods 2.1 Level 1-5: Bronze axes 2.2 Level 5-9: Bronze scimitars 2.3 Level 9-18: Bronze warhammers 2.4 Level 20-88: Smelting and Crafting 2.5 Level 70-99: Superheat Item 2.6 Level 98-99: Smithing Rune Equipment
+- 2.1 Level 1-5: Bronze axes
+- 2.2 Level 5-9: Bronze scimitars
+- 2.3 Level 9-18: Bronze warhammers
+- 2.4 Level 20-88: Smelting and Crafting
+- 2.5 Level 70-99: Superheat Item
+- 2.6 Level 98-99: Smithing Rune Equipment
+- 3 AFK Methods 3.1 Level 1-99: Smelting Bars 3.2 Level 14+: Barronite Deposits
+- 3.1 Level 1-99: Smelting Bars
+- 3.2 Level 14+: Barronite Deposits
+- 1.1 General Advice
+- 1.2 Level 1-29: The Knight's Sword
+- 1.3 Level 18/29-33: Bronze platebodies
+- 1.4 Level 33-48: Iron platebodies
+- 1.5 Level 48-68: Steel platebodies
+- 1.6 Level 68-88: Mithril platebodies
+- 1.7 Level 87/88-98: Adamant platebodies
+- 1.8 Level 98-99: Rune platebodies
+- 2.1 Level 1-5: Bronze axes
+- 2.2 Level 5-9: Bronze scimitars
+- 2.3 Level 9-18: Bronze warhammers
+- 2.4 Level 20-88: Smelting and Crafting
+- 2.5 Level 70-99: Superheat Item
+- 2.6 Level 98-99: Smithing Rune Equipment
+- 3.1 Level 1-99: Smelting Bars
+- 3.2 Level 14+: Barronite Deposits
+
+## Fastest experience[edit|edit source]
+
+
+## General Advice[edit|edit source]
+
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 5000
+When making equipment with bars , experience gained is based off the number of bars used, therefore using larger amounts of bars at once yields the highest experience rates. This means smithing platebodies when available is always the fastest experience per tier of bar. The best place to smith bars is the anvil south of Varrock west bank , as it is the closest anvil to a bank in free-to-play. Energy potions ( 192 ) can optionally be brought in the two empty inventory spaces when making platebodies to continuously sprint with level 1 Agility , at an added cost of roughly 1.48 per bar (1 energy potion dose per 32.5 bars). Depending on starting gp and profit from making certain platebodies, one can gain much more gold per hour as well as experience per hour using energy potions instead of letting run energy recharge naturally by walking.
+An option available to players with 55 Magic is to cast High Level Alchemy on their created platebodies to either reduce costs, increase profits, or gain Magic experience. If choosing to alch their platebodies, then it is possible to alch 1-2 platebodies efficiently as a zero time Magic training method on the run from the anvil back to the bank. For this, one should equip a staff of fire and bring nature runes in place of one of their energy potions while smithing. Otherwise, the platebodies can be alched later, on their own or during other activities such as combat .
+
+## Level 1-29: The Knight's Sword[edit|edit source]
+
+It is highly recommended to complete The Knight's Sword quest immediately for the reward of 12,725 Smithing experience, enough to level Smithing from 1 to 29.
+
+## Level 18/29-33: Bronze platebodies[edit|edit source]
+
+Smith bronze platebodies from level 18 (or 29 if The Knight's Sword has been completed) to 33 for 5 bars and 62.5 experience each. Smithing bronze platebodies at the anvil south of Varrock west bank gives experience rates of 50,000 Smithing XP per hour constantly running. Since bronze platebodies are smithed from 5 bars each, energy potions can be used in the two empty inventory spaces to continuously sprint while training.
+Starting at 18:
+- Starting experience: 3,525
+- Experience required: 14,722
+- Ending experience: 18,247
+- Bronze bars required: 1,180
+- Input cost: 110,920
+- Output: 5,664
+- Profit: −105,256 ( −446 each)
+- High alchemy ( 55 ) profit: −112,572 ( −477 each)
+Starting at 29:
+- Starting experience: 12,725
+- Experience required: 5,522
+- Ending experience: 18,200
+- Bronze bars required: 445 (299 bars if you are smelting the bars yourself)
+- Input cost: 41,830
+- Output: 2,136
+- Profit: −39,694 ( −446 each)
+- High alchemy ( 55 ) profit: −42,453 coins ( −477 each)
+
+## Level 33-48: Iron platebodies[edit|edit source]
+
+Smith iron platebodies from levels 33 to 48 for 125 experience each. Smithing iron platebodies at the anvil south of Varrock west bank gives experience rates of 100,000 Smithing XP per hour constantly running. Since iron platebodies are smithed from 5 bars each, energy potions can be used in the two empty inventory spaces to continuously sprint while training.
+- Starting experience: 18,287.5
+- Experience required: 64,726.5
+- Ending experience: 83,014
+- Iron bars required: 2,590 (1,735 bars if you are smelting [ 1 ] the bars yourself)
+- Input cost: 497,280
+- Output: 34,188
+- Profit: −463,092 ( −894 each)
+- High alchemy ( 55 ) profit: −376,586 coins ( −727 each)
+
+## Level 48-68: Steel platebodies[edit|edit source]
+
+Smith steel platebodies from level 48 to 68 for 187.5 experience each. Smithing steel platebodies at the anvil south of Varrock west bank gives experience rates of 150,000 Smithing XP per hour constantly running. Since steel platebodies are smithed from 5 bars each, energy potions can be used in the two empty inventory spaces to continuously sprint while training.
+- Starting experience: 83,037.5
+- Experience required: 521,994.5
+- Ending experience 605,030
+- Steel bars required: 13,920 (9,491 bars if you are smelting the bars yourself - (1899 platebodies))
+- Input cost: 7,600,320
+- Output: 2,071,296
+- Profit: −5,529,024 ( −1,986 each)
+- High alchemy ( 55 ) profit: −4,546,272 ( −1,633 each)
+
+## Level 68-88: Mithril platebodies[edit|edit source]
+
+Smith mithril platebodies from levels 68 to 88 for 250 experience each. Smithing mithril platebodies at the anvil south of Varrock west bank gives experience rates of 200,000 Smithing XP per hour constantly running. Since mithril platebodies are smithed from 5 bars each, energy potions can be used in the two empty inventory spaces to continuously sprint while training.
+Levelling smithing from level 68 to 88 takes smithing 15,123 mithril platebodies.
+- Starting experience: 605,037.5
+- Experience required: 3,780,750
+- Ending experience: 4,385,787.5
+- Mithril bars required: 75,615 (47,260 bars if you are smelting the bars yourself - (9452 platebodies))
+- Input cost: 64,272,750
+- Output: 38,866,110
+- Profit: −25,406,640 ( −1,680 each)
+- High alchemy ( 55 ) profit: −18,646,659 coins ( −1,233 each)
+
+## Level 87/88-98: Adamant platebodies[edit|edit source]
+
+Smith adamant platebodies from levels 88 to 98 for 312.5 experience each. Alternatively, from level 87 Smithing players can also boost to 88 for adamant platebodies with dwarven stout . Adamant platebodies give up to 250,000 experience per hour with the use of energy potions . Smithing adamant platebodies from levels 87/88 to 98/99 may take upwards of 35-45 hours depending on efficiency and use of energy potions .
+Note: The next section for rune platebodies is helpful and slightly faster experience per hour. However, most players will opt to continue smithing adamant platebodies all the way to level 99 even though rune platebodies are more experience per item, as adamant platebodies may be cheaper experience per gold spent for comparable XP rates.
+Starting at level 88:
+- Starting experience: 4,385,787.5
+- Experience required: 7,419,818.5
+- Ending experience: 11,805,787
+- Adamant bars required: 118,720 (74,200 bars if you are smelting the bars yourself - (14,840 platebodies))
+- Input cost: 218,088,640
+- Output: 223,383,552
+- Profit: 5,294,912 ( 223 each)
+- High alchemy ( 55 ) profit: 16,525,824 coins ( 696 each)
+
+## Level 98-99: Rune platebodies[edit|edit source]
+
+Starting at level 98, smith rune platebodies for the fastest experience at level 98 for 375 experience each by drinking a dwarven stout for a +1 Smithing boost for one minute. Maintain energy with energy potions . This will give experience rates of up to 300,000 Smithing experience per hour. However, rune platebodies can be extremely expensive despite offering the highest experience gained per hour for free-to-play Smithing training.
+Starting at level 98:
+- Starting experience: 11,805,787.5
+- Experience required: 1,228,643.5
+- Runite bars required: 16,385 (9,835 bars if you are smelting the bars yourself - (1966 platebodies))
+- Input cost: 202,027,050
+- Output: 125,794,199
+- Profit: −76,232,851 ( −23,263 each)
+- High alchemy ( 55 ) profit: −74,561,581 coins ( −22,753 each)
+
+## Alternative methods[edit|edit source]
+
+
+## Level 1-5: Bronze axes[edit|edit source]
+
+Smith bronze axes by using bronze bars and a hammer at an anvil until level 5, giving 12.5 experience each. Smithing bronze axes at the anvil south of Varrock west bank gives experience rates of 13,500 Smithing XP per hour.
+- Starting experience : 0
+- Experience required: 388
+- Ending experience: 400
+- Bronze bars required: 32
+- Input cost: 3,008
+- Output: 3,040
+- Profit: 32 ( 1 each)
+- High alchemy ( 55 ) profit: −6,016 ( −188 each)
+
+## Level 5-9: Bronze scimitars[edit|edit source]
+
+At level 5, switch to smithing bronze scimitars from levels 5 to 9 for 2 bars and 25 experience each. Smithing bronze scimitars at the anvil south of Varrock west bank gives experience rates of 25,500 Smithing XP per hour.
+- Starting experience: 400
+- Experience required: 569
+- Ending experience: 975
+- Bronze bars required: 46
+- Input cost: 4,324
+- Output: 1,035
+- Profit: −3,289 ( −143 each)
+- High alchemy ( 55 ) profit: −6,256 coins ( −272 each)
+
+## Level 9-18: Bronze warhammers[edit|edit source]
+
+Smith bronze warhammers from levels 9 to 18 for 3 bars and 37.5 experience each. Smithing bronze warhammers at the anvil south of Varrock west bank gives experience rates of 36,000 Smithing XP per hour.
+- Starting experience: 975
+- Experience required: 2,548
+- Ending experience: 3,523
+- Bronze bars required: 204
+- Input cost: 19,176
+- Output: 1,700
+- Profit: −17,476 ( −257 each)
+- High alchemy ( 55 ) profit: −24,276 coins ( −357 each)
+
+## Level 20-88: Smelting and Crafting[edit|edit source]
+
+Crafting gold jewellry (and silver jewellry ) is a potentially profitable way to train Crafting . If you're already making jewellry, you can use gold ore (or silver ore ) to first make a gold bar (or silver bar ). While this is a significantly slower overall method of training smithing, the marginal time cost of smelting is simply the smelting itself (because you already have to make trips between the bank and furnace anyway). Your effective marginal smelting rate is 1200 bars an hour (one bar every 5 ticks ); or potentially even more, as the increased time per bank trip allows run energy to recover sustainably.
+Item | Levels Required | Materials | Smithing Exp | Marginal Smithing Exp/Hr | Material Cost | Product Value | Profit/Loss
+Unstrung symbol | 20 16 | 1x Silver ore Holy mould (not consumed) | 13.7 | 16,440 | 62 | 93 | 31
+Tiara | 20 23 | 1x Silver ore Tiara mould (not consumed) | 13.7 | 16,440 | 62 | 138 | 76
+Gold ring | 40 5 | 1x Gold ore Ring mould (not consumed) | 22.5 | 27,000 | 131 | 164 | 33
+Gold necklace | 40 6 | 1x Gold ore Necklace mould (not consumed) | 22.5 | 27,000 | 131 | 190 | 59
+Gold amulet (u) | 40 8 | 1x Gold ore Amulet mould (not consumed) | 22.5 | 27,000 | 131 | 174 | 43
+Sapphire ring | 40 20 | 1x Gold ore , 1x Sapphire Ring mould (not consumed) | 22.5 | 27,000 | 345 | 441 | 96
+Sapphire necklace | 40 22 | 1x Gold ore , 1x Sapphire Necklace mould (not consumed) | 22.5 | 27,000 | 345 | 465 | 120
+Sapphire amulet (u) | 40 24 | 1x Gold ore , 1x Sapphire Amulet mould (not consumed) | 22.5 | 27,000 | 345 | 435 | 90
+Emerald ring | 40 27 | 1x Gold ore , 1x Emerald Ring mould (not consumed) | 22.5 | 27,000 | 506 | 646 | 140
+Emerald necklace | 40 29 | 1x Gold ore , 1x Emerald Necklace mould (not consumed) | 22.5 | 27,000 | 506 | 656 | 150
+Emerald amulet (u) | 40 31 | 1x Gold ore , 1x Emerald Amulet mould (not consumed) | 22.5 | 27,000 | 506 | 569 | 63
+Ruby ring | 40 34 | 1x Gold ore , 1x Ruby Ring mould (not consumed) | 22.5 | 27,000 | 930 | 1,034 | 104
+Ruby necklace | 40 40 | 1x Gold ore , 1x Ruby Necklace mould (not consumed) | 22.5 | 27,000 | 930 | 1,091 | 161
+Ruby amulet (u) | 40 50 | 1x Gold ore , 1x Ruby Amulet mould (not consumed) | 22.5 | 27,000 | 930 | 1,082 | 152
+Diamond ring | 40 43 | 1x Gold ore , 1x Diamond Ring mould (not consumed) | 22.5 | 27,000 | 1,776 | 1,918 | 142
+Diamond necklace | 40 56 | 1x Gold ore , 1x Diamond Necklace mould (not consumed) | 22.5 | 27,000 | 1,776 | 1,986 | 210
+Diamond amulet (u) | 40 70 | 1x Gold ore , 1x Diamond Amulet mould (not consumed) | 22.5 | 27,000 | 1,776 | 1,879 | 103
+Based on this marginal 1200 bars per hour, we have the following experience and cost table:
+Input Ore | Level Required | Output Bar | Experience | Bars/Hour | Exp/Hour | GP/Hour | GP/Exp
+Silver ore | 20 | Silver bar | 13.7 | 1200 | 16,440 | 32,400 | 1.62
+Gold ore | 40 | Gold bar | 22.5 | 1200 | 27,000 | −31,200 | -1.16
+
+## Level 70-99: Superheat Item[edit|edit source]
+
+Players with level 43 can cast superheat item , which can smelt a bar from anywhere at its normal ore cost, plus 1 nature rune and 4 fire runes (no fire runes are necessary with a staff of fire equipped). This saves time travelling between the furnace and bank. Also, it only has a 3 tick cast time (1.8 seconds) rather than the standard 5 ticks (3 seconds) it takes to smelt a bar in a furnace. As such, it can process more bars per hour, earning Magic experience in addition to the normal Smithing xp. As a bonus, it successfully smelts iron bars 100% of the time, without needing a ring of forging .
+One disadvantage of superheat item is that it does not auto-cast if you have the supplies to make multiple bars; it must be cast on each ore in the inventory, making this method more click intensive.
+While this method is still considerably slower at gaining experience than the fastest experience mentioned above, it can be more cost effective.
+Bar | Levels Required | Experience Per Bar | Materials required | Input cost | GE Price | Profit Per Bar | Bars Per Bank | Banks Per Hour | Bars Per Hour | Experience Per Hour | Profit Per Hour | Coins Profit Per Exp
+ | Bronze bar | 1 43 | 6.2 53 | ×1 ×1 ×1 | 163 | 94 | −69 | 13 | 131 | 1,703 | 10,559 90,259 | −117,507 | -11.13
+ | Iron bar | 15 43 | 12.5 53 | ×1 ×1 | 240 | 192 | −48 | 27 | 68 | 1,836 | 22,950 97,308 | −88,128 | -3.84
+ | Silver bar | 20 43 | 13.67 53 | ×1 ×1 | 165 | 89 | −76 | 27 | 68 | 1,836 | 25,098 97,308 | −139,536 | -5.56
+ | Steel bar | 30 43 | 17.5 53 | ×1 ×2 ×1 | 618 | 546 | −72 | 9 | 178 | 1,602 | 28,035 84,906 | −115,344 | -4.11
+ | Gold bar | 40 43 | 22.5 53 | ×1 ×1 | 234 | 105 | −129 | 27 | 68 | 1,836 | 41,310 97,308 | −236,844 | -5.73
+ | Mithril bar | 50 43 | 30 53 | ×1 ×4 ×1 | 992 | 850 | −142 | 5 | 277 | 1,385 | 41,550 73,405 | −196,670 | -4.73
+ | Adamantite bar | 70 43 | 37.5 53 | ×1 ×6 ×1 | 1,986 | 1,837 | −149 | 3 | 383 | 1,149 | 43,088 60,897 | −171,201 | -3.97
+ | Runite bar | 85 43 | 50 53 | ×1 ×8 ×1 | 11,786 | 12,330 | 544 | 3 | 383 | 1,149 | 57,450 60,897 | 625,056 | 10.88
+This table assumes a staff of fire is equipped and each cycle takes ~4 seconds for banking.
+
+## Level 98-99: Smithing Rune Equipment[edit|edit source]
+
+Using a dwarven stout , players can boost from 98 to 99 Smithing and smith rune platelegs , rune plateskirts , and rune 2h swords as a potentially profitable alternative to adamant/rune platebodies. One dwarven stout must be drank every minute to maintain 99 Smithing from 98; this adds a cost of approximately one dwarven stout per 45 runite bars , or roughly 3.02 per bar. Currently, the most profitable 3 bar rune item to smith when selling on the Grand Exchange is Rune 2h sword . If casting High Level Alchemy after smithing, it does not matter whether rune platelegs , rune plateskirts , or rune 2h swords are made, as they have the same High Level Alchemy value.
+Experience rates of approximately 215,000 Smithing experience per hour can be obtained from equipment made with 3 runite bars .
+- Starting experience: 11,805,787.5
+- Experience required: 1,228,643.5
+- Runite bars required: 16,383
+- Most profitable: Rune 2h sword
+- Input cost (bars and stouts): 202,051,903.07
+- Output: 206,840,836
+- Profit: 4,788,932.93 ( 876.93 each)
+- High alchemy ( 55 ) profit: 7,088,013.93 ( 1,297.93 each)
+
+## AFK Methods[edit|edit source]
+
+
+## Level 1-99: Smelting Bars[edit|edit source]
+
+As stated at the start of this guide, if you are just looking to make money or train smithing as fast as possible, it is usually better to train smithing using the faster methods above and use the time saved on faster money makers. However, smelting bars can be a good method for players looking for an AFK method that also generates a profit. Be sure to check the GE before making any bars to make sure you will be making a profit instead of a loss. To use this method, it is recommended that you bank a large number of ores ahead of time: either by purchasing them from the GE, or mining them yourself if you don't have any gold or want the mining experience. Then head to the Edgeville Furnace as it is the closest furnace to a bank in free-to-play.
+Consult the following table to see profits from smelting bars:
+Bar | Level | Experience | Ore required | Input cost | GE Price | Profit
+ | Bronze bar | 1 | 6.2 | ×1 ×1 | 60 | 94 | 34
+ | Iron bar | 15 | 12.5 | ×1 | 137 144.24 [ 1 ] | 192 | -41.00 47.76 [ 1 ]
+ | Silver bar | 20 | 13.67 | ×1 | 62 | 89 | 27
+ | Steel bar | 30 | 17.5 | ×1 ×2 | 515 | 546 | 31
+ | Gold bar | 40 | 22.5 | ×1 | 131 | 105 | −26
+ | Mithril bar | 50 | 30 | ×1 ×4 | 889 | 850 | −39
+ | Adamantite bar | 70 | 37.5 | ×1 ×6 | 1,883 | 1,837 | −46
+ | Runite bar | 85 | 50 | ×1 ×8 | 11,683 | 12,330 | 647
+- ^ 1.0 1.1 1.2 This is based on using the Ring of forging for smelting, guaranteeing successful smelting of iron.
+
+## Level 14+: Barronite Deposits[edit|edit source]
+
+With 14 Mining and 14 Smithing , barronite deposits can be mined from barronite rocks in the Camdozaal Mines after completing the quest Below Ice Mountain . Using them on the special barronite crusher anvil near Ramarno with a hammer yields various rewards, including barronite shards and 30 Smithing experience. This method generates very slow smithing experience since the deposits are untradeable and must be mined before crushing. If you are also trying to AFK train Mining in Camdozaal, crushing deposits can be a good way to generate some additional Smithing experience, otherwise it is better to use any of the other methods in this guide. Since Smithing experience is directly tied to how quickly barronite deposits can be mined, a higher Mining level will lead to higher Smithing experience rates.
+If using this method, the best technique is to keep a hammer and the highest tier pickaxe you can in your inventory and mine the barronite rocks until your inventory is full. If you have a high enough Attack level, wielding your pickaxe will give you an extra inventory slot for a deposit, however it is better to carry a higher tier pickaxe in your inventory than wielding a lower tier one. Once your inventory is full of deposits, head to the barronite crusher and crush all of the deposits for Smithing experience. You can drop any items you get from the deposits, or bank them at the bank chest east of Ramarno; however, since barronite shards stack, it is easiest just to leave them in your inventory for the entire session and use them to purchase buffs from Ramarno. The mining and boost buffs will increase your experience rates, and the luck buff will increase the odds of finding rare ancient artefacts when crushing deposits.
+v t e Skill training guides
+Free-to-play guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft
+Members' guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ironman guides | Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ultimate Ironman guides | Item management Equipment Quests Minigames Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+General guidelines | Efficiency
+- v
+- t
+- e
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Item management
+- Equipment
+- Quests
+- Minigames
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Efficiency
+v t e Free-to-play guides
+Skills | Combat Melee Ranged Magic Defence Prayer Hitpoints Gathering Mining Fishing Woodcutting Processing Crafting Smithing Cooking Firemaking Runecraft | Combat | Melee Ranged Magic Defence Prayer Hitpoints | Gathering | Mining Fishing Woodcutting | Processing | Crafting Smithing Cooking Firemaking Runecraft
+Combat | Melee Ranged Magic Defence Prayer Hitpoints
+Gathering | Mining Fishing Woodcutting
+Processing | Crafting Smithing Cooking Firemaking Runecraft
+Achievements | Quests Quests list Quest rewards Optimal quest guide Other Adventure Paths Collection log Combat Achievements Steam Achievements | Quests | Quests list Quest rewards Optimal quest guide | Other | Adventure Paths Collection log Combat Achievements Steam Achievements
+Quests | Quests list Quest rewards Optimal quest guide
+Other | Adventure Paths Collection log Combat Achievements Steam Achievements
+Account builds | Account builds Ironman guide Combat pure guide
+Miscellaneous | Free-to-play PvP Clues Bestiary Food Music Money making guide Transportation guide Closest points of interest Cosmetic items
+- v
+- t
+- e
+Combat | Melee Ranged Magic Defence Prayer Hitpoints
+Gathering | Mining Fishing Woodcutting
+Processing | Crafting Smithing Cooking Firemaking Runecraft
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Mining
+- Fishing
+- Woodcutting
+- Crafting
+- Smithing
+- Cooking
+- Firemaking
+- Runecraft
+Quests | Quests list Quest rewards Optimal quest guide
+Other | Adventure Paths Collection log Combat Achievements Steam Achievements
+- Quests list
+- Quest rewards
+- Optimal quest guide
+- Adventure Paths
+- Collection log
+- Combat Achievements
+- Steam Achievements
+- Account builds
+- Ironman guide
+- Combat pure guide
+- Free-to-play
+- PvP
+- Clues
+- Bestiary
+- Food
+- Music
+- Money making guide
+- Transportation guide
+- Closest points of interest
+- Cosmetic items

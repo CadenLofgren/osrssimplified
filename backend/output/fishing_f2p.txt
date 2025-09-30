@@ -1,0 +1,571 @@
+--- Skill: Fishing (F2P) ---
+
+Free-to-play Fishing training
+Fishing training
+This article is about the free-to-play guide. For the members' guide, see
+Pay-to-play Fishing training
+.
+There are several ways to train
+Fishing
+in
+free-to-play
+. Depending on the desired goals of the player, they can choose between methods favouring experience rates or profit. If you choose to go with making a profit, be sure to sell your catch at the
+Grand Exchange
+and not a General store in order to maximize your profits. Keep in mind, since the
+Grand Exchange
+acts as an in-game stock market, that means the prices are always changing. You can find the latest prices on the
+Grand Exchange
+here
+.
+Contents
+1
+Methods with the highest experience rates
+1.1
+Levels 1–20 – Raw shrimps and raw anchovies
+1.2
+Alternative for levels 5–20 – raw sardines and raw herring
+1.3
+Levels 20–40/99 – Raw trout and raw salmon
+2
+Profitable methods
+2.1
+Levels 15–39 – Raw shrimps/anchovies
+2.2
+Levels 40–49 – Raw lobster
+2.3
+Levels 50–99 – Raw tuna/swordfish
+3
+Other methods
+3.1
+Levels 7/20/33–99 – Ruins of Camdozaal
+4
+Equipment
+5
+Tradeable fish
+Methods with the highest experience rates
+Levels 1–20 – Raw shrimps and raw anchovies
+Fishing
+raw shrimps
+and
+raw anchovies
+with a
+small fishing net
+at a
+net fishing
+location is the fastest way to train fishing at level 1 with experience rates of 1,500–3,000 experience per hour. The
+small net fishing spot
+is the only possible fishing location at level 1. Players must reach level 15 Fishing before there is a chance for them to receive a raw anchovy while fishing, which will increase their experience rates to around 7,500 experience per hour. To achieve the most optimal experience rates, players would want to drop the caught fish, instead of banking. Alternatively, the raw fish can be cooked for small amounts of
+Cooking
+experience. If planning on banking the fish, players should fish at
+Al Kharid
+, due to its proximity to a bank, however there is an aggressive level 14
+scorpion
+that occasionally wanders near the southern fishing spots. Another spot to bank the fish is south of the bank in
+Draynor Village
+, next to the willow trees, though beware of aggressive level 7
+Dark Wizards
+. For players that don't want to have to deal with combat, and want to sell the fish, the fishing spot South-West of
+Port Sarim
+is ideal as it is a somewhat short run away from
+Gerrant's Fishy Business.
+Alternative for levels 5–20 – raw sardines and raw herring
+Fishing
+raw sardine
+and
+raw herring
+with a
+fishing rod
+and
+bait
+at a
+bait fishing
+location is the fastest way to train fishing until level 20 with experience rate of 3,000-8,000 experience per hour (when herring is unlocked it is 8,000). The
+small net fishing spot
+is the ideal place to fish. Players who reach level 20 fishing can move to fishing
+trout
+for faster experience per hour.
+Levels 20–40/99 – Raw trout and raw salmon
+Fishing
+raw trout
+and
+raw salmon
+with a
+fly fishing rod
+at a
+fly fishing
+location and dropping it offers the fastest way to train Fishing to 99 as a free-to-play. At level 20, players can expect to achieve around ~15k Fishing XP/hour while dropfishing. Players must reach level 30 Fishing before there is a chance for them to receive a raw salmon while fishing, which will increase their experience rates to ~33k Fishing XP/hour while dropfishing at higher Fishing levels. Fly fishing can be done in
+Lumbridge
+, and
+Barbarian Village
+, and consumes a
+feather
+per every fish caught. Around 600 feathers would be consumed from levels 20–40, and 225,000 feathers from 20–99.
+At the expense of experience per hour, players can cook their raw fish on the permanent fire in
+Barbarian Village
+next to the fishing spot, providing them with Cooking experience and a food source if players choose to bank the cooked fish.
+Method #1: Fly fish at Barbarian Village, cook at Barbarian Village permanent fire, bank cooked fish at Ferox Enclave (57 Woodcutting needed for waka canoe, canoe from Barbarian Village to Ferox Enclave for banking, and canoe back to Barbarian Village to fish): ~18 k Fishing XP/hour & ~24 k Cooking XP/hour
+Method #2: Fly fish at Barbarian Village, bank raw fish at Ferox Enclave (57 Woodcutting needed for waka canoe, canoe from Barbarian Village to Ferox Enclave for banking, and canoe back to Barbarian Village to fish): ~26 k Fishing XP/hour
+Method #3: Fly fish at Barbarian Village, cook at Barbarian Village permanent fire, drop cooked fish: ~23.5 k Fishing XP/hour & ~31 k Cooking XP/hour.
+Alternatively, players can bring an axe and tinderbox to Lumbridge, chop some logs near the fishing spot and make a fire at the fishing spot. They can use the fire to cook the fish directly after catching them (and then click the spot to continue fishing). The cooked fish could be used for
+tick manipulation
+by eating them, resulting in significantly higher experience rates (~80k Fishing XP/hour) at the cost of increased intensity.
+Profitable methods
+Levels 15–39 – Raw shrimps/anchovies
+Raw shrimps
+are sold for
+73
+.
+Raw anchovies
+are sold for
+23
+. Drop the cheaper fish you catch, banking only the other. 
+Expect to catch between 150 and 280 fish an hour between levels 15 and 39.
+Catching 150-280 shrimp an hour has a profit range of
+10,950
+to
+20,440
+.
+Catching 150-280 anchovies an hour has a profit range of
+3,450
+to
+6,440
+.
+The best place to catch them is
+Draynor Village
+, but if under
+combat level
+15 one of the
+Dark wizards
+may attack.
+Levels 40–49 – Raw lobster
+For the full guide on catching lobsters, see
+here
+.
+Fish
+raw lobsters
+at
+Musa Point
+. Players can expect to make
+20,300
+and 12,600 Fishing experience per hour. To bank the caught raw lobsters, use the boat to travel to
+Port Sarim
+, costing 30 coins  one way. In Port Sarim, walk to the docks with the monks and use the
+bank deposit
+to deposit the raw lobsters. If you have completed both
+The Corsair Curse
+and
+Dragon Slayer I
+, you can also use the
+Corsair Cove Resource Area
+to avoid paying the fare back and forth to use the deposit box.
+Levels 50–99 – Raw tuna/swordfish
+For the full guide on catching tuna/swordfish, see
+here
+.
+Fish at the
+harpoon spot
+at
+Musa Point
+. Players can expect to make
+18,837
+and 17,160 Fishing experience per hour.
+Alternatives:
+More clicks: Drop the
+raw swordfish
+(
+117
+each), since they are worth a lot less than
+raw tuna
+(
+83
+each).
+Less walking and coins, more experience per hour: Sell fish at the
+Karamja General Store
+.
+More total experience and clicks, less walking and coins: Cook the fish after caught.
+An
+axe
+can be wielded to save an inventory slot.
+Logs can be obtained from trees near the charter ship.
+A
+tinderbox
+can be brought or purchased at the Karamja General Store for 1 coin.
+Depending on the amount, trading burnt fish at the Karamja General Store (0 coins) can be quicker than dropping them one at a time.
+Other methods
+Levels 7/20/33–99 – Ruins of Camdozaal
+After the completion of
+Below Ice Mountain
+, players can fish in the
+Ruins of Camdozaal
+. This is generally slower to train Fishing than fishing for trout and salmon (even when dropping Camdozaal fish) but this method will also help train both
+Cooking
+and
+Prayer
+. In other words, this training method is only recommended if you plan on training Prayer.
+It requires 7
+Fishing
+and 7
+Cooking
+to fish and prepare
+guppy
+.  Having 33 Fishing and 33 Cooking are needed to fish and prepare
+tetra
+, which provide the most prayer experience among the free-to-play fish. Tetra stop ruining at Cooking level 61. However, players can stop ruining tetra around level 54 Cooking if they purchase the
+Preparation buff
+from
+Ramarno's Shard Exchange
+for 2500
+Barronite shards
+. Purchasing the
+Fishing
+and
+Preparation
+buffs from
+Ramarno
+'s
+shard exchange
+slightly increases the experience rates for lower Fishing and Cooking levels respectively.
+Use a
+small fishing net
+to catch fish in the
+fishing spot
+nearby. A small fishing net is provided in the space north of the preparation table and altar.
+Prepare these fish at the
+preparation table
+using a
+knife
+. You'll gain Cooking experience. A knife lies on the floor nearby the table.
+Offer the prepared fish at the altar for Prayer experience.
+Experience rates per hour are 5,600 Fishing, 7,400 Cooking, and 2,400 Prayer or less when offering all fish types (only possible at Level 61+ cooking, when tetra stop ruining) with decent efficiency.
+Fish
+Fishing
+Cooking
+Prayer
+Level
+Exp
+Level
+Exp
+Level
+Exp
+Guppy
+7
+8
+7
+12
+1
+4
+Cavefish
+20
+16
+20
+23
+1
+7
+Tetra
+33
+24
+33
+31
+1
+10
+Equipment
+Depending on the method,
+Fishing
+uses one or two types of items; divided into tools and consumables. Consumables are used up at the rate of one item for each fish caught and are
+stackable
+, while the tools are non-stackable and reusable.
+Method
+Tools
+Bait
+Net fishing
+Small fishing net
+N/A
+Bait fishing
+Fishing rod
+Fishing bait
+Fly fishing
+Fly fishing rod
+Feather
+Lobster pots
+Lobster pot
+N/A
+Harpooning
+Harpoon
+N/A
+Tradeable fish
+Fish
+Fishing
+Cooking
+Caught with
+Heals
+GE
+Price
+Level
+Exp
+Level
+Exp
+Raw
+Cooked
+Shrimp
+(
+cooked
+)
+1
+10
+1
+30
+Net
+3
+73
+29
+Sardine
+(
+cooked
+)
+5
+20
+1
+40
+Bait
+4
+59
+41
+Herring
+(
+cooked
+)
+10
+30
+5
+50
+Bait
+5
+251
+60
+Anchovies
+(
+cooked
+)
+15
+40
+1
+30
+Net
+1
+23
+36
+Trout
+(
+cooked
+)
+20
+50
+15
+70
+Fly
+7
+101
+94
+Pike
+(
+cooked
+)
+25
+60
+20
+80
+Bait
+8
+111
+57
+Salmon
+(
+cooked
+)
+30
+70
+25
+90
+Fly
+9
+71
+71
+Tuna
+(
+cooked
+)
+35
+80
+30
+100
+Harpoon
+10
+83
+115
+Lobster
+(
+cooked
+)
+40
+90
+40
+120
+Lobster pot
+12
+145
+208
+Swordfish
+(
+cooked
+)
+50
+100
+45
+140
+Harpoon
+14
+117
+154
+v
+t
+e
+Skill training guides
+Free-to-play guides
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Members' guides
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+Ironman guides
+Money making
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+Ultimate Ironman guides
+Item management
+Equipment
+Quests
+Minigames
+Money making
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+General guidelines
+Efficiency
+v
+t
+e
+Free-to-play guides
+Skills
+Combat
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Gathering
+Mining
+Fishing
+Woodcutting
+Processing
+Crafting
+Smithing
+Cooking
+Firemaking
+Runecraft
+Achievements
+Quests
+Quests list
+Quest rewards
+Optimal quest guide
+Other
+Adventure Paths
+Collection log
+Combat Achievements
+Steam Achievements
+Account builds
+Account builds
+Ironman guide
+Combat pure guide
+Miscellaneous
+Free-to-play
+PvP
+Clues
+Bestiary
+Food
+Music
+Money making guide
+Transportation guide
+Closest points of interest
+Cosmetic items

@@ -1,0 +1,360 @@
+This article gives tips about training the Fletching skill.
+
+## Contents
+
+- 1 Starting off
+- 2 Zero time methods 2.1 Darts 2.2 Bolts
+- 2.1 Darts
+- 2.2 Bolts
+- 3 Semi-zero time methods 3.1 Tipping bolts 3.2 Arrows 3.3 Javelins
+- 3.1 Tipping bolts
+- 3.2 Arrows
+- 3.3 Javelins
+- 4 Vale Totems 4.1 Partial loop 4.2 Full loop
+- 4.1 Partial loop
+- 4.2 Full loop
+- 5 Other methods 5.1 Level 1–5: Headless arrows 5.2 Level 1–5/10: Arrow shafts 5.3 Level 5–99: Bows 5.4 Level 40–80: Battlestaves 5.5 Level 92–99: Redwood shields
+- 5.1 Level 1–5: Headless arrows
+- 5.2 Level 1–5/10: Arrow shafts
+- 5.3 Level 5–99: Bows
+- 5.4 Level 40–80: Battlestaves
+- 5.5 Level 92–99: Redwood shields
+- 2.1 Darts
+- 2.2 Bolts
+- 3.1 Tipping bolts
+- 3.2 Arrows
+- 3.3 Javelins
+- 4.1 Partial loop
+- 4.2 Full loop
+- 5.1 Level 1–5: Headless arrows
+- 5.2 Level 1–5/10: Arrow shafts
+- 5.3 Level 5–99: Bows
+- 5.4 Level 40–80: Battlestaves
+- 5.5 Level 92–99: Redwood shields
+
+## Starting off[edit|edit source]
+
+Early levels can be skipped by completing quests that give Fletching experience . Completing Animal Magnetism , Big Chompy Bird Hunting and Zogre Flesh Eaters will grant a total of 3,262 Fletching experience, which will get the player up to level 18. These quests have few requirements and can be done at a low level. Completing Temple of Ikov and The Fremennik Trials will grant an additional 10,812 Fletching experience, which will get the player up to level 30.
+Quest | Experience reward | Fletching requirement | Other requirements
+Big Chompy Bird Hunting | 262 | 5 | 30 , 30
+Animal Magnetism | 1,000 | - | 18 , 19 , 30 , 35
+Zogre Flesh Eaters | 2,000 | 30 (if fletching your own comp ogre bow ) | 4 , 8 , 30
+The Fremennik Trials | 2,812 | 25 (if crafting your own lyre) | 40 , 40 (if crafting your own lyre)
+Temple of Ikov | 8,000 | - | 42 , 40
+Total | 14,074 | 
+
+## Zero time methods[edit|edit source]
+
+Fletching can be trained entirely while doing other activities, meaning that the skill may be trained passively in "zero time". Activities which involve a lot of running or have downtime, and do not require full inventory space are well-suited for Fletching training, such as questing, training Agility, training Hunter (excluding black salamanders and black chinchompas), farm runs, training Slayer, subduing Wintertodt etc.
+
+## Darts[edit|edit source]
+
+Fletching darts is arguably the most feasible option for zero time training. Fletching them only requires two clicks per a set of darts, offers high experience per action, and does not interrupt movement. Dart tips also have a steady supply on the Grand Exchange . However, this method can be expensive and may require a large amount of capital to buy all the dart tips and feathers needed. Most common and usually the cheapest options are amethyst, mithril, or adamant.
+Some methods for Fletching darts include:
+- Simply clicking very quickly between the stack of darts and feathers.
+- Click on the darts or feathers to Use them, then double-click the other item on all subsequent clicks. This will complete the first Use action and immediately highlight the next item to Use again.
+- Playing on the mobile version, using two fingers to quickly tap feathers and dart tips one after another. It is possible to fletch 2–4 sets of darts per tick or more this way. This method is also easier for zero-time as the user's offhand can be used for clicks elsewhere for movement and other actions, whereas a mouse would need to move between the inventory and the rest of the screen.
+- While not useful for zero-time, darts can have a Make-X menu enabled with the in-game settings menu, which allows them to automatically make up to 10 sets of darts per action, for a less click-intensive method.
+The Tourist Trap quest is not required to fletch darts, only for smithing dart tips.
+Note that some players may have to change an account setting to allow two-click dart fletching, as the default setting is to use the crafting menu since the Easter 2023 update .
+Level | Dart | Materials | XP/dart | XP/ buy limit | GE Price
+GP/dart | Profit/dart | GP/XP
+10 |  | Bronze |  | 1.8 | 23,400 | −44 | −30 | -16.67
+22 |  | Iron |  | 3.8 | 49,400 | −55 | −39 | -10.26
+37 |  | Steel |  | 7.5 | 97,500 | −79 | −75 | -10.00
+52 |  | Mithril |  | 11.2 | 224,000 | −102 | −91 | -8.12
+67 |  | Adamant |  | 15 | 300,000 | −194 | −145 | -9.67
+81 |  | Rune |  | 18.8 | 206,800 | −988 | −741 | -39.41
+90 |  | Amethyst |  | 21 | 231,000 | −488 | −134 | -6.38
+95 |  | Dragon |  | 25 | 275,000 | −1,578 | −225 | -9.00
+
+## Bolts[edit|edit source]
+
+Fletching bolts (attaching feathers to unfinished bolts ) works similarly to darts, but it offers less experience per action compared to darts, and some options aren't viable due to low supply or low buy limits.
+Level | Bolts | Materials | XP/bolt | GE Price | Bolts (unf) Volume
+GP/bolt | Profit/bolt | GP/XP
+9 |  | Bronze |  | 0.5 | −25 | −22 | -44.00 | 127,366
+24 |  | Blurite |  | 1 | N/A | N/A | N/A | N/A
+39 |  | Iron |  | 1.5 | −25 | −9 | -6.00 | 100,322
+43 |  | Silver |  | 2.5 | −13 | −6 | -2.40 | 73,168
+46 |  | Steel |  | 3.5 | −61 | −9 | -2.57 | 243,885
+54 |  | Mithril |  | 5 | −77 | −8 | -1.60 | 157,347
+55 |  | Broad [ 1 ] |  | 3 | −58 | 8 | 2.67 | 461,598
+61 |  | Adamant |  | 7 | −192 | 0 | 0.00 | 3,231,636
+69 |  | Rune |  | 10 | −193 | −24 | -2.40 | 2,164,202
+84 |  | Dragon |  | 12 | −2,753 | 68 | 5.67 | 4,091,469
+- ^ Requires the broader fletching Slayer Reward .
+
+## Semi-zero time methods[edit|edit source]
+
+Some methods of Fletching training can be done running or in between other activities but create products at a constant rate, rather than darts or bolts which give experience every two clicks and can be made quickly. The actions are done every two game ticks (1.2 seconds) and in sets of 10 or 15, requiring periodic requeueing to make another set. These methods open a dialogue window upon creation which can delay the actions, making them less feasible for actions like Agility where there is constant interruption, but are still useful.
+
+## Tipping bolts[edit|edit source]
+
+Some options are not viable due to low supply, low trade volume of material or product, or low buy limits, and often require a large amount of capital.
+Level | Bolts | Materials | XP/bolt | XP/h [ 1 ] | GE Price | Sell Volume
+GP/bolt | Profit/bolt | GP/XP
+11 |  | Opal-tipped bronze |  | 1.6 | 48,000 | −33 | 2 | 1.25 | 167,650
+26 |  | Jade-tipped blurite [ 2 ] |  | 2.4 | 72,000 | −15 | −15 | -6.25 | N/A
+41 |  | Pearl-tipped iron |  | 3.2 | 96,000 | −90 | 4 | 1.25 | 120,891
+48 |  | Red topaz-tipped steel |  | 3.9 | 120,000 | −531 | 60 | 15.38 | 193,632
+51 |  | Barb-tipped bronze |  | 9.5 | 285,000 | −84 | 0 | 0.00 | 271,029
+56 |  | Sapphire-tipped mithril |  | 4.7 | 141,000 | −76 | 11 | 2.34 | 324,794
+58 |  | Emerald-tipped mithril |  | 5.5 | 165,000 | −119 | 15 | 2.73 | 1,165,975
+63 |  | Ruby-tipped adamant |  | 6.3 | 189,000 | −287 | 33 | 5.24 | 2,085,194
+65 |  | Diamond-tipped adamant |  | 7 | 210,000 | −360 | 29 | 4.14 | 2,844,210
+71 |  | Dragonstone-tipped runite |  | 8.2 | 246,000 | −745 | 29 | 3.54 | 2,150,738
+73 |  | Onyx-tipped runite |  | 9.4 | 282,000 | −8,250 | 197 | 20.96 | 1,362,349
+76 |  | Amethyst-tipped broad [ 3 ] |  | 10.6 | 318,000 | −284 | 1 | 0.09 | 718,464
+- ^ Assumes 3,000 actions of 10 per hour.
+- ^ Blurite bolts in all forms are untradeable.
+- ^ Requires the broader fletching slayer reward .
+Adding tips to dragon bolts can be more profitable, but requires a large amount of capital, and some options are not viable due to low supply, low trade volume of material or product, or low buy limits.
+Level | Dragon bolts | Materials | XP/bolt | XP/h [ 1 ] | GE Price | Sell Volume
+GP/bolt | Profit/bolt | GP/XP
+84 |  | Opal |  | 1.6 | 48,000 | −2,851 | 175 | 109.38 | 12,131
+ | Jade |  | 2.4 | 72,000 | −2,851 | −603 | -251.25 | 697
+ | Pearl |  | 3.2 | 96,000 | −2,895 | −1,199 | -374.69 | 262
+ | Red Topaz |  | 4 | 120,000 | −3,300 | −1,372 | -343.00 | 1,160
+ | Sapphire |  | 4.7 | 141,000 | −2,828 | 85 | 18.09 | 16,691
+ | Emerald |  | 5.5 | 165,000 | −2,871 | −300 | -54.55 | 259
+ | Ruby |  | 6.3 | 189,000 | −2,916 | 121 | 19.21 | 1,183,145
+ | Diamond |  | 7 | 210,000 | −2,989 | 138 | 19.71 | 858,893
+ | Dragonstone |  | 8.2 | 246,000 | −3,397 | 182 | 22.20 | 48,846
+ | Onyx |  | 9.4 | 282,500 | −10,902 | −69 | -7.34 | 372
+- ^ Assumes 3,000 actions of 10 per hour.
+
+## Arrows[edit|edit source]
+
+Level | Arrow | Materials | XP/arrow | XP/h [ 1 ] | GE Price
+GP/arrow | Profit/arrow | GP/XP
+1 |  | Headless |  | 1 | 45,000 | −4 | 9 | 9.00
+1 |  | Bronze |  | 1.3 | 58,500 | −16 | −13 | -10.00
+15 |  | Iron |  | 2.5 | 112,500 | −20 | −11 | -4.40
+30 |  | Steel |  | 5 | 225,000 | −40 | −21 | -4.20
+45 |  | Mithril |  | 7.5 | 337,500 | −59 | −45 | -6.00
+52 |  | Broad [ 2 ] |  | 10 | 450,000 | −68 | N/A | -6.80
+60 |  | Adamant |  | 10 | 450,000 | −110 | −74 | -7.40
+75 |  | Rune |  | 12.5 | 562,500 | −263 | −115 | -9.20
+82 |  | Amethyst |  | 13.5 | 607,500 | −267 | 6 | 0.44
+90 |  | Dragon |  | 15 | 675,000 | −2,318 | −11 | -0.73
+- ^ Assumes 3,000 actions per hour.
+- ^ Requires the broader fletching Slayer reward .
+
+## Javelins[edit|edit source]
+
+Level | Javelin | Materials | XP/ javelin | XP/h [ 1 ] | XP/h (3-tick) [ 2 ] | GE Price | Jav. heads Volume
+GP/javelin | Profit/javelin | GP/XP
+3 |  | Bronze |  | 1 | 45,000 | 60,000 | −43 | −21 | -21.00 | 3,050
+17 |  | Iron |  | 2 | 90,000 | 120,000 | −36 | −32 | -16.00 | 6,640
+32 |  | Steel |  | 5 | 225,000 | 300,000 | −81 | −77 | -15.40 | 3,915
+47 |  | Mithril |  | 8 | 360,000 | 480,000 | −164 | −152 | -19.00 | 3,762
+62 |  | Adamant |  | 10 | 450,000 | 600,000 | −341 | −287 | -28.70 | 24,721
+77 |  | Rune |  | 12.4 | 558,000 | 744,000 | −531 | −368 | -29.68 | 5,249,351
+84 |  | Amethyst |  | 13.5 | 607,500 | 810,000 | −771 | −572 | -42.37 | 621,478
+92 |  | Dragon |  | 15 | 675,000 | 900,000 | −857 | −12 | -0.80 | 2,951,016
+- ^ Assumes 3,000 actions of 15 per hour.
+- ^ Assumes 4,000 actions of 15 per hour. The first 2 sets of javelins are made in rapid succession, so restarting the cycle every time 2 sets are made, will allow players to increase actions and xp gained per hour.
+
+## Vale Totems[edit|edit source]
+
+Vale Totems is a Fletching minigame that offers significantly more experience per log than fletching alone. Participating requires completion of the Vale Totems miniquest .
+Eight totem sites can be found scattered around Auburn Valley . Each totem must be carved using a log and knife , then decorated with 4 fletching products of the same type of wood. Oak , willow , maple , yew , magic , and redwood logs can be used, and the supported decorations are shortbows , longbows , their unstrung variants , crossbow stocks , shields , and (in the case of redwood) hiking staves .
+The numbers below assume that a player is starting only with logs on each loop, and fletching/stringing during the run to the first totem. A fletching knife reduces the time it takes to fletch a bow from 3 ticks to 2. A bow string spool allows for stringing bows with the use of only one additional inventory space, though the extra time required for stringing reduces overall XP/hr.
+
+## Partial loop[edit|edit source]
+
+Players who haven't yet acquired a log basket only have enough inventory space to build 5 totems per loop. 25 logs are required per loop.
+Note that with yew logs and above, partial loops will be constrained by the time it takes totems to degrade.
+Level | Bow | XP/Loop | GP/Loop | GP/XP | Time/Loop | XP/h | GP/h
+ |  |  |  |  | 
+20 |  | Oak shortbow (u) | 1,358 | −1,250 | -0.92 | 03:00 | 02:40 | 27,150 | 30,544 | −25,000.00 | −28,125.00
+20 |  | Oak shortbow | 1,440 | −2,590 | -1.80 | 03:20 | 03:00 | 25,920 | 28,800 | −46,620.00 | −51,800.00
+25 |  | Oak longbow (u) | 1,400 | −1,250 | -0.89 | 03:00 | 02:40 | 28,000 | 31,500 | −25,000.00 | −28,125.00
+25 |  | Oak longbow | 1,525 | −2,590 | -1.70 | 03:20 | 03:00 | 27,450 | 30,500 | −46,620.00 | −51,800.00
+35 |  | Willow shortbow (u) | 3,307 | −1,150 | -0.35 | 03:00 | 02:40 | 66,130 | 74,396 | −23,000.00 | −25,875.00
+35 |  | Willow shortbow | 3,473 | −2,490 | -0.72 | 03:20 | 03:00 | 62,514 | 69,460 | −44,820.00 | −49,800.00
+40 |  | Willow longbow (u) | 3,348 | −1,150 | -0.34 | 03:00 | 02:40 | 66,950 | 75,319 | −23,000.00 | −25,875.00
+40 |  | Willow longbow | 3,555 | −2,490 | -0.70 | 03:20 | 03:00 | 63,990 | 71,100 | −44,820.00 | −49,800.00
+50 |  | Maple shortbow (u) | 5,290 | −525 | -0.10 | 03:00 | 02:40 | 105,800 | 119,025 | −10,500.00 | −11,812.50
+50 |  | Maple shortbow | 5,540 | −1,865 | -0.34 | 03:20 | 03:00 | 99,720 | 110,800 | −33,570.00 | −37,300.00
+55 |  | Maple longbow (u) | 5,332 | −525 | -0.10 | 03:00 | 02:40 | 106,630 | 119,959 | −10,500.00 | −11,812.50
+55 |  | Maple longbow | 5,623 | −1,865 | -0.33 | 03:20 | 03:00 | 101,214 | 112,460 | −33,570.00 | −37,300.00
+
+## Full loop[edit|edit source]
+
+A log basket allows players to build all eight totems during each loop. 40 logs are required per loop.
+Level | Bow | XP/Loop | GP/Loop | GP/XP | Time/Loop | XP/h | GP/h
+ |  |  |  |  | 
+20 |  | Oak shortbow (u) | 2,172 | −2,000 | -0.92 | 04:30 | 04:10 | 28,960 | 31,277 | −26,666.67 | −28,800.00
+20 |  | Oak shortbow | 2,304 | −4,144 | -1.80 | 05:20 | 05:00 | 25,920 | 27,648 | −46,620.00 | −49,728.00
+25 |  | Oak longbow (u) | 2,240 | −2,000 | -0.89 | 04:30 | 04:10 | 29,867 | 32,256 | −26,666.67 | −28,800.00
+25 |  | Oak longbow | 2,440 | −4,144 | -1.70 | 05:20 | 05:00 | 27,450 | 29,280 | −46,620.00 | −49,728.00
+35 |  | Willow shortbow (u) | 5,290 | −1,840 | -0.35 | 04:30 | 04:10 | 70,539 | 76,182 | −24,533.33 | −26,496.00
+35 |  | Willow shortbow | 5,557 | −3,984 | -0.72 | 05:20 | 05:00 | 62,514 | 66,682 | −44,820.00 | −47,808.00
+40 |  | Willow longbow (u) | 5,356 | −1,840 | -0.34 | 04:30 | 04:10 | 71,413 | 77,126 | −24,533.33 | −26,496.00
+40 |  | Willow longbow | 5,688 | −3,984 | -0.70 | 05:20 | 05:00 | 63,990 | 68,256 | −44,820.00 | −47,808.00
+50 |  | Maple shortbow (u) | 8,464 | −840 | -0.10 | 04:30 | 04:10 | 112,853 | 121,882 | −11,200.00 | −12,096.00
+50 |  | Maple shortbow | 8,864 | −2,984 | -0.34 | 05:20 | 05:00 | 99,720 | 106,368 | −33,570.00 | −35,808.00
+55 |  | Maple longbow (u) | 8,530 | −840 | -0.10 | 04:30 | 04:10 | 113,739 | 122,838 | −11,200.00 | −12,096.00
+55 |  | Maple longbow | 8,997 | −2,984 | -0.33 | 05:20 | 05:00 | 101,214 | 107,962 | −33,570.00 | −35,808.00
+65 |  | Yew shortbow (u) | 13,596 | −8,360 | -0.61 | 04:30 | 04:10 | 181,280 | 195,782 | −111,466.67 | −120,384.00
+65 |  | Yew shortbow | 14,136 | −10,504 | -0.74 | 05:20 | 05:00 | 159,030 | 169,632 | −118,170.00 | −126,048.00
+70 |  | Yew longbow (u) | 13,656 | −8,360 | -0.61 | 04:30 | 04:10 | 182,080 | 196,646 | −111,466.67 | −120,384.00
+70 |  | Yew longbow | 14,256 | −10,504 | -0.74 | 05:20 | 05:00 | 160,380 | 171,072 | −118,170.00 | −126,048.00
+80 |  | Magic shortbow (u) | 25,498 | −34,880 | -1.37 | 04:30 | 04:10 | 339,979 | 367,177 | −465,066.67 | −502,272.00
+80 |  | Magic shortbow | 26,165 | −37,024 | -1.42 | 05:20 | 05:00 | 294,354 | 313,978 | −416,520.00 | −444,288.00
+85 |  | Magic longbow (u) | 25,564 | −34,880 | -1.36 | 04:30 | 04:10 | 340,853 | 368,122 | −465,066.67 | −502,272.00
+85 |  | Magic longbow | 26,296 | −37,024 | -1.41 | 05:20 | 05:00 | 295,830 | 315,552 | −416,520.00 | −444,288.00
+90 |  | Redwood hiking staff | 30,388 | −34,720 | -1.14 | 04:30 | 04:10 | 405,173 | 437,587 | −462,933.33 | −499,968.00
+
+## Other methods[edit|edit source]
+
+
+## Level 1–5: Headless arrows[edit|edit source]
+
+A profitable way of training Fletching is to fletch headless arrows using arrow shafts and feathers . This grants 15 experience per action, for 1 experience per headless arrow fletched.
+
+## Level 1–5/10: Arrow shafts[edit|edit source]
+
+The best way to get from level 1 to level 5 is by fletching arrow shafts, which give 5 experience per log.
+Level | Item | XP | XP/h [ 1 ] | Logs for goal | Material cost | Product value | Total profit | GP/XP
+1–5 |  | 5 | 10,000 | 78 | 9,875 | 1,185 | −8,690 | -24.80
+1–10 |  | 5 | 10,000 | 233 | 29,125 | 3,465 | −25,660 | -24.80
+- ^ Assumes ~2,000 actions per hour.
+
+## Level 5–99: Bows[edit|edit source]
+
+Making bows is a slower, less intensive method of training fletching that is usually cheap or profitable. Fletching unstrung bows is more AFK-able but yields less experience per hour, stringing bows is faster but requires paying more attention. Since fletching unstrung bows takes 3-ticks per bow, fletching an inventory takes 48.6 seconds; stringing bows takes 2-ticks per bow which makes an inventory take 16.8 seconds to string. If using the Fletching knife to fletch unstrung bows, expect close to the same xp rates as stringing, as the knife fletches in 2-ticks instead of 3. This results in approximately 2,700 bows fletched per hour, compared to 1,800 without the knife.
+Using a Bow string spool when stringing bows allows 27 bows to be strung per inventory instead of 14, reducing banking. This gives a slight increase to experience per hour (about 3%) but does not significantly change the rates shown in the table.
+Level | Bow | XP | XP/h | # for goal | Material cost | Total profit | GP/XP
+Fletching [ 1 ] | Fletching knife [ 2 ] | Stringing [ 3 ] | Logs | Unstrung bows/String | Fletching | Stringing | Fletching | Stringing
+5–10 |  |  | Short | 5 | 9,000 | 13,500 | 12,250 | 154 | 19,250 | 10,867 | −18,509 | −3,542 | -24.20 | -4.60
+10–20 |  |  | Long | 10 | 18,000 | 27,000 | 24,500 | 332 | 41,500 | 28,220 | −35,524 | −19,256 | -10.70 | -5.80
+20–25 |  |  | Oak short | 16.5 | 29,700 | 44,550 | 40,425 | 205 | 10,250 | 15,580 | −8,405 | −6,355 | -2.48 | -1.88
+25–35 |  |  | Oak long | 25 | 45,000 | 67,500 | 61,250 | 583 | 29,150 | 55,385 | −12,826 | −20,405 | -0.88 | -1.40
+35–40 |  |  | Willow short | 33.3 | 59,940 | 89,910 | 81,585 | 445 | 20,470 | 39,160 | −11,125 | 445 | -0.75 | 0.03
+40–50 |  |  | Willow long | 41.5 | 74,700 | 112,050 | 101,675 | 1,545 | 71,070 | 236,385 | 61,800 | −80,340 | 0.96 | -1.25
+50–55 |  |  | Maple short | 50 | 90,000 | 135,000 | 122,500 | 1,307 | 27,447 | 173,831 | 58,815 | 56,201 | 0.90 | 0.86
+55–65 |  |  | Maple long | 58.3 | 104,940 | 157,410 | 142,835 | 4,851 | 101,871 | 795,564 | 368,676 | 553,014 | 1.30 | 1.96
+65–70 |  |  | Yew short | 67.5 | 121,500 | 182,250 | 165,375 | 4,270 | 892,430 | 1,127,280 | −51,240 | 298,900 | -0.18 | 1.04
+70–80 |  |  | Yew long | 75 | 135,000 | 202,500 | 183,750 | 16,646 | 3,479,014 | 7,241,010 | 2,646,714 | 2,813,174 | 2.12 | 2.25
+80–85 |  |  | Magic short | 83.3 | 149,940 | 224,910 | 203,350 | 15,277 | 13,321,544 | 11,320,257 | −3,024,846 | 244,432 | -2.38 | 0.19
+85–99 |  |  | Magic long | 91.5 | 164,700 | 247,050 | 224,175 | 106,840 | 93,164,480 | 117,737,680 | 17,414,920 | 13,675,520 | 1.78 | 1.40
+- ^ Assumes 1,800 actions per hour.
+- ^ Assumes 2,700 actions per hour.
+- ^ Assumes 2,450 actions per hour.
+
+## Level 40–80: Battlestaves[edit|edit source]
+
+Fletching battlestaves requires one piece of Celastrus bark , and yields 80 experience per bark. Only level 40 is needed to fletch a battlestaff, which makes it a better training method than fletching bows in this level range, but can be more costly. At level 80, players can fletch magic shortbows which yields more experience per action. With a Fletching knife , the XP rates improve significantly.
+Level | Item | XP | XP/h | # for goal | Material cost | Product value | Total profit | GP/XP
+Fletching [ 1 ] | Fletching knife [ 2 ]
+40–80 |  | 80 | 110,000 | 143,000 | 24,361 | 205,874,811 | 200,393,586 | −5,481,225 | -2.81
+- ^ Assumes ~1,375 actions per hour.
+- ^ Assumes ~1,787 actions per hour.
+
+## Level 92–99: Redwood shields[edit|edit source]
+
+Redwood shields are an alternative method to fletching bows. Fletching one shield requires two redwood logs, and gives 216 experience per shield. With a Fletching knife , the XP rates increase substantially.
+Level | Item | XP | XP/h | # for goal | Material cost | Product value | Total profit | GP/XP
+Fletching [ 1 ] | Fletching knife [ 2 ]
+92–99 |  | 216 | 168,000 | 193,000 | 30,173 | 52,380,328 | 21,905,598 | −30,474,730 | -4.68
+- ^ Assumes ~778 actions per hour.
+- ^ Assumes ~893 actions per hour.
+v t e Skill training guides
+Free-to-play guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft
+Members' guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ironman guides | Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ultimate Ironman guides | Item management Equipment Quests Minigames Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+General guidelines | Efficiency
+- v
+- t
+- e
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Item management
+- Equipment
+- Quests
+- Minigames
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Efficiency

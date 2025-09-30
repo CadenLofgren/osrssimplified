@@ -1,0 +1,317 @@
+Herblore training usually involves making potions which can only begin after completing the Druidic Ritual quest granting the player level 3 Herblore. To make a potion, the player will have to gather the required ingredients, usually a herb of some sort along with a secondary ingredient, and use them on a vial of water , blood , or coconut milk .
+The fastest way to train Herblore is to add secondary ingredients to unfinished potions. If the player banks fairly quickly after each inventory of potions, they can expect to make around 2,500 potions per hour.
+A profitable, although slow method to train Herblore is to clean grimy herbs.
+
+## Contents
+
+- 1 Quest experience rewards
+- 2 Starting off
+- 3 Making potions
+- 4 Making barbarian mixes
+- 5 Making tar
+- 6 Herb cleaning 6.1 Degrime
+- 6.1 Degrime
+- 7 Making Guthix rest
+- 8 Level 60+/81+: Mastering Mixology
+- 6.1 Degrime
+
+## Quest experience rewards[edit|edit source]
+
+Quest | Experience reward | Herblore req. | Other requirements
+Druidic Ritual | 250 | - | -
+Jungle Potion | 775 | 3 | -
+Recruitment Drive | 1,000 | - | 12
+Heroes' Quest | 1,325 | 25 | 55 , 53 , 53 , 50
+The Dig Site | 2,000 | 10 | 10 , 25
+Shades of Mort'ton | 2,000 | 15 | 20 , 5
+Zogre Flesh Eaters | 2,000 | 8 | 4 , 30 , 30
+Fairytale II - Cure a Queen | 3,500 | 57 | 40 , 49
+Land of the Goblins | 8,000 | 48 | 38 , 45 , 40
+My Arm's Big Adventure | 10,000 | 31 | 10 , 29
+Eadgar's Ruse | 11,000 | 31 | -
+Grim Tales | 15,000 | 52 | 45 , 58 , 59 , 71
+Song of the Elves | 40,000 | 70 | 70 , 70 , 70 , 70 , 70 , 70 , 70
+While Guthix Sleeps | 75,000 | 65 | 180 , 72 , 67 , 66 , 65 , 40 , 62
+Total | 171,850 | 
+
+## Starting off[edit|edit source]
+
+Completing Jungle Potion , Recruitment Drive and The Dig Site quests will get the player from level 3 to 19.
+Here are some quests that grant Herblore experience which require little or no Herblore stats:
+Quest | Experience reward | Herblore req. | Other requirements
+Druidic Ritual | 250 | - | -
+Jungle Potion | 775 | 3 | -
+Recruitment Drive | 1,000 | - | 12
+The Dig Site | 2,000 | 10 | 10 , 25
+Shades of Mort'ton | 2,000 | 15 | 20 , 5
+Zogre Flesh Eaters | 2,000 | 8 | 4 , 30 , 30
+Total | 8,025 | 
+
+## Making potions[edit|edit source]
+
+ | This is a static calculator. It does not take user inputs, but it does use changing prices from the Grand Exchange Market Watch . If prices appear to be outdated, purge the page by clicking here .
+For more in depth calculations and variations about the cost per experience, see Calculator:Herblore/Potions .
+The most efficient way to gain Herblore experience is to make potions by combining base and secondary ingredients. The fastest Herblore experience is gained by simply making potions that offer the highest experience per hour; however, some slower options can be notably cheaper or even profitable, and should be considered if the player prefers to save money. Some options may also require a lot more capital than others.
+An alchemist's amulet or amulet of chemistry can be used while training Herblore to save significant amounts of money or even make profit in some cases. One charge costs 118.80 or 237.60 , respectively. This results in cost savings when a single dose is worth more than one charge. However, the amulet of chemistry requires more effort to use as it needs to be replaced when crumbled.
+Prescription goggles are also very useful, as they provide a 10% chance to not consume secondary ingredients for most (but not all) potions. This can be especially important if making potions with expensive secondary ingredients, such as Aldarium .
+The table below assumes that the resulting potions are decanted, if possible, into 4 doses before being sold, and takes the GE tax into account. It assumes 2,500 standard 14x14 potions made per hour, 2,750 for 27x1 (such as stamina potions), 2,330 for serum 207s, 2,166 for super combat potions, and 1,833 for forgotten brews and extended anti-venom+. For variable dose potions, ingredient costs assume decanting from the 4 dose precursor potion. Note that knowledge of GE-pricing can have a major effect on profits.
+Serum 207s, stamina potions, extended antifires, anti-venoms and extended super antifire potions can all be manually sped up to 1 tick per potion at the cost of high intensity, allowing players to average 4,583 potions made per hour.
+Level | Potion | Base | Secondary | XP | XP/Hour | Ingredient cost | Profit/Potion [ 1 ] | Profit/XP [ 1 ] | Profit/XP with Amulet of chemistry [ 1 ] | Profit/XP with Alchemist's amulet [ 1 ] | Profit/XP with Prescription goggles [ 1 ] | Profit/XP with Alchemist's amulet and Prescription goggles [ 1 ]
+3 |  | Attack potion |  | Guam potion (unf) |  | Eye of newt | 25 | 62,500 | 461 | -445.25 | -17.81 | -18.27 | -18.49 | -17.79 | -18.48
+5 |  | Antipoison |  | Marrentill potion (unf) |  | Unicorn horn dust | 37.5 | 93,750 | 908 | -587.75 | -15.67 | -15.85 | -15.72 | -14.26 | -14.31
+12 |  | Strength potion |  | Tarromin potion (unf) |  | Limpwurt root | 50 | 125,000 | 988 | -905.50 | -18.11 | -18.32 | -18.38 | -17.46 | -17.74
+15 |  | Serum 207 |  | Tarromin potion (unf) |  | Ashes | 50 | 116,500 | 729 | −708 | -14.16 | -14.39 | -14.50 | N/A | N/A
+22 |  | Compost potion |  | Harralander potion (unf) |  | Volcanic ash | 60 | 150,000 | 1,219 | −1,216 | -20.27 | -20.46 | -20.56 | -20.12 | -20.41
+22 |  | Restore potion |  | Harralander potion (unf) |  | Red spiders' eggs | 62.5 | 156,250 | 1,325 | −1,251.50 | -20.02 | -20.19 | -20.25 | -19.71 | -19.94
+26 |  | Energy potion |  | Harralander potion (unf) |  | Chocolate dust | 67.5 | 168,750 | 1,235 | −1,093.25 | -16.20 | -16.34 | -16.36 | -16.04 | -16.20
+34 |  | Agility potion |  | Toadflax potion (unf) |  | Toad's legs | 80 | 200,000 | 4,019 | −3,725 | -46.56 | -46.65 | -46.60 | -45.81 | -45.85
+36 |  | Combat potion |  | Harralander potion (unf) |  | Goat horn dust | 84 | 210,000 | 1,227 | −1,059.75 | -12.62 | -12.72 | -12.73 | -12.50 | -12.61
+38 |  | Prayer potion |  | Ranarr potion (unf) |  | Snape grass | 87.5 | 218,750 | 8,468 | -309.50 | -3.54 | -2.12 | 0.92 | -3.06 | 1.40
+45 |  | Super attack |  | Irit potion (unf) |  | Eye of newt | 100 | 250,000 | 2,364 | -669.75 | -6.70 | -6.53 | -6.03 | -6.69 | -6.00
+48 |  | Superantipoison |  | Irit potion (unf) |  | Unicorn horn dust | 106.3 | 265,750 | 2,890 | -924.25 | -8.69 | -8.50 | -7.94 | -8.20 | -7.44
+50 |  | Fishing potion |  | Avantoe potion (unf) |  | Snape grass | 112.5 | 281,250 | 3,739 | −3,607 | -32.06 | -32.15 | -32.16 | -31.69 | -31.79
+52 |  | Super energy |  | Avantoe potion (unf) |  | Mort myre fungus | 117.5 | 293,750 | 3,679 | -701.50 | -5.97 | -5.65 | -4.85 | -5.66 | -4.55
+53 |  | Hunter potion |  | Avantoe potion (unf) |  | Kebbit teeth dust | 120 | 300,000 | 4,017 | −1,600.50 | -13.34 | -13.10 | -12.48 | -12.76 | -11.90
+54 |  | Goading potion |  | Harralander potion (unf) |  | Aldarium | 132 | 330,000 | 30,591 | −3,698.25 | -28.02 | -24.71 | -17.97 | -5.70 | 4.35
+55 |  | Super strength |  | Kwuarm potion (unf) |  | Limpwurt root | 125 | 312,500 | 4,068 | -913.50 | -7.31 | -6.98 | -6.19 | -7.05 | -5.93
+58 |  | Prayer regeneration potion |  | Huasca potion (unf) |  | Aldarium | 132 | 330,000 | 37,977 | −3,396 | -25.73 | -21.45 | -12.76 | -3.41 | 9.56
+63 |  | Super restore |  | Snapdragon potion (unf) |  | Red spiders' eggs | 142.5 | 356,000 | 12,422 | −1,032.50 | -7.25 | -6.00 | -3.37 | -7.11 | -3.24
+66 |  | Super defence |  | Cadantine potion (unf) |  | White berries | 150 | 375,000 | 4,199 | −1,010 | -6.73 | -6.46 | -5.79 | -6.44 | -5.50
+69 |  | Antifire potion |  | Lantadyme potion (unf) |  | Dragon scale dust | 157.5 | 393,750 | 2,629 | −1,285 | -8.16 | -8.09 | -7.85 | -8.11 | -7.80
+72 |  | Ranging potion |  | Dwarf weed potion (unf) |  | Wine of zamorak | 162.5 | 406,250 | 4,269 | −1,185 | -7.29 | -7.05 | -6.45 | -6.69 | -5.85
+76 |  | Magic potion |  | Lantadyme potion (unf) |  | Potato cactus | 172.5 | 431,250 | 2,597 | −2,441.75 | -14.16 | -14.21 | -14.21 | -14.13 | -14.19
+77 |  | Stamina potion |  | Super energy(4) |  | Amylase crystal (x4) | 102 | 280,500 (535,500) [ 2 ] | 7,983 | −941 | -9.23 | -9.23 | -9.23 | -5.37 | -5.37
+ | Super energy(3) |  | Amylase crystal (x3) | 76.5 | 210,375  (401,625) [ 2 ] | 5,987.25 | -705.75 | -9.23 | -8.23 | -6.01 | -5.37 | -2.15
+ | Super energy(2) |  | Amylase crystal (x2) | 51 | 140,250 (267,750) [ 2 ] | 3,991.50 | -470.50 | -9.23 | -7.73 | -4.40 | -5.37 | -0.54
+ | Super energy(1) |  | Amylase crystal (x1) | 25.5 | 70,125 (133,875) [ 2 ] | 1,995.75 | -235.25 | -9.23 | -6.24 | 0.43 | -5.37 | 4.29
+80 |  | Bastion potion |  | Cadantine blood potion (unf) |  | Wine of zamorak | 155 | 387,500 | 16,781 | −1,961.75 | -12.66 | -11.14 | -7.99 | -10.65 | -7.36
+80 |  | Battlemage potion |  | Cadantine blood potion (unf) |  | Potato cactus | 155 | 387,500 | 15,840 | −1,341 | -8.65 | -7.17 | -4.09 | -7.64 | -4.07
+81 |  | Saradomin brew |  | Toadflax potion (unf) |  | Crushed nest | 180 | 450,000 | 8,437 | −1,822.75 | -10.13 | -9.58 | -8.39 | -7.34 | -5.60
+81 |  | Surge potion |  | Torstol potion (unf) |  | Demonic tallow | 185 | 462,500 | 4,578 | N/A | N/A | N/A | N/A | -24.61 [ 3 ] | N/A
+84 |  | Extended antifire |  | Antifire potion (4) |  | Lava scale shard (x4) | 110 | 302,500 (577,500) [ 2 ] | 1,964 | −1,167 | -10.61 | N/A | N/A | -10.49 | N/A
+85 |  | Ancient brew |  | Dwarf weed potion (unf) |  | Nihil dust | 190 | 522,500 | 9,595 | −5,962.75 | -31.38 | -31.13 | -30.52 | -28.06 | -27.20
+87 |  | Anti-venom |  | Antidote++(4) |  | Zulrah's scales (x20) | 120 | 330,000 (630,000) [ 2 ] | 8,858 | −1,288 | -10.73 | N/A | N/A | -7.02 | N/A
+ | Antidote++(3) |  | Zulrah's scales (x15) | 90 | 247,500 (495,000) [ 2 ] | 6,643.50 | -966.00 | -10.73 | -9.81 | -7.78 | -7.02 | -4.06
+ | Antidote++(2) |  | Zulrah's scales (x10) | 60 | 165,000 (330,000) [ 2 ] | 4,429 | −644 | -10.73 | -9.35 | -6.30 | -7.02 | -2.58
+ | Antidote++(1) |  | Zulrah's scales (x5) | 30 | 54,990 (109,980) [ 2 ] | 2,214.50 | -322.00 | -10.73 | -7.98 | -1.86 | -7.02 | 1.85
+88 |  | Menaphite remedy |  | Dwarf weed potion (unf) |  | Lily of the sands | 200 | 500,000 | 6,105 | −4,327.50 | -21.64 | -21.55 | -21.28 | N/A | N/A
+90 |  | Super combat potion |  | Super attack (4) Super strength (4) Super defence (4) |  | Torstol | 150 | 324,900 | 14,949 | 489 | 3.26 | N/A | N/A | 5.94 | N/A
+91 |  | Forgotten brew |  | Ancient brew(4) |  | Ancient essence (x80) | 145 | 265,785 | 6,061 | −766 | -5.28 | N/A | N/A | -4.51 | N/A
+ | Ancient brew(3) |  | Ancient essence (x60) | 108 | 197,964 | 4,545.75 | -574.50 | -5.32 | -4.82 | -3.65 | -4.54 | -2.87
+ | Ancient brew(2) |  | Ancient essence (x40) | 72 | 131,976 | 3,030.50 | -383.00 | -5.32 | -4.57 | -2.81 | -4.54 | -2.03
+ | Ancient brew(1) |  | Ancient essence (x20) | 36 | 65,988 | 1,515.25 | -191.50 | -5.32 | -3.81 | -0.30 | -4.54 | 0.48
+92 |  | Super antifire potion |  | Antifire potion (4) |  | Crushed superior dragon bones | 130 | 325,000 | 21,604 | −2,254 | -17.34 | N/A | N/A | -2.13 | N/A
+94 |  | Anti-venom+ |  | Anti-venom (4) |  | Torstol | 125 | 312,500 | 11,739 | 287 | 2.30 | N/A | N/A | 5.51 | N/A
+94 |  | Extended anti-venom+ |  | Anti-venom+(4) |  | Araxyte venom sack (x4) | 80 | 146,640 | 18,343 | −951 | -11.89 | N/A | N/A | -4.30 | N/A
+ | Anti-venom+(3) |  | Araxyte venom sack (x3) | 60 | 109,980 | 13,757.25 | -713.25 | -11.89 | -8.46 | -1.31 | -4.30 | 6.28
+ | Anti-venom+(2) |  | Araxyte venom sack (x2) | 40 | 73,320 | 9,171.50 | -475.50 | -11.89 | -6.75 | 3.97 | -4.30 | 11.56
+ | Anti-venom+(1) |  | Araxyte venom sack (x1) | 20 | 36,660 | 4,585.75 | -237.75 | -11.89 | -1.61 | 19.83 | -4.30 | 27.42
+98 |  | Extended super antifire |  | Super antifire potion (4) |  | Lava scale shard (x4) | 160 | 440,000 (840,000) [ 2 ] | 19,880 | −824 | -5.15 | N/A | N/A | -5.07 | N/A
+98 |  | Extended super antifire |  | Extended antifire (4) |  | Crushed superior dragon bones | 180 | 450,000 | 20,589 | −1,533 | -8.52 | N/A | N/A | 2.47 | N/A
+- ^ 1.0 1.1 1.2 1.3 1.4 1.5 Profit assumes potions made from unfinished potions are decanted into 4 doses.
+- ^ 2.00 2.01 2.02 2.03 2.04 2.05 2.06 2.07 2.08 2.09 Increased experience rate if 1-ticking.
+- ^ The finished pot is untradeable, but its components are tradeable.
+
+## Making barbarian mixes[edit|edit source]
+
+ | This is a static calculator. It does not take user inputs, but it does use changing prices from the Grand Exchange Market Watch . If prices appear to be outdated, purge the page by clicking here .
+Barbarian mixes are generally not made as they are rarely traded and may have low value. It is not recommended to make barbarian mixes unless planning to use them. This calculator assumes buying 4 dose potions and decanting them to 2 dose potions as prices of 2 dose potions are less stable.
+Level | Potion | Base | Secondary | XP | Ingredient cost | Final potion price | Profit/Potion | Profit/XP
+4 |  | Attack mix(2) |  | Attack potion(2) |  | Roe | 8 | 60.50 | 98 | 37.50 | 4.69
+6 |  | Antipoison mix(2) |  | Antipoison(2) |  | Roe | 12 | 267.50 | 195 | -72.50 | -6.04
+9 |  | Relicym's mix(2) |  | Relicym's balm(2) |  | Roe | 14 | 419.50 | 485 | 65.50 | 4.68
+14 |  | Strength mix(2) |  | Strength potion(2) |  | Roe | 17 | 106.00 | 63 | -43.00 | -2.53
+24 |  | Restore mix(2) |  | Restore potion(2) |  | Roe | 21 | 99.50 | 94 | -5.50 | -0.26
+29 |  | Energy mix(2) |  | Energy potion(2) |  | Caviar | 23 | 199.00 | 296 | 97.00 | 4.22
+33 |  | Defence mix(2) |  | Defence potion(2) |  | Caviar | 25 | 408.50 | 81 | -327.50 | -13.10
+37 |  | Agility mix(2) |  | Agility potion(2) |  | Caviar | 27 | 303.00 | 275 | -28.00 | -1.04
+40 |  | Combat mix(2) |  | Combat potion(2) |  | Caviar | 28 | 216.50 | 242 | 25.50 | 0.91
+42 |  | Prayer mix(2) |  | Prayer potion(2) |  | Caviar | 29 | 5,652.50 | 4,822 | -830.50 | -28.64
+47 |  | Superattack mix(2) |  | Super attack(2) |  | Caviar | 33 | 1,255.50 | 171 | −1,084.50 | -32.86
+51 |  | Anti-poison supermix(2) |  | Superantipoison(2) |  | Caviar | 35 | 1,440.00 | 1,442 | 2.00 | 0.06
+53 |  | Fishing mix(2) |  | Fishing potion(2) |  | Caviar | 38 | 192.50 | 103 | -89.50 | -2.36
+56 |  | Super energy mix(2) |  | Super energy(2) |  | Caviar | 39 | 2,128.50 | 2,169 | 40.50 | 1.04
+58 |  | Hunting mix(2) |  | Hunter potion(2) |  | Caviar | 40 | 1,746.50 | 926 | -820.50 | -20.51
+59 |  | Super str. mix(2) |  | Super strength(2) |  | Caviar | 42 | 2,248.50 | 1,715 | -533.50 | -12.70
+61 |  | Magic essence mix(2) |  | Magic essence(2) |  | Caviar | 43 | 103 | 2,281 | 2,178 | 50.65
+67 |  | Super restore mix(2) |  | Super restore(2) |  | Caviar | 48 | 7,850.50 | 2,416 | −5,434.50 | -113.22
+71 |  | Super def. mix(2) |  | Super defence(2) |  | Caviar | 50 | 2,272.00 | 1,391 | -881.00 | -17.62
+74 |  | Antidote+ mix(2) |  | Antidote+(2) |  | Caviar | 52 | 1,112.00 | 1,480 | 368.00 | 7.08
+75 |  | Antifire mix(2) |  | Antifire potion(2) |  | Caviar | 53 | 1,017.00 | 140 | -877.00 | -16.55
+80 |  | Ranging mix(2) |  | Ranging potion(2) |  | Caviar | 54 | 2,200.50 | 1,295 | -905.50 | -16.77
+83 |  | Magic mix(2) |  | Magic potion(2) |  | Caviar | 57 | 208.50 | 108 | -100.50 | -1.76
+85 |  | Zamorak mix(2) |  | Zamorak brew(2) |  | Caviar | 58 | 429.50 | 185 | -244.50 | -4.22
+86 |  | Stamina mix(2) |  | Stamina potion(2) |  | Caviar | 60 | 3,695.50 | 4,092 | 396.50 | 6.61
+91 |  | Extended antifire mix(2) |  | Extended antifire(2) |  | Caviar | 61 | 509.50 | 231 | -278.50 | -4.57
+92 |  | Ancient mix(2) |  | Ancient brew(2) |  | Caviar | 63 | 2,573.50 | 1,344 | −1,229.50 | -19.52
+98 |  | Super antifire mix(2) |  | Super antifire potion(2) |  | Caviar | 70 | 9,975.00 | 2,284 | −7,691.00 | -109.87
+99 |  | Extended super antifire mix(2) |  | Extended super antifire(2) |  | Caviar | 78 | 9,825.00 | 8,545 | −1,280.00 | -16.41
+
+## Making tar[edit|edit source]
+
+An alternative, potentially cheaper method of training Herblore is making tar. This requires fewer clicks than potion making, since twice as many actions are performed before banking and the duration of each action is longer.
+XP per hour is calculated at approximately 78 inventories fully processed per hour. Depending on bank efficiency, actual rates may be less.
+If planning to train Herblore by making tar, it would be wise to buy or stockpile Swamp tar in advance. The buy limit of swamp tar is only 13,000 which is only enough tar to last approximately half an hour before running out.
+Level | Result | Base | Secondary | XP | XP/Hour | Ingredient cost | Cost/XP | Profit/Craft | Profit/XP
+19 |  | Guam tar x15 |  | Guam leaf |  | Swamp tar x15 | 30 | 61,000 | 397 | 13.23 | −322 | -10.73
+31 |  | Marrentill tar x15 |  | Marrentill |  | Swamp tar x15 | 42.5 | 86,000 | 461 | 10.85 | −431 | -10.14
+39 |  | Tarromin tar x15 |  | Tarromin |  | Swamp tar x15 | 55 | 110,000 | 519 | 9.44 | −504 | -9.16
+44 |  | Harralander tar x15 |  | Harralander |  | Swamp tar x15 | 72.5 | 145,000 | 932 | 12.86 | −902 | -12.44
+55 |  | Irit tar x15 |  | Irit leaf |  | Swamp tar x15 | 85 | 170,000 | 2,089 | 37.98 | −1,909 | -34.71
+
+## Herb cleaning[edit|edit source]
+
+ | This is a static calculator. It does not take user inputs, but it does use changing prices from the Grand Exchange Market Watch . If prices appear to be outdated, purge the page by clicking here .
+Cleaning grimy herbs is a slow but easy and profitable method to training Herblore . Since an update on 10 September 2020 , cleaning grimy herbs automatically cleans all herbs in the inventory. Players may choose also choose to use Zahur , an NPC in Nardah , to clean the herbs for them. This will however cost the player GP, resulting in loss instead of profit.
+By using the auto-clean method, you can expect to clean up to 3,000 herbs per hour. Manually clicking on the herbs can easily double the speed of cleaning, and a fast player can expect over 10,000 cleaned herbs per hour, increasing the experience and profit per hour accordingly.
+Tip: Consider cleaning herbs on a touchscreen device as it may be faster or more comfortable for longer durations.
+The following rates assume you are cleaning an average of 10,000 herbs per hour. (Note that using the "auto-clean" feature yields 30% of the below experience rates per hour).
+Level | Herb | Grimy | Clean | Clean XP | Profit | XP/Hour | Profit/Hour
+Icon | Price | Volume | Icon | Price | Volume
+3 | Guam leaf |  | 312 | 391,634 |  | 367 | 1,158,855 | 2.5 | 48 | 25,000 | 480,000
+5 | Marrentill |  | 353 | 315,266 |  | 431 | 577,069 | 3.8 | 70 | 38,000 | 700,000
+11 | Tarromin |  | 389 | 938,570 |  | 489 | 893,184 | 5.0 | 91 | 50,000 | 910,000
+20 | Harralander |  | 805 | 1,358,716 |  | 902 | 1,006,406 | 6.3 | 79 | 63,000 | 790,000
+25 | Ranarr weed |  | 7,527 | 1,916,017 |  | 7,698 | 895,604 | 7.5 | 18 | 75,000 | 180,000
+30 | Toadflax |  | 2,986 | 1,624,365 |  | 3,147 | 910,192 | 8.0 | 99 | 80,000 | 990,000
+40 | Irit leaf |  | 1,962 | 917,928 |  | 2,059 | 416,179 | 8.8 | 56 | 88,000 | 560,000
+48 | Avantoe |  | 2,891 | 878,176 |  | 2,997 | 539,085 | 10.0 | 47 | 100,000 | 470,000
+54 | Kwuarm |  | 3,347 | 904,854 |  | 3,410 | 464,031 | 11.3 | −5 | 113,000 | −50,000
+58 | Huasca |  | 6,342 | 64,879 |  | 6,125 | 50,809 | 11.8 | −339 | 118,000 | −3,390,000
+59 | Snapdragon |  | 11,602 | 732,659 |  | 11,786 | 515,805 | 11.8 | −51 | 118,000 | −510,000
+65 | Cadantine |  | 3,278 | 1,111,640 |  | 3,398 | 402,980 | 12.5 | 53 | 125,000 | 530,000
+67 | Lantadyme |  | 2,254 | 663,477 |  | 2,384 | 601,911 | 13.1 | 83 | 131,000 | 830,000
+70 | Dwarf weed |  | 2,802 | 998,331 |  | 2,935 | 433,429 | 13.8 | 75 | 138,000 | 750,000
+75 | Torstol |  | 3,872 | 689,088 |  | 4,015 | 908,435 | 15.0 | 63 | 150,000 | 630,000
+
+## Degrime[edit|edit source]
+
+An alternative, less click-intensive method, is to use the degrime Arceuus spell , requiring 70 Magic and the completion of A Kingdom Divided to be cast. You can cast approximately 600 casts per hour (47-50k magic xp/h), while potentially making profit.
+Herb | Herblore | GE Price | Profit | GP/XP | Profit (Own herbs) [ 1 ] | GP/XP (Own herbs) | XP/HR [ 2 ] | Profit/HR | Profit/HR (Own herbs) [ 1 ]
+Level | Exp | Grimy | Clean
+ | Guam leaf | 3 | 1.2 | 312 | 367 | 40.37 | 33.64 | 46.37 | 38.64 | 19,440 | 654,000 | 751,200
+ | Marrentill | 5 | 1.9 | 353 | 431 | 62.37 | 32.83 | 69.37 | 36.51 | 30,780 | 1,010,400 | 1,123,800
+ | Tarromin | 11 | 2.5 | 389 | 489 | 83.37 | 33.35 | 90.37 | 36.15 | 40,500 | 1,350,600 | 1,464,000
+ | Harralander | 20 | 3.1 | 805 | 902 | 71.37 | 23.02 | 87.37 | 28.18 | 50,220 | 1,156,200 | 1,415,400
+ | Ranarr weed | 25 | 3.7 | 7,527 | 7,698 | 10.37 | 2.80 | 160.37 | 43.34 | 59,940 | 168,000 | 2,598,000
+ | Toadflax | 30 | 4 | 2,986 | 3,147 | 91.37 | 22.84 | 150.37 | 37.59 | 64,800 | 1,480,200 | 2,436,000
+ | Irit leaf | 40 | 4.4 | 1,962 | 2,059 | 48.37 | 10.99 | 87.37 | 19.86 | 71,280 | 783,600 | 1,415,400
+ | Avantoe | 48 | 5 | 2,891 | 2,997 | 39.37 | 7.87 | 96.37 | 19.27 | 81,000 | 637,800 | 1,561,200
+ | Kwuarm | 54 | 5.6 | 3,347 | 3,410 | -12.63 | -2.26 | 53.37 | 9.53 | 90,720 | −204,600 | 864,600
+ | Huasca | 58 | 5.9 | 6,342 | 6,125 | -346.63 | -58.75 | -220.63 | -37.39 | 95,580 | −5,615,400 | −3,574,200
+ | Snapdragon | 59 | 5.9 | 11,602 | 11,786 | -58.63 | -9.94 | 173.37 | 29.38 | 95,580 | −949,800 | 2,808,600
+ | Cadantine | 65 | 6.2 | 3,278 | 3,398 | 45.37 | 7.32 | 110.37 | 17.80 | 100,440 | 735,000 | 1,788,000
+ | Lantadyme | 67 | 6.5 | 2,254 | 2,384 | 75.37 | 11.60 | 120.37 | 18.52 | 105,300 | 1,221,000 | 1,950,000
+ | Dwarf weed | 70 | 6.9 | 2,802 | 2,935 | 67.37 | 9.76 | 123.37 | 17.88 | 111,780 | 1,091,400 | 1,998,600
+ | Torstol | 75 | 7.5 | 3,872 | 4,015 | 55.37 | 7.38 | 132.37 | 17.65 | 121,500 | 897,000 | 2,144,400
+- ^ 1.0 1.1 Effective profit with stockpiles of herbs harvested or looted by the player, relative to selling grimy herbs as-is.
+- ^ Assume 600 casts/hour on 27 grimy herbs with earth staff, yielding 49,800 Magic experience per hour.
+
+## Making Guthix rest[edit|edit source]
+
+A medium-intensity but profitable way to train Herblore is to make Guthix rest , requiring 18 Herblore and partial completion of the One Small Favour quest. Brewing Guthix rest differs from other methods of training the skill, as care must be taken to not add extra herbs to the herb tea mix ; doing so grants no experience and ruins the tea. If all ingredients are in the player's inventory, they can make the tea in one step, and subsequent teas are automatically made after making just one of them, granting 59 experience for each tea. Players should note that the amulet of chemistry has no effect when brewing Guthix rest.
+Making Guthix Rest requires a cup of hot water , 2 guam , 1 marrentill , and  1 harralander . Using a cup of hot water with any of the herbs will start the process. Ironman accounts or anyone looking to save money on ingredients can acquire cups of hot water by casting Humidify on an empty cup then using the cup of water on a range.
+Due to the number of ingredients per tea, only five can be made per inventory, requiring 5 cups of hot water, 10 guam, 5 marrentill, and 5 harralander.
+With moderate concentration it is possible to make around 1400 cups of 3-dose Guthix rest per hour, costing 3,246,600 . This results in 82,600 Herblore experience gained and a profit of −19,950 when using Bob Barter at the Grand Exchange to decant the teas into 4-dose variants before selling.
+Level | Potion | Base | Secondary | XP | XP/Hour | Ingredient cost | Cost/XP | Profit/Potion | Profit/XP | Profit/Hour
+18 |  | Guthix rest |  | Cup of hot water |  | Guam leaf (x2) Marrentill Harralander | 59 | 82,600 | 1,700 | 33.08 | 352.75 | -0.24 | −19,950
+
+## Level 60+/81+: Mastering Mixology[edit|edit source]
+
+At level 60 and with completion of Children of the Sun , players can go to Aldarin and take part in the Mastering Mixology minigame, however it will become more efficient at higher levels, with the last unlock at level 81 Herblore. Mastering Mixology does not require specific herbs or any secondaries, and grants much more experience per herb compared to other methods. It is also the only source of some powerful utility items and features, such as the Prescription goggles , Alchemist's amulet , Chugging barrel , and Potion storage , so it can be advisable to do even if Herblore experience is not needed. A player with level 81 Herblore can expect to earn up to 105k xp/hour.
+v t e Skill training guides
+Free-to-play guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft
+Members' guides | Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ironman guides | Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+Ultimate Ironman guides | Item management Equipment Quests Minigames Money making Melee Ranged Magic Defence Prayer Hitpoints Crafting Mining Smithing Fishing Cooking Firemaking Woodcutting Runecraft Agility Herblore Thieving Fletching Slayer Farming Construction Hunter
+General guidelines | Efficiency
+- v
+- t
+- e
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Item management
+- Equipment
+- Quests
+- Minigames
+- Money making
+- Melee
+- Ranged
+- Magic
+- Defence
+- Prayer
+- Hitpoints
+- Crafting
+- Mining
+- Smithing
+- Fishing
+- Cooking
+- Firemaking
+- Woodcutting
+- Runecraft
+- Agility
+- Herblore
+- Thieving
+- Fletching
+- Slayer
+- Farming
+- Construction
+- Hunter
+- Efficiency
