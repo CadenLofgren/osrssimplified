@@ -1,0 +1,29 @@
+- Questing (fastest for early levels)
+  - Levels: 1–39 (can skip early training)
+  - Location / access: various quest start locations
+  - Requirements / notes: Complete quests that grant Smithing XP (notably The Knight's Sword, Sleeping Giants, Elemental Workshop I & II, The Giant Dwarf, Heroes' Quest, and the Freeing Pirate Pete subquest of Recipe for Disaster). These quests give ~36,982 XP (to ~level 39). After quests you need only smith ~2 iron platebodies to reach 40.
+
+- Anvil smithing (general early training)
+  - Levels: 1–40 (and useful beyond)
+  - Locations: Anvil just south of the west Varrock bank (recommended); closest-anvil-to-bank in Prifddinas — Trahaearn district (best if Song of the Elves completed); Yanille anvil (south of bank) is slightly farther.
+  - Requirements / notes: Make the highest-level item you can for fastest XP. Higher-bar items (multi-bar items) give more XP/hour than 1-bar items.
+
+- Blast Furnace — gold bars (fastest viable 40+ XP)
+  - Levels: start at Smithing 40 (smelting gold bars)
+  - Location: Blast Furnace (Keldagrim)
+  - Requirements / notes: Access Keldagrim / Blast Furnace by starting The Giant Dwarf; use minecart/Grouping teleport or official Blast Furnace worlds. Recommended items: goldsmith gauntlets (Family Crest quest) to boost XP per ore, ice gloves (requires killing Ice Queen and level 50 Mining boostable) to quickly collect bars, stamina potions, weight-reducing clothing, Ring of Endurance. Use bank chest + conveyor-belt workflow; 0-tick banking and runners can greatly increase XP. Typical XP rates (examples): ~380k XP/hr with goldsmith gauntlets; ~164k XP/hr without; ~410k XP/hr with Smithing cape; runners: ~530k XP/hr (1 runner) and ~680k XP/hr (3 runners) but very expensive.
+
+- Giants' Foundry (low-effort, steady XP)
+  - Levels: 15–99 (minigame scales; recommended mid/late Smithing)
+  - Location: Giants' Foundry minigame (requires Sleeping Giants)
+  - Requirements / notes: Must complete Sleeping Giants. Forge swords using commissions from Kovac; use optimal alloy mixes (mithril/adamant recommended for balance of speed/cost), buy improved moulds (some moulds require up to Smithing 81), and use Smiths' Uniform for a small XP boost. Good for lower-attention XP and some profit/rewards.
+
+- Blast Furnace — other bars (profit + XP alternative)
+  - Levels: 15–99 depending on bar type (examples: iron bars at 15; steel bars at 30)
+  - Location: Blast Furnace (Keldagrim)
+  - Requirements / notes: Use coal bag, ice gloves, stamina potions, weight-reducing clothing. This method is slower XP than gold-smelting for pure XP but can be profitable. Example rates given: smelting iron bars (lvl 15) ~75,000 XP/hr (≈6,000 bars/hr); smelting steel bars (lvl 30) ~94,500 XP/hr (≈5,400 bars/hr). High starting capital often required.
+
+- General anvil note (XP scaling)
+  - Levels / notes: XP/hour scales by metal tier and bars-per-item — higher-tier metals and multi-bar items yield much higher XP/hr (e.g., 1-bar to 5-bar items show progressively larger XP/hr ranges across bronze→runite). Use anvil nearest a bank for best efficiency.
+
+(Only methods and requirements present in the provided guide are listed.)

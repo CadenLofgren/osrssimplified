@@ -1,0 +1,45 @@
+Important training methods (concise), relevant locations, and level/requirement summary:
+
+- Questing (fast early levels)
+  - Levels: 1–24 (Sea Slug gets to 24), up to ~27 with Fishing Contest + Freeing Pirate Pete; to 33 with Tai Bwo Wannai Trio + Fremennik Trials.
+  - Requirements: quest completion only (Sea Slug, Fishing Contest, Recipe for Disaster subquest Freeing Pirate Pete; optional Tai Bwo Wannai Trio / Fremennik Trials).
+
+- Fly fishing (trout / salmon; tick-manipulation 3‑tick)
+  - Levels: 20–47 (useful early), fastest with ticks up to ~58.
+  - Requirements: Fly fishing rod + feathers; tick manipulation setup for 3‑tick.
+  - Recommended locations: SE of Prifddinas (spots don't move; Regicide partial/full), Shilo Village (best for banking; requires Shilo Village quest), Nemus Retreat (bank nearby, Agility 24/36 access), Lunch by the lancalliums teleport (requires The Depths of Despair), SE of Farming Guild, north of Chaos Druid Tower (East Ardougne), Barbarian Village.
+
+- Drift net fishing
+  - Levels: 47–99 (best when also training Hunter).
+  - Requirements: Fishing 47, Hunter 44 (both unboostable), Bone Voyage completed (Fossil Island access), drift nets (consumable), recommended gear: fishbowl helmet, diving apparatus, flippers, trident/merfolk trident, stamina potions; Ceto interaction for entry (costs numulites).
+  - Location: Fossil Island underwater drift-net area (speak to Ceto); Annette stores drift nets / banks nets for fees.
+
+- Barbarian Fishing (3‑tick)
+  - Levels: usable from 48 but becomes top option at ~58 (leaping salmon) up to 99.
+  - Requirements: Partial Barbarian Training completion (to catch leaping fish); barbarian rod and bait (feathers/offcuts/roe/caviar); Agility/Strength: 30 each for leaping salmon, 45 each for leaping sturgeon; tick‑manipulation items for 3‑tick (herb+tar, knife, etc.) for best rates.
+  - Locations: Pond next to Otto's Grotto (best); Mount Quidamortem (alternative with Fish Barrel + Chambers of Xeric bank chest).
+
+- 2‑tick harpooning (tuna / swordfish; highest tick‑manipulated XP)
+  - Levels: available from 35 but most efficient 61+ and commonly used 71–99; highest XP at 99 with crystal harpoon.
+  - Requirements: Harpoon (crystal harpoon recommended); tick manipulation via being hit every 2 ticks (two rats west of Port Piscarilius bank) or second account attacking in Fishing Guild on a PvP world; shortbow/no ammo + Auto Retaliate used for rat method.
+  - Locations: Port Piscarilius (rats west of bank); Fishing Guild (PvP world, with an attacker account).
+
+- Tempoross (boss/minigame)
+  - Levels: 35–99
+  - Requirements: none special; crystal harpoon recommended for best returns; choice to cook or not (not cooking yields more XP but less loot/points).
+  - Location: Tempoross minigame area.
+
+- Other viable methods (level ranges only; use as alternatives)
+  - Aerial fishing: 43–99 (uses cormorant + king worms/fish chunks).
+  - Monkfish: 62–99.
+  - Karambwan: 65–99 (requires Karambwan vessel and bait).
+  - Infernal eel: 80–99.
+  - Minnows: 82–99.
+  - Anglerfish: 82–99.
+  - Dark crabs: 85–99.
+  - Sacred eel: 87–99.
+
+Notes (essentials only)
+- Drift net fishing requires Hunter 44 and Bone Voyage; costs numulites/drift nets if buying on GE.
+- Several fast methods rely on tick manipulation (3‑tick for fly/barbarian; 2‑tick harpooning) and require practice and specific setups.
+- Many locations require quest unlocks or partial quest completion (Regicide for Prifddinas fly spots, Shilo Village quest for Shilo Village, The Depths of Despair for Lunch teleport, Bone Voyage for Fossil Island, Barbarian Training for barbarian fishing).

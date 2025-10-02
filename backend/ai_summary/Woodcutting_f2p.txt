@@ -1,0 +1,68 @@
+Summary — free-to-play Woodcutting training (important methods, locations, level requirements)
+
+General notes
+- Drop logs for best XP/hr; bank if trees are very close to a bank.
+- If Firemaking <45 you can burn low-level logs while training; after FM 45 it's usually better to drop/bank logs and earn money instead.
+- Use the highest-tier axe you can (equip it if you meet the Attack requirement to save inventory space).
+
+Axes (attack level requirements)
+- Bronze / Iron: Attack 1
+- Steel: Attack 5
+- Black: Attack 10
+- Mithril: Attack 20
+- Adamant: Attack 30
+- Rune: Attack 40
+(Always use the best axe available for faster chops.)
+
+Forestry (bonus / events)
+- On Forestry worlds you receive an invisible +1 Woodcutting boost per other player on the same tree (up to +10).
+- Use a forestry kit to allow Forestry events (Struggling sapling, Rising roots, Friendly ent) which can give higher XP/hr.
+- Popular free-to-play event hotspots:
+  - Oak: east of Draynor Village bank
+  - Willow: south of Draynor Village bank
+  - Maple: Corsair Cove Resource Area (requires Dragon Slayer I)
+  - Yew: north of Varrock Palace / south of Edgeville
+
+Level-by-level training methods, locations, and requirements
+
+Levels 1–15 — Normal trees
+- Woodcutting required: 1 → 15 (25 XP per log).
+- Best locations: south of the Grand Exchange, west of Lumbridge Castle, outside Draynor Manor.
+- Method: cut and drop or sell at GE as you go.
+
+Levels 15+ — Oak trees
+- Woodcutting required: 15 (37.5 XP per log).
+- Good locations: south‑west of Varrock west bank (best for banking), two oaks behind Lumbridge General Store, south of Falador gates, Port Sarim, east of Rimmington, oak near Draynor Village bank.
+- Advanced: 2-tick oaks (tick manipulation) — significantly higher XP/hr if setup correctly.
+  - Requirements / setup: shortbow with no arrows, mind/air runes to splash, wear iron gear + kite to splash, bring ~6 energy potions recommended; lure two rats to the two Falador south oak tiles; use Auto Retaliate and alternate tree clicks and drops to 2-tick.
+  - Notes: very mechanical and slow to set up. Theoretical high XP rates (e.g., up to ~112k XP/hr with rune axe at high WC; similar thresholds with adamant/mithril at higher WC).
+
+Levels 30+ — Willow trees
+- Woodcutting required: 30 (67.5 XP per log).
+- Best locations: south‑west of Draynor Village bank (popular), Edgeville (east tree by bank), Port Sarim (east of Rusty Anchor Inn, deposit box on docks), west of Farmer Fred (Lumbridge), south of Port Sarim jail, south‑east Rimmington, east of Champions' Guild.
+- Notes: willows yield higher XP/hr than oaks if dropping; when banking, oaks and willows are comparable until ~60 WC.
+
+3-tick willows (tick manipulation)
+- Requirement: have completed the Christmas event and unlocked the snow globe.
+- Method: use snow globe to place snow and operate a 3‑tick click pattern on two willow trees (must be able to stand on one tile cutting two willows). Requires precise 25-tick snow refresh timing.
+- Effect: chance to cut a willow every 3 ticks (vs 4), ~33% XP/hr increase; high free-to-play XP method (cap ~85k XP/hr at 99 WC).
+
+Levels 45+ — Maple trees
+- Woodcutting required: 45 (100 XP per log).
+- Location: Corsair Cove Resource Area (4 maples).
+- Access: requires completion of Dragon Slayer I and starting The Corsair Curse to enter Corsair Cove.
+- Notes: maples are AFK-friendlier but lower XP/hr than willows (without tick manipulation).
+
+Levels 60+ — Yew trees (money option)
+- Woodcutting required: 60 (175 XP per log).
+- Best locations: south of Edgeville bank (two close trees), behind Varrock Palace (north of GE), three south of Falador east bank, trees between Lumbridge and Draynor.
+- Banking trick: use PvP world to swap to a world with a very close bank for faster banking (safe inside the bank).
+- Note: yews are profitable but generally slower XP/hr than willow/maple; recommended if you want profit over pure XP.
+
+Quick recommendations
+- Fastest pure XP (f2p): tick-manipulated 2-tick oaks or 3-tick willows (mechanical).
+- Best AFK XP: maples (Corsair Cove) at 45+.
+- Best profit: yews at 60+ (but slower XP).
+- Use Forestry worlds and forestry kits at popular hotspots to profit from event spawns and team boosts.
+
+If you want, I can produce concise route maps / one-line training plan per level bracket (1–15, 15–30, 30–45, 45–60, 60–99) with recommended locations and whether to drop or bank.

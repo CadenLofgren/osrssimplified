@@ -1,0 +1,26 @@
+Training methods
+- Burn the highest-tier log you can for fastest XP. Tick-perfect banking (light a log every 4 game ticks / 2.4s → ~1,485 logs/hr assumed) is the fastest technique:
+  - Best spot: eastern Grand Exchange (bank one tile away). Use noted logs on the banker while standing 2 tiles away to refill quickly.
+- Simpler (slower) method: burn logs in a row east→west from Varrock fountain and bank at Varrock west bank (use Varrock teleport).
+- AFK option: Forester's Campfire (Forestry) — same XP per log but much slower.
+
+Relevant locations
+- Eastern Grand Exchange — optimal tick-perfect spot (bank adjacent to fire tile).
+- Varrock fountain / Varrock west bank — easy row-burning / teleport-accessible spot.
+- Where to get logs:
+  - Normal logs: cut almost anywhere (Lumbridge → Wilderness).
+  - Oak: cut almost anywhere; can be bought from players.
+  - Willow tree locations: River Lum (Lumbridge), near Edgeville, south of Draynor bank (sea), south of the cabbage patch NW of Draynor, Rimmington.
+  - Maple & Yew logs: commonly bought via the Grand Exchange (also cuttable if you have Woodcutting level).
+- Forester's Campfire location(s) via Forestry content (for AFK training).
+
+Levels required (Firemaking) and XP per log
+- Level 1–15: Normal logs — 40 XP per log.
+- Level 15–30: Oak logs — 60 XP per log. (Woodcutting 15 useful to cut them.)
+- Level 30–45: Willow logs — 90 XP per log. (Can be cut with Woodcutting 30.)
+- Level 45–60: Maple logs — 135 XP per log.
+- Level 60–99: Yew logs — 202.5 XP per log.
+
+Other concise notes
+- Fastest route to 99: always switch to the next unlocked log type as soon as you can (≈44 hours total from 1→99 using that progression).
+- Cost tradeoffs: maple is the most cost-efficient from 45+ (cheaper than willow); yew is fastest XP but significantly more expensive.

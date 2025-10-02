@@ -1,0 +1,71 @@
+Important training methods
+- Questing (fast early boost)
+  - Levels affected: 1–38 (can skip early Farming levels)
+  - Notes/requirements: Completing Recipe for Disaster (Goblin generals subquest), Fairytale I, Forgettable Tale... (requires 17 Farming), The Garden of Death (20 Farming), Garden of Tranquillity (25 Farming), Enlightened Journey (30 Farming), My Arm's Big Adventure (29 Farming) grants ~32,500 Farming XP (to ~level 38).
+
+- Bagged plants (active, early training)
+  - Levels: 1–15
+  - Location: Player-owned house (fastest in Rimmington house)
+  - Notes: Fastest active early training but expensive. Requires Construction level shown per bagged item (see in‑game tooltips). Use Phials to unnote bagged plants if noted.
+
+- Making supercompost / ultracompost
+  - Levels: 1–15 (good early XP)
+  - Location: Compost bin in Player-owned house (or anywhere with a compost bin)
+  - Notes: Supercompost ≈ 8.5 Farming XP per bucket; ultracompost ≈ 10 XP (requires volcanic ash). Use cheap produce (watermelon/pineapple).
+
+- Allotment runs
+  - Levels: 1+ (used early alongside other methods)
+  - Location: Standard allotment patches (various map patches)
+  - Notes: Basic farming XP; less efficient than tree runs long-term.
+
+- Sorceress’s Garden (minigame)
+  - Levels: 1–15 (no Farming level requirement to gain Farming XP)
+  - Location: Sorceress’s Garden minigame
+  - Requirements/notes: No Thieving level required but higher Thieving speeds up minigame. Picking sq'irks/herbs gives Farming XP (sq'irk: 30–60 XP depending on season; herb pick: 50 XP + herbs). Low‑click, AFK‑friendly option.
+
+- Herb runs
+  - Levels: viable from low levels upwards (commonly used during/after early levels)
+  - Location: Standard herb patches around Gielinor
+  - Notes: Often profitable and gives Farming XP; commonly combined with tree runs.
+
+- Tithe Farm
+  - Levels: higher‑level method (not detailed here)
+  - Location: Tithe Farm minigame (Hosidius)
+  - Notes: Alternative training method available at mid/high levels.
+
+- Tree runs (primary long‑term method)
+  - Levels: 15–99 (core method from level 15+)
+  - What to do: Plant highest‑tier saplings available for tree, fruit tree, hardwood and special tree patches (include calquat, celastrus, crystal, redwood where applicable); after growth check health, pay gardener to chop and replant.
+  - Locations / patches to use: Farming Guild (has a tree patch), Falador Park (disease immunity if Elite Falador Diary complete), Brimhaven, Catherby, Taverley, Lletya (fruit trees — Mourning's End Part I), Fossil Island hardwood patches (Bone Voyage), Varlamore hardwood patch (Ribbiting Tale), calquat patch (Tai Bwo Wannai area), crystal tree patch (Song of the Elves), redwood/mahogany special patches.
+  - Notes/efficiency: Best overall XP (passive). Pay gardener for speed and guaranteed XP (prevents death). Saplings can be made from tree seeds to save GP; saplings grow in bank. Include mahogany/ redwood intermittently (rare patches every few days) for added XP. Use ultracompost on patches to reduce deaths if skipping gardener payments.
+
+Relevant locations and transportation notes
+- Player-owned house (POH): bagged plants, compost bin; recommended house locations: Rimmington (fast), Brimhaven (move house with Construction 40).
+- Farming Guild: central tree patch (some patches require Farming level or boosts).
+- Falador Park: tree patch that will not get diseased after Elite Falador Diary.
+- Brimhaven, Catherby, Taverley: common tree/fruit tree patch locations; teleports/tablets useful for runs.
+- Fossil Island: hardwood patches (requires Bone Voyage).
+- Varlamore: hardwood patch (requires The Ribbiting Tale… quest).
+- Tai Bwo Wannai area: calquat patch (Tai Bwo Wannai Trio for teleport scrolls).
+- Lletya: fruit tree patch (requires Mourning’s End Part I).
+- Crystal tree patch: requires Song of the Elves.
+- Sorceress’s Garden: minigame location for low‑click Farming XP.
+
+Key level/skill requirements and recommended stats
+- Tree runs start: 15 Farming (general tree runs section)
+- Quests that require Farming for rewards listed above (some quest prereqs: 17–30 Farming for certain quests noted)
+- Construction 40: move POH to Brimhaven (recommended)
+- Magic 40: for teleportation spells (useful, but tablets/teleports can substitute)
+- Magic 68 + Dream Mentor completion: access Humidify spell to speed seedling growth
+- Tai Bwo Wannai Trio quest: access to calquat teleports/patch
+- Bone Voyage quest: access to Fossil Island hardwood patches
+- Mourning’s End Part I: access to Lletya fruit tree patch and teleport crystals
+- Song of the Elves: access to crystal tree patch
+- Elite Falador Diary: prevents disease in Falador Park tree patch
+
+Money / supply notes (brief)
+- Tree runs are GP‑intensive (saplings, protection payments). Buy saplings from Grand Exchange or grow tree seeds into saplings to save GP.
+- Herb runs are often profitable and commonly combined with tree runs for GP sustain.
+- Bottomless compost bucket, ultracompost, and protection payments speed/secure runs and affect cost‑efficiency.
+
+(use this as a concise training checklist: quests for early XP to ~38 → bagged plants/supercompost/allotments/sorceress’s garden for 1–15 → start tree runs from 15 and prioritize tree/fruit/hardwood/special patches; combine herb runs for GP)

@@ -1,0 +1,46 @@
+Summary — important Strength/melee training methods, locations, and level requirements (p2p)
+
+Quick general notes
+- Complete melee XP quests early (Waterfall Quest + recommended quests) to skip slow low‑level training and unlock better gear.
+- Maintain balanced melee stats until you can equip best weapons/equipment; then prioritise Strength to 99 for fastest melee XP.
+- Strength-only training (no HP gain): barbarian fishing; Blast Furnace pump (requires 30 Strength).
+- Use Slayer tasks to train combat while often making profit.
+- Defence can be trained faster by non‑melee methods (e.g. Ancient Magicks on Manical monkeys with long‑fuse chinchompas) — useful when Defence XP is desired.
+
+Fastest / recommended progression (from the guide)
+- Levels 1–30: Questing
+  - Waterfall Quest — no requirements; raises Attack and Strength to level 30 instantly (best start for fresh accounts).
+  - Recommended early quests (give substantial melee XP): Witch's House, Death Plateau, Fight Arena, Tree Gnome Village, Vampyre Slayer, The Grand Tree, Holy Grail, Scorpion Catcher, Tai Bwo Wannai Trio, Horror from the Deep, Mountain Daughter. Completing the recommended set yields roughly enough XP to reach ~45 Attack / 37 Strength / 31 Defence without training.
+  - Note: some quests have skill requirements (examples listed in the guide): The Grand Tree (Agility 25), Holy Grail (Attack 20 + Merlin’s Crystal), Scorpion Catcher (Prayer 31), Horror from the Deep (Agility 35; Prayer 40 recommended), Tai Bwo (Agility 15, Cooking 30, Fishing 5), Mountain Daughter (Agility 20).
+
+- Levels 30–50
+  - Crabs (Rock Crabs) — listed as a primary method for this range.
+
+- Levels 50–70
+  - Nightmare Zone — Normal Rumble (recommended for 50–70).
+
+- Levels 70–99
+  - Nightmare Zone (higher setups) — recommended 70–99 for efficient AFK/high XP.
+
+Other commonly recommended training methods and level ranges (toc / guide)
+- Levels 1–10: Chickens (low‑level AFK XP).
+- Levels 10–60: Rock Crabs (very common AFK training spot).
+- Levels 30–60: Chaos druids (good for early profit + XP).
+- Levels 30–81: Ogres.
+- Levels 40–60: Moss giants.
+- Levels 60–70: Wilderness Slayer (slayer tasks in the Wilderness).
+- Levels 70–99: Slayer (general high‑level Slayer training; includes Gargoyles as a common task).
+- Levels 60/70–99: Scurrius (boss/monster listed as high‑level training).
+- Levels 60/70–99: Sulphur Naguas.
+- Levels 60/70–99: Pest Control (as a combat XP option).
+- Levels 90–99: Rune dragons (high‑level dragon training).
+
+Specific location notes called out in the guide
+- Nightmare Zone — major endgame AFK XP method (NMZ).
+- Rock Crabs — primary low/mid‑level AFK area.
+- Blast Furnace — used for Strength training pump (30 Strength required).
+- Slayer locations/tasks (Gargoyles, Rune dragons, Scurrius, Sulphur Naguas) — used once appropriate Slayer level/requirements are met.
+
+If you want, I can:
+- Produce a concise level‑by‑level route (1→99) prioritising fastest XP or cost‑efficient AFK training.
+- Expand any method with required quests, gear recommendations, or best locations (e.g., specific Rock Crab/Crab locations, NMZ setup).

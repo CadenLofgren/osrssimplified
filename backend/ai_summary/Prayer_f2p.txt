@@ -1,0 +1,18 @@
+Important training methods
+- Bury bones (baseline method). Simple, no quest or item requirements.
+- Use bones on an altar (gives increased Prayer XP compared to burying). No members-only content required for the Lumbridge church altar.
+
+Relevant locations / bone sources
+- Chickens — Lumbridge chicken coops (ideal for absolute beginners).
+- Cows — Lumbridge cow field (easy, low‑risk source of bones).
+- Goblins — around Lumbridge/various beginner areas.
+- Skeletons — Lumbridge graveyard / other skeleton spawn areas (better bone drops than chickens/cows).
+- Altar for bonus XP: Lumbridge Church altar (bones can be used on the altar for the altar XP bonus).
+
+Levels required
+- Prayer level: 1 to bury bones or use bones on an altar (no higher Prayer level required).
+- Combat level / requirements: depends on the monster you kill to obtain bones (low combat for chickens/cows/goblins; skeletons may require slightly higher combat).
+
+Notes for efficient training
+- Collect bones from the nearest low‑level monsters (chickens/cows/goblins/skeletons) and use them on the Lumbridge church altar when convenient for extra XP.
+- No special items or quests are required in free‑to‑play for these methods.

@@ -1,0 +1,54 @@
+Summary — important training methods, locations, and level/requirement notes
+
+General notes
+- Complete high-XP melee quests early to skip slow low-level training and unlock better equipment (Waterfall Quest + Witch's House are high priority).
+- Maintain balanced melee stats until you can use best-in-slot weapon/equipment; then prioritise Strength for fastest melee XP.
+- Strength can be trained without raising Hitpoints via barbarian fishing, and the Blast Furnace pump (requires 30 Strength).
+- Defence alternatives: use Ancient Magicks with defensive spells or chinchompas (long fuse on Manical monkeys) for better Defence XP than melee in some cases.
+- Slayer tasks are efficient for simultaneous Slayer/combat training and often profitable.
+- Bring an emergency teleport (tablet or runes) when fighting dangerous monsters.
+
+Important early training methods / quests (fastest routes for early melee/HP)
+- Waterfall Quest
+  - Effect: +13,750 Attack and +13,750 Strength (instant to ~level 30 Attack/Strength from level 1).
+  - Requirements: none (recommended Hitpoints ≥17 to avoid one-hit deaths from some monsters).
+  - Location/use: instant boost to Attack/Strength for new accounts.
+
+- Witch’s House
+  - Effect: +6,325 Hitpoints.
+  - Requirements: none.
+  - Note: recommended to raise Hitpoints early; boss forms can be safespotted or killed with Magic.
+
+Recommended questing to quickly boost melee stats (relevant XP, requirements)
+- Fight Arena — +12,175 Attack; Requirements: none. (Bosses can be safespotted / killed with Magic.)
+- Tree Gnome Village — +11,450 Attack; Requirements: none. (Grants spirit tree access.)
+- Waterfall Quest — already listed above (major Attack/Strength boost).
+- Death Plateau — +3,000 Attack; Requirements: none. (Unlocks spiritual creatures for Slayer.)
+- Vampyre Slayer — +4,825 Attack; Requirements: none.
+- Tai Bwo Wannai Trio — +2,500 Attack / +2,500 Strength; Requirements: Agility 15, Cooking 30, Fishing 5, Jungle Potion quest.
+- Witch’s House — already listed above (major Hitpoints reward).
+- Scorpion Catcher — +6,625 Strength; Requirements: Prayer 31, Alfred Grimhand's Barcrawl completion.
+- Horror from the Deep — +4,662.5 Strength; Requirements: Agility 35, Alfred Grimhand's Barcrawl completion. (Prereq for Recipe for Disaster final fights; strong Prayer recommended for dagannoth.)
+- Mountain Daughter — +1,000 Attack; Requirements: Agility 20.
+- Holy Grail — +15,300 Defence; Requirements: Attack 20, Merlin’s Crystal completion.
+- (Completing the recommended set of early quests yields ~65,275 Attack XP, ~27,537.5 Strength XP, ~15,300 Defence XP — roughly Attack 45 / Strength 37 / Defence 31 without melee training.)
+
+Additional mid-/high-level quest options (large XP or unlocks)
+- Dragon Slayer I — +18,650 Strength, +18,650 Defence; Requirements: 32 Quest points.
+- Heroes' Quest — +3,075 Attack/Strength/Defence each; Requirements: 55 Quest points and multiple skill prereqs (cooking 53, fishing 53, mining 50, herblore 25).
+- The Fremennik Trials / Isles — modest combat XP + unlocks (requirements include Fletching 25, Woodcutting/Crafting 40, Agility 40).
+- Olaf’s Quest — +12,000 Defence; Requirements: Firemaking 40, Woodcutting 50, The Fremennik Trials.
+- Haunted Mine — +22,000 Strength; Requirements: Crafting 35, Priest in Peril.
+
+Other training locations/methods mentioned (from content shown)
+- Crabs (Rock Crabs / similar) — referenced in TOC for levels 30–50 (content cut off), commonly used at mid-levels.
+- Slayer tasks and specific monsters (e.g., dagannoth, brine rats, spiritual creatures) — unlocks via quests make Slayer training viable.
+- Nightmare Zone / NMZ (referenced in general notes / TOC) — noted as a top method for 50+ and 70+ ranges in TOC (detailed strategy not included in supplied content).
+
+Quick actionable progression (based on supplied content)
+1. Do key quests first: Waterfall Quest (instant 30 Attack/Strength) and Witch’s House (Hitpoints boost).
+2. Finish other recommended early quests (Fight Arena, Tree Gnome Village, Death Plateau, Vampyre Slayer, Tai Bwo Wannai Trio) to reach ~Attack 45 / Strength 37 / Defence 31 without grinding.
+3. From ~30 Attack/Strength, use crabs / slayer / mid-level training methods (Rock Crabs referenced for 30–60 in TOC).
+4. At higher levels, unlock/consider quests like Dragon Slayer I, Heroes' Quest, Haunted Mine and NMZ (TOC) for faster progression to 70+ and 99.
+
+If you want, I can produce a compact level-by-level training plan (1–99) with locations and exact level thresholds extracted from the full melee guide.

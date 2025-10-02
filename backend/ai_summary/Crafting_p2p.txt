@@ -1,0 +1,35 @@
+- Levels 1–20 — Leather items
+  - Craft the highest-level leather item available until 20 (gloves → boots → cowl → vambraces → body).
+  - Requirements: needle and thread.
+
+- Levels 20–62/77/99 — Cutting gems (fast XP early)
+  - Recommended progression: cut sapphires (20), emeralds (27), rubies (34), diamonds (43). Continue diamonds to ~62, then switch methods (see battlestaves/d'hide).
+  - Dragonstones unlock at 55 (useful up to 62 or 77/99 but very expensive). Onyx/onyxes not recommended (cost/supply).
+  - Assume high click-rate activity (fast XP/hour).
+
+- Levels 54–77/99 — Crafting battlestaves
+  - Unlocks: water battlestaff (54), earth (58), fire (62), air (66).
+  - Fast and often cheaper than other mid-level methods but requires large upfront capital.
+  - Varrock Diary benefit: after completing Varrock diary tiers you can buy noted battlestaves from Zaff at reduced price.
+  - High Level Alchemy can be used on battlestaves to cut costs (reduces throughput if you include alching time).
+
+- Levels 63/77–99 — Dragonhide bodies (fast from 77+)
+  - Green d'hide body at 63; Blue at 71; Red at 77; Black at 84.
+  - Use the Costume Needle (if available) to craft 9 bodies per inventory; otherwise thread (8 per inventory).
+  - Tick manipulation (advanced) can increase rates — commonly done by luring a gnome at the Gnome Stronghold south bank (requires a second account for the lure technique).
+  - High Level Alchemy can be applied later to reduce costs (slows effective hourly rate if included).
+
+- Levels 1–83/99 — Molten glass
+  - Blow molten glass with a glassblowing pipe. Low attention and low capital but slow XP.
+  - Viable items include unpowered orb (46) and other glass items; check prices for profitable/sensible choices.
+
+- Levels 5–99 — Crafting jewellery
+  - Requires gold bars and appropriate moulds at a furnace.
+  - Best locations: Prifddinas (shortest bank→furnace distance), Edgeville (good alternative), Shilo Village furnace (closest to bank but charges 20 gp per use).
+  - XP/h varies by item and whether stringing is required; some high-level gem jewellery can be profitable.
+
+Notes / important items
+  - Needle & thread for leather and dragonhide methods (costume needle recommended for d'hide bodies).
+  - Glassblowing pipe for molten glass.
+  - Varrock Diary + Zaff for discounted noted battlestaves.
+  - Gnome Stronghold south bank is the key location for the tick-manipulation trick used on d'hide crafting.

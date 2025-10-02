@@ -1,0 +1,51 @@
+Summary — key training methods, locations, and level requirements (F2P melee)
+
+Important training methods / rules of thumb
+- Use the best scimitar you can equip (scimitars have the best DPS in F2P). Aim for a rune scimitar as soon as you can (see levels below).
+- Prioritise Strength to raise maximum hit (more damage → faster kills). Use aggressive attack style for an effective +3 Strength boost to max hit.
+- Use the Amulet of Strength (best for max hit) or Amulet of Power (better accuracy/defence and +6 Strength-equivalent) depending on availability and Strength level. Amulet of Accuracy is a weaker interim option.
+- Keep Attack/Strength/Defence within ~5–10 levels of each other; focus whichever skill (Attack or Strength) matches your training goal.
+- Match armour to the enemy’s attack type: full melee armour vs melee attackers; ranged armour vs magic attackers. Bring extra/better food if Defence is lower than recommended for an area.
+- Barronite mace is particularly effective vs certain runecrafting golems (Ruins of Camdozaal) due to golembane; otherwise it’s second to rune scimitar.
+
+Relevant locations / sources
+- Stronghold of Security — fancy / fighting boots (starter F2P boots) can be reclaimed there.
+- Castle Wars — decorative boots (red/white/gold) and other decorative armour obtainable via tickets (red/white are quicker to get for defence upgrades; gold gives +1 Strength but requires many tickets).
+- Ruins of Camdozaal — runecrafting/body/mind golems (barronite mace special effect applies).
+- Imp Catcher quest — source of Amulet of Accuracy (cheap interim neck slot).
+
+Levels / item requirements (important thresholds)
+- Weapon requirements (Attack):
+  - Rune scimitar — Attack 40 (best F2P DPS weapon)
+  - Barronite mace — Attack 40 (special effect vs certain golems)
+  - Adamant scimitar — Attack 30
+  - Mithril scimitar — Attack 20
+  - Black scimitar — Attack 10
+- Armour / shield requirements (Defence):
+  - Rune platebody / rune chainbody / rune full helm / rune kiteshield / rune plateskirt — Defence 40
+  - Adamant platebody / chainbody / kiteshield / plateskirt — Defence 30
+  - Mithril plate/chain/kiteskield/plateskirt — Defence 20
+  - Black plate/chain/kiteshield/plateskirt — Defence 10
+  - Steel plate/chain/kiteshield — Defence 5
+  - Note: some rune platebody variants reference quest/requirements in the guide (check individual item notes).
+- Gloves / hands:
+  - Gilded d'hide vambraces — requires 40 Ranged to equip (best F2P gloves if you can use them)
+  - Green d'hide / leather vambraces / leather gloves — lower-req alternatives
+- Boots:
+  - Decorative boots (gold) — provide +1 Strength (equivalent to adamant boots); require many Castle Wars tickets to obtain
+  - Decorative boots (white) — Defence 20 (faster to obtain than gold)
+  - Decorative boots (red) — Defence 5 (easy Castle Wars upgrade from starter boots)
+  - Fancy / Fighting boots or Leather boots — starter options (from Stronghold of Security or reclaim)
+- Amulet crafting/enchanting requirements:
+  - Amulet of Strength (ruby amulet) — Crafting 50 to craft a ruby amulet; Magic 49 for Lvl-3 Enchant to make the amulet
+  - Amulet of Power (diamond amulet) — Crafting 70 to craft a diamond amulet; Magic 57 for Lvl-4 Enchant
+  - Amulet of Accuracy — obtainable from Imp Catcher (no crafting needed; weaker than the above)
+- Combat style effects:
+  - Aggressive attack style = invisible +3 Strength for max hit calculations.
+  - Amulet of Power = +6 Melee Strength-equivalent for max hit.
+  - Amulet of Strength = +10 Melee Strength-equivalent for max hit.
+
+Notes to maximize efficiency
+- Get Attack 40 ASAP to unlock rune scimitar (largest DPS improvement for F2P melee).
+- Train Strength to increase max hit; combine aggressive style + amulet + best scimitar for optimal DPS.
+- Use appropriate armour and food to safely camp higher-level targets; consider defensive upgrades from Castle Wars if you want to tank more hits.

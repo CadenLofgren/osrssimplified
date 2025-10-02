@@ -1,0 +1,55 @@
+Summary — efficient Firemaking training (from provided guide)
+
+Main training methods
+- Burn logs by banking and lighting (fastest if tick-perfect): best when standing near a bank and lighting single logs in quick succession.
+  - Best location: eastern Grand Exchange (bank one tile from lighting spot).
+  - Simpler option: light in a row at Varrock fountain (Varrock Teleport + Varrock west bank) or use Camelot Teleport and bank at Seers' Village.
+  - Note: below ~35 Firemaking, failed lighting chances make campfires preferable unless using coloured logs (which always light).
+
+- Burn logs on a campfire (low-effort, good for AFK-ish training):
+  - Best locations with campfire next to bank: Grand Exchange, Rogues' Den, Crafting Guild.
+  - Burn rates: automatic ≈ 665 logs/hour; manual (tending + holding space) ≈ 975 logs/hour.
+  - Useful when you want lower click intensity and easier banking.
+
+- Create pyre logs (alternative for levels 1–50; can be profitable):
+  - Requires Shades of Mort'ton quest (to use sacred oil).
+  - Pyre logs can be created at level 1 regardless of burn level.
+  - Method: use sacred oil on logs via make-all or by 1-ticking (rapid clicking). Typical experience ≈ 55,000 XP/hr; top sustainable speeds ≈ 80,000 XP/hr.
+  - Caveat: prices and resale of pyre logs vary — check the Grand Exchange if profit is your goal.
+
+Relevant locations (training + banking)
+- Grand Exchange (east area) — best for fast banking + lighting; also works for campfire setups.
+- Varrock fountain / Varrock west bank — recommended for straightforward row-burning.
+- Camelot Teleport → bank at Seers' Village — alternative teleport/bank route.
+- Rogues' Den, Crafting Guild — good campfire + bank spots.
+
+Levels / recommended logs by level
+- Fast bank-lighting progression (as listed in the guide):
+  - 1–30: Red logs
+  - 30–35: Willow
+  - 35–42: Teak
+  - 42–45: Arctic pine
+  - 45–50: Maple
+  - 50–60: Mahogany
+  - 60–75: Yew
+  - 75–90: Magic
+  - 90–99: Redwood
+
+- Campfire progression (low-effort alternative):
+  - 1–15: Regular logs
+  - 15–30: Oak
+  - 30–35: Willow
+  - 35–42: Teak
+  - 42–45: Arctic pine
+  - 45–50: Maple
+  - 50–60: Mahogany
+  - 60–75: Yew
+  - 75–90: Magic
+  - 90–99: Redwood
+
+- Pyre logs: usable from level 1; recommended for 1–50 Firemaking training (requires Shades of Mort'ton quest).
+
+Quick tips
+- For fastest 1–99: master bank-lighting at the Grand Exchange (tick-perfect clicks and fast banking).
+- For low effort or lower levels: use campfires near a bank.
+- For low-level alternative or profit: make pyre logs after Shades of Mort'ton; speed depends heavily on click method.

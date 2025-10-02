@@ -1,0 +1,57 @@
+Summary of efficient Fletching (p2p) training methods, locations, and required levels:
+
+Quests (fast early EXP)
+- Big Chompy Bird Hunting — 262 XP (helps from level 5 Fletching); other reqs: Ranged 30, Cooking 30.
+- Animal Magnetism — 1,000 XP; reqs: Slayer 18, Crafting 19, Ranged 30, Woodcutting 35.
+- Zogre Flesh Eaters — 2,000 XP (if fletching comp ogre bow requires Fletching 30); other reqs: Smithing 4, Herblore 8, Ranged 30.
+- The Fremennik Trials — 2,812 XP (if crafting lyre requires Fletching 25); other reqs: Woodcutting 40, Crafting 40.
+- Temple of Ikov — 8,000 XP; reqs: Thieving 42, Ranged 40.
+- Total possible quest Fletching XP listed: 14,074 (useful to skip early levels; doing Temple of Ikov + Fremennik Trials gets you to ~level 30).
+
+Zero-time methods (can be trained while doing other activities)
+- Darts (very click-efficient; buy dart tips + feathers on the Grand Exchange)
+  - Bronze darts — level 10
+  - Iron — level 22
+  - Steel — level 37
+  - Mithril — level 52
+  - Adamant — level 67
+  - Rune — level 81
+  - Amethyst — level 90
+  - Dragon — level 95
+  - Notes: 2-click methods available; good for passive training while questing, Agility, Hunter, farm runs, Slayer, Wintertodt. Mobile two-finger tapping speeds this up.
+- Bolts (attaching feathers to unfinished bolts; lower XP/action than darts)
+  - Bronze bolts — level 9
+  - Blurite — level 24
+  - Iron — level 39
+  - Silver — level 43
+  - Steel — level 46
+  - Mithril — level 54
+  - Broad bolts — level 55 (requires broader fletching Slayer reward)
+  - Adamant — level 61
+  - Rune — level 69
+  - Dragon — level 84
+  - Notes: materials commonly bought on the Grand Exchange.
+
+Semi-zero methods (periodic requeueing; actions occur every 2 ticks)
+- Tipping bolts (adding gem/metal tips to bolts)
+  - Opal-tipped bronze — level 11
+  - Jade-tipped blurite — level 26
+  - Pearl-tipped iron — level 41
+  - Topaz-tipped steel — level 48
+  - Barbed bolts — level 51
+  - Notes: requires more capital and checking GE supply/buy limits; gives steady XP in sets.
+
+Other notable methods (level ranges only)
+- Headless arrows — level 1–5
+- Arrow shafts — level 1–5 (or to 10 depending on method/settings)
+- Bows (stringing/crafting bows) — level 5–99
+- Battlestaves (fletching related processing) — level 40–80
+- Redwood shields — level 92–99
+
+Relevant locations and tips
+- Grand Exchange — primary place to buy dart tips, feathers, unfinished bolts, bolt tips, and other materials.
+- Zero-time contexts: questing, Agility courses, Hunter (non-black creatures), farm runs, Slayer tasks, Wintertodt, etc.
+- The Tourist Trap quest is not required to fletch darts (only for smithing dart tips).
+- Mobile two-finger tapping can speed up zero-time dart fletching.
+
+Use darts for fastest passive XP per click; bolts / tipped bolts are alternatives depending on prices and buy limits; use quests to skip early levels.

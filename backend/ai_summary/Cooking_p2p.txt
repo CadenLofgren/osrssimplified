@@ -1,0 +1,71 @@
+Summary — Cooking (P2P): key training methods, locations, and level/requirement notes
+
+Methods (levels, requirements, notes)
+- Poison karambwan
+  - Levels: 1–30
+  - Requirements: none
+  - Notes: Fastest early XP with 1-tick cook (tick manipulation). Very click-intensive and costly; high burn rate at low levels (buy ~500 raw karambwan). Poison karambwan (cooked) has no quest requirement.
+
+- Cooking fish (standard)
+  - Levels and recommended fish:
+    - 1–5: Sardine
+    - 5–10: Herring
+    - 10–15: Mackerel
+    - 15–20: Trout
+    - 20–25: Pike
+    - 25–30: Salmon
+    - 30–40: Tuna
+    - 40–68: Lobster
+    - 68–80: Swordfish or Monkfish (both viable)
+    - 80–84: Shark
+    - 84–99: Anglerfish
+    - 91–99: Manta ray (alternative for 91+)
+  - Requirements/notes: Cooking gauntlets (Family Crest) reduce burn rate for lobster, swordfish, monkfish, shark, anglerfish and are required for optimal rates. Hosidius kitchen reduces burn rate (5% with easy K&K diary, 10% with elite). Fish cooking is low-effort/cheap and is a common AFK method.
+
+- Cooked karambwan (raw → cooked karambwan with 1-tick)
+  - Levels: 30–99
+  - Requirements: Must complete Tai Bwo Wannai Trio quest to cook (cooked) karambwan.
+  - Notes: 1-tick karambwan is the fastest XP method (very high XP/hr). Best done next to a bank for fastest throughput. If not 1-ticking, Hosidius is best AFK until ~level 96, then switch to bank-adjacent spots.
+
+- Bake Pie (Bake Pie spell)
+  - Levels: 10–99 (use pies appropriate to level)
+  - Requirements: Lunar Diplomacy (to cast Bake Pie)
+  - Notes: Pies never burn. Faster than range-cooking (cast every 3 ticks); provides passive Magic XP. Good AFK-ish option but can be costly/limited by pie supply.
+
+- Jug of wine
+  - Levels: start at ~35 (heading shows 35/68); becomes reliable at 68+
+  - Requirements: none specific; just grapes + jugs of water
+  - Notes: 200 XP per successful jug; grapes added at 2 ticks each so high XP/hr. Below level 68 there is a chance to get "bad wine" (0 XP); from 68+ yields up to ~490k XP/hr. Wines ferment in the bank (12s timer).
+
+Locations (best uses and requirements)
+- Rogues' Den
+  - Use: Best for 1-tick karambwan (everlasting fire adjacent to banker). Top choice for maximum 1-tick XP.
+  - Access: No special requirements.
+
+- Myths' Guild
+  - Use: Stove directly adjacent to bank — excellent fast cooking (stove advantages over fire).
+  - Requirement: Dragon Slayer II to teleport/benefit (for direct teleport access).
+
+- Mor Ul Rek
+  - Use: Sulphur vent (fire) next to bank — good for bank-adjacent 1-tick cooking.
+  - Requirement: Fire cape shown to TzHaar-Ket to enter inner area.
+
+- Hosidius Kitchen (Kourend)
+  - Use: Best AFK location for fish cooking up to high levels due to reduced burn rate.
+  - Requirements: Easy Kourend & Kebos diary to use ranges; elite diary increases cook success to +10% (elite requires level 84 Cooking boostable).
+  - Notes: Not recommended for 1-ticking karambwan because of longer bank distance.
+
+- Cooks' Guild
+  - Use: Quiet, low-traffic cooking area.
+  - Requirements: 32 Cooking + chef's hat to enter; Hard Varrock Diary or 99 Cooking to use bank inside.
+
+- Ruins of Unkah
+  - Use: Everlasting fire that acts as a range (good alternative location).
+
+- Port Khazard / Wintertodt Camp / Museum Camp / Catherby
+  - Use: Viable alternatives with varying bank distances and burn rates; choose based on proximity and whether you need a range vs. fire.
+
+Other important notes
+- 1-tick cooking requires tick-manipulation and high click accuracy but yields the highest XP/hr (especially karambwan).
+- Cooking gauntlets (Family Crest quest) and Kourend diaries significantly affect burn rates and efficiency — get them for optimal returns.
+- Choose bank-adjacent locations for 1-tick methods (Rogues' Den, Myths' Guild, Mor Ul Rek). For AFK and lower-burn cooking, use Hosidius kitchen (with diary bonuses).

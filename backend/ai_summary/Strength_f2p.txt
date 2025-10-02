@@ -1,0 +1,37 @@
+Important training methods
+- Use the fastest/highest-DPS melee weapon you can equip — scimitars are best in f2p. Aim for a rune scimitar as soon as you can (see levels).
+- Prioritise Strength when you want higher damage (max hit increases DPS). Train Attack to improve accuracy and to access better weapons.
+- Use the aggressive attack style for training Strength (it gives an effective +3 Strength for max-hit calculations).
+- Use the best neck slot item that increases your max hit:
+  - Amulet of strength when it gives a higher max hit.
+  - Amulet of power otherwise (better accuracy/defence; sometimes matches max hit).
+  - Amulet of accuracy is a weaker fallback if you cannot get the others.
+- Use appropriate armour for the monster type:
+  - Full melee armour vs melee attackers.
+  - Ranged armour vs magic-using monsters.
+  - Rune chainbody (chainbody) is preferable to a platebody against crush-using monsters.
+- Use the barronite mace vs runecrafting golems (golembane effect) — better than rune scimitar for those specific monsters.
+- Temporary boosts: beer/strength potions raise Strength above 99 (a strength potion raises 99 -> 111).
+
+Relevant locations and context
+- Stronghold of Security — source of fancy/fighting boots (starter free melee boots).
+- Castle Wars — obtain decorative boots (red/white/gold) for better defence / a +1 Strength on gold boots (ticket costs: red ≈4, white ≈40, gold ≈400).
+- Ruins of Camdozaal — runecrafting golems (use barronite mace here for best damage against golems).
+
+Levels required (for weapons, items, crafting/enchanting mentioned)
+- Rune scimitar: 40 Attack (recommended best free-to-play melee weapon).
+- Barronite mace: 40 Attack.
+- Amulet crafting/enchanting to make alternatives:
+  - Ruby amulet (to enchant to amulet of strength): Crafting 50 and Magic 49 (Lvl-3 Enchant).
+  - Diamond amulet (to enchant to amulet of power): Crafting 70 and Magic 57 (Lvl-4 Enchant).
+- Gilded d'hide vambraces (best f2p gloves listed): 40 Ranged to equip.
+- Key armour/weapon level requirements (summary):
+  - Rune equipment: typically 40 Defence / 40 Attack where noted (e.g., rune chainbody, rune platebody, rune scimitar require 40 in the relevant stat).
+  - Adamant: ~30 Defence/Attack; Mithril: ~20; Black: ~10; Steel: ~5 (see item for exact requirement).
+
+Other mechanics to note
+- Aggressive style gives a hidden +3 Strength when calculating max hit.
+- Amulet of power gives +6 Melee Strength bonus to max-hit calculation; amulet of strength gives +10.
+- Strength potions/beer temporarily boost Strength above natural level (useful for temporary higher max hit).
+
+If you want, I can produce a concise level-by-level training progression (monsters and locations) using typical f2p methods based on the full guide.

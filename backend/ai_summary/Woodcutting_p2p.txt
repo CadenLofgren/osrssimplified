@@ -1,0 +1,69 @@
+Summary — key Woodcutting (members) training methods, locations, and level requirements
+
+- Questing (fast early XP)
+  - Levels: 1 → 26
+  - Method: Complete Monk's Friend, Enlightened Journey, Icthlarin's Little Helper, and Recipe for Disaster (Skrach Uglogwee) — totals ~9,000 WC XP (1→26).
+
+- Regular trees
+  - Levels: 1–15
+  - Location: any low-level tree spots (common everywhere)
+  - Notes: 25 XP per log; use until level 15.
+
+- Oak trees
+  - Levels: 15–35
+  - Location: common oak spots (various bankside locations)
+  - Notes: 37.5 XP per log; faster than normal trees from 15.
+
+- Willow trees
+  - Level available: 30+
+  - Note: Willow becomes available at 30 but oak is slightly faster in 30–35 range.
+
+- Teak trees
+  - Levels: 35–99 (fastest with tick-manipulation; without tick-manipulation effective up to ~65)
+  - Locations:
+    - Fossil Island (planted teak patches) — best for 1.5-tick method
+    - Ape Atoll, Isle of Souls, Prifddinas — used for 2-tick method (Prifddinas gives crystal shards)
+  - Requirements: Fossil Island access (Bone Voyage) for planted teaks; tick-manipulation setups for 1.5-tick.
+  - Notes: 1.5-tick on Fossil Island = top XP (up to ~230k–255k XP/hr at 99 with crystal felling axe). 2-tick is slightly slower but less intensive. Without tick methods, teaks are best until ~65, then switch to sulliuscep.
+
+- Sulliuscep (mushroom tree)
+  - Levels: 65–99 (recommended after ~65 if not tick-manipulating)
+  - Location: Tar Swamp, Fossil Island (southwest); only one choppable sulliuscep spawns at a time per player
+  - Requirements: Bone Voyage (Fossil Island)
+  - Notes: Low-effort, high non-tick XP; designated world: 321 (fewer players preferred). Wear Lumberjack outfit for best XP.
+
+- Blisterwood tree
+  - Levels: 62–90 (viable low-effort alternative from 62)
+  - Location: Darkmeyer
+  - Requirements: Partially completed Sins of the Father
+  - Notes: Never depletes; 1/10 stop-cut chance enabling AFK training; decent XP (~69k–86k XP/hr with crystal axe + rations).
+
+- Redwood trees
+  - Levels: ~88/89/90–99 (can be cut reliably from 88 using Dragon axe special + Preserve; level 89 removes some requirements)
+  - Locations: Woodcutting Guild (bank chest nearby); Farming Guild redwoods also usable (1.5t possible)
+  - Notes: AFK-friendly; drop or bank logs. With crystal axe + 1.5t (Farming Guild), can reach up to ~180k XP/hr; typical non-1.5t rates ~55k–75k XP/hr depending on axe.
+
+- Forestry events
+  - Levels: any (dependent on tree type being cut)
+  - Locations / recommended worlds: official forestry worlds 388, 444, 487, 510
+  - Popular chopping spots during events: Willows south of Draynor bank; Maples in Mistrock (near Aldarin); Maples north of Seers' bank; Yews in Mistrock and Seers'/Prifddinas; Teaks on Isle of Souls and Prifddinas (NE); Magics in Myths' Guild and Hosidius
+  - Notes: Events spawn while collecting logs (not regular/hollow/WCG trees); boosts XP and provides anima-infused bark rewards.
+
+Equipment/access notes (short)
+- Axe required (equipped or inventory). Felling axes + Forester's rations give 10% extra WC XP and restore run energy.
+- Crystal felling axe (best) requires Song of the Elves to make; dragon felling axe useful mid-levels.
+- Forestry outfit / Lumberjack outfit give ~2.5% bonus XP per log.
+- For tick methods: use best available axe, forester's rations, and appropriate tick setups (1.5-tick = Fossil Island planted teaks; 2-tick = auto-retaliate method on Ape Atoll / Isle of Souls / Prifddinas).
+
+Quick level thresholds (at-a-glance)
+- 1: start
+- 1–15: regular trees
+- 15: oak
+- 30: willow available
+- 35: teak (start tick methods here)
+- 62: blisterwood accessible
+- 65: sulliuscep optimal (non-tick)
+- 71+: crystal axe/felling usage thresholds noted for max efficiency
+- 88–90: redwoods usable (special attack / boost considerations apply)
+
+If you want, I can convert this into a quick training route (levels and locations mapped step-by-step) for fastest XP.

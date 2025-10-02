@@ -1,0 +1,66 @@
+- Questing — various quest locations
+  - Levels: 1–26 (Tourist Trap alone) up to 33 (combo of Tourist Trap, Recruitment Drive, The Depths of Despair, The Grand Tree)
+  - Notes: fastest way to skip early levels via quest XP rewards.
+
+- Brimhaven Agility Arena — Brimhaven
+  - Levels: 20–47 (best 20–47); full obstacle pass at 40
+  - Notes: 200 coin entry. Floor spikes usable from 20 (very AFK, ~30–36k XP/h); full tagging & pillars ~45–50k XP/h at 40+. Pillars give extra XP/tickets; Karamja gloves 2+ grant +10% XP.
+
+- Wilderness Agility Course — deep Wilderness (access via Ice Plateau teleport tablet)
+  - Levels: 47–62 (normally requires 52; can boost from 47 with summer pie)
+  - Notes: ~50–60k XP/h including fails and tickets. Risk of PKing; bring boosts/healing and items to clear webs.
+
+- Hallowed Sepulchre — Hallowed Sepulchre dungeon
+  - Levels: 62–99 (access requires Sins of the Father)
+  - Notes: fastest endgame method; top rates with practice/private instance and stamina pots. Recommended Thieving 66 to loot Grand Coffin (floor 5). Additional skill reqs to loot certain coffins: Construction 56, Prayer 54, Magic 7+, Ranged 62. Max ~102k–108k XP/h with ideal runs.
+
+- Rooftop Agility Courses — various cities (Draynor, Al Kharid, Varrock, Canifis, Falador, Seers', Pollnivneach, Rellekka, Ardougne)
+  - Levels: 1–99 (specific courses per level bracket)
+    - Draynor 1–20 (~9–10k XP/h)
+    - Al Kharid 20–30 (~11–12k XP/h)
+    - Varrock 30–40 (~11–14k XP/h)
+    - Canifis 40–50 (~14–17k XP/h; good marks rate)
+    - Falador 50–60 (~29–34k XP/h)
+    - Seers' 60–70 (~40–56k XP/h with Kandarin hard diary)
+    - Pollnivneach 70–80/90 (~47–58k XP/h; hard Desert diary helps)
+    - Rellekka 80–90 (~50–63k XP/h with Fremennik hard diary)
+    - Ardougne 90–99 (~66–70k XP/h; elite diary boosts marks)
+  - Notes: low attention methods; spawn marks of grace (used for Graceful outfit). Diary rewards can improve XP/teleport convenience.
+
+- Edgeville Dungeon monkeybars — Edgeville Dungeon (Wilderness)
+  - Levels: 15–40
+  - Notes: up to ~13.2k XP/h; PK risk.
+
+- Barbarian Fishing (passive Agility) — Barbarian fishing spots
+  - Levels: 15–74 (grants small passive Agility while fishing)
+  - Notes: useful if also training Fishing; can accelerate early Agility gains if done first.
+
+- Agility Pyramid — Kharidian Desert pyramid
+  - Levels: 30+
+  - Notes: profitable and straightforward. ~25k XP/h at 30–50 (≈13 completions/hr), up to ~44k XP/h at 70+ (≈26 completions/hr). Pyramid tops sell to Simon Templeton.
+
+- Ape Atoll Agility Course — Ape Atoll
+  - Levels: 48–52/60 (requires Monkey Madness I chapter 2 completion; must wear ninja monkey greegree or Kruk greegree)
+  - Notes: ~30–35k XP/h at 48, ~45–50k at higher levels; no failures from level ~75 onward (up to ~55k). 2,000 laps unlock monkey backpack cosmetics.
+
+- Shayzien Advanced Agility Course — Shayzien (Great Kourend)
+  - Levels: 45–52/60 (access via Shayzien Agility Course advanced route)
+  - Notes: requires crossbow and mith grapple. ~35k XP/h at 45.
+
+- Colossal Wyrm Agility Course — northern area (Colossal Wyrm)
+  - Levels: 50 (basic) / 62 (advanced)
+  - Notes: basic route (~30k XP/h at 50); advanced route (~41k XP/h at 62). Rewards amylase crystals and other exchange items; advanced route is low-click and gives marks of grace.
+
+- Werewolf Agility Course — Werewolf course (near Canifis)
+  - Levels: 60–80/90 (access requires Creature of Fenkenstrain; ring of charos needed)
+  - Notes: can boost to 60 with summer pie at 55. ~50–55k XP/h at lower levels, up to ~67–70k/h at higher levels with tricks. Good marks of grace income (≈10–15/h).
+
+- Prifddinas Agility Course — Prifddinas
+  - Levels: 75–99 (requires Song of the Elves)
+  - Notes: low-click rooftop-style course. ~60k XP/h at 75, ~65k XP/h at 90+. Grants crystal shards via personal portal shortcuts.
+
+General tips (apply across methods)
+- Always run; use stamina potions / ring of endurance / other run-restoration to maximize XP/h.
+- Boosts (summer pies, agility potions) let you access higher courses early.
+- Keep weight low and bring food if failing obstacles or in dangerous areas (Wilderness).
+- Some courses provide marks of grace (useful for Graceful outfit) or additional currency/items (tickets, amylase crystals, shards).

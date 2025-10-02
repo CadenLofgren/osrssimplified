@@ -1,0 +1,32 @@
+Summary — free-to-play Smithing training (concise)
+
+Fastest experience methods (main progression)
+- The Knight's Sword (quest) — reward: 12,725 Smithing XP (takes Smithing from 1 → 29). Do this first if possible.
+- Bronze platebodies — Levels: 18 (or 29 if Knight's Sword done) → 33. Materials: 5 bronze bars each. Location: anvil south of Varrock west bank (closest anvil to a bank in F2P). Tip: use energy potions in 2 empty inventory slots to sprint continuously.
+- Iron platebodies — Levels: 33 → 48. Materials: 5 iron bars each. Location: Varrock west bank anvil.
+- Steel platebodies — Levels: 48 → 68. Materials: 5 steel bars each. Location: Varrock west bank anvil.
+- Mithril platebodies — Levels: 68 → 88. Materials: 5 mithril bars each. Location: Varrock west bank anvil.
+- Adamant platebodies — Levels: 87/88 → 98. Materials: 5 adamant bars each. Location: Varrock west bank anvil. Note: from level 87 you can boost to 88 with a dwarven stout to start adamant.
+- Rune platebodies — Levels: 98 → 99. Materials: 5 runite bars each. Location: Varrock west bank anvil. Note: drink dwarven stout for +1 Smithing boost to make rune earlier; very high XP/hour but very expensive.
+
+Relevant common tips for the above
+- Best anvil (F2P): anvil just south of Varrock west bank (fastest bank-anvil loop).
+- Energy potions (use 2 empty inventory slots) allow continuous sprinting for faster XP rates.
+- Optional: High Level Alchemy (Magic level 55) can be used to alch created platebodies to offset cost or gain Magic XP.
+- Dwarven stout gives +1 Smithing for 1 minute — useful to meet smithing level requirements for higher-tier platebodies.
+
+Alternative / early methods
+- Bronze axes — Levels: 1 → 5. Materials: 1 bronze bar each. Location: Varrock west bank anvil.
+- Bronze scimitars — Levels: 5 → 9. Materials: 2 bronze bars each. Location: Varrock west bank anvil.
+- Bronze warhammers — Levels: 9 → 18. Materials: 3 bronze bars each. Location: Varrock west bank anvil.
+
+Smelting / Crafting hybrid
+- Smelting while Crafting (jewellery) — Levels: smithing 20–88 (practical thresholds: many silver/gold jewellery recipes; gold jewellery smithing often requires Smithing 40). Smelt ores into bars at a furnace between bank trips while crafting jewellery. Smelting marginal rate ~1 bar per 5 ticks (~1,200 bars/hr).
+
+Other alternative / AFK methods (listed in guide)
+- Smelting bars (AFK method) — viable 1 → 99 (use furnace + bank loops).
+- Barronite deposits — available from level 14+ (AFK resource).
+- Superheat Item (spell) — recommended as an alternative method from 70 → 99 (listed; requires Magic).
+- Smithing rune equipment — used at very high level (98→99 listed as an alternative in guide).
+
+(Primary training route recommendation: complete The Knight's Sword, then platebody progression Bronze → Iron → Steel → Mithril → Adamant → Rune at the Varrock west bank anvil, using energy potions and dwarven stout as needed.)

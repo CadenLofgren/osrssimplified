@@ -1,0 +1,41 @@
+Summary — key training methods, locations, and level requirements
+
+Fastest / recommended progression
+- Levels 1–30: Questing — Waterfall Quest (no requirements) instantly grants 13,750 Attack and 13,750 Strength (can take a new account to ~30 Attack/Strength). Completing the set of recommended quests (listed below) can raise Attack/Strength/Defence substantially before AFK training.
+  - Recommended early quests (major benefits / requirements):
+    - Witch's House — no requirements; large Hitpoints XP (6,325).
+    - Waterfall Quest — no requirements; big Attack & Strength XP.
+    - Fight Arena — no requirements; Attack XP reward.
+    - Tree Gnome Village — no requirements; Attack XP.
+    - Vampyre Slayer — no requirements; Attack XP.
+    - The Grand Tree — Agility 25 required; large Attack XP.
+    - Holy Grail — Attack 20 and Merlin's Crystal completion required; Defence XP.
+  - Completing the recommended set shown in the guide yields roughly 65,275 Attack XP, 27,537.5 Strength XP and 15,300 Defence XP (approx. Attack 45 / Strength 37 / Defence 31).
+
+AFK and mid/high-level training (fastest XP)
+- Levels 30–50: Crabs (rock/other crabs) — classic AFK melee spot for 30+ melee stats.
+- Levels 50–70: Nightmare Zone (Normal Rumble) — recommended grind for these levels.
+- Levels 70–99: Nightmare Zone — primary high‑level AFK melee XP method.
+
+Other common training methods (level ranges and locations)
+- Levels 1–10: Chickens — starting low‑level training.
+- Levels 10–60: Rock Crabs — AFK, good HP/defence training as well.
+- Levels 30–60: Chaos druids — decent XP and rune drops.
+- Levels 30–81: Ogres — good XP early‑to‑mid game (e.g., Corsair Cove / Combat training camps).
+- Levels 40–60: Moss giants — mid‑level training, often in ruins/caves.
+- Levels 60–70: Wilderness Slayer — Slayer tasks in the Wilderness for combat + Slayer XP.
+- Levels 70–99: Slayer (general) — best long‑term melee training; many profitable high‑XP tasks.
+  - Gargoyles: listed under Slayer as a key task (see Slayer requirements/levels on task source).
+- Levels 60/70–99: Scurrius — listed as a high‑level melee target.
+- Levels 60/70–99: Sulphur Naguas — listed as a high‑level melee target.
+- Levels 60/70–99: Pest Control — combat/Attack/Strength training via minigame (typically requires ~60–70 combat).
+- Levels 90–99: Rune dragons — high‑level aggressive training with high requirements.
+
+Other important training notes (requirements / tips)
+- Waterfall Quest can be done at very low combat to skip early low‑level training, but contains high‑damage monsters — consider boosting Defence/Hitpoints first if inexperienced.
+- Maintain balanced Attack/Strength/Defence until you can equip best‑in‑slot weapons/gear; afterward prioritise Strength for fastest melee XP to 99.
+- Strength can be trained without Hitpoints via Barbarian Fishing and the Blast Furnace pump (requires 30 Strength).
+- Defence can be trained more efficiently with Ancient Magicks on defensive settings or by using chinchompas on long fuse for specific monsters (e.g., Manical monkeys).
+- Slayer tasks are recommended for simultaneous Slayer + combat training and often profit; bring teleport(s) for escapes when fighting dangerous monsters.
+
+If you want, I can produce a compact level-by-level plan (exact suggested spots, gear, and food per level band).

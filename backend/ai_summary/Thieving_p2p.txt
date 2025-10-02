@@ -1,0 +1,32 @@
+Summary — important Thieving training methods, locations, and level requirements
+
+Fast / recommended methods
+- Questing: levels 1–42 — use quest XP to skip early training (major low‑level quests give bulk of XP up to ~42).
+- Chambers of Xeric (thieving room): levels 1–45 — Chambers of Xeric (Mount Quidamortem, Kebos Lowlands). Requirement: lockpick. Best when raid room is thieving room; higher player count → faster chest respawn.
+- Aldarin Villas chests: levels 36–45 — Aldarin villas (requires lockpick for best rates). Fast chest unlocking XP; risk of teleport on failure.
+- Blackjacking: best at 45–49 and again from ~65+ (very strong 65–99 rates) — Pollnivneach (lure bandits into houses). Requirements: 45 Thieving, partial completion of The Feud, a blackjack. Bandit types by range: 45–55 (bearded Pollnivnian, lvl 41), 55–65 (lvl 56 scimitar bandits), 65+ (Menaphite Thugs). Technique: KO then pickpocket while unconscious. Rogue equipment recommended; bring food or brews for healing.
+- Stealing artefacts: levels 49–65 (viable to 99) — Port Piscarilius (assigned houses). Requirements: lockpick, Book of the Dead/teleports; lure guards to smuggle artefacts. Less click‑intensive, allows some AFKable tasks.
+- Rogues' Castle chests: levels 84–99 — Rogues' Castle (Deep Wilderness). High XP/profit but high PK risk. Use Protect from Melee; bring only what you can afford to lose.
+- Pyramid Plunder: optimal 91–99 (can start earlier at 71/81) — Sophanem. Requirement: access to Sophanem (start Icthlarin’s Little Helper or use Pharaoh’s sceptre). Loot golden chests/urns in higher rooms for best XP.
+
+Key locations & items (quick reference)
+- Chambers of Xeric (Mount Quidamortem, Kebos Lowlands): lockpick required.
+- Aldarin villas: lockpick recommended.
+- Pollnivneach (bandits / Menaphite Thugs): blackjack required; lure into small houses.
+- Port Piscarilius: Book of the Dead / lockpick; Captain Khaled for repeat jobs.
+- Rogues' Castle: deep Wilderness (multi‑combat; high PK risk).
+- Pyramid Plunder (Sophanem): Pharaoh’s sceptre or quest access required.
+
+Useful gear / bonuses and requirements
+- Lockpick: required for chests and many house/artefact methods.
+- Blackjack: required for blackjacking (45 Thieving + partial The Feud).
+- Rogue equipment: obtainable from Rogue's Den (requires 50 Thieving to access); chance to double loot (no XP bonus).
+- Dodgy necklace: 25% chance to avoid stun on failed pickpocket (10 charges).
+- Shadow Veil spell: 15% chance to avoid stun; stacks with dodgy necklace.
+- Gloves of silence: +5% pickpocket success; require 54 Hunter to wear; repairable at 64 Crafting. Note: Ardougne Diary perks override them inside Ardougne.
+- Ardougne Diary: medium = +10% pickpocket success in Ardougne; hard extends bonus globally. Diary tiers also increase coin pouch capacity (None/Easy 28, Medium 56, Hard 84, Elite 140) — valuable for long pickpocket runs.
+
+Notes
+- Many top methods require specific items/quest progress (lockpick, blackjack, Book of the Dead, Sophanem access).  
+- Blackjacking and Pyramid Plunder are click‑intensive but among the fastest; stealing artefacts is less click‑intensive and more AFK‑friendly.  
+- Rogues’ Castle yields very high rates but is high‑risk (Wilderness).

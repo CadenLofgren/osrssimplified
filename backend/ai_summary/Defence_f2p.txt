@@ -1,0 +1,73 @@
+Summary (key training methods, locations, and level requirements)
+
+Important training guidance
+- Use the best scimitar you can equip — scimitars have the highest DPS in F2P. Prioritise getting Attack 40 to use the rune scimitar as soon as possible.
+- Prioritise Strength to increase max hit (and DPS); Attack increases accuracy. The aggressive attack style gives a hidden +3 Strength boost.
+- Use the Amulet of Strength or Amulet of Power when available to raise max hit/accuracy (amulet choice depends on Strength level and attack style).
+- Wear full melee armour vs melee-using monsters; wear ranged armour vs magic-using monsters. Chainbody is preferable vs crush attacks.
+- If you want both experience and survivability while training Defence, equip the best defensive pieces you can wear for your Defence level (see equip levels below).
+
+Relevant locations mentioned
+- Stronghold of Security — initial melee boots (Fancy/Fighting boots) can be reclaimed; good for early tanking.
+- Castle Wars — obtain decorative boots (red/white/gold) for improved defence (+ gold boots give +1 Strength).
+- Ruins of Camdozaal — runecrafting golems (Barronite mace has a special effect against them).
+- Demonic Ruins — (listed as an alternative training spot for Greater demons in the full guide).
+
+Specific level / requirement list (equip/use)
+- Weapons:
+  - Rune scimitar: Attack 40 (best DPS weapon for F2P melee).
+  - Barronite mace: Attack 40 (special golembane effect vs runecrafting golems).
+  - Adamant scimitar: Attack 30.
+  - Mithril scimitar: Attack 20.
+  - Black scimitar: Attack 10.
+- Neck / amulet:
+  - Amulet of Strength: provides +10 melee strength bonus.
+    - To craft/obtain by enchanting: requires Crafting 50 and Magic 49 to make/Enchant a ruby amulet (as referenced).
+  - Amulet of Power: provides +6 melee strength bonus.
+    - To craft/obtain by enchanting: requires Crafting 70 and Magic 57 to make/Enchant a diamond amulet (as referenced).
+  - Amulet of Accuracy: quest reward (weaker, no strength bonus).
+- Head:
+  - Rune full helm / Rune god full helm: Defence 40.
+  - Adamant full helm: Defence 30.
+  - Mithril full helm: Defence 20.
+  - Black full helm: Defence 10.
+  - Steel full helm: Defence 5.
+- Body:
+  - Rune platebody / Rune god platebody: Defence 40 (note: rune platebody requires Dragon Slayer I to wear).
+  - Adamant platebody/decorative gold platebody: Defence 30.
+  - Mithril platebody: Defence 20.
+  - Black platebody: Defence 10.
+  - Steel platebody: Defence 5.
+  - Rune chainbody: Defence 40 (better vs crush).
+  - Adamant chainbody: Defence 30.
+  - Mithril chainbody: Defence 20.
+  - Black chainbody: Defence 10.
+  - Steel chainbody: Defence 5.
+- Legs:
+  - Rune plateskirt / Rune plateskirt (god): Defence 40.
+  - Adamant plateskirt / decorative gold platelegs: Defence 30.
+  - Mithril plateskirt: Defence 20.
+  - Black plateskirt: Defence 10.
+  - Studded chaps (Ranged item): Ranged 20 (alternative).
+- Shield:
+  - Rune kiteshield / Rune god kiteshield: Defence 40.
+  - Adamant kiteshield / decorative gold shield: Defence 30.
+  - Mithril kiteshield: Defence 20.
+  - Black kiteshield: Defence 10.
+  - Steel kiteshield: Defence 5.
+- Hands:
+  - Gilded d'hide vambraces: Ranged 40 (best slot if available).
+  - Leather vambraces / leather gloves: no Defence requirement; useful early until higher-tier gloves are available.
+- Feet:
+  - Decorative boots (gold): Defence 30 (+1 Strength).
+  - Decorative boots (white): Defence 20.
+  - Decorative boots (red): Defence 5.
+  - Fancy / Fighting boots: no Defence requirement (awarded by Stronghold of Security).
+  - Leather boots: no requirement.
+
+Other mechanics & notes
+- Aggressive attack style grants an effective +3 Strength to damage calculations.
+- Amulet bonuses: amulet of power vs amulet of strength trade accuracy vs higher strength bonus — choose based on which gives higher max hit/accuracy at your Strength and attack style.
+- Gold decorative boots give a +1 Strength bonus but require significant time/tickets from Castle Wars; not necessary for efficient training.
+
+If you want a concise level-by-level training spot list (e.g., monsters/areas to kill per level range), provide the rest of the melee guide text or request the specific level bracket and I’ll extract the recommended training locations and monster targets for that bracket.

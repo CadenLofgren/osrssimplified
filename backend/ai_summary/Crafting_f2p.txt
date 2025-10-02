@@ -1,0 +1,69 @@
+Quests (quick early XP)
+- Sheep Shearer — 150 Crafting XP (helps reach level 8)
+- Goblin Diplomacy — 200 XP
+- Misthalin Mystery — 600 XP
+(Completing all three takes Crafting 1 → 8.)
+
+Relevant locations
+- Potter's wheel: Barbarian Village (good wheel; no nearby clay/water). Crafting Guild (level 40) has a potter's wheel and pottery kiln.
+- Spinning wheel: Lumbridge (downstairs, close to Lumbridge bank); Crafting Guild has two spinning wheels.
+- Furnace (for jewellery/smelting): Edgeville (closest to a bank); Al Kharid (short walk from bank).
+- Clay & water sources: West Varrock mine (clay), Varrock west bank (near clay/water), Falador waterpump (close to Falador west bank), Varrock center fountain (water close to bank).
+- Crafting Guild (requires 40 Crafting): contains clay rocks, water source, potter's wheel, kiln, spinning wheels; sheep for wool just north.
+- Ultimate Ironman route (until 40): West Varrock mine → canoe to Edgeville (well) → Barbarian Village wheel/kiln → return; yields ~650–720 XP/run. After 40 use Crafting Guild; mine/smelt gold and craft jewellery for profit while training.
+
+Common training methods (level required)
+In-place (no travel once materials gathered)
+- Leather chaps — level 18
+- Hardleather body — level 28
+- Cutting gems:
+  - Cut sapphire — level 20
+  - Cut emerald — level 27
+  - Cut ruby — level 34
+  - Cut diamond — level 43
+
+Commuter (bank ↔ furnace / kiln / wheel)
+- Making bowls (pottery: form + fire) — level 8 (soft clay → bowl)
+- Smelting unstrung gold amulets — level 8 (gold bar → unstrung amulet) — use furnace (Edgeville/Al Kharid)
+- Smelting tiaras (silver bar → tiara) — level 23
+- Crafting ruby amulets (gold bar + ruby → amulet) — level 50
+- Crafting diamond necklaces (gold bar + diamond → necklace) — level 56
+
+Level-by-level recommended progression (F2P)
+Armour (leather/hard leather)
+- 1–7: Leather gloves
+- 7–9: Leather boots
+- 9–11: Leather cowl
+- 11–14: Leather vambraces
+- 14–18: Leather body
+- 18–28: Leather chaps
+- 28–99: Hardleather body
+
+Pottery
+- 1–7: Pot (soft clay → pot)
+- 7–8: Pie dish (soft clay)
+- 8–99: Bowl (soft clay → bowl) — standard AFK pottery method (requires kiln/wheel and fire)
+
+Gold jewellery progression (smelt/craft)
+- 5–6: Gold ring
+- 6–8: Gold necklace
+- 8–20: Gold amulet (unstrung) — smelt gold bars
+- 20–22: Sapphire ring
+- 22–24: Sapphire necklace
+- 24–31: Sapphire amulet (u)
+- 31–40: Emerald amulet (u)
+- 40–43: Ruby necklace
+- 43–56: Diamond ring
+- 56–70: Diamond necklace
+- 70–99: Diamond amulet (u)
+
+Gem cutting (enables gem jewellery)
+- Uncut sapphire → cut sapphire — level 20
+- Uncut emerald → cut emerald — level 27
+- Uncut ruby → cut ruby — level 34
+- Uncut diamond → cut diamond — level 43
+
+Notes / tips
+- Use Crafting Guild from level 40 onward for convenience (all crafting tools and resources in one place) if access permitted.
+- For jewellery crafting/smelting, use Edgeville furnace for fastest bank-furnace runs.
+- Switch methods as prices/availability change; pottery and leather are inexpensive AFK methods, jewellery/gem cutting give faster XP but require materials and travel to furnaces/banks.

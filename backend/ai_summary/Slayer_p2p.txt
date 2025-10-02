@@ -1,0 +1,49 @@
+Important training methods
+- Multicombat stacking + multi-target damage (best XP):
+  - Magic barrage spells (highest DPS when applicable).
+  - Chinchompas (ranged multi-target).
+  - Dinh's bulwark special attack (melee multi-target).
+- Single- / small-group high-HP monsters:
+  - Dwarf multicannon — strong for 1x1 and 2x2 monsters.
+  - Venator bow — competitive with barrage for single-target tasks.
+- Cannonable spots using ranged or melee when other multi-target options unavailable.
+- Use Slayer reward points or low-level master (Turael) to skip/block undesirable tasks to maximize hour rates.
+- Wear Slayer helmet (i) for best melee XP rates on Slayer tasks.
+- Switch between two Slayer masters (one appropriate to level + a higher-level master) to take advantage of completion milestone point bonuses.
+
+Relevant locations
+- Catacombs of Kourend (example multicombat / high-volume slayer area)
+- Multicombat areas in general (seek multicombat rooms for barrage/chins)
+- Slayer master locations:
+  - Burthorpe (Turael / Aya)
+  - Draynor Village (Spria)
+  - Canifis (Mazchna / Achtryn)
+  - Edgeville Dungeon (Vannaka)
+  - Zanaris (Chaeldar)
+  - Mount Karuulm (Konar quo Maten)
+  - Tree Gnome Stronghold (Nieve / Steve)
+  - Shilo Village (Duradel / Kuradal)
+  - Edgeville (Krystilia)
+- Specific monster/area unlocks (quest-dependent): Fossil Island wyverns, Skeletal wyverns (Elemental Workshop I), Catacombs, etc.
+
+Levels / requirements for activities (from guide)
+- Slayer masters (access requirements — combat / quest / Slayer where listed):
+  - Turael / Aya (Burthorpe) — any level.
+  - Spria (Draynor Village) — requires quest: A Porcine of Interest.
+  - Mazchna / Achtryn (Canifis) — Priest in Peril; 20 combat or 99 Slayer.
+  - Vannaka (Edgeville Dungeon) — 40 combat or 99 Slayer.
+  - Chaeldar (Zanaris) — Lost City; 70 combat or 99 Slayer.
+  - Konar quo Maten (Mount Karuulm) — 75 combat or 99 Slayer.
+  - Nieve / Steve (Tree Gnome Stronghold) — 85 combat or 99 Slayer.
+  - Duradel / Kuradal (Shilo Village) — Shilo Village quest; 100 combat + 50 Slayer or 99 Slayer.
+  - Krystilia (Edgeville) — any level (must have completed ≥1 task).
+- Quest unlocks for certain Slayer monsters (examples):
+  - Fossil Island Wyverns — unlocked via Bone Voyage / Elemental Workshop I references.
+  - Skeletal wyvern — requires Elemental Workshop I (and assigned by certain masters).
+  - Various dragon types and other monsters require starting/completing Dragon Slayer I/II, Desert Treasure, etc. (check individual monster/task pages for specifics).
+
+Quick efficiency notes (concise)
+- Prefer multicombat areas and multi-target methods (barrage / chins / Dinh) for highest XP/hr.
+- Use cannon or Venator bow for strong single-target tasks.
+- Block/skip bad tasks with Slayer points or use low-level master to avoid inefficient assignments.
+- Access to better masters (and quest/combat requirements) improves task pools and point gains — use higher masters when you can reliably complete tougher tasks.

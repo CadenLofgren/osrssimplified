@@ -1,0 +1,44 @@
+The content you pasted is just a redirect to the Free-to-play Magic training page, so the actual guide content wasn’t included. Do you want me to fetch/summarise that target page? I can also summarise common f2p Magic training methods from the OSRS wiki knowledge — below is a concise, focused summary (methods, locations, and levels required).
+
+Key spellbook spell level requirements (standard spellbook)
+- Wind Strike: 1
+- Water Strike: 5
+- Earth Strike: 9
+- Fire Strike: 13
+- Wind Bolt: 17
+- Water Bolt: 23
+- Earth Bolt: 29
+- Fire Bolt: 35
+- Wind Blast: 41
+- Water Blast: 47
+- Earth Blast: 53
+- Fire Blast: 59
+
+Important f2p training methods, where to do them, and required levels
+1) Low‑level offensive spells on weak monsters (fast, inexpensive)
+- What: Cast Wind/Water/Earth/Fire Strike and Bolts on low‑HP monsters for steady XP.
+- Where: Lumbridge (chickens, cows, goblins), Varrock, Al‑Kharid, and closer low‑level spawn areas.
+- Levels: usable from level 1 (Wind Strike); move up to stronger spells as you unlock them (see spell level list).
+
+2) Fire Bolt / Fire Blast on mid‑level monsters (best damage / XP within f2p spellbook)
+- What: Use Fire Bolt (35) or Fire Blast (59) for higher damage and faster XP.
+- Where: Aggressive mid‑level monsters that are accessible in f2p: Al‑Kharid warriors, Edgeville Dungeon monsters, and Hill giants (Edgeville Dungeon; good XP and drops).
+- Levels: Fire Bolt (35) for efficient mid‑game training; Fire Blast (59) for stronger targets if available.
+
+3) Splashing (AFK method)
+- What: Intentionally miss spells to “splash” for low but completely AFK XP (requires setups that keep spells missing).
+- Where: Any safe, respawning low‑level NPCs (Lumbridge cow/chicken/goblin spawns are common).
+- Levels: Can be done from level 1 using Wind Strike; effective for slow AFK XP rather than speed leveling.
+
+4) Multi‑target grinding (limited in f2p)
+- What: Use the highest blast spells available to hit bigger monsters quickly; f2p cannot use multi‑target bursts/barrages (member‑only), so options are limited to single‑target blast/bolt spells.
+- Where: Dungeons and areas with many spawnable mid‑level monsters (Edgeville Dungeon, Al‑Kharid).
+- Levels: Use Blast spells starting at 41 (Wind Blast) / 47 (Water Blast) etc., up to Fire Blast (59).
+
+Notes / constraints for f2p Magic
+- Alchemy (high alch) and many teleport spells are members‑only; alch training is not available in f2p.
+- Members‑only multitarget spells (e.g., bursting/barraging) and many efficient money/XP methods do not apply.
+- Gear: Use staves of elements for infinite runes of that element; mana/rune cost and equipment affect speed and profit.
+- Best practice: train with the highest damaging spell you can reliably hit on safe, aggressive spawns (or use splashing if you need AFK).
+
+If you want, I can fetch and produce a direct, itemised extract from the actual Free‑to‑play Magic training wiki page (full list of optimal monsters, exact XP rates, and specific recommended spots). Which would you prefer?
