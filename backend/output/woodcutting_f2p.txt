@@ -142,7 +142,7 @@ Bronze axe
 Bob's Brilliant Axes
 :
 16
-95
+96
 1.36 kg
 1
 Iron axe
@@ -151,7 +151,7 @@ Iron axe
 Bob's Brilliant Axes
 :
 56
-97
+99
 1.36 kg
 1.5
 Steel axe
@@ -160,14 +160,14 @@ Steel axe
 Bob's Brilliant Axes
 :
 200
-102
+104
 1.36 kg
 2
 Black axe
 11
 10
 Reward casket (beginner)
-542
+540
 1.36 kg
 2.25
 Mithril axe
@@ -175,7 +175,7 @@ Mithril axe
 20
 51
 Smithing
-165
+163
 1.33 kg
 2.5
 Adamant axe
@@ -183,7 +183,7 @@ Adamant axe
 30
 71
 Smithing
-483
+478
 1.587 kg
 3
 Rune axe
@@ -191,7 +191,7 @@ Rune axe
 40
 86
 Smithing
-7,139
+7,111
 1.36 kg
 3.5
 Trees
@@ -237,7 +237,7 @@ Experience required: 2,411
 Logs
 required: 97 (2,425 experience)
 Profit:
-12,125
+11,446
 Levels 15–30/60/99: Oak trees
 At level 15, it is recommended to start cutting
 oak trees
@@ -271,22 +271,22 @@ GP Profit
 30
 292
 10,950
-14,600
+14,308
 30
 45
 1,576
 59,100
-78,800
+77,224
 45
 60
 5,368
 201,300
-268,400
+263,032
 60
 99
 340,286
 12,760,725
-17,014,300
+16,674,014
 2-tick oaks
 Using the same technique as
 2-tick teaks
@@ -515,17 +515,17 @@ GP Profit
 75
 5,353
 936,775
-1,118,777
+1,124,130
 75
 90
 23,634
 4,135,950
-4,939,506
+4,963,140
 90
 99
 43,932
 7,688,100
-9,181,788
+9,225,720
 v
 t
 e

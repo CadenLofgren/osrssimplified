@@ -70,43 +70,43 @@ ticks
 Bronze pickaxe
 1
 1
-48
+51
 2.267 kg
 8
 Iron pickaxe
 1
 1
-215
+222
 2.267 kg
 7
 Steel pickaxe
 6
 5
-233
+235
 2.267 kg
 6
 Black pickaxe
 11
 10
-1,464
+1,473
 0.010 kg
 5
 Mithril pickaxe
 21
 20
-422
+426
 1.814 kg
 5
 Adamant pickaxe
 31
 30
-1,605
+1,596
 2.721 kg
 4
 Rune pickaxe
 41
 40
-18,436
+18,482
 2.267 kg
 3
 Ores
@@ -235,7 +235,7 @@ Experience required: 13,032,020
 Iron ore
 required: 372,344 (13,032,040 experience)
 Banking profit:
-51,011,128
+49,149,408
 Money making methods
 Levels 30–99: Superheat Item
 Superheat Item
@@ -282,21 +282,21 @@ Steel bar
 Mithril bar
 22
 88
-614
-13,508
-39,975,084
+607
+13,354
+39,519,342
 Adamantite bar
 20
 120
-985
-19,700
-42,752,940
+965
+19,300
+41,884,860
 Runite bar
 18
 144
-2,056
-37,008
-66,928,968
+2,111
+37,998
+68,719,383
 With an
 imbued Skull sceptre
 , the
@@ -331,7 +331,7 @@ Experience required: 1,935,487
 Adamantite ore
 required: 20,374 (1,935,530 experience)
 Profit:
-15,260,126
+15,545,362
 Levels 85–99: Runite ore
 Runite mining is highly profitable, but
 extremely
@@ -349,7 +349,7 @@ Experience required: 9,775,821
 Runite ore
 required: 78,207 (9,775,875 experience)
 Profit:
-795,443,397
+790,359,942
 Other methods
 Levels 1/10–14/15: Rune essence
 With the completion or progression of

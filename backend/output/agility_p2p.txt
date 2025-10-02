@@ -158,7 +158,7 @@ Grand Hallowed Coffin
 . Most of the profit comes from the
 ring of endurance
 , with the hourly profit currently being
-1,877,320.77
+1,853,740.13
 . Players can also loot the
 coffins
 on floors 4 and 5 for extra profit, though this will lower the experience rates slightly. Looting the coffins on floors 1–3 is not recommended except for obtaining
@@ -446,7 +446,7 @@ to access this course. Players can find
 crystal shards
 by using portals that randomly appear around the course, which act as shortcuts. These portal shortcuts are unique to each player, and grant the player a crystal shard every time they pass through them.
 Players can gain up to around 60,000 experience per hour at level 75, increasing to 65,000 experience per hour from level 90 onwards. Expect lower rates if idling. At maximum rates, players can also find 48.5 crystal shards per hour, worth approximately
-844,748.75 coins
+819,771.25 coins
 if used to create
 divine super combat potions
 .

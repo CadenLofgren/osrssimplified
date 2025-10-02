@@ -2458,7 +2458,7 @@ All Stats
 Slash
 +121
 Strength
-242,195,844
+236,016,063
 Utilizing the weapon's "Soul stack" effect is required to achieve maximum experience rates. Each Soul Stack gives the player a +6% boost to their Strength level. Maintaining 5 soul stacks at all times, and not using the "Behead"
 special attack
 is optimal while training. It does not degrade and it primarily uses the
@@ -2473,7 +2473,7 @@ All Stats
 Stab
 +111
 Strength
-19,981,680
+19,892,901
 This weapon will be better than the ghrazi rapier on monsters that have very high Defence bonuses due to its passive effects.
 Noxious halberd
 80
@@ -2490,7 +2490,7 @@ Stab
 Slash
 +142
 Strength
-55,902,181
+55,784,982
 Two-handed weapon with a slightly slower attack speed of 3 seconds instead of 2.4 like most other weapons listed. Despite this, it is better than the other 80 Attack weapons when used with lower Strength bonus gear while being far cheaper.
 Ghrazi rapier
 80
@@ -2501,7 +2501,7 @@ All Stats
 Stab
 +97
 Strength
-32,241,921
+33,085,531
 This is one of the best melee training weapons. Its
 Strength bonus
 is tied with the
@@ -2520,7 +2520,7 @@ All Stats
 Crush
 +97
 Strength
-192,528,358
+192,613,145
 This is one of the best melee training weapons. Its
 Strength bonus
 is tied with the
@@ -2548,7 +2548,7 @@ All Stats
 Slash
 +97
 Strength
-130,261,825
+129,778,623
 This is one of the best melee training weapons. Its Strength bonus is tied with the ghrazi rapier and the
 inquisitor's mace
 . However, it must be charged with
@@ -2577,7 +2577,7 @@ All stats
 Slash
 +88
 Strength
-43,988,527
+42,759,928
 This is the best non-degradable weapon for training Strength at level 75.
 The special attack of the
 Voidwaker
@@ -2599,15 +2599,15 @@ Controlled
 Slash
 +94
 Strength
-1,774,141
+1,795,310
 While it is the fourth strongest one handed four tick weapon in the game, the tentacle's cost per attack, of
-147.38
+149.83
 , makes training far more expensive, but provides a boost of +8
 Slash
 and +4
 Strength
 . The costs adds up to
-221,072.85
+224,740.05
 coins per hour, completely degrading after 10,000 hits.
 Not specifically for sale in the Grand Exchange. Created by combining an
 abyssal whip
@@ -2627,7 +2627,7 @@ Controlled
 Slash
 +90
 Strength
-1,473,819
+1,498,267
 This is the most common training weapon, especially considering that it is affordable and does not degrade. The whip is the second-strongest non-degradable Attack and Defence training weapon in the game. Using this weapon on
 Controlled
 is an easy, but slower way to reach 99
@@ -2648,13 +2648,13 @@ Strength
 Slash
 +88
 Strength
-5,532,421
+5,532,061
 Similar to the
 abyssal tentacle
 , this weapon degrades. Each hit costs
-13.64
+13.60
 , costing
-20,460.60
+20,406.60
 per hour of constant use. This is the third-best Strength training weapon in the game. After 10,000 hits, the sword crumbles to dust, and you get the Tear back.
 Not specifically for sale in the Grand Exchange. Created by combining a
 Saradomin sword
@@ -2672,7 +2672,7 @@ Strength
 Crush
 +85
 Strength
-18,290,902
+17,849,283
 This is the second-best non-degradable Strength training weapon. It is very useful when fighting a monster with a vulnerability to Crush weapons, such as
 Revenants
 and
@@ -2699,7 +2699,7 @@ Controlled
 Stab
 +83
 Strength
-1,573,260
+1,551,854
 This weapon is not generally chosen for everyday training due to only being able to train on controlled or defensive. It is both weaker and more expensive than the abyssal whip. It is primarily used against monsters with a weakness to Stab, such as all types of
 dragons
 . It also has a decent Crush bonus, so it can be used as an alternative to the Abyssal bludgeon for fighting Crush-weak enemies like
@@ -2714,7 +2714,7 @@ Strength
 Stab
 +83
 Strength
-2,632,148
+2,612,021
 The fourth-best one-handed Strength training weapon. It should not be used for Attack training unless a Stab weapon is needed.
 Staff of the dead
 75
@@ -2727,7 +2727,7 @@ Strength
 Slash
 +80
 Strength
-6,116,311
+6,180,416
 The fifth-best one-handed Strength training weapon. It is more accurate with a defender than the next-best Strength training weapon, the Saradomin sword, but has lower Strength. This makes the staff better against high-defence monsters, but it is much less affordable. Also, it is strictly worse than the
 abyssal dagger
 , which should usually be used instead unless a slash weapon is needed.
@@ -2740,7 +2740,7 @@ Strength
 Slash
 +82
 Strength
-136,404
+136,044
 The Saradomin sword is a much more affordable Strength training weapon than anything above it on this list. Against lower-defence monsters such as
 Yaks
 , the Saradomin sword will on average do higher damage per second than the
@@ -2758,7 +2758,7 @@ All Stats
 Slash
 +113
 Strength
-1,802,679
+1,722,358
 The zombie axe has a
 5-tick weapon speed
 and does slightly less
@@ -2786,7 +2786,7 @@ Strength
 Crush
 +76
 Strength
-115,468
+120,646
 The
 Sarachnis cudgel
 is generally not favoured for training due to its marginal advantages over the
@@ -2816,7 +2816,7 @@ Strength
 Crush
 +72
 Strength
-7,640,778
+7,460,093
 This weapon is on par with the dragon scimitar as the best training weapon for all attack styles at level 60 Attack, requiring no charging or quest completion. When charged with
 revenant ether
 , it grants a 50% boost in melee accuracy and damage against
@@ -2861,7 +2861,7 @@ All Stats
 Slash
 +72
 Strength
-59,412
+59,602
 This is tied for the best training weapon for all attack styles at level 60 with the Viggora's chainmace. In addition, the dragon scimitar is a
 much
 cheaper alternative to all of the weapons listed above, making it very popular even among some high level players. For Attack and Defence training, it should be replaced with the abyssal whip as soon as one can afford and equip it.
@@ -2874,7 +2874,7 @@ All Stats
 Stab
 +69
 Strength
-122,332
+119,408
 This is comparable to the dragon scimitar in stats, but without the quest requirement of
 Monkey Madness I
 .
@@ -2891,7 +2891,7 @@ Slash
 Crush
 +98
 Strength
-59,633
+58,944
 This
 5-tick
 weapon holds the third-highest Strength bonus for single-handed weapons. It is particularly effective against creatures susceptible to
@@ -2920,7 +2920,7 @@ All Stats
 Slash
 +77
 Strength
-59,224
+59,200
 A viable alternate training weapon before being able to use the dragon scimitar since Monkey Madness I is a much longer and harder quest than
 Lost City
 . It should be noted that the
@@ -2936,7 +2936,7 @@ All Stats
 Slash
 +64
 Strength
-52,490
+52,370
 This is the best melee training weapon at 55 Attack, providing the highest Strength bonus before 60 Attack while being fairly cheap.
 Leaf-bladed sword
 50
@@ -2949,7 +2949,7 @@ All Stats
 Stab
 +50
 Strength
-40,911
+40,837
 This weapon is the second best option at 50 Attack, behind the
 granite hammer
 .
@@ -2964,7 +2964,7 @@ All Stats
 Crush
 +56
 Strength
-4,222,304
+4,108,201
 This is the best melee training weapon at 50 Attack and Strength. However, it is slightly more expensive than other weapons at this level.
 Brine sabre
 40
@@ -2975,7 +2975,7 @@ All Stats
 Slash
 +46
 Strength
-361,553
+343,475
 A more expensive alternative to the
 rune scimitar
 , the
@@ -2989,7 +2989,7 @@ All Stats
 Slash
 +44
 Strength
-14,931
+14,921
 The prototypical
 RuneScape
 weapon. This is your best bet for a cheap and effective training weapon at this level.
@@ -3004,7 +3004,7 @@ All Stats
 Slash
 +62
 Strength
-19,702
+19,620
 This weapon attacks slower than the granite hammer, leaf-bladed sword, and rune scimitar, making it usually worse overall.
 Other
 Scimitars

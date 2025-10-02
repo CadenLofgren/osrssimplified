@@ -161,7 +161,7 @@ Recruitment Drive
 and
 The Dig Site
 quests will get the player from level 3 to 19.
-Here are some quests that grant Herblore experience which require little or no Herblore stats:
+Here are some quests that grant Herblore experience which have little or no additional requirements:
 Quest
 Experience
 reward
@@ -217,9 +217,9 @@ alchemist's amulet
 or
 amulet of chemistry
 can be used while training Herblore to save significant amounts of money or even make profit in some cases. One charge costs
-118.80
+118
 or
-237.60
+236
 , respectively. This results in cost savings when a single dose is worth more than one charge. However, the amulet of chemistry requires more effort to use as it needs to be replaced when crumbled.
 Prescription goggles
 are also very useful, as they provide a 10% chance to not consume secondary ingredients for most (but not all) potions. This can be especially important if making potions with expensive secondary ingredients, such as
@@ -272,50 +272,50 @@ Guam potion (unf)
 Eye of newt
 25
 62,500
-461
--445.25
--17.81
--18.27
--18.49
--17.79
--18.48
+440
+-424.25
+-16.97
+-17.43
+-17.65
+-16.95
+-17.63
 5
 Antipoison
 Marrentill potion (unf)
 Unicorn horn dust
 37.5
 93,750
-908
--587.75
--15.67
--15.85
--15.72
--14.26
--14.31
+907
+-590.50
+-15.75
+-15.92
+-15.80
+-14.29
+-14.34
 12
 Strength potion
 Tarromin potion (unf)
 Limpwurt root
 50
 125,000
-988
--905.50
--18.11
--18.32
--18.38
--17.46
--17.74
+940
+-857.50
+-17.15
+-17.36
+-17.42
+-16.53
+-16.81
 15
 Serum 207
 Tarromin potion (unf)
 Ashes
 50
 116,500
-729
-−708
--14.16
--14.39
--14.50
+696
+−675
+-13.50
+-13.73
+-13.83
 N/A
 N/A
 22
@@ -324,169 +324,169 @@ Harralander potion (unf)
 Volcanic ash
 60
 150,000
-1,219
-−1,216
--20.27
--20.46
--20.56
--20.12
--20.41
+1,171
+−1,168.75
+-19.48
+-19.68
+-19.77
+-19.33
+-19.63
 22
 Restore potion
 Harralander potion (unf)
 Red spiders' eggs
 62.5
 156,250
-1,325
-−1,251.50
--20.02
--20.19
--20.25
--19.71
--19.94
+1,281
+−1,207.50
+-19.32
+-19.49
+-19.54
+-19.00
+-19.23
 26
 Energy potion
 Harralander potion (unf)
 Chocolate dust
 67.5
 168,750
-1,235
-−1,093.25
--16.20
--16.34
--16.36
--16.04
--16.20
+1,189
+−1,048
+-15.53
+-15.67
+-15.68
+-15.37
+-15.53
 34
 Agility potion
 Toadflax potion (unf)
 Toad's legs
 80
 200,000
-4,019
-−3,725
--46.56
--46.65
--46.60
--45.81
--45.85
+3,938
+−3,642.50
+-45.53
+-45.62
+-45.57
+-44.78
+-44.81
 36
 Combat potion
 Harralander potion (unf)
 Goat horn dust
 84
 210,000
-1,227
-−1,059.75
--12.62
--12.72
--12.73
--12.50
--12.61
+1,181
+−1,013.75
+-12.07
+-12.18
+-12.18
+-11.95
+-12.06
 38
 Prayer potion
 Ranarr potion (unf)
 Snape grass
 87.5
 218,750
-8,468
--309.50
--3.54
--2.12
-0.92
--3.06
-1.40
+8,479
+-261.25
+-2.99
+-1.56
+1.51
+-2.52
+1.97
 45
 Super attack
 Irit potion (unf)
 Eye of newt
 100
 250,000
-2,364
--669.75
--6.70
--6.53
--6.03
--6.69
--6.00
+2,363
+-625.25
+-6.25
+-6.08
+-5.56
+-6.25
+-5.52
 48
 Superantipoison
 Irit potion (unf)
 Unicorn horn dust
 106.3
 265,750
-2,890
--924.25
--8.69
--8.50
--7.94
--8.20
--7.44
+2,905
+−949
+-8.93
+-8.73
+-8.17
+-8.41
+-7.66
 50
 Fishing potion
 Avantoe potion (unf)
 Snape grass
 112.5
 281,250
-3,739
-−3,607
--32.06
--32.15
--32.16
--31.69
--31.79
+3,670
+−3,538
+-31.45
+-31.53
+-31.55
+-31.09
+-31.19
 52
 Super energy
 Avantoe potion (unf)
 Mort myre fungus
 117.5
 293,750
-3,679
--701.50
--5.97
--5.65
--4.85
--5.66
--4.55
+3,615
+−525
+-4.47
+-4.13
+-3.30
+-4.17
+-3.01
 53
 Hunter potion
 Avantoe potion (unf)
 Kebbit teeth dust
 120
 300,000
-4,017
-−1,600.50
--13.34
--13.10
--12.48
--12.76
--11.90
+3,988
+−1,642
+-13.68
+-13.46
+-12.85
+-13.08
+-12.25
 54
 Goading potion
 Harralander potion (unf)
 Aldarium
 132
 330,000
-30,591
-−3,698.25
--28.02
--24.71
--17.97
--5.70
-4.35
+30,544
+−3,948.25
+-29.91
+-26.64
+-19.97
+-7.59
+2.35
 55
 Super strength
 Kwuarm potion (unf)
 Limpwurt root
 125
 312,500
-4,068
--913.50
--7.31
--6.98
--6.19
--7.05
--5.93
+3,967
+-690.25
+-5.52
+-5.18
+-4.35
+-5.28
+-4.11
 58
 Prayer regeneration potion
 Huasca potion (unf)
@@ -494,77 +494,77 @@ Aldarium
 132
 330,000
 37,977
-−3,396
--25.73
--21.45
--12.76
--3.41
-9.56
+−4,952.25
+-37.52
+-33.44
+-25.14
+-15.20
+-2.82
 63
 Super restore
 Snapdragon potion (unf)
 Red spiders' eggs
 142.5
 356,000
-12,422
-−1,032.50
--7.25
--6.00
--3.37
--7.11
--3.24
+12,270
+-938.25
+-6.58
+-5.34
+-2.73
+-6.45
+-2.59
 66
 Super defence
 Cadantine potion (unf)
 White berries
 150
 375,000
-4,199
-−1,010
--6.73
--6.46
--5.79
--6.44
--5.50
+4,241
+−1,073
+-7.15
+-6.88
+-6.22
+-6.85
+-5.92
 69
 Antifire potion
 Lantadyme potion (unf)
 Dragon scale dust
 157.5
 393,750
-2,629
-−1,285
--8.16
--8.09
--7.85
--8.11
--7.80
+2,642
+−1,310
+-8.32
+-8.25
+-8.01
+-8.27
+-7.96
 72
 Ranging potion
 Dwarf weed potion (unf)
 Wine of zamorak
 162.5
 406,250
-4,269
-−1,185
--7.29
--7.05
--6.45
--6.69
--5.85
+4,274
+−1,061
+-6.53
+-6.27
+-5.65
+-5.92
+-5.04
 76
 Magic potion
 Lantadyme potion (unf)
 Potato cactus
 172.5
 431,250
-2,597
-−2,441.75
--14.16
--14.21
--14.21
--14.13
--14.19
+2,610
+−2,454
+-14.23
+-14.28
+-14.28
+-14.20
+-14.26
 77
 Stamina potion
 Super energy(4)
@@ -575,13 +575,13 @@ Amylase crystal
 [
 2
 ]
-7,983
-−941
--9.23
--9.23
--9.23
--5.37
--5.37
+8,136
+−877
+-8.60
+-8.60
+-8.60
+-4.74
+-4.74
 Super energy(3)
 Amylase crystal
 (x3)
@@ -590,13 +590,13 @@ Amylase crystal
 [
 2
 ]
-5,987.25
--705.75
--9.23
--8.23
--6.01
--5.37
--2.15
+6,102
+-657.75
+-8.60
+-7.57
+-5.27
+-4.74
+-1.42
 Super energy(2)
 Amylase crystal
 (x2)
@@ -605,13 +605,13 @@ Amylase crystal
 [
 2
 ]
-3,991.50
--470.50
--9.23
--7.73
--4.40
--5.37
--0.54
+4,068
+-438.50
+-8.60
+-7.05
+-3.61
+-4.74
+0.25
 Super energy(1)
 Amylase crystal
 (x1)
@@ -620,26 +620,26 @@ Amylase crystal
 [
 2
 ]
-1,995.75
--235.25
--9.23
--6.24
-0.43
--5.37
-4.29
+2,034
+-219.25
+-8.60
+-5.50
+1.38
+-4.74
+5.24
 80
 Bastion potion
 Cadantine blood potion (unf)
 Wine of zamorak
 155
 387,500
-16,781
-−1,961.75
--12.66
--11.14
--7.99
--10.65
--7.36
+16,788
+−1,506.75
+-9.72
+-8.15
+-4.91
+-8.05
+-4.27
 80
 Battlemage potion
 Cadantine blood potion (unf)
@@ -647,37 +647,37 @@ Potato cactus
 155
 387,500
 15,840
-−1,341
--8.65
--7.17
--4.09
--7.64
--4.07
+−1,020.75
+-6.59
+-5.07
+-1.92
+-5.81
+-1.90
 81
 Saradomin brew
 Toadflax potion (unf)
 Crushed nest
 180
 450,000
-8,437
-−1,822.75
--10.13
--9.58
--8.39
--7.34
--5.60
+8,333
+−1,743.50
+-9.69
+-9.14
+-7.95
+-6.91
+-5.18
 81
 Surge potion
 Torstol potion (unf)
 Demonic tallow
 185
 462,500
-4,578
+4,461
 N/A
 N/A
 N/A
 N/A
--24.61
+-23.98
 [
 3
 ]
@@ -693,12 +693,12 @@ Lava scale shard
 [
 2
 ]
-1,964
-−1,167
--10.61
+1,952
+−1,166
+-10.60
 N/A
 N/A
--10.49
+-10.47
 N/A
 85
 Ancient brew
@@ -706,13 +706,13 @@ Dwarf weed potion (unf)
 Nihil dust
 190
 522,500
-9,595
-−5,962.75
--31.38
--31.13
--30.52
--28.06
--27.20
+9,593
+−6,070.25
+-31.95
+-31.70
+-31.11
+-28.63
+-27.80
 87
 Anti-venom
 Antidote++(4)
@@ -723,12 +723,12 @@ Zulrah's scales
 [
 2
 ]
-8,858
-−1,288
--10.73
+8,719
+−800
+-6.67
 N/A
 N/A
--7.02
+-2.98
 N/A
 Antidote++(3)
 Zulrah's scales
@@ -738,13 +738,13 @@ Zulrah's scales
 [
 2
 ]
-6,643.50
--966.00
--10.73
--9.81
--7.78
--7.02
--4.06
+6,539.25
+-600.00
+-6.67
+-5.70
+-3.56
+-2.98
+0.12
 Antidote++(2)
 Zulrah's scales
 (x10)
@@ -753,13 +753,13 @@ Zulrah's scales
 [
 2
 ]
-4,429
-−644
--10.73
--9.35
--6.30
--7.02
--2.58
+4,359.50
+-400.00
+-6.67
+-5.21
+-2.01
+-2.98
+1.67
 Antidote++(1)
 Zulrah's scales
 (x5)
@@ -768,24 +768,24 @@ Zulrah's scales
 [
 2
 ]
-2,214.50
--322.00
--10.73
--7.98
--1.86
--7.02
-1.85
+2,179.75
+-200.00
+-6.67
+-3.76
+2.64
+-2.98
+6.33
 88
 Menaphite remedy
 Dwarf weed potion (unf)
 Lily of the sands
 200
 500,000
-6,105
-−4,327.50
--21.64
--21.55
--21.28
+6,073
+−4,272.25
+-21.36
+-21.27
+-21.00
 N/A
 N/A
 90
@@ -799,12 +799,12 @@ Super defence
 Torstol
 150
 324,900
-14,949
-489
-3.26
+15,253
+142
+0.95
 N/A
 N/A
-5.94
+3.69
 N/A
 91
 Forgotten brew
@@ -813,49 +813,49 @@ Ancient essence
 (x80)
 145
 265,785
-6,061
-−766
--5.28
+5,992
+−433
+-2.99
 N/A
 N/A
--4.51
+-2.16
 N/A
 Ancient brew(3)
 Ancient essence
 (x60)
 108
 197,964
-4,545.75
--574.50
--5.32
--4.82
--3.65
--4.54
--2.87
+4,494
+-324.75
+-3.01
+-2.47
+-1.24
+-2.17
+-0.41
 Ancient brew(2)
 Ancient essence
 (x40)
 72
 131,976
-3,030.50
--383.00
--5.32
--4.57
--2.81
--4.54
--2.03
+2,996
+-216.50
+-3.01
+-2.21
+-0.36
+-2.17
+0.48
 Ancient brew(1)
 Ancient essence
 (x20)
 36
 65,988
-1,515.25
--191.50
--5.32
--3.81
--0.30
--4.54
-0.48
+1,498
+-108.25
+-3.01
+-1.40
+2.29
+-2.17
+3.13
 92
 Super antifire potion
 Antifire potion
@@ -864,12 +864,12 @@ Crushed superior
 dragon bones
 130
 325,000
-21,604
-−2,254
--17.34
+21,588
+−2,055
+-15.81
 N/A
 N/A
--2.13
+-0.60
 N/A
 94
 Anti-venom+
@@ -878,12 +878,12 @@ Anti-venom
 Torstol
 125
 312,500
-11,739
-287
-2.30
+12,201
+−98
+-0.78
 N/A
 N/A
-5.51
+2.51
 N/A
 94
 Extended anti-venom+
@@ -892,49 +892,49 @@ Araxyte venom sack
 (x4)
 80
 146,640
-18,343
-−951
--11.89
+18,725
+−1,784
+-22.30
 N/A
 N/A
--4.30
+-14.33
 N/A
 Anti-venom+(3)
 Araxyte venom sack
 (x3)
 60
 109,980
-13,757.25
--713.25
--11.89
--8.46
--1.31
--4.30
-6.28
+14,043.75
+−1,338.00
+-22.30
+-18.97
+-12.01
+-14.33
+-4.04
 Anti-venom+(2)
 Araxyte venom sack
 (x2)
 40
 73,320
-9,171.50
--475.50
--11.89
--6.75
-3.97
--4.30
-11.56
+9,362.50
+-892.00
+-22.30
+-17.30
+-6.86
+-14.33
+1.11
 Anti-venom+(1)
 Araxyte venom sack
 (x1)
 20
 36,660
-4,585.75
--237.75
--11.89
--1.61
-19.83
--4.30
-27.42
+4,681.25
+-446.00
+-22.30
+-12.30
+8.58
+-14.33
+16.55
 98
 Extended super antifire
 Super antifire potion
@@ -946,12 +946,12 @@ Lava scale shard
 [
 2
 ]
-19,880
-−824
--5.15
+20,071
+−1,591
+-9.94
 N/A
 N/A
--5.07
+-9.86
 N/A
 98
 Extended super antifire
@@ -961,12 +961,12 @@ Crushed superior
 dragon bones
 180
 450,000
-20,589
-−1,533
--8.52
+20,578
+−2,098
+-11.66
 N/A
 N/A
-2.47
+-0.67
 N/A
 ^
 1.0
@@ -1012,262 +1012,262 @@ Attack mix(2)
 Attack potion(2)
 Roe
 8
-60.50
+58.50
 98
-37.50
-4.69
+39.50
+4.94
 6
 Antipoison mix(2)
 Antipoison(2)
 Roe
 12
-267.50
+263.00
 195
--72.50
--6.04
+-68.00
+-5.67
 9
 Relicym's mix(2)
 Relicym's balm(2)
 Roe
 14
-419.50
+431.50
 485
-65.50
-4.68
+53.50
+3.82
 14
 Strength mix(2)
 Strength potion(2)
 Roe
 17
-106.00
+104.00
 63
--43.00
--2.53
+-41.00
+-2.41
 24
 Restore mix(2)
 Restore potion(2)
 Roe
 21
-99.50
+98.00
 94
--5.50
--0.26
+-4.00
+-0.19
 29
 Energy mix(2)
 Energy potion(2)
 Caviar
 23
-199.00
+196.50
 296
-97.00
-4.22
+99.50
+4.33
 33
 Defence mix(2)
 Defence potion(2)
 Caviar
 25
-408.50
+399.00
 81
--327.50
--13.10
+-318.00
+-12.72
 37
 Agility mix(2)
 Agility potion(2)
 Caviar
 27
-303.00
+302.00
 275
--28.00
--1.04
+-27.00
+-1.00
 40
 Combat mix(2)
 Combat potion(2)
 Caviar
 28
-216.50
+214.50
 242
-25.50
-0.91
+27.50
+0.98
 42
 Prayer mix(2)
 Prayer potion(2)
 Caviar
 29
-5,652.50
+5,691.00
 4,822
--830.50
--28.64
+-869.00
+-29.97
 47
 Superattack mix(2)
 Super attack(2)
 Caviar
 33
-1,255.50
-171
-−1,084.50
--32.86
+1,283.00
+175
+−1,108.00
+-33.58
 51
 Anti-poison supermix(2)
 Superantipoison(2)
 Caviar
 35
-1,440.00
-1,442
-2.00
-0.06
+1,431.50
+1,413
+-18.50
+-0.53
 53
 Fishing mix(2)
 Fishing potion(2)
 Caviar
 38
-192.50
+190.50
 103
--89.50
--2.36
+-87.50
+-2.30
 56
 Super energy mix(2)
 Super energy(2)
 Caviar
 39
-2,128.50
+2,203.00
 2,169
-40.50
-1.04
+-34.00
+-0.87
 58
 Hunting mix(2)
 Hunter potion(2)
 Caviar
 40
-1,746.50
+1,696.50
 926
--820.50
--20.51
+-770.50
+-19.26
 59
 Super str. mix(2)
 Super strength(2)
 Caviar
 42
-2,248.50
+2,330.00
 1,715
--533.50
--12.70
+-615.00
+-14.64
 61
 Magic essence mix(2)
 Magic essence(2)
 Caviar
 43
-103
+101
 2,281
-2,178
-50.65
+2,180
+50.70
 67
 Super restore mix(2)
 Super restore(2)
 Caviar
 48
-7,850.50
-2,416
-−5,434.50
--113.22
+7,809.50
+2,457
+−5,352.50
+-111.51
 71
 Super def. mix(2)
 Super defence(2)
 Caviar
 50
-2,272.00
-1,391
--881.00
--17.62
+2,256.00
+1,377
+-879.00
+-17.58
 74
 Antidote+ mix(2)
 Antidote+(2)
 Caviar
 52
-1,112.00
+1,110.00
 1,480
-368.00
-7.08
+370.00
+7.12
 75
 Antifire mix(2)
 Antifire potion(2)
 Caviar
 53
-1,017.00
+1,007.00
 140
--877.00
--16.55
+-867.00
+-16.36
 80
 Ranging mix(2)
 Ranging potion(2)
 Caviar
 54
-2,200.50
-1,295
--905.50
--16.77
+2,286.50
+1,230
+−1,056.50
+-19.56
 83
 Magic mix(2)
 Magic potion(2)
 Caviar
 57
-208.50
+207.00
 108
--100.50
--1.76
+-99.00
+-1.74
 85
 Zamorak mix(2)
 Zamorak brew(2)
 Caviar
 58
-429.50
-185
--244.50
--4.22
+427.50
+195
+-232.50
+-4.01
 86
 Stamina mix(2)
 Stamina potion(2)
 Caviar
 60
-3,695.50
+3,804.50
 4,092
-396.50
-6.61
+287.50
+4.79
 91
 Extended antifire mix(2)
 Extended antifire(2)
 Caviar
 61
-509.50
+502.00
 231
--278.50
--4.57
+-271.00
+-4.44
 92
 Ancient mix(2)
 Ancient brew(2)
 Caviar
 63
-2,573.50
+2,497.00
 1,344
-−1,229.50
--19.52
+−1,153.00
+-18.30
 98
 Super antifire mix(2)
 Super antifire potion(2)
 Caviar
 70
-9,975.00
+10,066.50
 2,284
-−7,691.00
--109.87
+−7,782.50
+-111.18
 99
 Extended super antifire mix(2)
 Extended super antifire(2)
 Caviar
 78
-9,825.00
+9,529.50
 8,545
-−1,280.00
--16.41
+-984.50
+-12.62
 Making tar
 An alternative, potentially cheaper method of training Herblore is making tar. This requires fewer clicks than potion making, since twice as many actions are performed before banking and the duration of each action is longer.
 XP per hour is calculated at approximately 78 inventories fully processed per hour. Depending on bank efficiency, actual rates may be less.
@@ -1292,10 +1292,10 @@ Swamp tar
 x15
 30
 61,000
-397
-13.23
-−322
--10.73
+409
+13.63
+−334
+-11.13
 31
 Marrentill tar
 x15
@@ -1304,10 +1304,10 @@ Swamp tar
 x15
 42.5
 86,000
-461
-10.85
-−431
--10.14
+445
+10.47
+−430
+-10.12
 39
 Tarromin tar
 x15
@@ -1316,10 +1316,10 @@ Swamp tar
 x15
 55
 110,000
-519
-9.44
-−504
--9.16
+507
+9.22
+−492
+-8.95
 44
 Harralander tar
 x15
@@ -1328,10 +1328,10 @@ Swamp tar
 x15
 72.5
 145,000
-932
-12.86
-−902
--12.44
+895
+12.34
+−865
+-11.93
 55
 Irit tar
 x15
@@ -1340,10 +1340,10 @@ Swamp tar
 x15
 85
 170,000
-2,089
-37.98
-−1,909
--34.71
+2,104
+38.25
+−1,939
+-35.25
 Herb cleaning
 This is a static calculator.
 It does not take user inputs, but it does use changing prices from the
@@ -1386,154 +1386,154 @@ Price
 Volume
 3
 Guam leaf
-312
-391,634
-367
-1,158,855
+315
+403,819
+379
+956,495
 2.5
-48
+57
 25,000
-480,000
+570,000
 5
 Marrentill
-353
-315,266
-431
-577,069
+354
+228,586
+415
+604,324
 3.8
-70
+53
 38,000
-700,000
+530,000
 11
 Tarromin
-389
-938,570
-489
-893,184
+387
+983,459
+477
+675,686
 5.0
-91
+81
 50,000
-910,000
+810,000
 20
 Harralander
-805
-1,358,716
-902
-1,006,406
+775
+1,225,054
+865
+898,088
 6.3
-79
+73
 63,000
-790,000
+730,000
 25
 Ranarr weed
-7,527
-1,916,017
-7,698
-895,604
+7,604
+1,938,373
+7,711
+827,789
 7.5
-18
+−47
 75,000
-180,000
+−470,000
 30
 Toadflax
-2,986
-1,624,365
-3,147
-910,192
+2,926
+1,433,566
+3,043
+899,200
 8.0
-99
+57
 80,000
-990,000
+570,000
 40
 Irit leaf
-1,962
-917,928
-2,059
-416,179
+1,986
+795,125
+2,074
+365,013
 8.8
-56
+47
 88,000
-560,000
+470,000
 48
 Avantoe
-2,891
-878,176
-2,997
-539,085
+2,868
+847,037
+2,928
+436,534
 10.0
-47
+2
 100,000
-470,000
+20,000
 54
 Kwuarm
-3,347
-904,854
-3,410
-464,031
+3,250
+811,646
+3,343
+362,541
 11.3
-−5
+27
 113,000
-−50,000
+270,000
 58
 Huasca
 6,342
-64,879
+43,204
 6,125
-50,809
+36,806
 11.8
 −339
 118,000
 −3,390,000
 59
 Snapdragon
-11,602
-732,659
-11,786
-515,805
+11,455
+732,590
+11,588
+530,794
 11.8
-−51
+−98
 118,000
-−510,000
+−980,000
 65
 Cadantine
-3,278
-1,111,640
-3,398
-402,980
+3,329
+963,331
+3,408
+387,003
 12.5
-53
+11
 125,000
-530,000
+110,000
 67
 Lantadyme
-2,254
-663,477
-2,384
-601,911
+2,270
+618,774
+2,334
+503,838
 13.1
-83
+18
 131,000
-830,000
+180,000
 70
 Dwarf weed
-2,802
-998,331
-2,935
-433,429
+2,862
+854,005
+2,941
+461,501
 13.8
-75
+21
 138,000
-750,000
+210,000
 75
 Torstol
-3,872
-689,088
-4,015
-908,435
+3,943
+700,661
+4,121
+887,335
 15.0
-63
+96
 150,000
-630,000
+960,000
 Degrime
 An alternative, less click-intensive method, is to use the
 degrime
@@ -1573,183 +1573,183 @@ Clean
 Guam leaf
 3
 1.2
-312
-367
-40.37
-33.64
-46.37
-38.64
+315
+379
+49.30
+41.08
+55.30
+46.08
 19,440
-654,000
-751,200
+798,600
+895,800
 Marrentill
 5
 1.9
-353
-431
-62.37
-32.83
-69.37
-36.51
+354
+415
+45.30
+23.84
+52.30
+27.52
 30,780
-1,010,400
-1,123,800
+733,800
+847,200
 Tarromin
 11
 2.5
-389
-489
-83.37
-33.35
-90.37
-36.15
+387
+477
+73.30
+29.32
+80.30
+32.12
 40,500
-1,350,600
-1,464,000
+1,187,400
+1,300,800
 Harralander
 20
 3.1
-805
-902
-71.37
-23.02
-87.37
-28.18
+775
+865
+65.30
+21.06
+80.30
+25.90
 50,220
-1,156,200
-1,415,400
+1,057,800
+1,300,800
 Ranarr weed
 25
 3.7
-7,527
-7,698
-10.37
-2.80
-160.37
-43.34
+7,604
+7,711
+-54.70
+-14.78
+97.30
+26.30
 59,940
-168,000
-2,598,000
+−886,200
+1,576,200
 Toadflax
 30
 4
-2,986
-3,147
-91.37
-22.84
-150.37
-37.59
+2,926
+3,043
+49.30
+12.32
+107.30
+26.82
 64,800
-1,480,200
-2,436,000
+798,600
+1,738,200
 Irit leaf
 40
 4.4
-1,962
-2,059
-48.37
-10.99
-87.37
-19.86
+1,986
+2,074
+39.30
+8.93
+78.30
+17.79
 71,280
-783,600
-1,415,400
+636,600
+1,268,400
 Avantoe
 48
 5
-2,891
-2,997
-39.37
-7.87
-96.37
-19.27
+2,868
+2,928
+-5.70
+-1.14
+51.30
+10.26
 81,000
-637,800
-1,561,200
+−92,400
+831,000
 Kwuarm
 54
 5.6
-3,347
-3,410
--12.63
--2.26
-53.37
-9.53
+3,250
+3,343
+19.30
+3.45
+84.30
+15.05
 90,720
-−204,600
-864,600
+312,600
+1,365,600
 Huasca
 58
 5.9
 6,342
 6,125
--346.63
--58.75
--220.63
--37.39
+-346.70
+-58.76
+-220.70
+-37.41
 95,580
-−5,615,400
-−3,574,200
+−5,616,600
+−3,575,400
 Snapdragon
 59
 5.9
-11,602
-11,786
--58.63
--9.94
-173.37
-29.38
+11,455
+11,588
+-105.70
+-17.92
+123.30
+20.90
 95,580
-−949,800
-2,808,600
+−1,712,400
+1,997,400
 Cadantine
 65
 6.2
-3,278
-3,398
-45.37
-7.32
-110.37
-17.80
+3,329
+3,408
+3.30
+0.53
+69.30
+11.18
 100,440
-735,000
-1,788,000
+53,400
+1,122,600
 Lantadyme
 67
 6.5
-2,254
-2,384
-75.37
-11.60
-120.37
-18.52
+2,270
+2,334
+10.30
+1.58
+55.30
+8.51
 105,300
-1,221,000
-1,950,000
+166,800
+895,800
 Dwarf weed
 70
 6.9
-2,802
-2,935
-67.37
-9.76
-123.37
-17.88
+2,862
+2,941
+13.30
+1.93
+70.30
+10.19
 111,780
-1,091,400
-1,998,600
+215,400
+1,138,800
 Torstol
 75
 7.5
-3,872
-4,015
-55.37
-7.38
-132.37
-17.65
+3,943
+4,121
+88.30
+11.77
+166.30
+22.17
 121,500
-897,000
-2,144,400
+1,430,400
+2,694,000
 ^
 1.0
 1.1
@@ -1789,9 +1789,9 @@ cup of water
 on a range.
 Due to the number of ingredients per tea, only five can be made per inventory, requiring 5 cups of hot water, 10 guam, 5 marrentill, and 5 harralander.
 With moderate concentration it is possible to make around 1400 cups of 3-dose Guthix rest per hour, costing
-3,246,600
+3,206,000
 . This results in 82,600 Herblore experience gained and a profit of
-−19,950
+−2,450
 when using
 Bob Barter
 at the
@@ -1817,11 +1817,11 @@ Marrentill
 Harralander
 59
 82,600
-1,700
-33.08
-352.75
--0.24
-−19,950
+1,659
+32.39
+377.25
+-0.03
+−2,450
 Level 60+/81+: Mastering Mixology
 Main article:
 Mastering Mixology

@@ -10,3 +10,4 @@ class Skill(Base):
     mode = Column(String, nullable=False)      # f2p or p2p
     content = Column(Text, nullable=False)     # Full wiki text content
     hash = Column(String, nullable=False)      # SHA256 hash for deduplication
+    summary = Column(Text, nullable=True)

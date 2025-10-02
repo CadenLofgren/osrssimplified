@@ -43,12 +43,12 @@ pure essence
 each) rather than
 rune essence
 (
-13
+14
 each). As a free-to-play player, you will not be able to mine your own pure essence, but you can still purchase it through the Grand Exchange or from other players directly.
 Note that
 energy potions
 (
-48.00
+47.75
 per dose) restore 10% run energy with each dose, and using them either at the bank or while running greatly increases experience gained from all of the below methods by 30–50% over just letting your run energy recharge normally (the actual percent experience per hour gained depending on the method and your
 Agility
 level).
@@ -315,11 +315,11 @@ needed: 347,585
 Body talismans
 needed: 347,585
 Total Cost:
-599,236,540
+608,273,750
 Body tiaras
 created: 347,585
 Profit/Loss:
-−597,498,615
+−606,883,410
 Number of inventories (12 Tiaras + 12 Talismans): 28,966
 Levels 1–99: Earth tiaras
 Earth tiaras
@@ -346,11 +346,11 @@ needed: 401,060
 Earth talismans
 needed: 401,060
 Total Cost:
-240,234,940
+237,026,460
 Earth tiaras
 created: 401,060
 Profit/Loss:
-−239,432,820
+−236,625,400
 Number of inventories (13 Tiaras + 13 Talismans): 30,850
 Levels 1–99: Water tiaras
 Water tiaras
@@ -384,11 +384,11 @@ needed: 434,333
 Water talismans
 needed: 434,333
 Total Cost:
-129,431,234
+129,865,567
 Water tiaras
 created: 434,333
 Profit/Loss:
-−127,693,902
+−128,562,568
 Number of inventories (12 Tiaras + 12 Talismans): 33,411
 Air tiaras
 Air talismans
@@ -412,40 +412,40 @@ Profit/Loss
 Profit/Loss per XP
 Air tiara
 25
-249
-2
-−247
--9.88
+245
+1
+−244
+-9.76
 Mind tiara
 27.5
-1,241
+1,203
 3
-−1,238
--45.02
+−1,200
+-43.64
 Water tiara
 30
-298
-4
-−294
--9.80
+299
+3
+−296
+-9.87
 Earth tiara
 32.5
-599
-2
-−597
--18.37
+591
+1
+−590
+-18.15
 Fire tiara
 35
-1,782
+1,738
 5
-−1,777
--50.77
+−1,733
+-49.51
 Body tiara
 37.5
-1,724
-5
-−1,719
--45.84
+1,750
+4
+−1,746
+-46.56
 v
 t
 e

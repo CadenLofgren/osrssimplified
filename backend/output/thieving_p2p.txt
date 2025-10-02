@@ -145,7 +145,7 @@ Gloves of silence
 increase players' success rate while pickpocketing by 5% while they are equipped. Wearing them requires level 54
 Hunter
 . Gloves of silence can be bought from the Grand Exchange for
-1,467
+1,451
 each or created at the
 Fancy Clothes Store
 in
@@ -161,7 +161,7 @@ perks override the gloves of silence 5% success rate. Therefore, the gloves of s
 Gloves of silence are damaged each time that the player is unsuccessful in a pickpocketing attempt. They are destroyed after 62 failures, if counted from when they are new. If a player has multiple gloves of silence then they will all display the same status when their condition is checked. However, if the gloves of silence currently being used do fall apart, then any other pairs that the player owns are reset to the "new" condition. The condition of the gloves is only relevant to the player owning them, and is not a property of the gloves themselves. Players with at least level 64
 Crafting
 can restore their gloves of silence to "new" condition by using 1 dark kebbit fur, costing
-29
+27
 , and
 thread
 , costing
@@ -793,7 +793,7 @@ vyres
 at level 82 with rogue equipment, dodgy necklaces, and the
 hard Ardougne Diary
 completed will get 120,000–180,000 experience per hour and profit
-2,659,490.47
+2,729,342.32
 coins per hour, depending on Thieving level. This will require completion of the
 Sins of the Father
 .
@@ -813,7 +813,7 @@ Song of the Elves
 enhanced crystal teleport seeds
 which can be sold for high profit.
 At level 99 players can gain around 150,000 experience per hour and
-3,741,684.07
+3,734,170.13
 coins per hour assuming that players use
 dodgy necklaces
 , and full

@@ -2341,7 +2341,7 @@ High HP (23 HP for 92 melee experience per kill), low defence, and they deal lit
 Always drops
 big bones
 which can be sold for guaranteed profit (
-282
+278
 ) or used for
 Prayer
 experience while training.
@@ -2585,7 +2585,7 @@ Disadvantages
 They always drop
 cowhide
 , which can either be sold to the Grand Exchange for profit (
-235
+245
 ) or be used to train
 Crafting
 .
@@ -2816,7 +2816,7 @@ High HP (23), low defence, and they deal little damage.
 Always drops
 big bones
 which can be sold for guaranteed profit (
-282
+278
 ) or used for
 Prayer
 experience while training.
@@ -2856,7 +2856,7 @@ Decently high HP for level (35).
 They have decent profitable drops for lower-level players such as
 limpwurt roots
 (
-324
+308
 ) and they have access to the
 gem drop table
 that rarely drop
@@ -2869,7 +2869,7 @@ Obor
 , who also has good drops and a chance of dropping the valuable
 hill giant club
 (
-1,188,697
+1,175,373
 ).
 They sometimes drop
 law runes
@@ -2885,7 +2885,7 @@ death runes
 Always drop
 big bones
 which can be sold for guaranteed profit (
-282
+278
 ) or used for
 Prayer
 experience while training.
@@ -2922,7 +2922,7 @@ Level 42 hobgoblins have high HP of 49 but they are stronger than their level 28
 They have decent profitable drops for lower-level players as they very commonly drop
 limpwurt roots
 (
-324
+308
 ) and they have access to the
 gem drop table
 that rarely drop
@@ -2996,7 +2996,7 @@ essence
 ) which can be crafted into
 Bryophyta's staff
 (
-10,156,268
+10,001,274
 ) by bringing the essence and
 50,000
 to
@@ -3007,7 +3007,7 @@ Varrock
 Always drops
 big bones
 which can be sold for guaranteed profit (
-282
+278
 ) or used for
 Prayer
 experience while training.
@@ -3076,7 +3076,7 @@ death runes
 Always drops
 big bones
 which can be sold for guaranteed profit (
-282
+278
 ) or used for
 Prayer
 experience while training.
@@ -3321,7 +3321,7 @@ vile ashes
 that give 25 Prayer XP per kill or can be sold on the
 Grand Exchange
 for
-97
+93
 each.
 Drops, while still decent, are not as amazing as ogresses' or greater demons' drops.
 Without praying or prayer flicking Protect from Melee, they can hit up to a maximum damage of 8.
@@ -3363,7 +3363,7 @@ law runes
 and commonly drops
 black robes
 (
-809
+818
 ),
 adamant arrows
 ,

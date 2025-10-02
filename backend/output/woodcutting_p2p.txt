@@ -414,7 +414,7 @@ House on the Hill
 for a total of
 2,416,000
 Prayer experience. This amount of prayer experience would be worth
-12,032,063.00
+12,008,095.00
 at the
 Chaos altar
 in the Wilderness using dragon bones. The expected average experience rate is 580,000 experience per hour for recalcifying and converting the fossils obtained from Woodcutting, which takes on average about 4 hours and 20 minutes in total.
@@ -455,7 +455,7 @@ Normal
 1
 25
 12,500–18,750
-62,500
+59,000
 0
 Includes
 dead
@@ -474,7 +474,7 @@ Achey
 1
 25
 17,000
-182,920
+178,160
 1
 Achey Trees
 are used primarily to
@@ -490,7 +490,7 @@ Oak
 15
 37.5
 40,000
-53,300
+52,234
 0
 Oak trees
 are fairly common in
@@ -526,9 +526,9 @@ Teak
 35
 85
 90,000–220,000
-232,544
+229,190
 -
-465,088
+458,380
 1
 Teak trees
 are found in the
@@ -567,7 +567,7 @@ Arctic
 54
 40
 19,000–21,000
-252,500
+252,000
 1
 Arctic pine trees
 are found in
@@ -619,7 +619,7 @@ Mahogany
 50
 125
 46,500
-139,500
+137,268
 1
 Mahogany trees
 are found primarily in the
@@ -646,7 +646,7 @@ Yew
 [
 n 4
 ]
-55,385
+55,650
 0
 Yew trees
 can be found by
@@ -691,7 +691,7 @@ Magic
 [
 n 4
 ]
-81,968
+81,780
 1
 Magic trees
 are found at the
@@ -721,7 +721,7 @@ Redwood
 90
 380
 70,000-85,000
-159,712
+164,496
 1
 Redwood trees
 are found in the

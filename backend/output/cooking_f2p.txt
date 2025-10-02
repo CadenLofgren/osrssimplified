@@ -152,13 +152,13 @@ Anchovy pizzas are made merely by adding cooked anchovies to plain pizza, making
 anchovies
 onto them, and then selling them back them via the Grand Exchange.
 Cost of plain cooked pizza:
-−425
+−426
 Cost of cooked Anchovies:
-−36
+−35
 Price of Anchovy pizza:
-579
+572
 Net-gain per Anchovy pizza assembled:
-118
+111
 Training methods
 Below are some training methods suitable for different kinds of players. You should start off by doing the quest
 Cook's Assistant
@@ -251,56 +251,56 @@ Trout
 58
 1760
 177,760
-165,440
-−12,320
+156,640
+−21,120
 101
-94
-−7
+89
+−12
 Salmon
 58
 64
 2029
-144,059
-144,059
-0
-71
-71
-0
+137,972
+142,030
+4,058
+68
+70
+2
 Tuna
 64
 74
 6893
-572,119
-792,695
-220,576
-83
-115
-32
+585,905
+772,016
+186,111
+85
+112
+27
 Lobster
 74
 86
 20846
-3,022,670
-4,335,968
-1,313,298
-145
-208
-63
+3,043,516
+4,127,508
+1,083,992
+146
+198
+52
 Swordfish
 86
 99
 67405
-7,886,385
-10,380,370
-2,493,985
-117
-154
-37
+7,953,790
+10,312,965
+2,359,175
+118
+153
+35
 Totals
 98933
-11,802,993
-15,818,532
-4,015,539
+11,898,943
+15,511,159
+3,612,216
 Another method is to cook
 pizza
 from the level you're able to cook them all the way to 99. It is better experience than

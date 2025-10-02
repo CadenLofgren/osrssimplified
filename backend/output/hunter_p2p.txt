@@ -46,18 +46,20 @@ Other methods
 4.1
 Levels 35–99: Aerial Fishing
 4.2
-Levels 47–59: Orange salamanders
+Levels 40-59: Embertailed jerboas
 4.3
-Levels 60–99: Maniacal monkeys
+Levels 47–59: Orange salamanders
 4.4
-Levels 60–67: Red salamanders
+Levels 60–99: Maniacal monkeys
 4.5
-Levels 67–73: Black salamanders
+Levels 60–67: Red salamanders
 4.6
-Level 75–99: Moonlight Moths
+Levels 67–73: Black salamanders
 4.7
-Levels 63/80–99: Carnivorous chinchompas
+Level 75–99: Moonlight Moths
 4.8
+Levels 63/80–99: Carnivorous chinchompas
+4.9
 Levels 80–99: Herbiboar
 General information and tips
 Levelling up
@@ -417,10 +419,10 @@ Players can optionally bank the fish caught for 5 numulites per full net. This w
 raw lobsters
 starting to be caught at level 50.
 The experience rates in the table below assume 1,150 fish shoal caught per hour. Expect slightly lower rates if banking the fish. The experience per fish shoal scales until level 70 Hunter and Fishing.  With good practice, it is possible to catch up to 1,200–1,250 fish shoal per hour. Buying the drift nets on the Grand Exchange would cost
-345,805 coins
+338,905 coins
 per hour.
 From level 44 to 99 Hunter, the player will gain 9,842,153 Fishing experience if starting at level 47 Fishing. This would require 12,944 drift nets, which would cost
-−38,922,608
+−38,145,968
 .
 Level
 XP/shoal
@@ -435,9 +437,9 @@ Total
 60,145
 53,130
 113,275
--5.75
--6.51
--3.05
+-5.63
+-6.38
+-2.99
 50
 50
 62.5
@@ -445,9 +447,9 @@ Total
 71,875
 57,500
 129,375
--4.81
--6.01
--2.67
+-4.72
+-5.89
+-2.62
 55
 55
 71.5
@@ -455,9 +457,9 @@ Total
 82,225
 64,745
 146,970
--4.21
--5.34
--2.35
+-4.12
+-5.23
+-2.31
 60
 60
 81.0
@@ -465,9 +467,9 @@ Total
 93,150
 72,450
 165,600
--3.71
--4.77
--2.09
+-3.64
+-4.68
+-2.05
 65
 65
 91.0
@@ -475,9 +477,9 @@ Total
 104,650
 80,270
 184,920
--3.30
--4.31
--1.87
+-3.24
+-4.22
+-1.83
 70
 70
 101.5
@@ -485,9 +487,9 @@ Total
 116,725
 88,550
 205,275
--2.96
--3.91
--1.68
+-2.90
+-3.83
+-1.65
 Fastest active training methods
 Use
 Hunter potions
@@ -783,39 +785,39 @@ XP/h
 GP/h
 73
 157,000
-1,257,994
+1,238,057
 145,000
-1,161,841
+1,143,429
 75
 164,000
-1,314,083
+1,293,257
 151,000
-1,209,917
+1,190,743
 80
 197,000
-1,578,502
+1,553,486
 167,000
-1,338,121
+1,316,914
 85
 214,000
-1,714,717
+1,687,543
 182,000
-1,458,311
+1,435,200
 90
 233,000
-1,866,959
+1,837,371
 197,000
-1,578,502
+1,553,486
 95
 251,000
-2,011,187
+1,979,314
 213,000
-1,706,705
+1,679,657
 99
 265,000
-2,123,365
+2,089,714
 225,000
-1,802,857
+1,774,286
 Northern spawn tiles
 Centre spawn tiles
 Southern spawn tiles
@@ -1135,6 +1137,26 @@ Fish sack
 , and the
 golden tench
 .
+Levels 40-59: Embertailed jerboas
+Embertailed jerboas
+can be found in a large cluster west of the
+Hunter Guild
+. With 3 or more
+box traps
+, they can be caught as fast as the traps can be checked and reassembled. Assuming 8 seconds between experience drops, players can earn as much as 61,650 experience per hour, though 7 second rotations (70,000 experience per hour) may be possible as well.
+Unlike
+salamanders
+and
+chinchompas
+,
+embertailed jerboas
+can't evade
+box traps
+, reducing the number of clicks and making experience gains more consistent. Additionally,
+embertailed jerboas
+only drop
+jerboa tails
+, which are stackable, removing the need to drop, bank, or otherwise periodically clear inventory space.
 Levels 47–59: Orange salamanders
 Catching
 orange salamanders
@@ -1321,29 +1343,29 @@ XP/h
 GP/h
 63
 85,000
-358,283
+365,019
 61,000
-257,121
+261,955
 70
 100,000
-421,509
+429,434
 72,000
-303,487
+309,192
 80
 163,000
-687,060
+699,977
 115,000
-484,736
+493,849
 90
 193,000
-813,513
+828,808
 136,000
-573,253
+584,030
 99
 220,000
-927,321
+944,755
 155,000
-653,340
+665,623
 Levels 80–99: Herbiboar
 14116
 Tracking the

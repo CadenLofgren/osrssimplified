@@ -69,16 +69,16 @@ t 3
 1
 Normal
 40
-125
--3.12
+118
+-2.95
 59,400
 42,000
 26,600
 15
 Oak
 60
-50
--0.83
+49
+-0.82
 89,100
 63,000
 39,900
@@ -101,8 +101,8 @@ Maple
 60
 Yew
 202.5
-209
--1.03
+210
+-1.04
 300,712.5
 212,625
 134,662.5
@@ -141,7 +141,7 @@ Experience needed: 2,411
 Logs needed: 61
 Time: 2 minutes 27 seconds (147 seconds)
 Money spent:
-−7,625
+−7,198
 Level 15–30:
 Oak logs
 The quickest way to get from level 15 to level 30 is by burning
@@ -153,7 +153,7 @@ Experience needed: 10,952
 Oak logs needed: 183
 Time: 7 minutes 20 seconds (440 seconds)
 Money spent:
-−9,150
+−8,967
 Level 30–45:
 Willow logs
 The quickest way to get from level 30 to level 45 is by burning
@@ -199,7 +199,7 @@ Experience needed: 12,760,689
 Yew logs needed: 63,016
 Time: 42 hours 39 seconds (151,239 seconds)
 Money spent:
-−13,170,344
+−13,233,360
 Other methods
 Level 30–99:
 Willow logs

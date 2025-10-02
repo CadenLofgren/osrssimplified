@@ -117,7 +117,7 @@ are sold for
 .
 Raw anchovies
 are sold for
-23
+22
 . Drop the cheaper fish you catch, banking only the other. 
 Expect to catch between 150 and 280 fish an hour between levels 15 and 39.
 Catching 150-280 shrimp an hour has a profit range of
@@ -126,9 +126,9 @@ to
 20,440
 .
 Catching 150-280 anchovies an hour has a profit range of
-3,450
+3,300
 to
-6,440
+6,160
 .
 The best place to catch them is
 Draynor Village
@@ -146,7 +146,7 @@ raw lobsters
 at
 Musa Point
 . Players can expect to make
-20,300
+20,440
 and 12,600 Fishing experience per hour. To bank the caught raw lobsters, use the boat to travel to
 Port Sarim
 , costing 30 coins  one way. In Port Sarim, walk to the docks with the monks and use the
@@ -167,17 +167,17 @@ harpoon spot
 at
 Musa Point
 . Players can expect to make
-18,837
+19,149
 and 17,160 Fishing experience per hour.
 Alternatives:
 More clicks: Drop the
 raw swordfish
 (
-117
+118
 each), since they are worth a lot less than
 raw tuna
 (
-83
+85
 each).
 Less walking and coins, more experience per hour: Sell fish at the
 Karamja General Store
@@ -317,7 +317,7 @@ cooked
 Net
 3
 73
-29
+30
 Sardine
 (
 cooked
@@ -328,8 +328,8 @@ cooked
 40
 Bait
 4
-59
-41
+57
+42
 Herring
 (
 cooked
@@ -340,7 +340,7 @@ cooked
 50
 Bait
 5
-251
+238
 60
 Anchovies
 (
@@ -352,8 +352,8 @@ cooked
 30
 Net
 1
-23
-36
+22
+35
 Trout
 (
 cooked
@@ -365,7 +365,7 @@ cooked
 Fly
 7
 101
-94
+89
 Pike
 (
 cooked
@@ -376,8 +376,8 @@ cooked
 80
 Bait
 8
-111
-57
+109
+54
 Salmon
 (
 cooked
@@ -388,8 +388,8 @@ cooked
 90
 Fly
 9
-71
-71
+68
+70
 Tuna
 (
 cooked
@@ -400,8 +400,8 @@ cooked
 100
 Harpoon
 10
-83
-115
+85
+112
 Lobster
 (
 cooked
@@ -412,8 +412,8 @@ cooked
 120
 Lobster pot
 12
-145
-208
+146
+198
 Swordfish
 (
 cooked
@@ -424,8 +424,8 @@ cooked
 140
 Harpoon
 14
-117
-154
+118
+153
 v
 t
 e

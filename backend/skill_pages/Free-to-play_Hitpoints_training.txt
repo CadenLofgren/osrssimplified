@@ -1,7 +1,0 @@
-Hitpoints is almost always trained through combat with any of the combat styles, melee, ranged, or magic. The ratio of combat experience to hitpoint experience is 3:1 for melee and ranged. For magic it is dependent on the spell being used, the magic defence of the target, and the attack style used. Skill pures, also known as skillers, can train Hitpoints with experience lamps to avoid combat, the only way to do so in free-to-play. 
-
- Melee training
- Magic training
- Ranged training
-
-Category:Free-to-play

@@ -42,7 +42,7 @@ SKILLS = {
         "p2p": "Pay-to-play_Runecraft_training",
     },
     "Construction": {
-        "p2p": "Pay-to-play_Construction_training",
+        "p2p": "Pay-to-play_Construction_training",  # will fallback to Construction_training
     },
     "Agility": {
         "p2p": "Agility_training",
@@ -95,8 +95,9 @@ SKILLS = {
     },
 }
 
+
 def fetch_html_content(page_title: str) -> str:
-    """Fetch rendered HTML from OSRS Wiki."""
+    """Fetch rendered HTML from OSRS Wiki, with BeautifulSoup cleanup."""
     params = {
         "action": "parse",
         "page": page_title,
@@ -118,12 +119,30 @@ def fetch_html_content(page_title: str) -> str:
 
     return str(soup)
 
+
+def fetch_with_fallback(skill: str, mode: str, page: str) -> str:
+    """
+    Try fetching the given page.
+    If it's missing, retry with a simplified '<Skill>_training'.
+    """
+    try:
+        return fetch_html_content(page)
+    except Exception as e:
+        if "missingtitle" in str(e):
+            fallback = f"{skill}_training"
+            print(f"⚠️ Falling back to {fallback} for {skill} ({mode}).")
+            return fetch_html_content(fallback)
+        else:
+            raise
+
+
 def store_skills():
     db: Session = next(get_db())
     for skill, pages in SKILLS.items():
         for mode, page in pages.items():
             try:
-                content = fetch_html_content(page)
+                # fetch with fallback support
+                content = fetch_with_fallback(skill, mode, page)
                 content_hash = hashlib.sha256(content.encode("utf-8")).hexdigest()
 
                 existing = (
@@ -153,6 +172,7 @@ def store_skills():
 
             except Exception as e:
                 print(f"❌ Failed for {skill} ({mode}): {e}")
+
 
 if __name__ == "__main__":
     store_skills()

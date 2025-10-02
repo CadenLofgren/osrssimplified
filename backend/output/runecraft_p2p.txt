@@ -231,7 +231,7 @@ NPC Contact
 for repairing essence pouches. This will increase experience rates for those methods. To get a rune pouch, buy a
 rune pouch note
 from the Grand Exchange and use it on a banker in exchange for a rune pouch. A rune pouch note currently costs
-5,286,769
+5,550,893
 .
 Using daeyalt essence
 Players who have completed
@@ -367,29 +367,29 @@ Tiaras needed
 Total profit (1–50)
 Air tiara
 36,300
--10.16
+-10.04
 4,054
-−1,029,543
+−1,017,383
 Water tiara
 43,500
--10.03
+-10.10
 3,378
-−1,016,708
+−1,023,463
 Earth tiara
 47,100
--18.58
+-18.37
 3,118
-−1,883,235
+−1,861,409
 Fire tiara
 50,800
--50.97
+-49.71
 2,896
-−5,165,088
+−5,037,698
 Elemental tiara
 58,000
--40.00
+-41.97
 2,534
-−4,053,320
+−4,253,453
 Levels 23–99: Lava runes
 Crafting
 lava runes
@@ -406,7 +406,7 @@ Magic Imbue
 Solo lavas
 This article or section is incomplete and could do with improvement.
 Reason:
-Solo rava rates aren't accurate, it is possible to get 110k–115k xp/h at level 99
+Solo lava rates aren't accurate, it is possible to get 110k–115k xp/h at level 99
 You can discuss this issue on the
 talk page
 or
@@ -511,8 +511,8 @@ n 3
 26
 38,220
 38,220
--2.63
--1.38
+-2.64
+-1.39
 50
 [
 n 4
@@ -521,7 +521,7 @@ n 4
 41
 58,800
 60,270
--2.58
+-2.57
 -0.53
 75
 [
@@ -541,7 +541,7 @@ n 6
 64
 91,600
 93,000
--1.29
+-1.28
 0.00
 99
 [
@@ -554,7 +554,7 @@ n 7
 64
 96,600
 98,000
--1.29
+-1.28
 0.00
 ^
 Will not vary with level if you do not use pouches, which is strongly recommended as using pouches requires multiple talisman per trip.
@@ -606,7 +606,7 @@ XP/h
 GP/XP
 4 runners (0+4)
 280,000
--172.13
+-172.12
 3 runners (0+3)
 190,000
 -190.23
@@ -952,15 +952,15 @@ No outfit
 36,000
 5,755
 4,211
-554,186
+556,545
 /
-588,823
+591,329
 [
 n 1
 ]
-346,367
+347,840
 /
-381,003
+382,624
 [
 n 1
 ]
@@ -969,15 +969,15 @@ n 1
 34,500
 5,515
 4,036
-640,672
+641,671
 /
-673,866
+675,006
 [
 n 1
 ]
-441,511
+441,662
 /
-474,705
+474,997
 [
 n 1
 ]
@@ -985,8 +985,8 @@ n 1
 44,000
 5,666
 4,146
-886,821
-554,263
+879,856
+549,910
 ^
 1.0
 1.1
@@ -1154,8 +1154,8 @@ m 2
 26
 34,580
 34,580
-5.60
-5.76
+5.44
+5.63
 50
 [
 m 3
@@ -1164,8 +1164,8 @@ m 3
 41
 53,200
 54,530
-5.90
-6.47
+5.75
+6.35
 75
 [
 m 4
@@ -1174,8 +1174,8 @@ m 4
 45
 58,520
 59,850
-6.09
-6.60
+5.95
+6.49
 85
 [
 m 5
@@ -1184,8 +1184,8 @@ m 5
 64
 82,900
 84,100
-6.22
-6.58
+6.08
+6.45
 ^
 1.0
 1.1
@@ -1228,8 +1228,8 @@ s 2
 26
 34,580
 34,580
-3.25
-3.21
+3.01
+2.99
 50
 [
 s 3
@@ -1238,8 +1238,8 @@ s 3
 41
 53,200
 54,530
-3.73
-4.04
+3.51
+3.83
 75
 [
 s 4
@@ -1248,8 +1248,8 @@ s 4
 45
 58,520
 59,850
-3.92
-4.20
+3.70
+3.98
 85
 [
 s 5
@@ -1258,8 +1258,8 @@ s 5
 64
 82,900
 84,100
-4.65
-4.67
+4.44
+4.46
 ^
 1.0
 1.1
@@ -1302,8 +1302,8 @@ e 2
 26
 36,400
 36,400
-6.10
-6.25
+6.05
+6.24
 50
 [
 e 3
@@ -1312,8 +1312,8 @@ e 3
 41
 56,000
 57,400
-6.50
-7.04
+6.46
+7.03
 75
 [
 e 4
@@ -1322,8 +1322,8 @@ e 4
 45
 61,600
 63,000
-6.70
-7.19
+6.67
+7.18
 85
 [
 e 5
@@ -1332,8 +1332,8 @@ e 5
 64
 87,200
 88,500
-7.30
-7.64
+7.28
+7.63
 ^
 1.0
 1.1
@@ -1418,40 +1418,40 @@ XP 60 Inventories/Hour
 GP 60 Inventories/Hour
 59
 344
-7,568
+7,654
 15,480
-340,560
+344,430
 17,200
-378,400
+382,700
 18,920
-416,240
+420,970
 20,640
-454,080
+459,240
 75
 432
-9,504
+9,612
 19,440
-427,680
+432,540
 21,600
-475,200
+480,600
 23,760
-522,720
+528,660
 25,920
-570,240
+576,720
 85
 536
 [
 a
 ]
-11,792
+11,926
 24,120
-530,640
+536,670
 26,800
-589,600
+596,300
 29,480
-648,560
+655,930
 32,160
-707,520
+715,560
 Double Cosmic Runes W/ Raiments of the Eye Full Set
 Level
 XP/Run
@@ -1466,40 +1466,40 @@ XP 60 Inventories/Hour
 GP 60 Inventories/Hour
 59
 344
-12,108.80
+12,246.40
 15,480
-544,896.00
+551,088.00
 17,200
-605,440.00
+612,320.00
 18,920
-665,984.00
+673,552.00
 20,640
-726,528.00
+734,784.00
 75
 432
-15,206.40
+15,379.20
 19,440
-684,288.00
+692,064.00
 21,600
-760,320.00
+768,960.00
 23,760
-836,352.00
+845,856.00
 25,920
-912,384.00
+922,752.00
 85
 536
 [
 a
 ]
-18,867.20
+19,081.60
 24,120
-849,024.00
+858,672.00
 26,800
-943,360.00
+954,080.00
 29,480
-1,037,696.00
+1,049,488.00
 32,160
-1,132,032.00
+1,144,896.00
 ^
 1.0
 1.1
@@ -1510,11 +1510,11 @@ XP per run: 344 at
 , 432 at
 75
 Value of runes:
-7,568
+7,654
 at
 59
 ,
-9,504
+9,612
 at
 75
 Experience needed (59–65): 201,542
@@ -1522,7 +1522,7 @@ Pure essence
 needed: 25,193
 № of inventories (43 ess per inventory): 586
 Total profit:
-4,383,582
+4,433,968
 Levels 82–99: Double astral runes
 10
 16000
@@ -1577,16 +1577,16 @@ With
 No outfit
 82
 42,000
-832,798
-485,211
+800,723
+464,722
 85
 53,000
-1,072,155
-633,535
+1,031,998
+607,998
 99
 55,000
-1,116,418
-661,245
+1,074,796
+634,796
 Levels 91–95/99: Double nature runes
 For more information about runecrafting through the Abyss, see
 Abyss/Strategies
@@ -1644,8 +1644,8 @@ Abyss
 o 2
 ]
 31,680
-725,120
-1,160,192.00
+732,160
+1,171,456.00
 C
 K
 R
@@ -1661,8 +1661,8 @@ Achievement diary cape
 o 3
 ]
 69,120
-1,582,080
-2,531,328.00
+1,597,440
+2,555,904.00
 ^
 Rates assume that you are using the
 Colossal pouch
@@ -1680,9 +1680,9 @@ Pure essence
 needed: 792,400
 № of inventories (64 ess per inventory): 12,382
 Total profit:
-161,649,600
+163,234,400
 (without outfit);
-259,590,240
+262,125,920
 (with outfit)
 Levels 95–99: Double law runes
 For more information about runecrafting through the Abyss, see
@@ -1851,16 +1851,16 @@ With
 No outfit
 90 (no colossal pouch)
 71,000
-945,605
-63,785
+956,230
+74,410
 90 (colossal pouch)
 101,000
-1,362,645
-108,225
+1,377,779
+123,359
 99 (Runecraft cape)
 102,000
-1,378,616
-111,776
+1,393,871
+127,031
 Levels 95–99: Wrath runes
 Crafting
 wrath runes
@@ -1868,17 +1868,17 @@ is a profitable alternative to the faster methods. This method requires completi
 Dragon Slayer II
 . Players will also need to run past aggressive dragons, so dragonfire protection is necessary.
 Players can gain up to around 44,880 experience per hour using this method assuming they are able to complete 85 runs/hour, though this requires decent focus and a nearly optimal setup to achieve. At this rate, players would also make
-1,497,870
+1,537,140
 profit per hour at the current rune prices (
-2,403,324.00
+2,466,156.00
 when using the
 Raiments of the Eye
 ). Using this method from level 95 to 99 would take around 95 hours and would offer roughly
-140,175,000
+143,850,000
 profit. A more relaxed pace of 75 runs/hour would yield an hourly rate of 39,600 experience and
-1,321,650
+1,356,300
 profit (
-2,120,580.00
+2,176,020.00
 when using the
 Raiments of the Eye
 ), and would take approximately 107 hours to reach level 99 from level 95. Higher rates are possible but difficult to achieve without a
@@ -1899,11 +1899,11 @@ GP 85 Inventories/Hour
 [
 a
 ]
-17,622
+18,084
 39,600
-1,321,650
+1,356,300
 44,880
-1,497,870
+1,537,140
 Wrath Runes W/ Raiments of the Eye Full Set
 Level
 XP/Run
@@ -1917,11 +1917,11 @@ GP 85 Inventories/Hour
 [
 a
 ]
-28,274.40
+29,013.60
 39,600
-2,120,580.00
+2,176,020.00
 44,880
-2,403,324.00
+2,466,156.00
 ^
 1.0
 1.1

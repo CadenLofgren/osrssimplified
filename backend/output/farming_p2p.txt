@@ -107,8 +107,8 @@ GP/XP
 1
 Bagged plant 1
 31
-−1,840
--59.35
+−1,809
+-58.35
 6
 Bagged plant 2
 70
@@ -384,9 +384,9 @@ can use
 Humidify
 spell to water the seedlings faster.
 Regular trees are usually more expensive compared to the other trees. Players who are not in a rush to level up Farming are advised to only farm fruit trees, hardwood trees and special trees for cheaper experience. Depending on the prices, it can also be worthwhile to farm palm trees instead of dragonfruit trees at higher levels, as growing dragonfruit trees costs
-11.67
+11.75
 per experience and palm trees would only cost
-4.53
+4.67
 per experience, including the protection payments.
 Saplings cannot be unnoted at a Tool Leprechaun. If there is not enough room to hold all the saplings needed, resupply at a bank during the run.
 Farming boosts
@@ -466,7 +466,7 @@ Slayer ring
 (optional for Gnome Stronghold tree patch)
 Tai bwo wannai teleport
 scroll (costs
-3,192
+3,185
 , recommended for the calquat patch)
 Stamina potion
 Farmer's outfit
@@ -476,7 +476,7 @@ graceful outfit
 For hardwood trees, if protection payment is skipped and
 ultracompost
 (
-472
+487
 ) is used instead, growing
 teaks
 (
@@ -486,7 +486,7 @@ coins per experience, while
 mahogany
 trees (
 55 Farming) costs
-0.20
+0.21
 coins per experience.
 For specialty trees, growing
 calquat tree
@@ -516,8 +516,8 @@ basket of tomatoes
 14
 467.3
 481.3
-−659
--1.37
+−675
+-1.40
 30
 Willow
 1
@@ -526,8 +526,8 @@ basket of apples
 25
 1,456.5
 1,481.5
-−698
--0.47
+−714
+-0.48
 45
 Maple
 1
@@ -536,8 +536,8 @@ basket of oranges
 45
 3,403.4
 3,448.4
-−4,301
--1.25
+−4,483
+-1.30
 60
 Yew
 10
@@ -546,8 +546,8 @@ cactus spines
 81
 7,069.9
 7,150.9
-−51,875
--7.25
+−52,017
+-7.27
 75
 Magic
 25
@@ -556,8 +556,8 @@ coconuts
 145.5
 13,768.3
 13,913.8
-−140,898
--10.13
+−144,936
+-10.42
 ^
 Seed Cost, Protection cost and 200 coins for removal.
 Fruit tree table
@@ -588,10 +588,10 @@ sweetcorns
 1,199.5
 51
 1,272.5
-−913
-−721
--0.75
--0.57
+−895
+−697
+-0.73
+-0.55
 33
 Banana
 4
@@ -601,10 +601,10 @@ baskets of apples
 1,750.5
 63
 1,841.5
-−1,939
-−1,621
--1.09
--0.88
+−1,995
+−1,677
+-1.12
+-0.91
 39
 Orange
 3
@@ -614,10 +614,10 @@ baskets of strawberries
 2,470.2
 81
 2,586.7
-−1,635
-−543
--0.65
--0.21
+−1,672
+−526
+-0.67
+-0.20
 42
 Curry
 5
@@ -627,10 +627,10 @@ baskets of bananas
 2,906.9
 90
 3,036.9
-−2,841
-−2,409
--0.96
--0.79
+−2,955
+−2,517
+-1.00
+-0.83
 51
 Pineapple
 10
@@ -641,7 +641,7 @@ watermelons
 129
 4,791.7
 −465
-513
+531
 -0.10
 0.11
 57
@@ -653,10 +653,10 @@ pineapples
 6,146.4
 162
 6,380.4
-−3,267
-4,227
--0.53
-0.66
+−3,342
+4,344
+-0.54
+0.68
 68
 Palm tree
 15
@@ -666,10 +666,10 @@ papaya fruit
 10,150.1
 249
 10,509.6
-−45,695
-−33,959
--4.45
--3.23
+−46,999
+−34,915
+-4.58
+-3.32
 81
 Dragonfruit
 15
@@ -679,10 +679,10 @@ coconut
 17,335
 420
 17,825
-−207,960
-−198,666
--11.90
--11.15
+−209,398
+−200,122
+-11.98
+-11.23
 ^
 Seed Cost, Protection cost and 200 coins for removal, minus worth what is harvested.
 See also:
@@ -712,8 +712,8 @@ limpwurt roots
 35
 7,290
 7,325
-−5,133
--0.70
+−4,894
+-0.67
 55
 Mahogany
 25
@@ -722,8 +722,8 @@ yanillian hops
 63
 15,720
 15,783
-−37,198
--2.36
+−36,334
+-2.30
 ^
 Seed Cost, Protection cost and 200 coins for removal.
 Special tree table
@@ -750,8 +750,8 @@ poison ivy berries
 12,096
 291
 12,516.5
-−2,207
--0.18
+−2,165
+-0.17
 74
 Crystal acorn
 N/A
@@ -775,8 +775,8 @@ potato cactus
 S 3
 ]
 14,404.5
-41,871
-2.90
+44,577
+3.08
 90
 Redwood
 6
@@ -786,11 +786,11 @@ dragonfruit
 22,450
 N/A
 22,680
-−29,262
+−28,957
 [
 S 4
 ]
--1.29
+-1.28
 ^
 Seed Cost, Protection cost and 200 coins for removal, minus the worth of what is harvested where applicable.
 ^
@@ -799,7 +799,7 @@ crystal shards
 when treated with
 ultracompost
 , which average roughly
-18,575.00
+18,047.50
 per shard when used to make
 divine super combat potions
 with 97

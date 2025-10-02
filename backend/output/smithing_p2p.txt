@@ -83,7 +83,7 @@ Bronze dagger
 32
 32
 Bronze bar
-−384
+−416
 5–9
 581
 Bronze scimitar
@@ -93,7 +93,7 @@ Bronze scimitar
 24
 48
 Bronze bar
-−3,432
+−3,408
 9–18
 2,554
 Bronze warhammer
@@ -103,7 +103,7 @@ Bronze warhammer
 69
 207
 Bronze bar
-−17,733
+−17,871
 18–24
 3,505
 Bronze platebody
@@ -113,7 +113,7 @@ Bronze platebody
 57
 285
 Bronze bar
-−25,422
+−25,707
 24–33
 11,219
 Iron warhammer
@@ -123,7 +123,7 @@ Iron warhammer
 150
 450
 Iron bar
-−85,650
+−87,000
 33–39
 15,401
 Iron platebody
@@ -133,7 +133,7 @@ Iron platebody
 124
 620
 Iron bar
-−110,856
+−112,840
 39–40
 3,756
 Steel warhammer
@@ -143,7 +143,7 @@ Steel warhammer
 34
 102
 Steel bar
-−50,796
+−50,354
 1–40
 37,224
 572
@@ -153,7 +153,7 @@ Iron bar
 ,
 and 102
 Steel bar
-−294,273
+−297,596
 Levels 40–99: Blast Furnace gold bars
 Smelting
 gold bars
@@ -207,20 +207,20 @@ Total profit
 (40–99)
 Goldsmith gauntlets
 380,000
-−319,651
--0.84
+−315,109
+-0.83
 231,267
-−10,933,070
+−10,777,734
 No goldsmith gauntlets
 164,000
-−333,361
--2.03
+−328,292
+-2.00
 577,654
-−26,419,289
+−26,017,573
 Smithing cape
 410,000
-−333,530
--0.81
+−328,454
+-0.80
 N/A
 N/A
 To speed up banking, you can either:
@@ -358,13 +358,13 @@ n 4
 ]
 15
 16
-71,904
+72,960
 1,776
 97,920
 1,264
 195,840
-123,936
-1.27
+122,880
+1.25
 194,064
 1.98
 Iron
@@ -372,57 +372,57 @@ Iron
 Steel
 30
 16
-165,312
-16,800
+165,088
+17,024
 133,920
 1,568
 267,840
-102,528
+102,752
 0.77
-251,040
+250,816
 1.87
 Steel
 /
 Mithril
 50
 14
-273,616
-83,104
+271,852
+82,908
 164,640
 1,722
 329,280
-55,664
-0.34
-246,176
+57,428
+0.35
+246,372
 1.50
 Mithril
 /
 Adamantite
 70
 12
-451,416
-254,520
+449,736
+249,984
 198,000
 1,836
 396,000
-−55,416
--0.28
-141,480
-0.71
+−53,736
+-0.27
+146,016
+0.74
 Adamantite
 /
 Runite
 85
 11
-2,181,718
-1,657,040
+2,179,562
+1,650,110
 253,110
 2,068
 506,220
-−1,675,498
--6.62
-−1,150,820
--4.55
+−1,673,342
+-6.61
+−1,143,890
+-4.52
 ^
 Coins received from
 Kovac
@@ -460,38 +460,38 @@ GE tax
 15
 Smelting iron bars
 6,000
-958,665
+930,663
 75,000
-193,335
-175,335
+239,337
+221,337
 30
 Smelting steel bars
 5,400
-1,897,065
+1,866,663
 94,500
-1,051,335
-997,335
+1,060,137
+1,006,137
 50
 Smelting mithril bars
 3,600
-1,976,265
+1,974,663
 108,000
-1,083,735
-1,022,535
+1,067,337
+1,009,737
 70
 Smelting adamantite bars
 2,700
-3,689,865
+3,721,563
 101,250
-1,270,035
-1,172,835
+1,224,837
+1,127,637
 85
 Smelting runite bars
 2,160
-23,738,985
+23,591,943
 107,500
-2,893,815
-2,362,455
+3,021,417
+2,490,057
 ^
 Based on 200 trips per hour, except for iron.
 Levels 20–99: Smithing dart tips
@@ -518,45 +518,45 @@ Profit/h
 4
 Bronze dart tips
 16,250
-410,800
+409,500
 13,250
-334,960
-25.28
+333,900
+25.20
 19
 Iron dart tips
 32,500
-426,400
+435,500
 26,500
-347,680
-13.12
+355,100
+13.40
 34
 Steel dart tips
 48,750
-278,200
+283,400
 39,750
-226,840
-5.71
+231,080
+5.81
 54
 Mithril dart tips
 65,000
-182,000
+240,500
 53,000
-148,400
-2.80
+196,100
+3.70
 74
 Adamant dart tips
 81,250
-94,900
+88,400
 66,250
-77,380
-1.17
+72,080
+1.09
 89
 Rune dart tips
 97,500
-−3,224,000
+−3,173,300
 79,500
-−2,628,800
--33.07
+−2,587,460
+-32.55
 Levels 35–99: Smithing cannonballs
 Smithing
 cannonballs
@@ -574,13 +574,13 @@ Profit/XP
 35
 Ammo mould
 13,824
-186,000
-12.11
+178,800
+11.64
 35
 Double ammo mould
 27,648
-372,000
-12.11
+357,600
+11.64
 Levels 48–99: Smithing armour
 Smithing armour at an anvil is only recommended for account builds that cannot get
 goldsmith gauntlets
@@ -598,31 +598,31 @@ Profit (HA)/XP
 48–68
 Steel platebody
 144,000
-−1,666,133.33
--10.67
-−1,360,397.87
--8.71
+−1,645,306.67
+-10.53
+−1,344,569.60
+-8.61
 66–68
 Mithril platelegs
 140,000
-−1,362,132.00
--9.42
-−1,053,652.00
--7.29
+−1,353,456.00
+-9.36
+−1,040,156.00
+-7.19
 66–68
 Mithril plateskirt
 140,000
-−1,361,168.00
--9.41
-−1,053,652.00
--7.29
+−1,359,240.00
+-9.40
+−1,040,156.00
+-7.19
 68–88
 Mithril platebody
 200,000
-−1,442,269.20
--6.92
-−1,027,335.60
--4.93
+−1,400,609.20
+-6.72
+−1,007,338.80
+-4.84
 88–99
 Adamant platebody
 240,000
@@ -630,12 +630,12 @@ Adamant platebody
 [
 n 1
 ]
-29,164.80
-34,720.00
-0.11
-579,962.88
-690,432.00
-2.23
+44,163.84
+52,576.00
+0.17
+599,961.60
+714,240.00
+2.30
 ^
 Experience
 per hour only obtainable wearing the
@@ -658,23 +658,23 @@ Dwarven stout
 High Level Alchemy
 to increase profits, however this is only recommended if you have a lot of disposable gold.
 Assuming 60 grogs used at level 95, 900 items smithed per hour and alching the items, this would yield
-−1,976,460
+−1,863,960
 per hour with an expected GP/XP of
--9.76
+-9.20
 ;- When using
 preserve
 this would decrease to 40 grogs or
-−925,540
+−842,740
 per hour with an expected GP/XP of
--4.57
+-4.16
 (
-0.62
+0.88
 and
-2.35
+2.56
 GP/XP at level 96 and 97 respectively), while normal dwarven stouts at 98 would yield
-1,168,140
+1,191,360
 for a GP/XP of
-5.77
+5.88
 .
 Item
 XP/Hour
@@ -684,22 +684,22 @@ Profit (HA)/Hour
 Profit (HA)/XP
 Platelegs
 210,000
-−118,449
--0.55
-1,259,948.00
-5.81
+34,668
+0.16
+1,285,012.00
+5.92
 Plateskirt
 210,000
-63,558
-0.29
-1,259,948.00
-5.81
+205,119
+0.95
+1,285,012.00
+5.92
 2h sword
 210,000
-124,227
-0.57
-1,259,948.00
-5.81
+122,301
+0.56
+1,285,012.00
+5.92
 Quests for Smithing experience
 Main article:
 Quest experience rewards

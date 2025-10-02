@@ -49,7 +49,7 @@ Levels 1–20: Leather items
 From level 1 to 20, craft the highest-level leather item available.
 Leather
 currently costs
-359
+350
 each and all items only require one leather to craft. In order to craft any leather items, you need a
 needle
 and some
@@ -66,32 +66,32 @@ Total cost
 Gloves
 13.8
 48
-17,232
+16,800
 7–9
 Boots
 16.2
 19
-6,821
+6,650
 9–11
 Cowl
 18.5
 21
-7,539
+7,350
 11–14
 Vambraces
 22
 34
-12,206
+11,900
 14–20
 Body
 25
 95
-34,105
+33,250
 Total
 217
-77,903
+75,950
 This will require a total of 217 leather, for a total cost of
-77,903
+75,950
 . Every leather item is created in 3 ticks (1.8 seconds), so the total creation time for all 217 leather items is 651 ticks (390.6 seconds).
 Levels 20–62/77/99: Cutting gems
 Cutting (uncut) gems offers the fastest experience up to level 77. However, cutting dragonstones is much more expensive compared to the lower-level gems, so it is recommended to keep cutting diamonds until level 62 and continue with fire battlestaves. Depending on the prices, it may be worthwhile to also skip cutting diamonds, and cut rubies until level 58 and continue with earth battlestaves.
@@ -113,35 +113,35 @@ Sapphire
 50
 139,000
 106
-235
-210
-−25
--0.50
+237
+217
+−20
+-0.40
 27
 Emerald
 67.5
 187,650
 156
-486
-368
-−118
--1.75
+483
+375
+−108
+-1.60
 34
 Ruby
 85
 236,300
 355
-1,168
-784
-−384
--4.52
+1,205
+791
+−414
+-4.87
 43
 Diamond
 107.5
 298,850
 1,082
-2,492
-1,613
+2,495
+1,616
 −879
 -8.18
 55
@@ -150,10 +150,10 @@ Dragonstone
 382,250
 (
 62) 1,216
-16,146
-11,074
-−5,072
--36.89
+16,141
+11,078
+−5,063
+-36.82
 (
 77) 9,520
 Levels 54–77/99: Battlestaves
@@ -164,7 +164,7 @@ Varrock Diary
 may also purchase noted battlestaves daily from
 Zaff
 for a reduced price. This will save
-1,226
+1,228
 per battlestaff compared to purchasing them from the Grand Exchange.
 Crafting d'hide bodies becomes considerably faster at level 77 and even more so at level 84, but air battlestaves remain as a good cheaper alternative.
 The experience rates shown in the table below assume 2,450 battlestaves crafted per hour. Expect lower rates if idling. With perfect banking, it is possible to craft up to 2,625 battlestaves per hour.
@@ -189,46 +189,46 @@ Water
 100
 245,000
 736
-8,709
-8,701
-−8
--0.08
-488
-4.88
+8,717
+8,669
+−48
+-0.48
+479
+4.79
 58
 Earth
 112.5
 276,000
 972
-8,759
-8,702
-−57
--0.51
-438
-3.89
+8,760
+8,626
+−134
+-1.19
+436
+3.88
 62
 Fire
 125
 306,000
 1,300
-9,022
-8,636
-−386
--3.09
-175
-1.40
+9,020
+8,729
+−291
+-2.33
+176
+1.41
 66
 Air
 137.5
 337,000
 (
 77) 7,123
-9,131
-8,660
-−471
--3.43
-66
-0.48
+9,139
+8,628
+−511
+-3.72
+57
+0.41
 Levels 63/77–99: D'hide bodies
 Crafting d'hide bodies becomes the fastest viable training method from level 77 onwards. Players can begin crafting green d'hide bodies at level 63, or blue d'hide bodies at level 71 as an alternative method to cutting gems or crafting battlestaves.
 Use the
@@ -284,48 +284,48 @@ Green
 313,000
 317,000
 332,000
-4,623
-4,047
-−576
--3.10
-−46
--0.25
+4,707
+4,052
+−655
+-3.52
+−131
+-0.70
 71
 Blue
 210
 354,000
 358,000
 374,000
-5,679
-4,713
-−966
--4.60
-−166
--0.79
+5,733
+4,706
+−1,027
+-4.89
+−221
+-1.05
 77
 Red
 234
 394,000
 399,000
 417,000
-7,227
-5,724
-−1,503
--6.42
-−592
--2.53
+7,236
+5,745
+−1,491
+-6.37
+−602
+-2.57
 84
 Black
 258
 435,000
 440,000
 460,000
-9,870
-7,040
-−2,830
--10.97
-−1,885
--7.31
+9,720
+7,114
+−2,606
+-10.10
+−1,736
+-6.73
 ^
 Assumes 1,685 actions per hour when crafting eight d'hide bodies per inventory.
 ^
@@ -355,66 +355,66 @@ Diff
 Beer glass
 17.5
 30,625
-104
-60
-−44
--2.59
+110
+59
+−51
+-3.00
 4
 Empty candle lantern
 19
 33,250
-104
-5
-−99
--5.21
+110
+4
+−106
+-5.58
 12
 Empty oil lamp
 25
 43,750
-104
+110
 12
-−92
--3.68
+−98
+-3.92
 33
 Vial
 35
 61,250
-104
-3
-−101
--2.89
+110
+2
+−108
+-3.09
 42
 Empty fishbowl
 42.5
 74,375
-104
+110
 34
-−70
--1.65
+−76
+-1.79
 46
 Unpowered orb
 52.5
 91,875
-104
-49
-−55
--1.05
+110
+48
+−62
+-1.18
 49
 Lantern lens
 55
 96,250
-104
+110
 16
-−88
--1.60
+−94
+-1.71
 87
 Empty light orb
 70
 122,500
-104
+110
 Not sold
-−104
--1.49
+−110
+-1.57
 ^
 Assumes 1,750 glass items blown per hour.
 Levels 5–99: Crafting jewellery
@@ -450,32 +450,32 @@ Opal ring
 14,000
 Silver bar
 Opal
-449
-628,600
+456
+638,400
 Opal necklace
 16
 35
 49,000
 Silver bar
 Opal
-450
-630,000
+457
+639,800
 Opal bracelet
 22
 45
 63,000
 Silver bar
 Opal
-297
-415,800
+304
+425,600
 Opal amulet (u)
 27
 55
 77,000
 Silver bar
 Opal
-155
-217,000
+162
+226,800
 Opal amulet
 27
 59
@@ -483,40 +483,40 @@ Opal amulet
 Silver bar
 Opal
 Ball of wool
-167
-160,320
+173
+166,080
 Jade ring
 13
 32
 44,800
 Silver bar
 Jade
-314
-439,600
+319
+446,600
 Jade necklace
 25
 54
 75,600
 Silver bar
 Jade
-380
-532,000
+385
+539,000
 Jade bracelet
 29
 60
 84,000
 Silver bar
 Jade
-280
-392,000
+285
+399,000
 Jade amulet (u)
 34
 70
 98,000
 Silver bar
 Jade
-399
-558,600
+404
+565,600
 Jade amulet
 34
 74
@@ -524,40 +524,40 @@ Jade amulet
 Silver bar
 Jade
 Ball of wool
-434
-416,640
+438
+420,480
 Topaz ring
 16
 35
 49,000
 Silver bar
 Red topaz
-−1,972
-−2,760,800
+−1,714
+−2,399,600
 Topaz necklace
 32
 70
 44,800
 Silver bar
 Red topaz
-−3,885
-−5,439,000
+−3,627
+−5,077,800
 Topaz bracelet
 38
 75
 105,000
 Silver bar
 Red topaz
-618
-865,200
+876
+1,226,400
 Topaz amulet (u)
 45
 80
 112,000
 Silver bar
 Red topaz
-−1,728
-−2,419,200
+−1,470
+−2,058,000
 Topaz amulet
 45
 84
@@ -565,76 +565,76 @@ Topaz amulet
 Silver bar
 Red topaz
 Ball of wool
-66
-63,360
+323
+310,080
 Gold ring
 5
 15
 24,000
 Gold bar
-56
-89,600
+54
+86,400
 Gold necklace
 6
 20
 32,000
 Gold bar
-82
-131,200
+74
+118,400
 Gold bracelet
 7
 25
 40,000
 Gold bar
-146
-233,600
+145
+232,000
 Gold amulet (u)
 8
 30
 48,000
 Gold bar
-66
-105,600
+65
+104,000
 Gold amulet
 8
 34
 34,340
 Gold bar
 Ball of wool
-1
-1,010
+−1
+−1,010
 Sapphire ring
 20
 40
 56,000
 Gold bar
 Sapphire
-114
-159,600
+111
+155,400
 Sapphire necklace
 22
 55
 77,000
 Gold bar
 Sapphire
-137
-191,800
+114
+159,600
 Sapphire bracelet
 23
 60
 84,000
 Gold bar
 Sapphire
-242
-338,800
+243
+340,200
 Sapphire amulet (u)
 24
 65
 91,000
 Gold bar
 Sapphire
-108
-151,200
+100
+140,000
 Sapphire amulet
 24
 69
@@ -642,40 +642,40 @@ Sapphire amulet
 Gold bar
 Sapphire
 Ball of wool
-105
-100,800
+101
+96,960
 Emerald ring
 27
 55
 77,000
 Gold bar
 Emerald
-154
-215,600
+135
+189,000
 Emerald necklace
 29
 60
 84,000
 Gold bar
 Emerald
-163
-228,200
+132
+184,800
 Emerald bracelet
 30
 65
 91,000
 Gold bar
 Emerald
-251
-351,400
+255
+357,000
 Emerald amulet (u)
 31
 70
 98,000
 Gold bar
 Emerald
-78
-109,200
+70
+98,000
 Emerald amulet
 31
 74
@@ -683,40 +683,40 @@ Emerald amulet
 Gold bar
 Emerald
 Ball of wool
-95
-91,200
+86
+82,560
 Ruby ring
 34
 70
 98,000
 Gold bar
 Ruby
-110
-154,000
+93
+130,200
 Ruby necklace
 40
 75
 105,000
 Gold bar
 Ruby
-166
-232,400
+141
+197,400
 Ruby bracelet
 42
 80
 112,000
 Gold bar
 Ruby
-198
-277,200
+221
+309,400
 Ruby amulet (u)
 50
 85
 119,000
 Gold bar
 Ruby
-157
-219,800
+148
+207,200
 Ruby amulet
 50
 89
@@ -724,40 +724,40 @@ Ruby amulet
 Gold bar
 Ruby
 Ball of wool
-158
-151,680
+178
+170,880
 Diamond ring
 43
 85
 119,000
 Gold bar
 Diamond
-130
-182,000
+110
+154,000
 Diamond necklace
 56
 90
 126,000
 Gold bar
 Diamond
-197
-275,800
+186
+260,400
 Diamond bracelet
 58
 95
 133,000
 Gold bar
 Diamond
-165
-231,000
+150
+210,000
 Diamond amulet (u)
 70
 100
 140,000
 Gold bar
 Diamond
-92
-128,800
+119
+166,600
 Diamond amulet
 70
 104
@@ -765,40 +765,40 @@ Diamond amulet
 Gold bar
 Diamond
 Ball of wool
-152
-145,920
+147
+141,120
 Dragonstone ring
 55
 100
 140,000
 Gold bar
 Dragonstone
-−243
-−340,200
+−8
+−11,200
 Dragon necklace
 72
 105
 147,000
 Gold bar
 Dragonstone
-−269
-−376,600
+−308
+−431,200
 Dragonstone bracelet
 74
 110
 154,000
 Gold bar
 Dragonstone
-110
-154,000
+122
+170,800
 Dragonstone amulet (u)
 80
 150
 210,000
 Gold bar
 Dragonstone
-−508
-−711,200
+−513
+−718,200
 Dragonstone amulet
 80
 154
@@ -806,14 +806,14 @@ Dragonstone amulet
 Gold bar
 Dragonstone
 Ball of wool
-−460
-−441,600
+−318
+−305,280
 Levels 26–46/99: Crafting drift nets
 Drift nets
 can be crafted from 2
 jute fibre
 each. About 1,000 can be made per hour for 60,000 experience per hour and
-575,000
+557,000
 coins per hour when using the
 loom
 and
@@ -825,7 +825,7 @@ Museum Camp
 . This is better experience per hour compared to glassblowing until 46 Crafting, which unlocks
 unpowered orbs
 . It nets
-10.45
+10.13
 coins per experience gained. This is a potential
 money making method
 , though check Grand Exchange prices and volume before attempting it.
@@ -940,34 +940,34 @@ Diff
 Bolt tips
 60
 165,000
-3,659
-3,210
-−449
--7.48
+3,686
+3,225
+−461
+-7.68
 85
 Arrowtips
 60
 165,000
-3,659
-3,735
-76
-1.27
+3,686
+3,795
+109
+1.82
 87
 Javelin heads
 60
 165,000
-3,659
-3,775
-116
-1.93
+3,686
+3,735
+49
+0.82
 89
 Dart tip
 60
 165,000
-3,659
-3,808
-149
-2.48
+3,686
+3,784
+98
+1.63
 Quests for Crafting experience
 Main article:
 Quest experience rewards
