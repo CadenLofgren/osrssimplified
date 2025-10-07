@@ -1,59 +1,53 @@
-Pickaxes (use highest tier available; equip if you meet the Attack requirement to save inventory space)
-- Bronze / Iron: Attack 1
-- Steel: Attack 6
-- Black: Attack 11
-- Mithril: Attack 21
-- Adamant: Attack 31
-- Rune: Attack 41 (fastest)
+### Level 1–10
+- Main training methods: **Doric's Quest** (instant 1,300 XP) or mine **Clay**/**Copper ore**/**Tin ore**.
+- Important locations: **East Lumbridge Swamp mine**, **Dwarven Mines** (near Doric), **South-east Varrock mine** (if banking).
+- Notable equipment/items: use the highest-tier **pickaxe** you have (equip if you meet Attack requirement).
+- Key unlocks/transitions: completing **Doric's Quest** gets you to level 10 immediately; reach level 15 to access **Iron ore**.
 
-Key ore level requirements (important ores for F2P training/money)
-- Rune essence / Clay / Copper / Tin: 1
-- Blurite: 10
-- Iron: 15
-- Silver: 20
-- Coal: 30
-- Gold: 40
-- Mithril: 55
-- Adamantite: 70
-- Runite: 85
+### Level 1/10–15
+- Main training methods: mine **Copper ore** and **Tin ore** (17.5 XP each) to reach 15 Mining.
+- Important locations: **East Lumbridge Swamp mine**, **Dwarven Mines**, **South-east Varrock mine** (banking).
+- Notable equipment/items: highest-tier **pickaxe** (equip if able).
+- Key unlocks/transitions: at level 15 you can start mining **Iron ore**.
 
-Efficient training methods, locations, and required levels
+### Level 15–99
+- Main training methods: mine **Iron ore** (35 XP each) — drop ores for best XP; focus on three-node cycles for zero travel time.
+- Important locations: **Al Kharid Mine** (only free-to-play 3-rock tile), **Citharede Abbey mine** (3-rock layouts), **other multi-rock mines** where 3-node cycles are possible.
+- Notable equipment/items: best available **pickaxe** (upgrade to **Rune pickaxe** when practical); for advanced rates use **4-tick mining** setup (inventory **leather + needle & thread**).
+- Key unlocks/transitions: at ~41 Mining (and with a high-tier pickaxe) you can cycle three iron rocks efficiently; at 61 Mining iron harvest chance reaches 100% (maxes out iron rates). Drop ores to maximize XP; advanced players may use **tick manipulation / 4-tick mining** to further increase XP/hr.
 
-Levels 1–10
-- Doric’s Quest reward: 1,300 Mining XP (takes you to level 10).
-  - Requires having 6 clay, 4 copper ore, 2 iron ore (iron can be bought if you can’t mine it — needs 15 Mining to mine).
+### Levels 30–99 (Superheat Item)
+- Main training methods: use **Superheat Item** while mining **Coal** to reduce banking and produce bars.
+- Important locations: **Barbarian Village mine** (close coal), **Mining Guild**, **West Lumbridge Swamp mine**, **South-west Wilderness mine**, **Dwarven mine**.
+- Notable equipment/items: **Staff of fire**, **Nature runes**, **pickaxe**; keep inventory space for ores/bars.
+- Key unlocks/transitions: requires **Magic 43** to Superheat Item; useful to continue mining/coal collection between bank trips and produce bars on the go.
 
-Levels 1/10–15
-- Copper/Tin mining (17.5 XP per ore) to 15 Mining.
-  - Best casual locations: East Lumbridge Swamp mine, northern Dwarven Mines.
-  - If banking ores: South-east Varrock mine → bank in eastern Varrock bank.
+### Levels 70–85 (Adamantite)
+- Main training methods: mine **Adamantite ore** (95 XP each) for money + XP.
+- Important locations: **Mining Guild** (best free-to-play spot), east **Falador bank** for banking; world-hopping speeds up yield.
+- Notable equipment/items: high-tier **pickaxe**; bank access for frequent trips.
+- Key unlocks/transitions: **70 Mining** to mine **Adamantite ore**.
 
-Levels 15–99
-- Iron ore (35 XP each) — fastest and primary F2P training method from 15+.
-  - Best locations: Al Kharid Mine (only free-to-play 3-rock tile where one tile is surrounded by 3 iron rocks; has aggressive level-14 scorpions), Citharede Abbey mine (good for tick-manipulation 4-tick cycling).
-  - Technique: drop ores for maximum XP; mine 3 rocks in a rotation to eliminate travel time.
-  - Important thresholds:
-    - 41 Mining + rune pickaxe: smooth 3-ore cycling (face-back trick).
-    - 61 Mining: effective 100% harvest success on iron (maxes respawn cycle).
+### Levels 85–99 (Runite)
+- Main training methods: mine **Runite ore** (125 XP each) — very slow but highly profitable.
+- Important locations: **Lava Maze runite mine** in the **Wilderness** (only free-to-play runite location).
+- Notable equipment/items: best available **pickaxe**; be prepared for PvP-dangerous area (Wilderness).
+- Key unlocks/transitions: requires **85 Mining** to mine **Runite ore**; world-hopping recommended over waiting for respawns.
 
-Money-making oriented methods (levels and locations)
-- Superheat Item (requires Magic 43 + relevant Smithing level)
-  - Use to smelt as you mine (reduces banking), useful when mining coal.
-  - Good coal locations: Barbarian Village mine (closest when using imbued Skull sceptre), Mining Guild, West Lumbridge Swamp, South-west Wilderness mine, Dwarven mine. Bank with Falador teleport for Barbarian Village route.
-- Adamantite ore (70 Mining)
-  - Best: Mining Guild (two rocks), bank at east Falador. World-hopping speeds gathering.
-- Runite ore (85 Mining)
-  - Only free-to-play runite rocks: Lava Maze runite mine in the Wilderness (dangerous). World-hopping recommended; very slow but highly profitable.
+### Levels 1/10–14/15 (Rune essence)
+- Main training methods: mine **Rune essence** at the **Rune essence mine** (5 XP each) — AFKable early training or to gather for Runecrafting.
+- Important locations: **Rune essence mine** (requires progress in **Rune Mysteries**).
+- Notable equipment/items: inventory space focused (essence stacks); drop for faster Mining XP.
+- Key unlocks/transitions: completion/progression of **Rune Mysteries** needed to access essence mining.
 
-Other/AFK methods
-- Rune essence (requires Rune Mysteries progression)
-  - Mine at rune essence mine; very AFK but slow XP (5 XP per essence). Useful early for Runecraft or if you want AFK Mining.
-- Crashed stars (Shooting Stars) — usable from level 10+
-  - Very AFK but low XP/hour; F2P stars are rare — join sharing groups or use plugins to locate.
-- Barronite shards & deposits (requires completing Below Ice Mountain to access Ruins of Camdozaal)
-  - Levels 14+; shards = 16 XP each, deposits = 32 XP each. Slower than iron but much more AFK-friendly; buffs (Charm of Mining / Charm of Boost) improve rates.
+### Levels 10–99 (Crashed Stars)
+- Main training methods: mine **Crashed Stars** for AFK XP (low XP/hr but minimal interaction).
+- Important locations: world-hopping to find stars; join community channels or use plugins to locate stars.
+- Notable equipment/items: none required beyond a **pickaxe**.
+- Key unlocks/transitions: accessible once stars spawn; highly AFK but inconsistent availability in free-to-play.
 
-Quick tips
-- Always use the best pickaxe you can wield.
-- Drop lower-value ores while training (especially iron) to maximize XP/hour unless you’re using a money-making method (adamant/runite/superheat).
-- For high-speed iron training, position/mine cycles (3-rock spots, tick manipulation) matter more than location distance to bank.
+### Levels 14–99 (Barronite shards and deposits)
+- Main training methods: mine **Barronite shards** (16 XP) and **Barronite deposits** (32 XP) — slower than iron but very AFK.
+- Important locations: **Ruins of Camdozaal** (access after **Below Ice Mountain** quest).
+- Notable equipment/items: **Charm of Mining** (permanent) and **Charm of Boost** (temporary) increase XP rates; drop deposits if only training Mining.
+- Key unlocks/transitions: completing **Below Ice Mountain** unlocks access to **Ruins of Camdozaal** and barronites.

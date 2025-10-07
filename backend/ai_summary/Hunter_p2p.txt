@@ -1,51 +1,98 @@
-Summary — key Hunter training methods, locations, and level requirements
+### Level 1–20
+Train on **Natural History Quiz** (Varrock Museum) to jump from 1 → 9 Hunter quickly.  
+Main training methods
+- **Natural History Quiz** (Varrock Museum) — instant XP to level 9.  
+- **Bird house trapping** on **Fossil Island** (starts at 9) — recurring AFK runs that give high XP over time.  
+- Active option: **Feldip weasels** (Feldip Hunter area) for early active XP.
 
-Core recurring/AFK methods
-- Natural History Quiz — Varrock Museum. Levels 1→9 (grants 1,000 XP). Talk to Orlando Smith in the museum basement.
-- Bird house trapping — Fossil Island. Recommended levels: start at 9; fastest up to level 80 (viable to 99). Requirements: Bone Voyage to access Fossil Island. Recommended: digsite pendants for fast travel. Crafting required to make some house types (Crafting level listed below). Hunter level required to place bird houses varies by house (can be boosted):
-  - Regular: Crafting 5, Hunter 5
-  - Oak: Crafting 15, Hunter 14
-  - Willow: Crafting 25, Hunter 24
-  - Teak: Crafting 35, Hunter 34
-  - Maple: Crafting 45, Hunter 44
-  - Mahogany: Crafting 50, Hunter 49
-  - Yew: Crafting 60, Hunter 59
-  - Magic: Crafting 75, Hunter 74
-  - Redwood: Crafting 90, Hunter 89
-  (Do runs every 50 minutes; 4 houses per run.)
-- Drift net fishing — Fossil Island underwater area (speak to Ceto). Levels required: Hunter 44, Fishing 47 (both unboostable). Requirements: Bone Voyage; optimal gear: fishbowl helmet + diving apparatus + flippers; costs/numulites apply. Best when you want Fishing + Hunter.
+Important locations
+- **Varrock Museum** (Natural History Quiz)  
+- **Fossil Island** (bird houses; requires **Bone Voyage**)  
+- **Feldip Hunter area**
 
-Fastest active training methods (level ranges, locations, requirements)
-- Feldip weasels — levels 9–13. Location: Feldip Hunter area. Use noose wand + ring(s) of pursuit to track kebbits.
-- Desert devils — levels 13–25. Location: Uzer hunter area (near Eagles' Eyrie). Use noose wand + ring of pursuit; bring waterskins for heat.
-- Sapphire glacialis (butterflies) — levels 25–37. Location: Mons Gratia (south‑west of mountain peak). Use butterfly net (unequip after level 35 unless using magic net).
-- Swamp lizards — levels 37–43. Location: north‑west of Slepe. Use small fishing net + rope per trap (2 traps at 29–39; 3 traps from 40).
-- Falconry — levels 43–49. (Falconry minigame; requires a 500 gp fee.)
-- Razor‑backed kebbits — levels 49–73. (Kebbit tracking using noose wand and tracking items; multiple kebbit locations.)
-- Black chinchompas — levels 73–99. Requires completion of Eagles' Peak for chinchompa hunting; hard Wilderness Diary recommended for fast access.
-- Hunter's Rumours — levels 72/91–99. (High‑level passive method; unlocks at specified levels.)
+Notable equipment/items
+- **Digsite pendant** (fast travel to Fossil Island)  
+- **Hammer**, **Chisel**, **Clockworks**, **Logs**, and **Seeds** (for bird houses)  
+- **Noose wand**, **Ring of pursuit** (for early active hunting)
 
-Other viable methods (useful alternatives / mid–high levels)
-- Aerial Fishing — levels 35–99 (alternative AFK method).
-- Ember‑tailed jerboas — levels 40–59.
-- Orange salamanders — levels 47–59.
-- Maniacal monkeys — levels 60–99.
-- Red salamanders — levels 60–67.
-- Black salamanders — levels 67–73.
-- Moonlight moths — level 75–99.
-- Carnivorous chinchompas — levels 63/80–99. Requirements: Eagles' Peak; ideally Song of the Elves or hard Western Provinces Diary for best access.
-- Herbiboar — levels 80–99.
+Key unlocks/transitions
+- Complete **Bone Voyage** to access **Fossil Island** and bird house trapping.  
+- Hunter level 20 increases concurrent traps (useful when switching to more active trap methods).
 
-Essential quest/diary prerequisites and notes
-- Bone Voyage — required for Fossil Island (bird houses, drift nets).
-- Fairytale II (start) — recommended for fairy ring access.
-- Eagles' Peak completion — required to catch chinchompas (black/carnivorous).
-- Song of the Elves or hard Western Provinces Diary — recommended/preferred for carnivorous chinchompa access.
-- Use Hunter potions to temporarily boost Hunter level and to gain extra concurrent traps when boosted past 20/40/60/80 thresholds.
+### Level 20–40
+Main training methods
+- **Bird house trapping** (best passive XP; continues to be efficient).  
+- Active methods: **Desert devils** (Uzer hunter area) → **Sapphire glacialis** (Mons Gratia) → **Embertailed jerboas** (Locus Oasis) as you progress.
 
-Quick recommendations
-- AFK/recurring best: bird house runs on Fossil Island (most XP early→80; do initial unlock run and use digsite pendants).
-- Best combined Hunter+Fishing: drift net fishing (44 Hunter / 47 Fishing).
-- Fastest active leveling by interval: follow the short progression: Feldip weasels (9–13) → Desert devils (13–25) → Sapphire glacialis (25–37) → Swamp lizards (37–43) → Falconry (43–49) → Razor‑backed kebbits (49–73) → chinchompas / high‑level methods.
+Important locations
+- **Fossil Island** (bird houses)  
+- **Uzer hunter area** (Desert devils)  
+- **Mons Gratia** (Sapphire glacialis)  
+- **Locus Oasis** (Embertailed jerboas)
 
-If you want, I can produce a compact level-by-level plan (1→99) with optimal switching points and required items/teleports.
+Notable equipment/items
+- **Digsite pendant**, **Stamina potions** (for bird house runs and active running)  
+- **Noose wand**, **Butterfly net** (for butterflies), **Box traps** (for jerboas)  
+- Bring **waterskins** for desert heat when hunting at Uzer
+
+Key unlocks/transitions
+- Hunter level 40 increases concurrent traps (useful for multi-trap active methods).  
+- At level 44 you can start **Drift net fishing** (if also training Fishing).
+
+### Level 40–60
+Main training methods
+- **Drift net fishing** (Fossil Island underwater) — best if training **Fishing** alongside Hunter (requires Hunter 44, Fishing 47).  
+- Continue **Bird house trapping** for passive XP (efficient up to ~80).  
+- Active methods: **Falconry** (43–49), **Razor-backed kebbits** (49–73) for high active XP.
+
+Important locations
+- **Fossil Island** (drift nets and bird houses) — access via **Bone Voyage**  
+- **Eagles' Peak** (required for chinchompas later)  
+- Kebbit hunting areas (various kebbit spawns)
+
+Notable equipment/items
+- **Fishbowl helmet**, **Diving apparatus**, **Flippers** (required/optimal for drift net fishing)  
+- **Merfolk trident / Trident of the Seas / Trident of the Swamp / Dragon harpoon** (improves drift-net success)  
+- **Stamina potions**, **Drift nets**, **Annette** (banking drift nets)  
+- **Noose wand**, **Ring of pursuit**, **Box traps** (active trapping)
+
+Key unlocks/transitions
+- Drift nets require **44 Hunter**, **47 Fishing**, and **Bone Voyage**.  
+- Hunter level 60 increases concurrent traps (useful for mid-high active methods).
+
+### Level 60–80
+Main training methods
+- Passive: **Bird house trapping** remains very efficient (viable to 99, fastest XP up to ~80).  
+- Active: **Razor-backed kebbits** (49–73), **Black salamanders / Red salamanders / Orange salamanders** (various ranges), **Maniacal monkeys** (60–99) and **Carnivorous chinchompas** (63/80+) are options depending on goals.  
+- Specialized: **Aerial Fishing** and **Moonlight Moths** (75+) are alternatives for mixed training or niche XP.
+
+Important locations
+- **Fossil Island** (bird houses)  
+- **Eagles' Peak** (chinchompas access; **Eagles' Peak** quest required)  
+- Jungle / island locations for salamanders and maniacal monkeys, and specific chinchompa hunting areas
+
+Notable equipment/items
+- **Noose wand**, **Box traps**, **Butterfly net** (where applicable)  
+- **Hunter potions** (to boost catch levels)  
+- Quest/diary unlocks: **Eagles' Peak**, **Song of the Elves** or **Hard Western Provinces Diary** (recommended for **Carnivorous chinchompas** access)
+
+Key unlocks/transitions
+- Hunter level 80 increases concurrent traps (important before switching to high-level methods like black chinchompas).  
+- Completion of **Eagles' Peak** required for all chinchompa catches; **Wilderness Diary (Hard)** recommended for quick black chinchompa access.
+
+### Level 80–99
+Main training methods
+- High-level active: **Black chinchompas** (73–99) — fastest active Hunter XP but PvP/Wilderness considerations apply for blacks.  
+- Alternatives/supplemental methods: **Hunters' Rumours** (72/91+ content boosts), **Carnivorous chinchompas** (if requirements met), **Herbiboar** (80+), **Moonlight Moths** (75+), and continuing **Bird house trapping** for passive XP to 99.
+
+Important locations
+- **Eagles' Peak** (chinchompa hunting)  
+- **Wilderness** areas for black chinchompas (note PvP risk)  
+- **Fossil Island** (bird houses) and other biome-specific spawns for herbiboar/moonlight moths
+
+Notable equipment/items
+- **Box traps**, **Noose wand**, **Hunter potions**, **Stamina potions**  
+- Quest/diary requirements: **Eagles' Peak**, **Song of the Elves** (or **Hard Western Provinces Diary**) for carnivorous chinchompas; **Hard Wilderness Diary** for optimal black chinchompa access
+
+Key unlocks/transitions
+- Level 99 is upper cap; consider mixing **bird house runs** (passive) with **black/carnivorous chinchompas** or **Herbiboar** depending on whether you prioritise raw Hunter XP, risk tolerance, or other skill gains (e.g., Fishing from drift nets earlier).

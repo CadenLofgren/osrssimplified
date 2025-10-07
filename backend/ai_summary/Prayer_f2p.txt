@@ -1,18 +1,20 @@
-Important training methods
-- Bury bones (baseline method). Simple, no quest or item requirements.
-- Use bones on an altar (gives increased Prayer XP compared to burying). No members-only content required for the Lumbridge church altar.
+### Level 1–20
+Train early Prayer quickly and simply:
+- Main training methods: **Complete The Restless Ghost** (1 → 9 Prayer), then **bury bones** looted from low-level monsters.
+- Important locations: **Lumbridge**, **Lumbridge Swamp**, **chicken pens**, **cow fields**, common **goblin** spots (e.g. near Al Kharid).
+- Notable items: none required; bring **food** if you plan to fight monsters.
+- Key unlocks / transitions: finishing **The Restless Ghost** gets you started; aim toward 31 Prayer (next tier of options).
 
-Relevant locations / bone sources
-- Chickens — Lumbridge chicken coops (ideal for absolute beginners).
-- Cows — Lumbridge cow field (easy, low‑risk source of bones).
-- Goblins — around Lumbridge/various beginner areas.
-- Skeletons — Lumbridge graveyard / other skeleton spawn areas (better bone drops than chickens/cows).
-- Altar for bonus XP: Lumbridge Church altar (bones can be used on the altar for the altar XP bonus).
+### Level 20–40
+Expand collection and lower-risk bone routes; unlock basic prayer gear:
+- Main training methods: **bury bones** (loot or ground piles), **scatter fiendish ashes** (from imps) for small extra XP, or use the **Camdozaal offering** method (fish → prepare → offer) if you meet the fishing/cooking/quest requirements.
+- Important locations: **Bone Yard (Wilderness north of Varrock)** for many free bones, **Chaos Temple (Wilderness)** (lower-level Wilderness, safe for world‑hopping), **Ruins of Camdozaal (altar)** for fish offerings, **Edgeville Monastery** for monk robes.
+- Notable items: **small fishing net**, **preparation table**, **knife** (for Camdozaal); **Monk's robe top/robe** (obtainable at Edgeville Monastery).
+- Key unlocks / transitions: at **31 Prayer** you can access **Monk's robes** and craft/obtain a **holy symbol** (major prayer bonus). Reach **33 Fishing/Cooking** for efficient **tetra** use at Camdozaal.
 
-Levels required
-- Prayer level: 1 to bury bones or use bones on an altar (no higher Prayer level required).
-- Combat level / requirements: depends on the monster you kill to obtain bones (low combat for chickens/cows/goblins; skeletons may require slightly higher combat).
-
-Notes for efficient training
-- Collect bones from the nearest low‑level monsters (chickens/cows/goblins/skeletons) and use them on the Lumbridge church altar when convenient for extra XP.
-- No special items or quests are required in free‑to‑play for these methods.
+### Level 40+
+Focus on highest XP methods and prayer-sustained combat setups:
+- Main training methods: **power-burying and scattering** (bury **big bones** while scattering **vile ashes** for maximum XP; very click‑intensive), continued **Camdozaal offerings** for a less clicky alternative, or collecting/burying big bones from combat spots.
+- Important locations: **Grand Exchange** (buy bones/ashes for power-burying), **Ruins of Camdozaal (altar)**, **Bone Yard** and **Chaos Temple** (free bones), **Demonic Ruins** (useful when sustaining prayer during melee).
+- Notable items: **Holy symbol** (+Prayer bonus), **rune mace / barronite mace / other maces** (weapon prayer bonuses), **Monk's robes** (cheap prayer-friendly armour); **Amulet of power** for a small bonus.
+- Key unlocks / transitions: **Protect from Magic** (37 Prayer), **Protect from Missiles** (40 Prayer), **Protect from Melee** (43 Prayer) — these unlock prayer-based defensive tactics and make prayer-sustained melee viable. Consider upgrading to members methods (or buying a bond) if you plan to switch to more cost‑effective member Prayer training.

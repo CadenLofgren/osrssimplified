@@ -1,71 +1,17 @@
-Summary — important training methods, locations, and levels (F2P Cooking)
+### Level 1–20
+- Main training methods: cook **shrimp**, **raw chicken**, **meat**, **anchovies**; start **trout** once available (level 15 Fishing).  
+- Important locations: **Draynor Village** (shrimp/anchovies, persistent fire), **Lumbridge** (cow meat, castle range), **Barbarian Village** (trout drops from power-fishers).  
+- Notable equipment/items: **tinderbox**, **logs**, basic **cooking range** access, **bank** (for trips).  
+- Key unlocks/transitions: complete **Cook's Assistant** for initial Cooking XP (gets to level 4); transition to **trout/salmon** when you can fish/pick them up for faster XP.
 
-Key training methods (with required Cooking level ± other requirements)
-- Power-cook fish (fast, common F2P method)
-  - Shrimp: cook at 1 Cooking (30 xp). Good starter; best net spot: Draynor.
-  - Trout: cook at 15 Cooking (70 xp). Often caught with 20 Fishing; pick up dropped trout at Barbarian Village/Lumbridge.
-  - Tuna: cook at 30 Cooking (100 xp). Harpooning requires 35 Fishing; main source: Musa Point (Karamja).
-  - Lobster: cook at 40 Cooking (120 xp). Fish at Musa Point (40 Fishing).
-  - Swordfish: cook at 45 Cooking (140 xp). Harpoon at Musa Point (50 Fishing). (Recommended to have higher Cooking to reduce burns.)
-- Jugs of wine (fastest F2P Cooking XP)
-  - Requires 35 Cooking to make unfermented wine → 200 xp per successful jug after fermentation.
-  - Can be done en masse (buy jugs of water + grapes); fermentation can produce bad wine below level 68.
-  - Cooks' Guild has jugs/grapes/water spawns (see Cooks' Guild below).
-- Cooks' Guild mass production
-  - Need 32 Cooking and a chef's hat to enter.
-  - Free resources: jugs/pots/pie dishes/apples; ranges for mass apple pie production (apple pie requires 30 Cooking).
-  - Also used for wine-making (jugs/grapes/water available).
-- Complex food making (higher xp per item, sometimes profitable)
-  - Redberry pie: 10 Cooking.
-  - Meat pie: 20 Cooking.
-  - Stew: 25 Cooking.
-  - Plain pizza: 35 Cooking (pizza cooking gives 143 xp per success; good mid/late F2P training).
-  - Anchovy pizza: 55 Cooking (adding anchovies to plain pizza is always successful).
-- Alternate "no-burn" method
-  - Use the highest-level food you can cook without burning (slower but zero losses). Useful if avoiding failed cooks; generally recommended only after reaching ~50 Cooking by other methods.
+### Level 20–40
+- Main training methods: power-cook **trout/salmon** (pickups from power-fishers), cook **tuna** (if using Karamja/Musa Point drops), make **apple pies** (mass-produce if using Cooks' Guild resources).  
+- Important locations: **Barbarian Village** (trout/salmon drops, permanent fire), **Musa Point / Karamja** (tuna drop spot), **Al Kharid**, **Varrock**, **Grand Exchange** (fast bank/range), **Cooks' Guild** (entry at 32 for pie resources).  
+- Notable equipment/items: **axe** (for cutting logs at Musa Point), **tinderbox**, **jugs/pots/pie dish** (for apple pies), **jug of water**/**flour**/**apples** if making pies.  
+- Key unlocks/transitions: **Cooks' Guild entry at 32** (requires a **chef's hat** to enter) — provides free jugs/pots/apples and ranges for efficient pie-making; at ~30–35 shift from low-tier fish to **tuna/lobster** progression.
 
-Relevant locations — what to use them for and any requirements
-- Grand Exchange
-  - Can light a fire one tile from the bank clerk (fast run/bank loops). Excellent for power-cooking fish and for bulk wine (buy/sell).
-- Draynor Village
-  - Persistent fire near the Friendly Forester; excellent short runs for shrimp/anchovies/power-cooking.
-  - Range in Draynor Manor kitchen for some foods.
-- Lumbridge (bank / castle)
-  - Roof logs near bank for fast fires; castle kitchen range (requires Cook's Assistant quest). Good early-game.
-- Al Kharid bank
-  - Very short distance to range; fast bank/range loops for power-leveling.
-- Varrock east & west banks
-  - Ranges adjacent to banks; convenient for power-cooking.
-- Edgeville
-  - Range in Doris's house (members-only NPC house empty in F2P but range exists); common for lured/lower fishing runs and many player fires.
-- Falador PVP bank (PVP world only)
-  - Closest bank to a range; very fast runs but dangerous (PVP).
-- Barbarian Village fishing spots
-  - Trout/salmon spots with a permanent fire; often populated by power-fishers who drop raw fish to pick up and cook. Good early→mid training.
-- Musa Point (Karamja)
-  - Main free location for tuna, lobster, swordfish (harpooning); no permanent range — bring an axe + tinderbox or use other players' fires. Popular for dropped fish on busy worlds.
-- Corsair Cove Resource Area
-  - Useful alternative to Musa Point if you have Dragon Slayer I completed and ~30 Cooking / 35 Fishing; has a permanent campfire and banking access (after The Corsair Curse).
-- Cooks' Guild (requires 32 Cooking + chef's hat)
-  - Best location for apple pies and wine production; has free spawns of equipment, apples, jugs, and ranges for mass production.
-- Gerrant's Fishy Business (Port Sarim)
-  - Stocks raw sardines cheaply for low-level cooking practice (indoor fires possible).
-
-Quick reference — minimum Cooking levels for common F2P activities
-- 1: Shrimp, raw chicken, anchovies, cooked meat
-- 10: Redberry pie
-- 15: Trout (cook)
-- 20: Meat pie; (20 Fishing commonly required to catch trout)
-- 25: Stew
-- 30: Tuna (cook), apple pie (can be made at 30)
-- 32: enter Cooks' Guild (also need chef's hat)
-- 35: Plain pizza, jugs of wine (start wine-making)
-- 40: Lobster (cook)
-- 45: Swordfish (cook); meat pizza (add cooked meat to plain pizza)
-- 55: Anchovy pizza (always succeeds)
-
-Notes (brief)
-- Check Fishing levels where applicable: trout ~20 Fishing, tuna 35, lobster 40, swordfish 50.
-- Wine is highest XP/hr in F2P but can produce bad wine below 68 Cooking.
-- For fastest bank/range loops: Grand Exchange, Al Kharid, Lumbridge roof, Varrock banks.
-- For free dropped fish to cook, use populated worlds at Barbarian Village or Musa Point.
+### Level 40+
+- Main training methods: cook **lobsters** (40 Fishing/cooking), **swordfish** (cook at 45, requires higher Cooking to reduce burns), make **plain/meat/anchovy pizzas** (plain pizza from 35, **anchovy pizza** always succeeds at 55), and **jugs of wine** (from 35 Cooking — fastest F2P XP).  
+- Important locations: **Cooks' Guild** (free grapes/jugs/water and ranges for wine/pies), **Musa Point** and **Corsair Cove** (tuna/lobster/swordfish fishing), **Grand Exchange**, **Al Kharid**, **Falador PVP bank** (closest bank-to-range on PVP world), **Lumbridge bank/roof** (fast fire near bank).  
+- Notable equipment/items: **grapes**, **jugs of water**/**empty jugs**, **jug of water + grapes** (for **jugs of wine**), **pizza base/tomato/cheese** (for pizzas), **tinderbox/logs**, **bank access** for mass purchases.  
+- Key unlocks/transitions: **Jugs of wine available at 35** (highest F2P XP method; beware bad wine chance below 68); **Anchovy pizza unlocked at 55** (cannot burn when assembling); use **pizza** from 35+ as high-XP alternative to raw fish (more steps but higher XP per item).

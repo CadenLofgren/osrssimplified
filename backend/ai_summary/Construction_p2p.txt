@@ -1,56 +1,23 @@
-Important training methods
-- Building/removing furniture repeatedly in your Player-Owned House (POH) — the core method for all Construction training (use best plank tier available for speed).
-- Levels 1–33 (starter): build low‑level furniture with regular planks (use steel nails) until you can switch to oak. Use Daddy's Home miniquest reward to reach level 8 quickly.
-- Level 15+: switch to oak planks for faster XP (no nails).
-  - 33–52 (or up to 74): Oak larders in the Kitchen — cheap and efficient for early-mid levels.
-  - 74+: Oak dungeon doors (if continuing with oak) for faster oak rates.
-- Level 50+: mounted mythical capes (alternative plank use / methods available from 50).
-- Level 52–99: Mahogany furniture — fastest viable training from 52.
-  - 52–77: Mahogany tables in the Dining room (6 mahogany planks → 840 XP each).
-  - 77+: Gnome benches in the Superior garden — highest XP/hr (~1.1M XP/hr) using mahogany planks (6 planks → 840 XP).
-  - Use Demon butler cycles (optimal build/remove patterns) for fastest mahogany training.
-- Teak options (cost/speed tradeoff):
-  - Teak planks usable from 50; Teak garden benches are an option (~levels 66–74 and beyond) as an alternative to mahogany/oak.
-- Mahogany Homes (minigame) — alternative 1–99 method (different cost/time tradeoff; good if preferring minigame gameplay).
-- Passive/non‑POH XP sources (free/bonus XP that can skip early levels):
-  - Fishing Trawler (angler outfit fixes) — grants Construction XP per fix.
-  - Wintertodt — grants Construction XP equal to 4× current Construction level (good roughly level 4–27).
-  - Vale Totems — grants current level XP per totem.
-  - Barlak (Dorgesh‑Kaan) — turn certain bones into Construction XP (requires Death to the Dorgeshuun).
+### Level 1–33
+- Main training methods: build/remove basic furniture (e.g. **crude wooden chair**, **wooden bookcase**, **wooden larder**, small oak pieces starting at 15).  
+- Important locations: **Player-owned house (POH)** (buy from an **estate agent**), keep POH in **Rimmington** for fast entry; use **Phials** to unnote planks before level 40.  
+- Notable equipment/items: **Saw**, **Hammer**, **Steel nails** (use steel+ to avoid bending), **Planks** → start with regular planks, switch to **Oak planks** at level 15.  
+- Key unlocks/transitions: **Daddy's Home** miniquest gives early Construction XP (levels ~1→8); at level 15 start using **Oak planks** (no nails); aim to set up at least two bedrooms if you plan to use servants later.
 
-Inventory/efficiency methods (important for speed)
-- Phials (Rimmington) — unnote planks quickly while using Rimmington POH (recommended levels 1–40).
-- Servants (Servants' Guild, East Ardougne) — much faster than Phials for fetching/unnote:
-  - Butler available from level 40; Demon butler available from level 50 (recommended 40+ to hire any servant).
-  - Servant's money bag (build in bedroom) at level 58 to auto‑pay servants and skip dialog.
-- Carpenter's outfit: +2.5% XP (minor benefit; more relevant for Mahogany Homes).
+### Level 33–52
+- Main training methods: **Oak larders** in the **Kitchen** (primary fastest oak method up to mid levels).  
+- Important locations: **POH Kitchen**, **Servants' Guild (East Ardougne)** to hire servants once requirements met.  
+- Notable equipment/items: **Oak planks**, continue **Saw/Hammer**, consider **noted planks** + **Phials** until you hire a servant.  
+- Key unlocks/transitions: hire a **Butler** at level 40 (needs ≥2 bedrooms built) for faster plank unnoting/fetching; at level 50 you can upgrade to faster servants (see next range); at level 52 **Mahogany planks/furniture** become viable.
 
-Relevant locations
-- Player‑Owned House (POH) — training location for all build/remove methods; rooms used: Kitchen (oak larder), Dining room (mahogany table), Superior garden (gnome benches), Garden (exit portal).
-- Estate agent — buy a POH (Rimmington default portal).
-- Phials — for unnoting planks (fast if POH in Rimmington).
-- Servants' Guild (East Ardougne) — hire servants (butler/demon butler).
-- Bank (for Demon butler to fetch planks).
-- Superior garden (inside POH) — gnome bench hotspots.
-- Dorgesh‑Kaan — Barlak for bone turning (requires Death to the Dorgeshuun quest).
-- Fishing Trawler and Wintertodt minigames — passive XP sources.
+### Level 52–77
+- Main training methods: **Mahogany furniture** — primarily **Mahogany tables** in the **Dining room** (fast) and later **Gnome benches** (at 77) for best rates.  
+- Important locations: **POH Dining room / Superior garden** (for benches), **Servants' Guild** to obtain/upgrade butlers, bank/Grand Exchange for plank supply.  
+- Notable equipment/items: **Mahogany planks**, **Demon butler** (use from level 50 for fastest fetch cycles), **Servant's money bag** (build at level 58 to auto-pay servant), **Carpenter's outfit** (2.5% XP boost, optional).  
+- Key unlocks/transitions: at level 50 access to **Demon butler**; at level 58 build **servant's money bag** to save time; at level 74 oak users can switch to **Oak dungeon doors** for faster oak XP; at level 77 unlock **Gnome benches** (superior garden) — top mahogany XP method.
 
-Levels required (by activity)
-- Buy POH / basic building: no Construction requirement to buy a house; need a POH to train Construction.
-- Daddy's Home miniquest reward: gives XP to reach level 8.
-- Use regular planks with nails: level 1.
-- Oak planks: start using at level 15 (recommended switch at 15).
-- Oak larders: build at level 33 (optimal 33–52, can continue to 74).
-- Start hiring servants: level 40 (house must have ≥2 bedrooms with beds).
-  - Butler recommended from 40–49.
-  - Demon butler available and recommended from 50+.
-- Mounted mythical cape methods / Teak availability: from level 50.
-- Mahogany furniture: level 52 to use mahogany planks effectively.
-  - Mahogany tables best until level 77.
-  - Gnome benches unlock/use best at level 77 (superior garden method).
-- Servant's money bag: build at level 58.
-- Oak dungeon doors (oak method upgrade): level 74.
-- Teak garden benches: relevant from ~level 66 (and used through 74/99 depending on method).
-- Teleport to House: requires 40 Magic to cast (or use teleport tablets).
-
-Use these level breakpoints to pick the best plank/room method for your budget and desired XP/hr.
+### Level 77–99
+- Main training methods: **Gnome benches** (superior garden) for peak mahogany XP/hr; continue **Mahogany tables/benches** for fastest time-to-99 if paying.  
+- Important locations: **POH Superior garden** (bench hotspots), **POH Dining room**, bank/Grand Exchange for plank restocking.  
+- Notable equipment/items: **Mahogany planks**, **Demon butler**, **Servant's money bag**, optional **Carpenter's outfit** for extra XP.  
+- Key unlocks/transitions: continue mahogany methods for fastest XP; alternatives include **Mahogany Homes** (contract-based method) and specialty options like **Teak garden benches** or **Oak dungeon doors** for cheaper routes if avoiding mahogany costs.

@@ -1,37 +1,20 @@
-Important training methods
-- Use the fastest/highest-DPS melee weapon you can equip — scimitars are best in f2p. Aim for a rune scimitar as soon as you can (see levels).
-- Prioritise Strength when you want higher damage (max hit increases DPS). Train Attack to improve accuracy and to access better weapons.
-- Use the aggressive attack style for training Strength (it gives an effective +3 Strength for max-hit calculations).
-- Use the best neck slot item that increases your max hit:
-  - Amulet of strength when it gives a higher max hit.
-  - Amulet of power otherwise (better accuracy/defence; sometimes matches max hit).
-  - Amulet of accuracy is a weaker fallback if you cannot get the others.
-- Use appropriate armour for the monster type:
-  - Full melee armour vs melee attackers.
-  - Ranged armour vs magic-using monsters.
-  - Rune chainbody (chainbody) is preferable to a platebody against crush-using monsters.
-- Use the barronite mace vs runecrafting golems (golembane effect) — better than rune scimitar for those specific monsters.
-- Temporary boosts: beer/strength potions raise Strength above 99 (a strength potion raises 99 -> 111).
+### Level 1–20
+Train Strength by doing **melee combat on low‑level monsters** (e.g. **chickens**, **cows**, **goblins**) near starter towns like **Lumbridge**.  
+- Main training methods: **Aggressive attack style** for Strength XP (adds +3 effective Strength), kill low‑HP monsters for fast kills and easy sustenance.  
+- Important locations: **Lumbridge** area, starter farms/areas with chickens/cows.  
+- Notable equipment/items: **leather boots**, **fancy/fighting boots** (Stronghold of Security reward), any basic cape, **leather gloves/vambraces**. Use the best scimitar you can equip (bronze → iron → steel).  
+- Key unlocks/transitions: begin saving/upgrading weapons; aim to raise **Attack** toward 40 to access the best free‑to‑play weapon.
 
-Relevant locations and context
-- Stronghold of Security — source of fancy/fighting boots (starter free melee boots).
-- Castle Wars — obtain decorative boots (red/white/gold) for better defence / a +1 Strength on gold boots (ticket costs: red ≈4, white ≈40, gold ≈400).
-- Ruins of Camdozaal — runecrafting golems (use barronite mace here for best damage against golems).
+### Level 20–40
+Focus on faster XP targets and upgrade gear as Attack permits.  
+- Main training methods: **Melee combat on mid‑level monsters** that you can reliably kill without dying; continue using **aggressive** where safe to maximise Strength XP.  
+- Important locations: move to multi‑spawn/denser areas appropriate to your combat level (common F2P spots used at this range).  
+- Notable equipment/items: upgrade to **mithril**/**adamant scimitars** as Attack allows; use **amulet of accuracy** until you can obtain an **amulet of power** or **amulet of strength**; wear improved melee armour (chainbody/platebody as available).  
+- Key unlocks/transitions: reach **40 Attack** to equip the **Rune scimitar** (major DPS upgrade); keep Defence within ~5–10 levels of your offensive stats or bring more/better food.
 
-Levels required (for weapons, items, crafting/enchanting mentioned)
-- Rune scimitar: 40 Attack (recommended best free-to-play melee weapon).
-- Barronite mace: 40 Attack.
-- Amulet crafting/enchanting to make alternatives:
-  - Ruby amulet (to enchant to amulet of strength): Crafting 50 and Magic 49 (Lvl-3 Enchant).
-  - Diamond amulet (to enchant to amulet of power): Crafting 70 and Magic 57 (Lvl-4 Enchant).
-- Gilded d'hide vambraces (best f2p gloves listed): 40 Ranged to equip.
-- Key armour/weapon level requirements (summary):
-  - Rune equipment: typically 40 Defence / 40 Attack where noted (e.g., rune chainbody, rune platebody, rune scimitar require 40 in the relevant stat).
-  - Adamant: ~30 Defence/Attack; Mithril: ~20; Black: ~10; Steel: ~5 (see item for exact requirement).
-
-Other mechanics to note
-- Aggressive style gives a hidden +3 Strength when calculating max hit.
-- Amulet of power gives +6 Melee Strength bonus to max-hit calculation; amulet of strength gives +10.
-- Strength potions/beer temporarily boost Strength above natural level (useful for temporary higher max hit).
-
-If you want, I can produce a concise level-by-level training progression (monsters and locations) using typical f2p methods based on the full guide.
+### Level 40+
+Prioritise getting and using the **Rune scimitar** and optimise for maximum hit.  
+- Main training methods: high‑throughput melee combat using the **Rune scimitar** (best DPS in F2P); prioritise Strength training to raise your max hit.  
+- Important locations: high‑spawn, safe training areas appropriate to your level (use areas that allow sustained melee), and niche locations such as the **Ruins of Camdozaal** for golem content (see below).  
+- Notable equipment/items: **Rune scimitar** (best DPS), **amulet of strength** (best for max hit) or **amulet of power** (better accuracy/defence when Strength bonus doesn't improve max hit), **rune chainbody/platebody**, **rune kiteshield**, and improved boots/capes (decorative boots from **Castle Wars** grant +1 Strength but require many tickets). **Barronite mace** is the second‑best weapon and has a golembane effect useful specifically against runecrafting/body golems.  
+- Key unlocks/transitions: equipping the **Rune scimitar** at **40 Attack** is the main transition; note attack styles and amulet bonuses (aggressive = +3 Strength, **amulet of power** = +6, **amulet of strength** = +10) directly affect maximum hit. At high Strength levels, temporary boosts (e.g. **strength potion**) raise effective Strength above 99 for higher max hits.

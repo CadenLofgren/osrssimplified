@@ -23,6 +23,9 @@ export default function SkillsPage() {
           ).values()
         );
 
+        unique.sort((a, b) => a.name.localeCompare(b.name));
+
+
         setSkills(unique);
       } catch (error) {
         console.error("Error fetching skills:", error);

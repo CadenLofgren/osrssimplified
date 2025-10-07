@@ -1,71 +1,41 @@
-Summary — important Runecraft training methods, locations, and level requirements
+### Level 1–32/34
+- Main training methods: **Questing** (quest XP that skips early Runecraft) and early **talisman tiara** crafting if not questing.  
+- Important locations: **Abyss** (for pouch drops/repairs via Dark Mage), elemental altars for tiara crafting.  
+- Notable equipment/items: **Small pouch** (given from Enter the Abyss), **essence** (pure/rune), **amulet of glory** (fast banking), **ring of the elements** / **ring of dueling** (fast altar access).  
+- Key unlocks/transitions: Complete **Enter the Abyss**, **Temple of the Eye**, **The Eyes of Glouphrie** and similar quests to gain large Runecraft XP and a **medium pouch**; completing these can skip most early levels.
 
-Questing (skip early levels)
-- Method: Complete Runecraft-rewarding quests to skip early training.
-- Key quests: Rune Mysteries (prereq), Enter the Abyss (awards 1,000 RC XP; required for pouch repairs), The Eyes of Glouphrie (6,000 XP), Temple of the Eye (awards medium pouch, unlocks Guardians of the Rift), The Ascent of Arceuus, The Slug Menace.
-- Result: Completing listed quests can raise you to ~level 33 (plus Lunar Diplomacy +5,000 XP → ~36).
-- Requirements: Vary by quest (see each quest); Rune Mysteries required for many.
+### Level 1–50
+- Main training methods: **Making talisman tiaras** (fast XP up to 50; click-intensive).  
+- Important locations: **Elemental altars** (use talismans on corresponding altars), banks reachable via **Amulet of glory** or **Ring of dueling**.  
+- Notable equipment/items: **Ring of the elements** (fast teleport to elemental altars), **amulet of glory**, wearable **tiaras** (or use talismans on altar).  
+- Key unlocks/transitions: At level 50 you can switch to **lava runes** for faster XP; consider quest-skips if preferring lower effort.
 
-Talisman tiaras (fast early training)
-- Levels: 1–50
-- Method: Use a talisman on the corresponding altar when carrying a tiara to convert tiaras for Runecraft XP.
-- Locations: Elemental altars (air, water, earth, fire).
-- Requirements/notes: No Runecraft level required to start. Ring of the elements (fast altar teleports) and amulet of glory (faster banking) recommended for best rates.
+### Level 23–99
+- Main training methods: **Crafting lava runes** (fastest overall method) — solo lavas or using runners.  
+- Important locations: **Fire Altar** (lava crafting), sources of **earth runes** (needed for combination lava).  
+- Notable equipment/items: **Binding necklace** (guarantees combination runes), **rune pouch**, **colossal/essence pouches**, **mist battlestaff / tome of fire** (magic aid), **stamina potions / ring of endurance** for long runs.  
+- Key unlocks/transitions: Completion of **Lunar Diplomacy** and **82 Magic** to use **Magic Imbue** (removes need for talismans and increases speed); switch to efficient pouch/rune-pouch setups as you gain pouches.
 
-Lava runes (best mid→late training)
-- Levels: 23–99 (common fastest method from ~50+)
-- Method: Bring pure essence + equal number of earth runes to the Fire Altar to craft lava runes.
-- Locations: Fire Altar (use ring of the elements / Fire tiara for teleports).
-- Requirements/notes:
-  - Binding necklace ensures combination runes craft 100% (useful).
-  - For fastest rates use Magic Imbue (requires Lunar Diplomacy completion and 82 Magic) to remove talisman requirement for combination runes.
-  - Lunar spellbook (Lunar Diplomacy) recommended for Ourania Teleport, NPC Contact, and Magic Imbue.
+### Level 27–99
+- Main training methods: **Guardians of the Rift** minigame (consistent rune output).  
+- Important locations: **Guardians of the Rift** arena / minigame interfaces.  
+- Notable equipment/items: **Raiments of the Eye** set (full outfit grants +60% runes), rewards from **Temple of the Eye**.  
+- Key unlocks/transitions: Unlock the minigame via **Temple of the Eye**; obtain the **Raiments of the Eye** outfit for profitable training.
 
-Ourania (ZMI) Altar
-- Levels: 1–99 (viable at low levels; often used at mid→high levels)
-- Method/location: Ourania Altar (ZMI) — high XP per essence; fast when using Ourania Teleport.
-- Requirements/notes:
-  - Ourania Teleport requires Lunar Diplomacy and 71 Magic.
-  - Works with daeyalt essence for multiplicative XP boost.
+### Levels 1–99 (Ourania Altar / ZMI)
+- Main training methods: **Ourania (ZMI) Altar** runs — high XP per essence with variable rune output.  
+- Important locations: **Ourania Altar** (use **Ourania Teleport** for fastest access if on Lunar spellbook).  
+- Notable equipment/items: **Essence pouches**, **rune pouch**, **Raiments of the Eye** stacks multiplicatively with some bonuses; **stamina potions / ring of endurance** helpful for long sessions.  
+- Key unlocks/transitions: **Lunar Diplomacy** to access Lunar spells (**Ourania Teleport**, **NPC Contact**) improves speed and pouch management.
 
-Guardians of the Rift
-- Levels: 27–99
-- Method: Minigame-based training that can be efficient and provides Raiments of the Eye outfit (60% extra runes when worn).
-- Requirements/notes: Temple of the Eye completion unlocks the minigame.
+### Levels 77–99
+- Main training methods: **Crafting blood and soul runes in Arceuus** (high-level, profitable/efficient endgame method).  
+- Important locations: **Arceuus altars / Kourend** (blood/soul rune altars).  
+- Notable equipment/items: **Dark essence fragments** (for blood/soul runes), **Arceuus spellbook / favour** for altar access and related services.  
+- Key unlocks/transitions: Access to **Arceuus** content and sufficient favour/requirements to craft blood/soul runes (recommended for high-level training).
 
-Daeyalt essence
-- Requirements: Must complete Sins of the Father; Mining level 60 to mine daeyalt shards.
-- Method/notes: Daeyalt essence gives +50% Runecraft XP when crafted (stacks multiplicatively with Ourania). Can be stored in essence pouches. Not usable in place of dark essence fragments for blood/soul runes.
-
-Essence pouches (carry more essence per run)
-- Pouch types, Runecraft level required, capacity (per pouch) and cumulative capacity:
-  - Small pouch — level 1 — capacity 3 (no decay)
-  - Medium pouch — level 25 — capacity 6 (cumulative 9) — decays
-  - Large pouch — level 50 — capacity 9 (cumulative 18) — decays
-  - Giant pouch — level 75 — capacity 12 (cumulative 30) — decays
-  - Colossal pouch — level 85 — capacity 40 (cumulative 40) — decays
-- Notes: Pouches (except small) degrade with use; repair via Dark Mage in the Abyss or NPC Contact (Enter the Abyss required to repair via Abyss NPC). Colossal pouch is created by stitching smaller pouches with an abyssal needle (requires Crafting 56 and unboosted Runecraft 25 per content).
-
-Rune pouch
-- Use: Stores up to three rune types (16,000 each) to save inventory when casting spells (NPC Contact, Magic Imbue etc.).
-- Acquisition: Buy rune pouch note from Grand Exchange and use on a banker.
-
-Key spell and teleport requirements to note
-- Lunar Diplomacy required for Lunar spellbook (Ourania Teleport, NPC Contact, Magic Imbue).
-- Magic Imbue: requires 82 Magic + Lunar Diplomacy (removes talisman for combination runes).
-- NPC Contact: requires 67 Magic (useful to repair pouches via NPC Contact).
-- Ourania Teleport: requires 71 Magic.
-- Enter the Abyss: required to repair pouches via Abyss methods and to obtain small pouch initially.
-
-Relevant locations/teleports
-- Abyss / Abyssal Area (pouch drops and repairs) — access via Mage of Zamorak in Wilderness or fairy ring ALR for Abyssal Area.
-- Fire Altar (lava runes).
-- Ourania Altar (ZMI) — accessible faster with Ourania Teleport.
-- Elemental altars (air/water/earth/fire) for tiaras and combination runecrafting.
-- Daeyalt essence mine (for mining shards).
-
-Other methods (mentioned / higher-level)
-- Crafting blood/soul runes in Arceuus (77–99) — requires Arceuus content (details not expanded in provided excerpt).
-- Combination/double-rune methods, Arceuus Library, imbuing desiccated pages, double cosmic/astral/nature/law/aether/wrath runes — listed in TOC; specific level ranges in TOC and further details not included in excerpt.
-
-If you want, I can produce a compact progression plan (which methods to use at which Runecraft levels with the quickest XP) or a one-page quick-reference (levels, best method, required quests/spells/teleports).
+### Levels 59–99 (Combination & Double Runes and other high-level methods)
+- Main training methods: **Combination runes / double-rune methods** (double cosmic, double astral, double nature, double law, aether, wrath depending on level).  
+- Important locations: Various runecrafting altars (cosmic, astral, nature, law, aether, wrath altars) and **Ourania/Arceuus** for alternatives.  
+- Notable equipment/items: **Magic Imbue** (Lunar spell), **rune pouch**, full set of **essence pouches**, **binding necklace** where applicable.  
+- Key unlocks/transitions: Cast **Magic Imbue** (requires **Lunar Diplomacy** and level 82 Magic) to speed combination rune crafting; move between combination/double-rune methods as required Runecraft/Magic levels are reached and altars become available.

@@ -1,3 +1,23 @@
-The provided content is just a redirect to the "Free-to-play Ranged training" page and contains no training information to extract.
+### Level 1–20
+Train on **seagulls**, **cows**, **goblins**, **chickens**, or **monks** for fast early XP (very low defence targets).
 
-Would you like me to fetch/summarize the actual Free-to-play Ranged training page? If so, I will extract: important training methods, relevant locations, and level requirements.
+- Main training methods: kill low-defence monsters (safe, fast kills); **safespot** cows across fences.
+- Important locations: **Port Sarim** / **Corsair Cove** (seagulls), area east/north of **Lumbridge Castle** (cows, goblins, chickens).
+- Notable equipment/items: **Shortbow** → upgrade to **Oak shortbow** at level 5; arrows: **bronze arrows** → **iron arrows** (use cheapest arrow that gives the same max hit).
+- Key unlocks/transitions: **Oak shortbow** at Ranged 5; consider using **Accurate** only at very low levels if +3 Ranged raises max hit (briefly useful); otherwise use **Rapid** once attack speed matters.
+
+### Level 20–40
+Shift to higher-HP/XP monsters and better bows/arrows.
+
+- Main training methods: fight mid‑HP monsters for efficient XP (e.g., **Hill giants**, **moss/giant** variants as you approach higher levels).
+- Important locations: **Edgeville Dungeon** (Hill giants), continued use of **Lumbridge**/other low-level monster spots if crowded.
+- Notable equipment/items: **Willow shortbow** unlocked at Ranged 20; **Maple shortbow** at Ranged 30; arrows: **steel arrows** (Oak+), **mithril arrows** (Willow+). Keep using the cheapest arrow that maintains your max hit.
+- Key unlocks/transitions: **Willow shortbow** at Ranged 20; **Maple shortbow** at Ranged 30; switch to **mithril**/then **adamant** arrows when they increase your max hit. Use **Rapid** for better DPS once +1 max-hit bumps are no longer efficient.
+
+### Level 40+
+Train on higher-HP, higher-defence monsters for sustained XP; upgrade armour and arrows.
+
+- Main training methods: kill higher-level slayer-type monsters and mid/high-level giants/spiders/demons (e.g., **Moss giants**, **Flesh Crawlers**, **Giant spiders**, **Ogresses**, **Lesser demons**, **Ankou**).
+- Important locations: **Edgeville Dungeon** and other mid/high-level monster locations (use specific monster spawn areas that match your target).
+- Notable equipment/items: **Maple shortbow** (best standard bow available in F2P) with **adamant arrows** when they raise max hit; best armour options include **Gilded d'hide** / **Green d'hide** pieces (bodies, chaps, vambraces) or **studded/leather** sets as budget alternatives; **Amulet of power/accuracy** and **leather boots/vambraces**.
+- Key unlocks/transitions: aim for Ranged 40 for best d'hide pieces (BIS armour in free-to-play); prioritize upgrading arrow tier only when it increases your max hit (otherwise use cheaper arrows); use **Rapid** attack style for sustained DPS — avoid **Longrange** for training (it splits XP and wastes arrows).

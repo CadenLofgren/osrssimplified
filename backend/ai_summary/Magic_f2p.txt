@@ -1,44 +1,20 @@
-The content you pasted is just a redirect to the Free-to-play Magic training page, so the actual guide content wasn’t included. Do you want me to fetch/summarise that target page? I can also summarise common f2p Magic training methods from the OSRS wiki knowledge — below is a concise, focused summary (methods, locations, and levels required).
+### Level 1–17
+Train on **low-level monsters** with basic strike spells (Wind/Water/Earth/Fire Strike).
+- Main training methods: **Wind Strike** (early), then **Water Strike** (Lv5), **Earth Strike** (Lv9), **Fire Strike** (Lv13).  
+- Important locations: **Lumbridge cows** (profit from cowhides), **Lumbridge goblins/chickens/rats/spiders/ducks**.  
+- Notable equipment/items: **Staff of air** (unlimited air runes), **elemental staves**, **Wizard hat**, **Blue wizard robe**, **Amulet of magic**, **staff** for autocast.  
+- Key unlocks/transitions: complete **Imp Catcher** and **Witch's Potion** for free Magic XP (enough to reach ~Lv10).
 
-Key spellbook spell level requirements (standard spellbook)
-- Wind Strike: 1
-- Water Strike: 5
-- Earth Strike: 9
-- Fire Strike: 13
-- Wind Bolt: 17
-- Water Bolt: 23
-- Earth Bolt: 29
-- Fire Bolt: 35
-- Wind Blast: 41
-- Water Blast: 47
-- Earth Blast: 53
-- Fire Blast: 59
+### Level 17–33
+Switch to higher-damage spells (bolt spells) and faster XP targets.
+- Main training methods: **Wind Bolt** (Lv17) and other **bolt spells**; attack mid-level monsters with autocast staves.  
+- Important locations: **Edgeville Dungeon — Hill Giants** (safespotting, big bones drops), **Wizards' Tower — Lesser Demon** (drops runes; **Telekinetic Grab** recommended to collect), **Al Kharid** (Al Kharid warriors), **Edgeville Dungeon — Hobgoblins**, **Varrock Sewers — Skeletons** (safespot).  
+- Notable equipment/items: **Staff of fire / elemental staves** (use element-appropriate staff to save runes / maximize XP), **Magic staff**, **Black/Blue wizard robes**, **Skull sceptre (i)** (imbued version can autocast Crumble Undead).  
+- Key unlocks/transitions: **Wind Bolt** (Lv17) increases damage/output; prepare for **Telekinetic Grab** at Lv33 as the next major transition.
 
-Important f2p training methods, where to do them, and required levels
-1) Low‑level offensive spells on weak monsters (fast, inexpensive)
-- What: Cast Wind/Water/Earth/Fire Strike and Bolts on low‑HP monsters for steady XP.
-- Where: Lumbridge (chickens, cows, goblins), Varrock, Al‑Kharid, and closer low‑level spawn areas.
-- Levels: usable from level 1 (Wind Strike); move up to stronger spells as you unlock them (see spell level list).
-
-2) Fire Bolt / Fire Blast on mid‑level monsters (best damage / XP within f2p spellbook)
-- What: Use Fire Bolt (35) or Fire Blast (59) for higher damage and faster XP.
-- Where: Aggressive mid‑level monsters that are accessible in f2p: Al‑Kharid warriors, Edgeville Dungeon monsters, and Hill giants (Edgeville Dungeon; good XP and drops).
-- Levels: Fire Bolt (35) for efficient mid‑game training; Fire Blast (59) for stronger targets if available.
-
-3) Splashing (AFK method)
-- What: Intentionally miss spells to “splash” for low but completely AFK XP (requires setups that keep spells missing).
-- Where: Any safe, respawning low‑level NPCs (Lumbridge cow/chicken/goblin spawns are common).
-- Levels: Can be done from level 1 using Wind Strike; effective for slow AFK XP rather than speed leveling.
-
-4) Multi‑target grinding (limited in f2p)
-- What: Use the highest blast spells available to hit bigger monsters quickly; f2p cannot use multi‑target bursts/barrages (member‑only), so options are limited to single‑target blast/bolt spells.
-- Where: Dungeons and areas with many spawnable mid‑level monsters (Edgeville Dungeon, Al‑Kharid).
-- Levels: Use Blast spells starting at 41 (Wind Blast) / 47 (Water Blast) etc., up to Fire Blast (59).
-
-Notes / constraints for f2p Magic
-- Alchemy (high alch) and many teleport spells are members‑only; alch training is not available in f2p.
-- Members‑only multitarget spells (e.g., bursting/barraging) and many efficient money/XP methods do not apply.
-- Gear: Use staves of elements for infinite runes of that element; mana/rune cost and equipment affect speed and profit.
-- Best practice: train with the highest damaging spell you can reliably hit on safe, aggressive spawns (or use splashing if you need AFK).
-
-If you want, I can fetch and produce a direct, itemised extract from the actual Free‑to‑play Magic training wiki page (full list of optimal monsters, exact XP rates, and specific recommended spots). Which would you prefer?
+### Level 33+
+Use Telekinetic Grab and telegrab-based methods for profit and passive training.
+- Main training methods: **Telekinetic Grab** for profitable telegrabs (allows training while looting valuable drops), continued use of bolt and combat spells with autocast.  
+- Important locations: **Crafting guild cow field** (safespot hobgoblins for limpwurt roots / nature runes via telegrab), **Chaos Temple (Asgarnia)** — **Wine of Zamorak** telegrabs (use wizard's mind bombs to counter stat drains), **Wilderness (Nature rune spawns)** (telegrab nature runes; high risk).  
+- Notable equipment/items: **Telekinetic Grab** access requires Lv33 Magic; **Wizard's mind bomb** for stat restoration, **Blue wizard hat/robe** and Zamorak monk bottom when farming monks/wine, **Staffs of element** (air/fire/etc.) for autocast and rune savings.  
+- Key unlocks/transitions: **Telekinetic Grab (Lv33)** opens many profitable and AFK-friendly training methods (telegrabbing wines, roots, runes); continue upgrading to higher-tier spells and better rune supply methods (buying, crafting, or monster drops).

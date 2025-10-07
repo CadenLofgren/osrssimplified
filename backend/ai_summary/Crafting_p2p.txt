@@ -1,35 +1,35 @@
-- Levels 1–20 — Leather items
-  - Craft the highest-level leather item available until 20 (gloves → boots → cowl → vambraces → body).
-  - Requirements: needle and thread.
+### Level 1–20
+- Main training methods: **Craft leather items** (make the highest-level leather item available).
+- Important locations: **Lumbridge**/any bank for buying leather and banking.
+- Notable equipment/items: **Needle**, **Thread**, **Leather**.
+- Key notes/transitions: Thread is required (~50 thread to reach 20); craft progressively higher leather (gloves → boots → cowl → vambraces → body) and then transition to **gem cutting** or other money-making/XP methods at 20+.
 
-- Levels 20–62/77/99 — Cutting gems (fast XP early)
-  - Recommended progression: cut sapphires (20), emeralds (27), rubies (34), diamonds (43). Continue diamonds to ~62, then switch methods (see battlestaves/d'hide).
-  - Dragonstones unlock at 55 (useful up to 62 or 77/99 but very expensive). Onyx/onyxes not recommended (cost/supply).
-  - Assume high click-rate activity (fast XP/hour).
+### Level 20–62/77/99
+- Main training methods: **Cut (uncut) gems** (sapphires → emeralds → rubies → diamonds → dragonstones).
+- Important locations: Any bank + nearby crafting spot for gem cutting; use the Grand Exchange to buy uncut gems.
+- Notable equipment/items: **Uncut gems** (sapphire, emerald, ruby, diamond, dragonstone).
+- Key unlocks/transitions: Gem cutting is the fastest method up to ~77. Common progression: cut **diamonds** to ~62 then switch to **battlestaves**; alternatively cut **rubies** to ~58 then do **earth battlestaves**. **Dragonstones** give high XP but are extremely costly; **onyx/zenyte** are generally impractical.
 
-- Levels 54–77/99 — Crafting battlestaves
-  - Unlocks: water battlestaff (54), earth (58), fire (62), air (66).
-  - Fast and often cheaper than other mid-level methods but requires large upfront capital.
-  - Varrock Diary benefit: after completing Varrock diary tiers you can buy noted battlestaves from Zaff at reduced price.
-  - High Level Alchemy can be used on battlestaves to cut costs (reduces throughput if you include alching time).
+### Level 54–77/99
+- Main training methods: **Craft battlestaves** (water/earth/fire/air battlestaves).
+- Important locations: Buy battlestaves from the **Grand Exchange**; note reduced-price daily noted battlestaves from **Zaff** (requires Varrock diary).
+- Notable equipment/items: **Battlestaffs**, option to **High Level Alchemy** to recoup cost and gain Magic XP (requires fire staff or equivalent).
+- Key notes/transitions: Battlestaves give competitive XP often comparable to d'hide bodies; choose battlestaves or d'hides based on current GE prices and available capital. Varrock Diary discounts can significantly reduce supply cost.
 
-- Levels 63/77–99 — Dragonhide bodies (fast from 77+)
-  - Green d'hide body at 63; Blue at 71; Red at 77; Black at 84.
-  - Use the Costume Needle (if available) to craft 9 bodies per inventory; otherwise thread (8 per inventory).
-  - Tick manipulation (advanced) can increase rates — commonly done by luring a gnome at the Gnome Stronghold south bank (requires a second account for the lure technique).
-  - High Level Alchemy can be applied later to reduce costs (slows effective hourly rate if included).
+### Level 63/77–99
+- Main training methods: **Craft d'hide bodies** (green at 63, blue at 71, red at 77, black at 84).
+- Important locations: **Gnome Stronghold south bank** (tick-manip method described); any bank with good deposit/banking setup.
+- Notable equipment/items: **Needle** + **Thread**, **Costume needle** (craft 9 d'hide bodies per inventory instead of 8), **Deposit lock** bank option, **High Level Alchemy** for cost recovery.
+- Key unlocks/transitions: Start **green d'hide** at 63 or **blue** at 71; d'hide bodies become the fastest viable method from ~77 onward. Use **costume needle** and tick manipulation (see Gnome Stronghold south bank technique) to maximize hourly rates; alching d'hide bodies can lower net cost.
 
-- Levels 1–83/99 — Molten glass
-  - Blow molten glass with a glassblowing pipe. Low attention and low capital but slow XP.
-  - Viable items include unpowered orb (46) and other glass items; check prices for profitable/sensible choices.
+### Level 1–83/99 (Other method)
+- Main training methods: **Blow molten glass** (make vials, orbs, lantern lenses, etc.).
+- Important locations: Any **furnace**; minimal travel makes it low-attention AFK-friendly.
+- Notable equipment/items: **Glassblowing pipe**, **Molten glass**, specific target items like **Unpowered orb**.
+- Key notes/transitions: Very low attention and capital requirement but slow XP; useful for semi-AFK training or when capital is limited.
 
-- Levels 5–99 — Crafting jewellery
-  - Requires gold bars and appropriate moulds at a furnace.
-  - Best locations: Prifddinas (shortest bank→furnace distance), Edgeville (good alternative), Shilo Village furnace (closest to bank but charges 20 gp per use).
-  - XP/h varies by item and whether stringing is required; some high-level gem jewellery can be profitable.
-
-Notes / important items
-  - Needle & thread for leather and dragonhide methods (costume needle recommended for d'hide bodies).
-  - Glassblowing pipe for molten glass.
-  - Varrock Diary + Zaff for discounted noted battlestaves.
-  - Gnome Stronghold south bank is the key location for the tick-manipulation trick used on d'hide crafting.
+### Level 5–99 (Other method)
+- Main training methods: **Craft jewellery** with **gold bars** and gem moulds (rings, necklaces, amulets, bracelets).
+- Important locations: Best furnace/bank setups are **Prifddinas** (ideal), **Edgeville**, or **Shilo Village furnace** (closest to a bank but charges a small fee).
+- Notable equipment/items: **Gold bar**, appropriate **moulds**, gems (if making gem jewellery), weight-reducing clothing for run efficiency.
+- Key notes/transitions: Jewellery is steady XP and can be profitable depending on item and market; use best bank-to-furnace route for fastest crafting; stringing or alching options affect XP/hour and profit.

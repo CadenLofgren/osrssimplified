@@ -1,66 +1,39 @@
-Summary — Free-to-play Fishing (important methods, locations, levels)
+### Level 1–20
+Train on **raw shrimps** / **raw anchovies** with a **small fishing net** (net fishing) or use **sardines/herring** with a **fishing rod + bait** (bait fishing).
 
-Levels 1–20
-- Raw shrimps / raw anchovies (Small fishing net)
-  - Req: Fishing 1; anchovies require Fishing 15 to start appearing.
-  - Locations: Al Kharid (close to bank), Draynor Village (banking spot south of bank), SW of Port Sarim (near Gerrant's Fishy Business for selling).
-  - Notes: Fast early XP. Drop for best XP; bank if profit desired.
+- Main training methods: **Net fishing** (shrimp/anchovy) or **Bait fishing** (sardine/herring).  
+- Important locations: **Al Kharid** (near bank), **Draynor Village** (bank spot south of bank), **Port Sarim** (south‑west spot near Gerrant's for easy selling).  
+- Notable equipment/items: **Small fishing net**, **Fishing rod**, **Bait**.  
+- Key unlocks/transitions: **Level 5** allows **sardines**, **level 10** unlocks **herring**, **level 15** enables **anchovies** (anchovies give higher XP). Move to **fly fishing** at level 20.
 
-Levels 5–20 (alternative)
-- Raw sardines / raw herring (Fishing rod + bait)
-  - Req: Fishing 5 for sardine, Fishing 10 for herring.
-  - Locations: Bait/rod fishing spots (same low-level coastal spots; small fishing spot recommended).
-  - Notes: Faster than nets once herring is unlocked.
+### Level 20–40
+Use **fly fishing** for **trout** (and **salmon** once unlocked) with a **fly fishing rod + feathers**; either **drop** fish for max XP or **cook** them on‑spot for Cooking XP and food.
 
-Levels 20–40 / 20–99
-- Raw trout / raw salmon (Fly fishing with fly rod + feathers)
-  - Req: Fishing 20 for trout; Fishing 30 for salmon.
-  - Locations: Lumbridge, Barbarian Village.
-  - Notes: Best free-to-play method to 99 when dropfishing. Feathers consumed per catch (~600 from 20–40; very large amount to 99). Options: drop raw for max XP or cook on nearby fire (Barbarian permanent fire or make a fire) to bank or gain Cooking XP. Various banking/canoe methods (Ferox Enclave canoe option requires 57 Woodcutting) exist to reduce running.
+- Main training methods: **Fly fishing** (drop for XP or cook for Cooking).  
+- Important locations: **Lumbridge** and **Barbarian Village** fly fishing spots; **Barbarian Village** permanent fire for on‑spot cooking.  
+- Notable equipment/items: **Fly fishing rod**, **Feathers**, **Tinderbox**, **Axe** (to save inventory space when making a fire), **Logs** (if making a fire).  
+- Key unlocks/transitions: **Level 30** unlocks **salmon**, which increases XP rates. Expect moderate feather consumption when fly fishing; cooking increases total XP but reduces raw Fishing XP/hr.
 
-Levels 15–39 (profit-focused)
-- Raw shrimps / raw anchovies (Small net) — profit method
-  - Req: Fishing 15+ to get anchovies.
-  - Best location: Draynor Village.
-  - Notes: Drop cheaper fish, bank the valuable ones. Expect ~150–280 fish/hour.
+### Level 40–49
+Switch to **lobsters** using a **lobster pot** for higher XP and profit.
 
-Levels 40–49
-- Raw lobster (Lobster pot)
-  - Req: Fishing 40.
-  - Location: Musa Point (Karamja).
-  - Notes: ~12,600 Fishing XP/hr and ~20k gp/hr. Banking requires boat to Port Sarim (30 coins one-way) or Corsair Cove Resource Area if you completed The Corsair Curse and Dragon Slayer I.
+- Main training methods: **Lobster pot** fishing.  
+- Important locations: **Musa Point** lobster/harpoon area; bank via boat to **Port Sarim** (or use Corsair Cove resource area if you have quest access).  
+- Notable equipment/items: **Lobster pot**.  
+- Key unlocks/transitions: **Level 40** unlocks **lobsters**; at level 50 consider moving to **harpooning** (tuna/swordfish).
 
-Levels 50–99
-- Raw tuna / raw swordfish (Harpoon)
-  - Req: Fishing 35 for tuna, 50 for swordfish.
-  - Location: Harpoon spot at Musa Point (Karamja).
-  - Notes: High gp & XP. Options: drop lower-value fish, sell at Karamja General Store for convenience, or cook on-site for more XP (bring axe/tinderbox/logs).
+### Level 50–99
+Train on **tuna** and **swordfish** at the **harpoon** spot for the best free‑to‑play Fishing XP after 50.
 
-Other method (useful for Prayer/Cooking)
-- Ruins of Camdozaal (small net + prepare + offer)
-  - Req: Quest: Below Ice Mountain (access); Fishing/Cooking 7 to catch/prepare guppy; 33 Fishing & 33 Cooking to use tetra.
-  - Location: Ruins of Camdozaal.
-  - Notes: Slower Fishing XP than trout/salmon but trains Cooking and Prayer (prepare fish at table then offer at altar). Tetra stop ruining at Cooking 61 (or ~54 if you buy the Preparation buff).
+- Main training methods: **Harpooning** (tuna/swordfish); optionally **cook on spot** for extra Cooking XP/food.  
+- Important locations: **Musa Point** harpoon spot (Karamja). Alternatives for less banking: sell/cook at **Karamja General Store**.  
+- Notable equipment/items: **Harpoon**, **Axe** (for chopping logs when cooking), **Tinderbox**, **Logs**.  
+- Key unlocks/transitions: **Level 50** unlocks **tuna/swordfish harpooning**; cooking caught fish on a fire increases overall experience but reduces Fishing XP/hr.
 
-Equipment per method (brief)
-- Net fishing: Small fishing net.
-- Bait fishing: Fishing rod + bait.
-- Fly fishing: Fly fishing rod + feathers (consumable).
-- Lobster: Lobster pot.
-- Harpoon: Harpoon.
+### Levels 7/20/33–99 (Ruins of Camdozaal — alternative)
+A multi‑skill, Prayer‑focused method available after the relevant quest.
 
-Quick level reference (fish unlocks)
-- Shrimp 1
-- Sardine 5
-- Herring 10
-- Anchovy 15
-- Trout 20
-- Salmon 30
-- Guppy 7 (Camdozaal)
-- Cavefish 20 (Camdozaal)
-- Tetra 33 (Camdozaal)
-- Lobster 40
-- Tuna 35
-- Swordfish 50
-
-If you want, I can produce a concise route/plan (best spots to use by level for fastest 1→99 or best-profit progression).
+- Main training methods: **Small net fishing** in **Ruins of Camdozaal**, **prepare** fish at the **preparation table**, then **offer** them on the **altar** for Prayer XP.  
+- Important locations: **Ruins of Camdozaal** (fishing spot, preparation table, altar).  
+- Notable equipment/items: **Small fishing net**, **Knife** (a knife is present on site).  
+- Key unlocks/transitions: **Fishing/Cooking 7** to make **guppy**; **33 Fishing/Cooking** to fish/prepare **tetra** (best Prayer per fish). This method trains Fishing, Cooking and Prayer simultaneously (slower Fishing XP than trout/salmon but useful if training Prayer).

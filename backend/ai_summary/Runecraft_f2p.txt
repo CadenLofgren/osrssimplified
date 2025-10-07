@@ -1,59 +1,38 @@
-Summary — free-to-play Runecraft training (important methods, locations, levels)
+### Level 1–9
+Train on **Air runes** using **pure essence** (or rune essence) at the **Air Altar** south of **Falador**.
 
-General
-- Use pure essence (cheaper) or rune essence; XP and runes per essence are identical.
-- Wear corresponding tiaras to save an inventory slot and allow left-click entry to altars.
-- Energy potions restore run energy and significantly increase XP/hr when running.
+- Main training methods: **Craft air runes** (5 XP per essence).  
+- Important locations: **Air Altar** (south of Falador) and the nearby **Falador bank**.  
+- Notable equipment/items: **Pure essence** (recommended over rune essence), **Air tiara** or **air talisman** (optional).  
+- Key unlocks/transitions: At **level 9**, switch from air runes to **earth runes** for better XP rates.
 
-Air runes
-- Levels: start at 1; recommended until level 9.
-- Location: Air Altar (just south of Falador). Bank nearby.
-- XP: 5 XP per essence (140 XP per 28-essence inventory).
-- Notes: Falador Teleport speeds runs for players who can use it (mentioned as available at 37 Magic on the page).
+### Level 9–14
+Train on **Earth runes** at the **Earth Altar** northeast of **Varrock**.
 
-Earth runes
-- Levels: unlock at Runecraft 9; recommended 9–14 (or onward depending on route).
-- Location: Earth Altar (NE of Varrock, near the sawmill). Use Varrock Teleport to speed bank runs.
-- XP: 6.5 XP per essence (182 XP per 28-essence inventory).
+- Main training methods: **Craft earth runes** (6.5 XP per essence).  
+- Important locations: **Earth Altar** (near the Sawmill) and **Varrock bank**; use **Varrock Teleport** for faster runs.  
+- Notable equipment/items: **Pure essence**, **Earth tiara** (or **earth talisman**) to save inventory space.  
+- Key unlocks/transitions: At **level 14**, you can switch to **fire runes**; continue earth until you prefer fire or want tiara methods.
 
-Fire runes
-- Levels: unlock at Runecraft 14; recommended 14–20.
-- Location: Fire Altar (west of Emir's Arena, north of Al Kharid). Closest bank: Al Kharid bank.
-- XP: 7 XP per essence (196 XP per 28-essence inventory).
-- Notes: Fire runes give less XP/hr than earth runes due to farther bank distance.
+### Level 14–20
+Train on **Fire runes** at the **Fire Altar** west of **Emir's Arena**, north of **Al Kharid**.
 
-Body runes
-- Levels: unlock at Runecraft 20; main method from 20 → 99.
-- Location: Body Altar (Barbarian Village / Edgeville area). Banking options: Falador or Lumbridge teleports (Lumbridge is the closest bank on PvP worlds).
-- XP: 7.5 XP per essence (210 XP per 28-essence inventory).
-- Runes per essence: 1 rune per essence at 20–45; 2 runes per essence at 46–91; 3 runes per essence at 92+.
+- Main training methods: **Craft fire runes** (7 XP per essence).  
+- Important locations: **Fire Altar** and **Al Kharid bank** (closest bank).  
+- Notable equipment/items: **Pure essence**, **Fire tiara**/**fire talisman** (if using tiara method later).  
+- Key unlocks/transitions: At **level 20**, switch to **body runes** (highest free-to-play runecrafting XP/essence).
 
-Efficiency improvements for body runes
-- Teleport method:
-  - Use imbued Skull Sceptre (i) teleport to Barbarian Village, run to altar, then teleport to Falador (or Lumbridge on PvP) to bank.
-  - Requires an imbued sceptre (and law/water or earth runes and staff of air depending on setup).
-  - Approx rates: ~20,000 XP/hr (non-PvP) with energy potions; ~25,000 XP/hr on PvP worlds.
-- Runners (essence runners / alternate accounts):
-  - Have other players/accounts run essence to the altar so you only craft.
-  - Rates: ~17k XP/hr with 2 runners (no potions); ~24k with 3; up to ~30k with 5.
-- Tiara crafting (fastest free-to-play XP):
-  - Make tiaras by using a plain tiara + talisman at the altar (tiara making requires 1 Runecraft).
-  - Talisman-imbued tiaras give 5× the runecrafting XP for that rune.
-  - Best options:
-    - Body tiaras: highest XP; optimal method (PvP + skull sceptre (i) + Lumbridge teleport) can reach up to ~47,000 XP/hr. Requires Magic (page lists 31 Magic for the optimal setup), staff of air, law/earth/other runes, and bone fragments to charge sceptre (if using skull sceptre).
-    - Earth tiaras: up to ~27,000 XP/hr; requires Varrock Teleport (25 Magic) plus law/fire runes and staff of air.
-    - Water tiaras: up to ~25,000 XP/hr; requires Lumbridge Teleport (31 Magic) plus law/earth runes and staff of air.
-    - Air tiaras: very slow; mainly for Ironman if collecting air talismans.
+### Level 20+
+Train on **Body runes** (best free-to-play long-term method); consider teleports, runners, or crafting tiaras for speed.
 
-Quick requirements recap (as given in the guide)
-- Earth runes craftable at Runecraft 9.
-- Fire runes craftable at Runecraft 14.
-- Body runes craftable at Runecraft 20.
-- Tiara crafting: requires a plain tiara + matching talisman used on the altar (tiara creation requires 1 Runecraft).
-- Teleport/method-specific Magic requirements cited: Varrock Teleport ~25 Magic; Lumbridge Teleport and some optimal tiara methods cited as 31 Magic; Falador Teleport cited for air returns (page lists 37 Magic).
-
-Practical progression recommendation
-- 1 → 9: Air runes at the Air Altar (bank nearby).
-- 9 → 14: Earth runes at Earth Altar (use Varrock Teleport if available).
-- 14 → 20: Fire runes at Fire Altar (Al Kharid bank).
-- 20 → 99: Body runes at Body Altar. Use teleports, runners, or — for fastest XP — craft tiaras (body tiaras best) depending on risk tolerance, Magic level, and whether you use PvP worlds or alternate accounts.
+- Main training methods:
+  - **Craft body runes** at the **Body Altar** (7.5 XP per essence). Rune yield per essence: **1** (20–45), **2** (46–91), **3** (92+).  
+  - **Teleport method**: teleport to **Barbarian Village** (via **imbued skull sceptre (i)**), run to the altar, then teleport to a bank (e.g., **Falador Teleport** or **Lumbridge Teleport** on PvP worlds). ~20k XP/hr (non‑PvP) or ~25k XP/hr (PvP) with **energy potions**.  
+  - **Runner method**: use **essence runners** (other players or alternate accounts) to supply essence at the altar — scalable XP gains (≈17k/hr with 2 runners; up to ≈24k/hr with 3; ≈30k/hr with 5).  
+  - **Tiaras (tiara crafting)**: make and equip **talisman‑tiaras** (use **tiara + talisman** on the altar) to save inventory slots and get much faster XP—**body tiaras** provide the fastest free-to-play XP (highest rates on PvP with skull sceptre method; up to ~47k XP/hr in optimal setups).
+- Important locations: **Body Altar**, **Barbarian Village** (teleport point via skull sceptre (i)), **Falador bank** (non‑PvP) or **Lumbridge** (PvP world bank/teleport).  
+- Notable equipment/items: **Pure essence**, **Body tiara** / **Body talisman**, **imbued skull sceptre (i)**, **Staff of air** (or carry **air runes** for teleport weight reasons), **Law runes**/**other teleport runes**, **energy potions** to maintain run energy.  
+- Key unlocks/transitions:
+  - At **level 20** you can craft **body runes** (major long‑term transition).  
+  - At higher Runecraft levels you get more runes per essence (46 and 92 thresholds).  
+  - Making and equipping **talisman‑tiaras** (requires visiting the altar with a **plain tiara** + corresponding **talisman**) unlocks the fastest free-to-play XP methods.

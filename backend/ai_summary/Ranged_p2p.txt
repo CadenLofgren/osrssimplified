@@ -1,6 +1,29 @@
-The content you pasted is just a redirect page and contains no training details. Would you like me to:
+### Level 1–32/36
+- Main training methods: **Questing** for Ranged XP (fastest early route).  
+- Important locations: quest start locations for **Shadow of the Storm**, **Death to the Dorgeshuun**, **Horror from the Deep**, and **Temple of Ikov** access workaround.  
+- Notable equipment/items: **Ice arrows** (wielded to bypass Temple of Ikov req while using knives/darts), best available ranged armour.  
+- Key unlocks/transitions: complete the listed quests to reach ~level **32** (or **36** with Temple of Ikov workaround); unlocks access to more efficient methods (cannon, crabs, chinning).
 
-- Fetch and summarise the Pay-to-play Ranged training page (important methods, locations, and level requirements), or
-- Summarise common p2p Ranged training methods from memory right now?
+### Level 1–45
+- Main training methods: **Dwarf multicannon** (fastest XP to ~45), **Crabs** as a cheap AFK option.  
+- Important locations: **Castle Wars/Ogres** cannon spot, **Combat Training Camp** ogres, **Ice trolls north of Jatizso** (safespot at coal rocks). Crab spots: **Sand crabs (Hosidius)**, **Rock crabs (Rellekka)**, **Swamp crabs (Port Phasmatys)**, **Ammonite crabs (Fossil Island)**, **Gemstone crab (Tal Teklan)**.  
+- Notable equipment/items: **Dwarf multicannon**, **cannonballs**, **Ava's devices** (save ammo once unlocked), best available ranged armour and **darts**/**shortbows** for crabs (e.g., **adamant/rune darts**, **magic shortbow (i)** + arrows).  
+- Key unlocks/transitions: completion of **Dwarf Cannon** quest to use multicannon; at ~45 consider switching to chinning or higher-tier ranged gear.
 
-If you want the summary now, I will produce a concise list of efficient training methods, where to do them, and the Ranged levels required for each. Which do you prefer?
+### Level 45–99
+- Main training methods: **Chinning maniacal monkeys** (fastest), **Chinning skeletal monkeys** (if no MMII access), **Venator bow** on monkeys (cheaper alternative), optional **Ranged Slayer** with blowpipe/venator for variety.  
+- Important locations: **Kruk's Dungeon (Ape Atoll)** for **Maniacal monkeys** (requires starting **Monkey Madness II** chapter II), **Ape Atoll Dungeon** for **Skeletal monkeys** (requires partial **Monkey Madness I**).  
+- Notable equipment/items: **Black/Red/regular chinchompas** (throwables), **Elite Void / Void Ranger helm** (void set) or **Masori armour** (+Zaryte vambraces) for max DPS, **Ava's assembler/accumulator/attractor**, **Rada's blessing**, **Rigour/Deadeye**, **Divine ranging potions**, **Prayer potions** or **Bonecrusher necklace** (Morytania diary).  
+- Key unlocks/transitions: access to **Maniacal monkeys** (MMII requirement) enables top-tier chinning rates; consider switching between **void** and **Masori** depending on target defence and cost.
+
+### Level 70–99
+- Main training methods: **Pest Control** (points → XP), **Nightmare Zone (NMZ)** AFK setups, continued **chinning/Venator** on monkeys.  
+- Important locations: **Pest Control** (veteran boat for best rates; need ~combat 100 recommended), **Nightmare Zone** arenas.  
+- Notable equipment/items: **Void Knight commendation points** (redeem for XP), **Venator bow**, **super ranging potions**, **absorptions** for NMZ, **imbued magic shortbow (i)** or **twisted buckler** + darts as cheaper NMZ options.  
+- Key unlocks/transitions: unlock ability to spend **Pest Control** points on XP; NMZ offers long AFK windows (20 min interaction limit).
+
+### Level 80–99
+- Main training methods: **Venator bow on monkeys** (cheap, semi-AFK alternative to chinning), top-end **Chinning** remains fastest if affordable.  
+- Important locations: **Kruk's Dungeon (Maniacal monkeys)** — endless spawns for Venator/chinning; **Ape Atoll Dungeon** for skeletons (use salve amulet(ei)).  
+- Notable equipment/items: **Masori set + Salve amulet(ei)** (best vs skeletons), **Elite Void** (often best vs maniacal monkeys), **Amethyst/Adamant arrows** as cost-effective options, continued use of **Rigour/Deadeye** and **Divine ranging potions**.  
+- Key unlocks/transitions: at high levels choose between maximum XP-per-hour (chinning) or lower-cost sustained training (Venator/Pest Control/NMZ) depending on budget and AFK preference.

@@ -1,3 +1,23 @@
-The provided page is just a redirect to "Pay-to-play Magic training" and contains no training content to extract.
+### Level 1–20
+- Main training methods: **Quest XP** (early quest rewards), **Enchant Crossbow Bolt** (Opal/Sapphire options), **Lvl-1 Enchant** (7–21) and basic **combat spells** on weak monsters.  
+- Important locations: **Lumbridge** (early quests), **Mage Training Arena** (enchanting/minigame).  
+- Notable equipment/items: **Elemental staves** (free elemental runes), any staff to autocast.  
+- Key unlocks/transitions: complete **Witch's Potion** + **Imp Catcher** to reach ~level 10; plan to reach **level 21** to unlock **Low Level Alchemy**.
 
-Would you like me to summarize the Pay-to-play Magic training page now? If so, I can produce a concise list of efficient training methods, the locations for each, and the level requirements (e.g., High Alchemy, combat spells like burst/barrage, splashing, teleporting, jewellery/enchantment training).
+### Level 20–55
+- Main training methods: **Low Level Alchemy** (21+), continued **Enchant Crossbow Bolt** (4–55) if willing to spend, **combat spells** on crabs or elementally weak monsters, **Superheat Item** (43–55), **Camelot Teleport** (45–55) as an XP option.  
+- Important locations: **Ammonite Crabs** (Fossil Island), **Sand Crabs** (Hosidius), **Rock Crabs** (Rellekka), **Frost Crabs** (Ruins of Tapoyauik), **Mage Training Arena** (higher XP for enchant/alch).  
+- Notable equipment/items: **Staffs of element** (to save runes), **Smoke battlestaff** (accuracy/damage boost once affordable), **Chaos gauntlets** (boost for certain Fire spells; Family Crest req.).  
+- Key unlocks/transitions: switch to **Low Level Alchemy** at 21 for cheap, passive XP; consider **Superheat Item** at 43 for combined Smithing XP; at 55 prepare to switch to **High Level Alchemy**.
+
+### Level 55–82
+- Main training methods: **High Level Alchemy** (55+; passive while skilling), continuing combat/training methods, begin **Ancient Magicks bursting/barraging** (requires Desert Treasure at 62) for active high XP.  
+- Important locations: multi-combat Slayer areas and common burst spots (see Slayer tasks), **Slayer** assignments for efficient multi-target XP.  
+- Notable equipment/items: **Kodai wand**, **Nightmare staff**, **Ancient sceptre** (or **Blue moon spear**, **Dragon hunter wand** as alternatives), **steam/water/fire battlestaff** combos for rune savings.  
+- Key unlocks/transitions: complete **Desert Treasure** to unlock **Ancient Magicks** (start bursting at 62); aim for **level 70+** to access stronger burst spells (e.g., Ice Burst) and better gear; at **level 82** unlock **Magic Imbue** (Lunar spellbook; Lunar Diplomacy req.).
+
+### Level 82–99
+- Main training methods: **Bursting/Barraging** on **Ancient Magicks** in multi-combat (highest XP), continued **High Level Alchemy** for passive gains when not bursting.  
+- Important locations: multi-target Slayer locations and task monsters (e.g., **Dust Devils**, **Greater Nechryaels**, **Warped Jellies**, **Smoke Devils**, **Abyssal Demons**, **TzHaar**, **Mutated Bloodvelds**).  
+- Notable equipment/items: best-in-slot Ancient autocast weapons (**Kodai wand**, **Nightmare staff**), **Occult necklace** and other magic damage/accuracy boosters; consider a **saturated heart** to boost temporarily to 94 for **Ice Barrage**.  
+- Key unlocks/transitions: at **level 94** (or boosted to 94) use **Ice Barrage** for peak multi-target XP; use passive methods (High Alch, Magic Imbue, Lunar spells) to save cost or train while doing other activities.

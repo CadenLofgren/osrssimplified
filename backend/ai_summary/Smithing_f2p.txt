@@ -1,32 +1,89 @@
-Summary — free-to-play Smithing training (concise)
+### Level 1–29
+- Main training methods: **Complete The Knight's Sword** quest for an immediate boost to level 29; otherwise train via **bronze axes**, **bronze scimitars**, then **bronze warhammers** as early alternatives.  
+- Important locations: **Anvil south of Varrock west bank** (closest anvil to a bank in F2P).  
+- Notable equipment/items: **Bronze bars**, **Hammer**, optional **Energy potions** to maintain sprinting.  
+- Key unlocks/transitions: At **level 18** (or **29** if you completed The Knight's Sword) switch to **bronze platebodies** for much faster XP.
 
-Fastest experience methods (main progression)
-- The Knight's Sword (quest) — reward: 12,725 Smithing XP (takes Smithing from 1 → 29). Do this first if possible.
-- Bronze platebodies — Levels: 18 (or 29 if Knight's Sword done) → 33. Materials: 5 bronze bars each. Location: anvil south of Varrock west bank (closest anvil to a bank in F2P). Tip: use energy potions in 2 empty inventory slots to sprint continuously.
-- Iron platebodies — Levels: 33 → 48. Materials: 5 iron bars each. Location: Varrock west bank anvil.
-- Steel platebodies — Levels: 48 → 68. Materials: 5 steel bars each. Location: Varrock west bank anvil.
-- Mithril platebodies — Levels: 68 → 88. Materials: 5 mithril bars each. Location: Varrock west bank anvil.
-- Adamant platebodies — Levels: 87/88 → 98. Materials: 5 adamant bars each. Location: Varrock west bank anvil. Note: from level 87 you can boost to 88 with a dwarven stout to start adamant.
-- Rune platebodies — Levels: 98 → 99. Materials: 5 runite bars each. Location: Varrock west bank anvil. Note: drink dwarven stout for +1 Smithing boost to make rune earlier; very high XP/hour but very expensive.
+### Level 18/29–33
+- Main training methods: **Smith bronze platebodies** (best early XP per bar).  
+- Important locations: **Anvil south of Varrock west bank**.  
+- Notable equipment/items: **Bronze bars**, **Hammer**, **Energy potions** (use empty inventory slots to sustain running).  
+- Key unlocks/transitions: Finish at ~level 33, then switch to **iron platebodies**.
 
-Relevant common tips for the above
-- Best anvil (F2P): anvil just south of Varrock west bank (fastest bank-anvil loop).
-- Energy potions (use 2 empty inventory slots) allow continuous sprinting for faster XP rates.
-- Optional: High Level Alchemy (Magic level 55) can be used to alch created platebodies to offset cost or gain Magic XP.
-- Dwarven stout gives +1 Smithing for 1 minute — useful to meet smithing level requirements for higher-tier platebodies.
+### Level 33–48
+- Main training methods: **Smith iron platebodies** (significant XP increase).  
+- Important locations: **Anvil south of Varrock west bank**.  
+- Notable equipment/items: **Iron bars**, **Hammer**, **Energy potions**.  
+- Key unlocks/transitions: At **level 48** transition to **steel platebodies**.
 
-Alternative / early methods
-- Bronze axes — Levels: 1 → 5. Materials: 1 bronze bar each. Location: Varrock west bank anvil.
-- Bronze scimitars — Levels: 5 → 9. Materials: 2 bronze bars each. Location: Varrock west bank anvil.
-- Bronze warhammers — Levels: 9 → 18. Materials: 3 bronze bars each. Location: Varrock west bank anvil.
+### Level 48–68
+- Main training methods: **Smith steel platebodies** (solid mid-level XP).  
+- Important locations: **Anvil south of Varrock west bank**.  
+- Notable equipment/items: **Steel bars**, **Hammer**, **Energy potions**.  
+- Key unlocks/transitions: At **level 68** move to **mithril platebodies**.
 
-Smelting / Crafting hybrid
-- Smelting while Crafting (jewellery) — Levels: smithing 20–88 (practical thresholds: many silver/gold jewellery recipes; gold jewellery smithing often requires Smithing 40). Smelt ores into bars at a furnace between bank trips while crafting jewellery. Smelting marginal rate ~1 bar per 5 ticks (~1,200 bars/hr).
+### Level 68–88
+- Main training methods: **Smith mithril platebodies** (high XP rates).  
+- Important locations: **Anvil south of Varrock west bank**.  
+- Notable equipment/items: **Mithril bars**, **Hammer**, **Energy potions**.  
+- Key unlocks/transitions: From **level 87** you can boost to 88 with **Dwarven stout** to begin **adamant platebodies** earlier.
 
-Other alternative / AFK methods (listed in guide)
-- Smelting bars (AFK method) — viable 1 → 99 (use furnace + bank loops).
-- Barronite deposits — available from level 14+ (AFK resource).
-- Superheat Item (spell) — recommended as an alternative method from 70 → 99 (listed; requires Magic).
-- Smithing rune equipment — used at very high level (98→99 listed as an alternative in guide).
+### Level 87/88–98
+- Main training methods: **Smith adamant platebodies** (common route to 99 for many players).  
+- Important locations: **Anvil south of Varrock west bank**.  
+- Notable equipment/items: **Adamant bars**, **Hammer**, **Energy potions**, **Dwarven stout** (for a +1 Smithing boost if starting at 87).  
+- Key unlocks/transitions: Optionally continue adamant to 99 or switch to **rune platebodies** at the next level range for higher XP/hr.
 
-(Primary training route recommendation: complete The Knight's Sword, then platebody progression Bronze → Iron → Steel → Mithril → Adamant → Rune at the Varrock west bank anvil, using energy potions and dwarven stout as needed.)
+### Level 98–99
+- Main training methods: **Smith rune platebodies** for the fastest XP at this tier.  
+- Important locations: **Anvil south of Varrock west bank**.  
+- Notable equipment/items: **Runite (rune) bars**, **Hammer**, **Dwarven stout** (use at level 98 to temporarily meet the level requirement), **Energy potions** to maintain running.  
+- Key unlocks/transitions: Rune platebodies give the highest XP/hr in F2P but are very resource-intensive.
+
+### Level 1–5 (Alternative)
+- Main training methods: **Smith bronze axes** to level 5.  
+- Important locations: **Anvil south of Varrock west bank**.  
+- Notable equipment/items: **Bronze bars**, **Hammer**.  
+- Key unlocks/transitions: Switch to **bronze scimitars** at level 5.
+
+### Level 5–9 (Alternative)
+- Main training methods: **Smith bronze scimitars** to level 9 for better XP than axes.  
+- Important locations: **Anvil south of Varrock west bank**.  
+- Notable equipment/items: **Bronze bars**, **Hammer**.  
+- Key unlocks/transitions: Switch to **bronze warhammers** at level 9.
+
+### Level 9–18 (Alternative)
+- Main training methods: **Smith bronze warhammers** to level 18.  
+- Important locations: **Anvil south of Varrock west bank**.  
+- Notable equipment/items: **Bronze bars**, **Hammer**.  
+- Key unlocks/transitions: Move to **bronze platebodies** at level 18 (or use Knight's Sword to skip).
+
+### Level 20–88 (Alternative / Smelting while Crafting)
+- Main training methods: **Smelt bars while crafting gold/silver jewellery** (marginal smithing XP while doing Crafting).  
+- Important locations: **Furnaces** and banks used for crafting loops; use the same **Varrock** bank/anvil for smithing-focused trips.  
+- Notable equipment/items: **Gold ore**, **Silver ore**, **Gold/Silver bars**, appropriate **moulds** for jewellery.  
+- Key unlocks/transitions: Viable if you are already crafting jewellery — smelting adds smithing XP with little extra travel time.
+
+### Level 70–99 (Alternative)
+- Main training methods: **Superheat Item** (use Magic to smelt bars while creating items) as a complementary method for smelting-based training (requires Magic level).  
+- Important locations: **Furnaces**, banks.  
+- Notable equipment/items: **Runes** for Superheat, ores to smelt.  
+- Key unlocks/transitions: Useful hybrid method if you have high Magic; reduces time spent at furnaces.
+
+### AFK / Smelting (All levels)
+- Main training methods: **Smelting bars** at a furnace is an AFK-friendly Smithing method from low to high levels.  
+- Important locations: Common furnaces (e.g., **Varrock furnace**) and banks for efficient loops.  
+- Notable equipment/items: Raw ores (bronze → runite as you progress), **Hammer** not required for smelting.  
+- Key unlocks/transitions: Smelting remains viable as an AFK method throughout training.
+
+### Level 14+ (AFK Alternative)
+- Main training methods: **Barronite deposits** (AFK mining/smithing interaction where available).  
+- Important locations: Specific deposit nodes (check in-game map).  
+- Notable equipment/items: Relevant pickaxes/ores.  
+- Key unlocks/transitions: Available as an AFK option once the deposit mechanics/levels are met.
+
+General notes (applicable across ranges)
+- Main hub for fast smithing in F2P is the **Anvil south of Varrock west bank** due to bank proximity.  
+- **Energy potions** in empty inventory slots sustain running to increase XP/hour.  
+- At **Magic level 55**, **High Level Alchemy** can be used on created platebodies to reduce cost or recover some gold while training; bring a **Staff of fire** and **Nature runes** if alching on the way to the bank.  
+- Use **Dwarven stout** to temporarily boost Smithing by +1 for short windows (useful for accessing higher-tier platebodies one level early).

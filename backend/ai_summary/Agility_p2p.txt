@@ -1,66 +1,40 @@
-- Questing — various quest locations
-  - Levels: 1–26 (Tourist Trap alone) up to 33 (combo of Tourist Trap, Recruitment Drive, The Depths of Despair, The Grand Tree)
-  - Notes: fastest way to skip early levels via quest XP rewards.
+### Level 1–20
+Train early levels via **questing** (fastest): **The Tourist Trap**, **Recruitment Drive**, **The Depths of Despair**, **The Grand Tree** (these can get you to ~26–33 Agility).  
+Alternate low-attention option: **Rooftop Agility Courses** (start at **Draynor Village**).  
 
-- Brimhaven Agility Arena — Brimhaven
-  - Levels: 20–47 (best 20–47); full obstacle pass at 40
-  - Notes: 200 coin entry. Floor spikes usable from 20 (very AFK, ~30–36k XP/h); full tagging & pillars ~45–50k XP/h at 40+. Pillars give extra XP/tickets; Karamja gloves 2+ grant +10% XP.
+- Main training methods: **Quest rewards**, **Draynor Village Rooftop**  
+- Important locations: **Lumbridge** (quest start areas), **Draynor Village Rooftop**  
+- Notable items: **Summer pie**, **Agility potion** (for boosts)  
+- Key unlocks/transitions: quest XP can skip to level ~26–33; access to **Brimhaven Agility Arena** at level 20 (entry fee 200 coins)
 
-- Wilderness Agility Course — deep Wilderness (access via Ice Plateau teleport tablet)
-  - Levels: 47–62 (normally requires 52; can boost from 47 with summer pie)
-  - Notes: ~50–60k XP/h including fails and tickets. Risk of PKing; bring boosts/healing and items to clear webs.
+### Level 20–40
+Use the **Brimhaven Agility Arena** for high XP (floor spikes trap is AFK-friendly from 20; full arena performance at 40). Rooftop courses remain a convenient alternative. **Edgeville Dungeon monkeybars** is a high-focus, Wilderness option (15–40). **Agility Pyramid** becomes available from 30 for steady XP + gp.
 
-- Hallowed Sepulchre — Hallowed Sepulchre dungeon
-  - Levels: 62–99 (access requires Sins of the Father)
-  - Notes: fastest endgame method; top rates with practice/private instance and stamina pots. Recommended Thieving 66 to loot Grand Coffin (floor 5). Additional skill reqs to loot certain coffins: Construction 56, Prayer 54, Magic 7+, Ranged 62. Max ~102k–108k XP/h with ideal runs.
+- Main training methods: **Brimhaven Agility Arena** (floor spikes & pillar tagging), **Rooftop Agility Courses** (Al Kharid/Varrock/Canifis as you progress), **Agility Pyramid** (from 30)  
+- Important locations: **Brimhaven Agility Arena**, **Canifis/Al Kharid/Varrock rooftops**, **Edgeville Dungeon** (monkeybars)  
+- Notable items: **Agility arena tickets**, **Karamja gloves 2+** (10% XP boost on arena), **Summer pie**  
+- Key unlocks/transitions: reach 40 to clear all Brimhaven obstacles for max arena rates
 
-- Rooftop Agility Courses — various cities (Draynor, Al Kharid, Varrock, Canifis, Falador, Seers', Pollnivneach, Rellekka, Ardougne)
-  - Levels: 1–99 (specific courses per level bracket)
-    - Draynor 1–20 (~9–10k XP/h)
-    - Al Kharid 20–30 (~11–12k XP/h)
-    - Varrock 30–40 (~11–14k XP/h)
-    - Canifis 40–50 (~14–17k XP/h; good marks rate)
-    - Falador 50–60 (~29–34k XP/h)
-    - Seers' 60–70 (~40–56k XP/h with Kandarin hard diary)
-    - Pollnivneach 70–80/90 (~47–58k XP/h; hard Desert diary helps)
-    - Rellekka 80–90 (~50–63k XP/h with Fremennik hard diary)
-    - Ardougne 90–99 (~66–70k XP/h; elite diary boosts marks)
-  - Notes: low attention methods; spawn marks of grace (used for Graceful outfit). Diary rewards can improve XP/teleport convenience.
+### Level 40–60
+At ~47–62 the fastest linear method is the **Wilderness Agility Course** (requires 52 normally; can be boosted from 47 with **Summer pie**). Alternatives include **Ape Atoll Agility Course** (48+ with greegree access), **Shayzien Advanced Course** (45+), and **Colossal Wyrm Course** (50/62 route).
 
-- Edgeville Dungeon monkeybars — Edgeville Dungeon (Wilderness)
-  - Levels: 15–40
-  - Notes: up to ~13.2k XP/h; PK risk.
+- Main training methods: **Wilderness Agility Course** (47–62 fastest), **Ape Atoll Agility Course**, **Shayzien Advanced Agility Course**, **Colossal Wyrm Agility Course** (basic & advanced routes)  
+- Important locations: **Wilderness Agility Course**, **Ape Atoll**, **Shayzien**, **Colossal Wyrm course**  
+- Notable items: **Summer pie** (boost to enter), **Ice Plateau teleport (tablet)** (fast Wilderness access), **Knife / Wilderness sword** (to clear webs), **Boots of lightness**, **Spottier cape** (weight reduction)  
+- Key unlocks/transitions: normal entry to Wilderness course at 52; Ape Atoll access requires correct **monkey greegree** and Monkey Madness I progress; Colossal Wyrm advanced at 62
 
-- Barbarian Fishing (passive Agility) — Barbarian fishing spots
-  - Levels: 15–74 (grants small passive Agility while fishing)
-  - Notes: useful if also training Fishing; can accelerate early Agility gains if done first.
+### Level 60–75
+From 62 onward, the **Hallowed Sepulchre** is the top XP method (requires completion of **Sins of the Father**). **Werewolf Agility Course** (60+) is an alternative that also yields marks of grace.
 
-- Agility Pyramid — Kharidian Desert pyramid
-  - Levels: 30+
-  - Notes: profitable and straightforward. ~25k XP/h at 30–50 (≈13 completions/hr), up to ~44k XP/h at 70+ (≈26 completions/hr). Pyramid tops sell to Simon Templeton.
+- Main training methods: **Hallowed Sepulchre** (62+ fastest), **Werewolf Agility Course** (60+ alternative)  
+- Important locations: **Hallowed Sepulchre**, **Werewolf Agility Course** (Fenkenstrain area)  
+- Notable items: **Stamina potions** (restore run energy), **Summer pie** (boosting), **Ring of charos** (access to Werewolf course)  
+- Key unlocks/transitions: complete **Sins of the Father** to access Sepulchre; recommended **Thieving 66** to loot Grand Hallowed Coffin; private Sepulchre instance unlock at 200 hallowed marks for predictable rotations
 
-- Ape Atoll Agility Course — Ape Atoll
-  - Levels: 48–52/60 (requires Monkey Madness I chapter 2 completion; must wear ninja monkey greegree or Kruk greegree)
-  - Notes: ~30–35k XP/h at 48, ~45–50k at higher levels; no failures from level ~75 onward (up to ~55k). 2,000 laps unlock monkey backpack cosmetics.
+### Level 75–99
+High-level options: **Prifddinas Agility Course** (requires **Song of the Elves**, less click-intensive, portals grant **crystal shards**) and top-tier **Rooftop Courses** (switch to **Rellekka** → **Ardougne** at higher levels for marks of grace). Hallowed Sepulchre remains top XP once mastered.
 
-- Shayzien Advanced Agility Course — Shayzien (Great Kourend)
-  - Levels: 45–52/60 (access via Shayzien Agility Course advanced route)
-  - Notes: requires crossbow and mith grapple. ~35k XP/h at 45.
-
-- Colossal Wyrm Agility Course — northern area (Colossal Wyrm)
-  - Levels: 50 (basic) / 62 (advanced)
-  - Notes: basic route (~30k XP/h at 50); advanced route (~41k XP/h at 62). Rewards amylase crystals and other exchange items; advanced route is low-click and gives marks of grace.
-
-- Werewolf Agility Course — Werewolf course (near Canifis)
-  - Levels: 60–80/90 (access requires Creature of Fenkenstrain; ring of charos needed)
-  - Notes: can boost to 60 with summer pie at 55. ~50–55k XP/h at lower levels, up to ~67–70k/h at higher levels with tricks. Good marks of grace income (≈10–15/h).
-
-- Prifddinas Agility Course — Prifddinas
-  - Levels: 75–99 (requires Song of the Elves)
-  - Notes: low-click rooftop-style course. ~60k XP/h at 75, ~65k XP/h at 90+. Grants crystal shards via personal portal shortcuts.
-
-General tips (apply across methods)
-- Always run; use stamina potions / ring of endurance / other run-restoration to maximize XP/h.
-- Boosts (summer pies, agility potions) let you access higher courses early.
-- Keep weight low and bring food if failing obstacles or in dangerous areas (Wilderness).
-- Some courses provide marks of grace (useful for Graceful outfit) or additional currency/items (tickets, amylase crystals, shards).
+- Main training methods: **Prifddinas Agility Course** (75+), continued **Hallowed Sepulchre** (62+), high-level **Rooftop Agility Courses** (Rellekka, Ardougne)  
+- Important locations: **Prifddinas**, **Ardougne Rooftop**, **Rellekka Rooftop**, **Hallowed Sepulchre**  
+- Notable items: **Crystal shards** (Prifddinas portals), **Marks of grace** → **Graceful outfit**, **Amylase crystals/packs** (from Colossal Wyrm/other courses as mark alternatives)  
+- Key unlocks/transitions: complete **Song of the Elves** for Prifddinas access; Ardougne elite diary increases marks at Ardougne rooftop; at very high Agility/Hallowed Sepulchre mastery expect the top XP rates (100k+ XP/h with practice and private instance)

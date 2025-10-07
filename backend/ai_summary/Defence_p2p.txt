@@ -1,38 +1,29 @@
-Important training methods (what to do), relevant locations/activities, and level requirements
+### Level 1–20
+Train on **chickens** and **cows** around **Lumbridge** for very safe early Defence XP and easy loot.  
+Complete early melee quests for big early gains: **Witch's House** (Hitpoints) and **Waterfall Quest** (huge Attack/Strength boost that speeds future combat training).  
+Important items: **food** and a **teleportation tablet** or teleports for quick escape.  
+Key unlocks: quest XP can skip large portions of low-level grinding and unlock better weapons/gear earlier.
 
-Fastest / recommended progression
-- Questing (Levels 1–30): Waterfall Quest — no requirements; instantly grants Attack and Strength up to ~30. Completing the recommended early quests (Waterfall, Witch's House, Fight Arena, Tree Gnome Village, etc.) gets you roughly to Attack 45 / Strength 37 / Defence 31 without melee grinding.
-- Levels 30–50: Crabs (low-aggro crabs). (Listed as the go-to 30–50 method.)
-- Levels 50–70: Nightmare Zone (Normal Rumble). (Best-in-slot gear/boosts recommended; maintain Attack/Defence to use optimal weapons.)
-- Levels 70–99: Nightmare Zone (higher modes). (Primary AFK/high‑xp method into endgame.)
+### Level 20–40
+Main training methods: **rock crabs** (AFK, high HP, low damage), **ogres** and **chaos druids** (if you want additional drops/loot), plus continuing questing for XP.  
+Important locations: **Rock Crabs** (various beaches), **ogre training spots** and chaos druid camps.  
+Notable items: complete **Holy Grail** (large Defence XP reward) if requirements met; keep better defensive armour as you upgrade.  
+Key transitions: reach the Attack/Strength levels from quests (e.g. Waterfall) so you can equip stronger weapons and move to faster XP methods.
 
-Other effective melee methods (by level range)
-- Levels 1–10: Chickens (beginner AFK training).
-- Levels 10–60: Rock Crabs.
-- Levels 30–60: Chaos druids.
-- Levels 30–81: Ogres.
-- Levels 40–60: Moss giants.
-- Levels 60–70: Wilderness Slayer (use Slayer tasks in the Wilderness).
-- Levels 70–99: Slayer (general); Gargoyles are highlighted as a main high‑level Slayer train.
-- Levels 60/70–99: Scurrius (listed as an option for mid→high levels).
-- Levels 60/70–99: Sulphur Naguas (listed as a high‑level training alternative).
-- Levels 60/70–99: Pest Control (minigame — used for combat training and points/rewards).
-- Levels 90–99: Rune dragons (endgame combat training).
+### Level 40–60
+Main training methods: **moss giants** and other mid‑level slayer/combat monsters; begin using **Nightmare Zone** from ~50 for efficient, semi‑AFK defence/combat XP.  
+Important locations: **Moss giant** camps (e.g. Varrock/other sites), **Nightmare Zone** minigame.  
+Notable items: **Culinaromancer's gloves** (Recipe for Disaster) for offensive boost when training; consider **obsidian armour + Berserker necklace** setups for faster kills.  
+Key unlocks/transitions: access to **Nightmare Zone** strategies for steady XP and the start of profitable Slayer methods.
 
-Quests recommended for early melee (major ones and requirements)
-- Waterfall Quest — no requirements; immediate Attack & Strength XP to reach ~30.
-- Witch's House — no requirements; large Hitpoints XP (recommended for safety).
-- Fight Arena — no requirements.
-- Tree Gnome Village — no requirements.
-- Holy Grail — requires 20 Attack and Merlin's Crystal; grants large Defence XP.
-- The Grand Tree — requires Agility 25.
-- Vampyre Slayer — no requirements.
-- Scorpion Catcher — requires Prayer 31 and Alfred Grimhand's Barcrawl completion.
-- Tai Bwo Wannai Trio — requires Agility 15, Cooking 30, Fishing 5 and Jungle Potion completion.
-- Horror from the Deep — requires Agility 35 and Alfred Grimhand's Barcrawl completion.
-- (Additional higher‑req quests: Dragon Slayer I, Heroes' Quest, Fremennik series, Recipe for Disaster — check their specific requirements before attempting.)
+### Level 60–80
+Main training methods: **Nightmare Zone** (AFK/high XP with proper setup), **Slayer** tasks (start efficient profitable training), **Pest Control** for consistent defensive XP and access to Void rewards.  
+Important locations: **Nightmare Zone**, **Slayer dungeons/assignments**, **Pest Control / Void Knight Outpost**.  
+Notable items: **Void knight equipment** (Pest Control), **Toktz-xil-ak**, **obsidian armour + Berserker necklace**, and using **protection prayers** when fighting dangerous monsters.  
+Key transitions: unlock higher‑tier Slayer machines and minigame methods; Pest Control/Void becomes a long‑term option for sustained Defence training.
 
-Other notes relevant to Defence training
-- Defence can be trained non‑melee: Ancient Magicks (defensive spells) or using chinchompas (long fuse) on Maniacal monkeys can yield more Defence XP/hr than melee.
-- Slayer is recommended to train combat stats while profiting; many high‑xp melee methods are Slayer‑based.
-- Complete early melee XP quests before heavy training to unlock better equipment and significantly speed further training.
+### Level 80–99
+Main training methods: continue **Nightmare Zone** for AFK highest‑hour XP setups; focus on high‑level **Slayer** tasks (e.g. **gargoyles**, **Scurrius**, **Sulphur Naga**, **rune dragons** at ~90+) for efficient combined Defence/Slayer XP; use **Pest Control** for reliable, low‑risk Defence gains.  
+Important locations: **Nightmare Zone**, high‑level Slayer locations and dungeons, **Pest Control**.  
+Notable items: high‑end melee sets (**Dharok/Guthan** styles where relevant), **Void knight equipment**, **Culinaromancer's gloves**, **Toktz-xil-ak** and defensive best‑in‑slot gear as available. Consider **Ancient Magicks** (defensive spells) or using **chinchompas on long fuse** at maniacal monkeys as alternative methods to train Defence more quickly than pure melee in some cases.  
+Key unlocks/transitions: endgame choices are AFK NMZ or high‑level Slayer for fastest route to 99 Defence; equip best defensive/offensive gear available to maximise kill speed and XP.

@@ -1,3 +1,17 @@
-The provided content contains only a redirect to the page "Pay-to-play Prayer training" and includes no training methods, locations, or level requirements to extract.
+### Level 1–20
+- Main training methods: **Complete quests that reward Prayer XP** (quickest early progress).  
+- Important locations: quest start areas (notably **Lumbridge** for *The Restless Ghost*).  
+- Notable items: none required beyond quest rewards.  
+- Key unlocks or transitions: completing *The Restless Ghost*, *Priest in Peril*, *Recruitment Drive* and *Holy Grail* can raise Prayer into the 20–30 range, letting you access higher‑level methods.
 
-If you want a concise summary of important Prayer training methods, locations, and level requirements, I can fetch and summarize the target page ("Pay-to-play Prayer training") now — ready to proceed?
+### Level 20–40
+- Main training methods: **Libation bowl** using **blessed bone shards** with **jugs of blessed wine** or **blessed sunfire wine** (requires level 30 Prayer to use).  
+- Important locations: **The Teomat** (Libation bowl / Exposed altar / Shrine of Ralos), **Exposed altar** (bless bones & wine), **Culinaromancer's Chest** or **Sunlight's Sanctum** (wine supply), **Virilis** (unnoting bones).  
+- Notable items: **Chisel** (break bones into shards), **Pestle and mortar** (make sunfire wine), **Sunfire splinters** (convert wine to sunfire wine), **Prayer potions** or **Super restores** (reduce trips).  
+- Key unlocks or transitions: **Level 30 Prayer** unlocks Libation bowl training; using **sunfire wine** gives ~20% more XP per shard and scales better at mid levels.
+
+### Level 40+
+- Main training methods: **Gilded altar** (fastest when you have access), **Chaos Temple altar** (high XP, cheaper but risky in Wilderness), **Libation bowl** (scales into high levels with prepared shards/wine), **Cremating urium remains** (used to obtain **Zealot's robes** while gaining some XP). Also consider passive/AFK methods like **Bonecrusher**, **Ash sanctifier**, and **Ectoplasmator** for incidental XP.  
+- Important locations: **Player-owned house (Gilded altar)** or hosted altars (Rimmington host worlds), **Camelot** bank chest (safe banking route for altar runs), **Chaos Temple** (level 38 Wilderness), **Teomat** and associated transport points (for Libation runs), and **Quetzal / Fortis Colosseum** for fast banking/stamina recovery.  
+- Notable items: **Incense burners** and **Tinderbox** (for Gilded altar bonus), **Dust battlestaff** and **Law runes** (teleports), **Noted bones** / **Phials** (bank handling), **Zealot's robes** (reduces bone consumption), **Ring of dueling** / **Pendant of ates** (fast teleports), **Prayer potions**/**Super restores** (sustain runs).  
+- Key unlocks or transitions: **Level 43** for all protection prayers (important for many combat activities), **Level 50** / **77** / **85** are notable milestones for quest/diary/prayer unlocks; **Construction 75** (or boosted) to build a gilded altar—alternatively use a host POH.

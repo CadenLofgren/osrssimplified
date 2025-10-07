@@ -1,57 +1,39 @@
-Summary of efficient Fletching (p2p) training methods, locations, and required levels:
+### Level 1–20
+Train early Fletching with quest XP and simple item-making.
 
-Quests (fast early EXP)
-- Big Chompy Bird Hunting — 262 XP (helps from level 5 Fletching); other reqs: Ranged 30, Cooking 30.
-- Animal Magnetism — 1,000 XP; reqs: Slayer 18, Crafting 19, Ranged 30, Woodcutting 35.
-- Zogre Flesh Eaters — 2,000 XP (if fletching comp ogre bow requires Fletching 30); other reqs: Smithing 4, Herblore 8, Ranged 30.
-- The Fremennik Trials — 2,812 XP (if crafting lyre requires Fletching 25); other reqs: Woodcutting 40, Crafting 40.
-- Temple of Ikov — 8,000 XP; reqs: Thieving 42, Ranged 40.
-- Total possible quest Fletching XP listed: 14,074 (useful to skip early levels; doing Temple of Ikov + Fremennik Trials gets you to ~level 30).
+- Main training methods: **quest experience** (fast early boosts), **headless arrows** (Level 1–5), **arrow shafts** (Level 1–5/10), basic **bows** from Level 5 (shortbows).
+- Important locations: **Grand Exchange** (buy materials), start locations for **Big Chompy Bird Hunting**, **Animal Magnetism**, **Zogre Flesh Eaters** (quest XP).
+- Notable items: **feathers**, **arrow shafts**, **logs** (for bows), **headless arrows**.
+- Key unlocks / transitions: quest rewards can push to ~**level 18–30** (complete quests listed above to skip low grind); **bronze darts** require Level **10** (start of zero-time dart training).
 
-Zero-time methods (can be trained while doing other activities)
-- Darts (very click-efficient; buy dart tips + feathers on the Grand Exchange)
-  - Bronze darts — level 10
-  - Iron — level 22
-  - Steel — level 37
-  - Mithril — level 52
-  - Adamant — level 67
-  - Rune — level 81
-  - Amethyst — level 90
-  - Dragon — level 95
-  - Notes: 2-click methods available; good for passive training while questing, Agility, Hunter, farm runs, Slayer, Wintertodt. Mobile two-finger tapping speeds this up.
-- Bolts (attaching feathers to unfinished bolts; lower XP/action than darts)
-  - Bronze bolts — level 9
-  - Blurite — level 24
-  - Iron — level 39
-  - Silver — level 43
-  - Steel — level 46
-  - Mithril — level 54
-  - Broad bolts — level 55 (requires broader fletching Slayer reward)
-  - Adamant — level 61
-  - Rune — level 69
-  - Dragon — level 84
-  - Notes: materials commonly bought on the Grand Exchange.
+### Level 20–40
+Shift to efficient zero-time methods and mid-tier products.
 
-Semi-zero methods (periodic requeueing; actions occur every 2 ticks)
-- Tipping bolts (adding gem/metal tips to bolts)
-  - Opal-tipped bronze — level 11
-  - Jade-tipped blurite — level 26
-  - Pearl-tipped iron — level 41
-  - Topaz-tipped steel — level 48
-  - Barbed bolts — level 51
-  - Notes: requires more capital and checking GE supply/buy limits; gives steady XP in sets.
+- Main training methods: **fletching darts** (zero-time — fast, 2 clicks per set), **attaching feathers to unfinished bolts** (bolts).
+- Important locations: **Grand Exchange** (dart tips, unfinished bolts, feathers); integrate Fletching during activities with downtime (e.g. **Agility**, **Slayer**, **Hunter**, **farm runs**, **Wintertodt**) for passive XP.
+- Notable items: **feathers**, **dart tips** (bronze → iron → steel), **unfinished bolts** (bronze → iron).
+- Key unlocks / transitions: **Iron darts** at level **22**, **Steel darts** at **37**; **Blurite / Iron bolts** available (bronze bolts from level 9).
 
-Other notable methods (level ranges only)
-- Headless arrows — level 1–5
-- Arrow shafts — level 1–5 (or to 10 depending on method/settings)
-- Bows (stringing/crafting bows) — level 5–99
-- Battlestaves (fletching related processing) — level 40–80
-- Redwood shields — level 92–99
+### Level 40–60
+Use higher-tier darts/bolts and semi-zero batching methods.
 
-Relevant locations and tips
-- Grand Exchange — primary place to buy dart tips, feathers, unfinished bolts, bolt tips, and other materials.
-- Zero-time contexts: questing, Agility courses, Hunter (non-black creatures), farm runs, Slayer tasks, Wintertodt, etc.
-- The Tourist Trap quest is not required to fletch darts (only for smithing dart tips).
-- Mobile two-finger tapping can speed up zero-time dart fletching.
+- Main training methods: continued **darts** (higher tiers), **tipping bolts** (semi-zero: bolt-tipping creates batches every 2 ticks), making **broad bolts** at mid levels (if unlocked).
+- Important locations: **Grand Exchange** for gem/bolt-tip supplies; continue pairing Fletching with other activities for semi-passive XP.
+- Notable items: **pearl/topaz bolt tips**, **mithril darts** (unlock at 52), **broad bolts** (requires Slayer reward).
+- Key unlocks / transitions: **Mithril darts** at **52**; **Mithril bolts** at **54**; **Broad bolts** usable from **55** (Slayer reward required for broader fletching use).
 
-Use darts for fastest passive XP per click; bolts / tipped bolts are alternatives depending on prices and buy limits; use quests to skip early levels.
+### Level 60–80
+High-tier bolts/darts and efficient semi-zero options; battlestaves option window.
+
+- Main training methods: high-tier **darts** (adamant), **bolts** (adamant/runite), **tipping** higher-tier bolts for steady XP; **battlestaves** available as an alternate method in this bracket.
+- Important locations: **Grand Exchange** for large-volume purchases; continue to exploit downtime training activities.
+- Notable items: **Adamant darts** (level **67**), **Adamant bolts** (level **61**), **Runite bolts** (level **69**).
+- Key unlocks / transitions: **Adamant darts** at **67**; **Runite bolts** at **69**; battlestaves usable across **40–80** as noted.
+
+### Level 80–99
+Maximise XP with top-tier darts, end-game items and specialised products.
+
+- Main training methods: top-tier **darts** (rune, amethyst, dragon), high-level **bolts** and end-game Fletching items (**redwood shields**).
+- Important locations: **Grand Exchange** (supply purchase), use zero-time darting during other long activities for very high passive XP.
+- Notable items: **Rune darts** (lvl **81**), **Amethyst darts** (lvl **90**), **Dragon darts** (lvl **95**), **Redwood shields** (lvl **92–99**).
+- Key unlocks / transitions: **Rune darts** at **81**, **Amethyst darts** at **90**, **Dragon darts** at **95**; **Redwood shields** crafting available from **92** for late‑game alternatives.

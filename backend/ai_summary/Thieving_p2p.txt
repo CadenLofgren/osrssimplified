@@ -1,32 +1,85 @@
-Summary — important Thieving training methods, locations, and level requirements
+### Level 1–20
+Train via **questing** to skip early levels (quests like **Biohazard**, **Hazeel Cult**, **Fight Arena**, **Tower of Life**, **Tribal Totem** give early Thieving XP).  
+Main training methods
+- **Questing** for early XP boosts (can get to ~24–42 Thieving with a set of low-requirement quests).  
+Important locations
+- **Lumbridge** / starter quest areas for quest content.  
+Notable equipment or items
+- General pickpocketing quality: enable **Hidden** NPC Attack option to make **Pickpocket** left-click.  
+Key unlocks or transitions
+- Complete early Thieving quests to skip to mid-level content quickly.
 
-Fast / recommended methods
-- Questing: levels 1–42 — use quest XP to skip early training (major low‑level quests give bulk of XP up to ~42).
-- Chambers of Xeric (thieving room): levels 1–45 — Chambers of Xeric (Mount Quidamortem, Kebos Lowlands). Requirement: lockpick. Best when raid room is thieving room; higher player count → faster chest respawn.
-- Aldarin Villas chests: levels 36–45 — Aldarin villas (requires lockpick for best rates). Fast chest unlocking XP; risk of teleport on failure.
-- Blackjacking: best at 45–49 and again from ~65+ (very strong 65–99 rates) — Pollnivneach (lure bandits into houses). Requirements: 45 Thieving, partial completion of The Feud, a blackjack. Bandit types by range: 45–55 (bearded Pollnivnian, lvl 41), 55–65 (lvl 56 scimitar bandits), 65+ (Menaphite Thugs). Technique: KO then pickpocket while unconscious. Rogue equipment recommended; bring food or brews for healing.
-- Stealing artefacts: levels 49–65 (viable to 99) — Port Piscarilius (assigned houses). Requirements: lockpick, Book of the Dead/teleports; lure guards to smuggle artefacts. Less click‑intensive, allows some AFKable tasks.
-- Rogues' Castle chests: levels 84–99 — Rogues' Castle (Deep Wilderness). High XP/profit but high PK risk. Use Protect from Melee; bring only what you can afford to lose.
-- Pyramid Plunder: optimal 91–99 (can start earlier at 71/81) — Sophanem. Requirement: access to Sophanem (start Icthlarin’s Little Helper or use Pharaoh’s sceptre). Loot golden chests/urns in higher rooms for best XP.
+### Level 20–40
+Main training methods
+- Continue **questing** to reach 42 (several quests collectively grant large XP gains).  
+- Optional: begin **Chambers of Xeric thieving room** training for high XP if you can access raids.  
+Important locations
+- **Chambers of Xeric** (Mount Quidamortem, Kebos Lowlands) — thieving room spawns chests.  
+Notable equipment or items
+- **Lockpick** (used in raid/artefact/chest methods).  
+Key unlocks or transitions
+- Quarry for switching to chest/raid-based methods; raids allow high XP from low levels if accessible.
 
-Key locations & items (quick reference)
-- Chambers of Xeric (Mount Quidamortem, Kebos Lowlands): lockpick required.
-- Aldarin villas: lockpick recommended.
-- Pollnivneach (bandits / Menaphite Thugs): blackjack required; lure into small houses.
-- Port Piscarilius: Book of the Dead / lockpick; Captain Khaled for repeat jobs.
-- Rogues' Castle: deep Wilderness (multi‑combat; high PK risk).
-- Pyramid Plunder (Sophanem): Pharaoh’s sceptre or quest access required.
+### Level 36–45
+Main training methods
+- **Chests in Aldarin Villas** (fastest at 36–45) — pick locks for 200 XP each.  
+- Continue **Chambers of Xeric thieving room** if available.  
+Important locations
+- **Aldarin Villas** (western villa has shortest run on failure).  
+- **Chambers of Xeric** thieving room.  
+Notable equipment or items
+- **Lockpick** required for villa chests.  
+Key unlocks or transitions
+- At level 45 you can transition to **blackjacking** (requires level 45 Thieving and partial completion of **The Feud**).
 
-Useful gear / bonuses and requirements
-- Lockpick: required for chests and many house/artefact methods.
-- Blackjack: required for blackjacking (45 Thieving + partial The Feud).
-- Rogue equipment: obtainable from Rogue's Den (requires 50 Thieving to access); chance to double loot (no XP bonus).
-- Dodgy necklace: 25% chance to avoid stun on failed pickpocket (10 charges).
-- Shadow Veil spell: 15% chance to avoid stun; stacks with dodgy necklace.
-- Gloves of silence: +5% pickpocket success; require 54 Hunter to wear; repairable at 64 Crafting. Note: Ardougne Diary perks override them inside Ardougne.
-- Ardougne Diary: medium = +10% pickpocket success in Ardougne; hard extends bonus globally. Diary tiers also increase coin pouch capacity (None/Easy 28, Medium 56, Hard 84, Elite 140) — valuable for long pickpocket runs.
+### Level 45–65
+Main training methods
+- **Blackjacking** bandits in **Pollnivneach** (45–49 optimal, then again stronger at 65+) — highest single-target XP when mastered.  
+- **Stealing artefacts** in **Port Piscarilius** (fast from 49–65; less click-intensive than blackjacking).  
+Important locations
+- **Pollnivneach** (Ali the dyer’s house, northern houses, southern area for thugs).  
+- **Port Piscarilius** (houses assigned by **Captain Khaled**).  
+Notable equipment or items
+- **Blackjack** (any type) for blackjacking.  
+- **Saradomin brews** / **jugs of wine** or other inventory-blocking food for blackjacking.  
+- **Book of the Dead** / **Kharedst’s memoirs** and **stamina potions** for artefacts.  
+- **Rogue equipment** (unlocked at level 50 for faster loot, not XP) improves loot, not XP.  
+- **Dodgy necklace**, **Shadow Veil**, **Gloves of Silence** (increase survival/success while pickpocketing).  
+Key unlocks or transitions
+- Level 49–50 enables better stealing artefacts and **rogue equipment** access (rogue outfit completed via Rogues' Den minigame).
+- Blackjacking requires partial completion of **The Feud**.
 
-Notes
-- Many top methods require specific items/quest progress (lockpick, blackjack, Book of the Dead, Sophanem access).  
-- Blackjacking and Pyramid Plunder are click‑intensive but among the fastest; stealing artefacts is less click‑intensive and more AFK‑friendly.  
-- Rogues’ Castle yields very high rates but is high‑risk (Wilderness).
+### Level 65–84
+Main training methods
+- Continue **blackjacking** (Menaphite Thugs at 65+ for very high XP/hr).  
+- **Stealing artefacts** remains viable and semi-AFK.  
+Important locations
+- **Pollnivneach** for thugs; **Port Piscarilius** for artefacts.  
+Notable equipment or items
+- **Inventory-blocking food** (brews/wine/pies) to keep inventory full during blackjacking.  
+- **Rogue equipment** (double loot chance; full set guarantees double loot).  
+Key unlocks or transitions
+- As Thieving increases, artefacts and blackjacking XP rates scale up; at higher levels consider switching to endgame methods (Rogues' Castle, Pyramid Plunder).
+
+### Level 84–99
+Main training methods
+- **Stealing from Rogues' Castle chests** (deep **Wilderness**) — fastest XP when willing to risk PK.  
+- **Pyramid Plunder** (best after level 91; viable alternative at 71/81) — high XP in Sophanem.  
+- **Stealing artefacts** and high-level blackjacking remain options depending on playstyle.  
+Important locations
+- **Rogues' Castle** (deep Wilderness; chest near north wall).  
+- **Pyramid Plunder** (Sophanem).  
+- **Port Piscarilius** (artefacts) as an alternative.  
+Notable equipment or items
+- **Protect from Melee** prayer for Rogues' Castle runs.  
+- **Looting bag** optional for Wilderness runs.  
+- **Pharaoh's sceptre** or completion of **Icthlarin's Little Helper** to access **Pyramid Plunder**.  
+- **High-healing food**, **stamina potions**, **antipoison** (e.g., **araxyte venom sacks**) for Pyramid Plunder.  
+Key unlocks or transitions
+- Level 91 unlocks peak efficiency for **Pyramid Plunder** (fastest minigame XP outside Wilderness).  
+- Wilderness methods require risk tolerance; Rogues' Castle gives top XP if unmanaged PK risk is acceptable.
+
+General persistent mechanics (relevant across levels)
+- **Ardougne Diary** (medium/hard) increases pickpocket success within Ardougne / globally and raises coin pouch capacity — useful for sustained pickpocketing.  
+- **Rogue equipment** increases loot (double on full set) but does not increase XP.  
+- **Dodgy necklace** and **Shadow Veil** reduce stun/damage on failed pickpockets; **Gloves of Silence** give +5% pickpocket success (can degrade).

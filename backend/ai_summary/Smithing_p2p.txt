@@ -1,29 +1,31 @@
-- Questing (fastest for early levels)
-  - Levels: 1–39 (can skip early training)
-  - Location / access: various quest start locations
-  - Requirements / notes: Complete quests that grant Smithing XP (notably The Knight's Sword, Sleeping Giants, Elemental Workshop I & II, The Giant Dwarf, Heroes' Quest, and the Freeing Pirate Pete subquest of Recipe for Disaster). These quests give ~36,982 XP (to ~level 39). After quests you need only smith ~2 iron platebodies to reach 40.
+### Level 1–20
+- Main training methods: **Quest experience** (complete Smithing XP reward quests) or **anvil smithing** (make highest-level bronze/iron items available).  
+- Important locations: **Anvil south of Varrock west bank** (closest bank-anvil).  
+- Notable items/equipment: basic **bronze bars**, **bronze daggers/scimitars/warhammers/platebodies** as early smiting choices.  
+- Key unlocks/transitions: completing Smithing XP quests can skip early levels (large XP from quests such as **The Knight's Sword**).
 
-- Anvil smithing (general early training)
-  - Levels: 1–40 (and useful beyond)
-  - Locations: Anvil just south of the west Varrock bank (recommended); closest-anvil-to-bank in Prifddinas — Trahaearn district (best if Song of the Elves completed); Yanille anvil (south of bank) is slightly farther.
-  - Requirements / notes: Make the highest-level item you can for fastest XP. Higher-bar items (multi-bar items) give more XP/hour than 1-bar items.
+### Level 20–40
+- Main training methods: **Anvil smithing** (make the highest-level item you can to maximize XP/hr). Consider smithing **iron platebodies** to reach 40 quickly.  
+- Important locations: **Varrock anvil** (south of west Varrock bank) — best anvil for banking; alternate anvils: **Yanille** (slightly farther), **Prifddinas (Trahaearn district)** if unlocked.  
+- Notable items/equipment: **iron bars**, **iron platebody** (used commonly to hit level 40).  
+- Key unlocks/transitions: reaching **level 40 Smithing** unlocks access to **Blast Furnace gold bar** training; questing remains a cheap way to skip to ~39–40.
 
-- Blast Furnace — gold bars (fastest viable 40+ XP)
-  - Levels: start at Smithing 40 (smelting gold bars)
-  - Location: Blast Furnace (Keldagrim)
-  - Requirements / notes: Access Keldagrim / Blast Furnace by starting The Giant Dwarf; use minecart/Grouping teleport or official Blast Furnace worlds. Recommended items: goldsmith gauntlets (Family Crest quest) to boost XP per ore, ice gloves (requires killing Ice Queen and level 50 Mining boostable) to quickly collect bars, stamina potions, weight-reducing clothing, Ring of Endurance. Use bank chest + conveyor-belt workflow; 0-tick banking and runners can greatly increase XP. Typical XP rates (examples): ~380k XP/hr with goldsmith gauntlets; ~164k XP/hr without; ~410k XP/hr with Smithing cape; runners: ~530k XP/hr (1 runner) and ~680k XP/hr (3 runners) but very expensive.
-
-- Giants' Foundry (low-effort, steady XP)
-  - Levels: 15–99 (minigame scales; recommended mid/late Smithing)
-  - Location: Giants' Foundry minigame (requires Sleeping Giants)
-  - Requirements / notes: Must complete Sleeping Giants. Forge swords using commissions from Kovac; use optimal alloy mixes (mithril/adamant recommended for balance of speed/cost), buy improved moulds (some moulds require up to Smithing 81), and use Smiths' Uniform for a small XP boost. Good for lower-attention XP and some profit/rewards.
-
-- Blast Furnace — other bars (profit + XP alternative)
-  - Levels: 15–99 depending on bar type (examples: iron bars at 15; steel bars at 30)
-  - Location: Blast Furnace (Keldagrim)
-  - Requirements / notes: Use coal bag, ice gloves, stamina potions, weight-reducing clothing. This method is slower XP than gold-smelting for pure XP but can be profitable. Example rates given: smelting iron bars (lvl 15) ~75,000 XP/hr (≈6,000 bars/hr); smelting steel bars (lvl 30) ~94,500 XP/hr (≈5,400 bars/hr). High starting capital often required.
-
-- General anvil note (XP scaling)
-  - Levels / notes: XP/hour scales by metal tier and bars-per-item — higher-tier metals and multi-bar items yield much higher XP/hr (e.g., 1-bar to 5-bar items show progressively larger XP/hr ranges across bronze→runite). Use anvil nearest a bank for best efficiency.
-
-(Only methods and requirements present in the provided guide are listed.)
+### Level 40–99
+- Main training methods:
+  - Primary: **Blast Furnace — smelting gold bars** (fastest viable XP from 40+). Use optimized banking (0-tick) or runners for peak rates.  
+  - Alternatives: **Giants' Foundry** (for lower-effort, consistent XP and rewards), **Blast Furnace smelting other bars** (iron/steel/etc.) for profit, and niche methods like **smithing dart tips** (20+), **cannonballs** (35+), **armour smithing** (48+), and **3-bar rune items** (95/98+).  
+- Important locations: **Blast Furnace (Keldagrim)** — access via **The Giant Dwarf** quest start or **minecart/Grouping teleport** from Grand Exchange; use **official Blast Furnace worlds** for foreman-run operation; **Giants' Foundry** minigame location for sword forging; **Prifddinas** anvil for faster anvil banking if available.  
+- Notable items/equipment:
+  - **Goldsmith gauntlets** (major XP boost for gold bars — requires **Family Crest**).  
+  - **Ice gloves** (speed up bar collection at Blast Furnace; requires level 50 Mining (boostable) and Ice Queen).  
+  - **Stamina potions**, **weight-reducing clothing**, **Ring of endurance** (to preserve run energy), **coal bag** (for non-gold Blast Furnace smelting).  
+  - **Smiths' Uniform** and **improved moulds** (for **Giants' Foundry** efficiency and XP).  
+- Key unlocks/transitions:
+  - Start **The Giant Dwarf** to access **Keldagrim/Blast Furnace**.  
+  - Complete **Family Crest** to use **goldsmith gauntlets** (huge XP/hr uplift on gold).  
+  - Obtain **ice gloves** and **coal bag** for optimal Blast Furnace performance.  
+  - In **Giants' Foundry**, buy **improved moulds** then **Smiths' Uniform** for better sword quality and XP; Foundry requires **Sleeping Giants** completion.  
+- Notes on technique/performance:
+  - Blast Furnace gold method: deposit ore to fill dispenser, smelt, equip **ice gloves** after each smelt to grab bars, bank, repeat; use **0-tick banking** and locked bank slots/placeholders for max efficiency.  
+  - Runners (1–3) drastically increase XP/hr (but are extremely costly and require tight coordination).  
+  - For non-gold bars at the Blast Furnace, recommended to use **coal bag**, **ice gloves**, and official worlds to maximize bars/hr and profit.

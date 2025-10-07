@@ -1,82 +1,39 @@
-Summary — efficient pay-to-play Mining training (methods, locations, level requirements)
+### Level 1–37
+Train on **quest rewards** or basic ores for fast early XP.
 
-General notes (equipment/boosts that matter)
-- Use the best pickaxe you can wield for fastest ticks between rolls (pickaxe tier reduces time between rolls but not success chance). Dragon/infernal/crystal are fastest tiers.
-- Infernal pickaxe (req. 61 Mining/85 Smithing to make): 1/3 chance to combust ore (reduces dropping, gives passive Smithing XP) — recommended for fastest methods (granite).
-- Crystal pickaxe (req. 71 Mining/50 Agility) is best for some methods but provides no benefit for 3-tick granite (tick manipulation bypasses normal pickaxe timing).
-- Prospector kit (full set = +2.5% Mining XP) — low time investment, optional.
-- Varrock armour (10% chance double ore) increases XP rates for iron, granite, amethyst (does NOT work in Motherlode, Blast Mine, Volcanic Mine, or on gem rocks).
-- Celestial ring (uncharged = +4 Mining boost) is useful for overall XP.
+- Main training methods: **Questing** (quest XP that can get you to 37) or **Copper/Tin** powermining (1–15).  
+- Important locations: **Lumbridge Swamp** (easy copper/tin).  
+- Notable equipment/items: **Best available pickaxe** (use highest-tier pickaxe you can).  
+- Key unlocks/transitions: Complete quests (**Doric's Quest**, **The Dig Site**, **Plague City**, **The Giant Dwarf**, **The Lost Tribe**, **Another Slice of H.A.M.**) to skip early grinding and unlock using an **adamant pickaxe** early.
 
-Fastest experience methods (level ranges, locations, requirements, notes)
-- Levels 1–37: Questing
-  - Complete quest XP rewards (Doric’s Quest, The Dig Site, Plague City, The Giant Dwarf, The Lost Tribe, Another Slice of H.A.M.) to reach level 37 quickly.
+### Level 15–60
+Iron is the primary fast-training method; tick-manipulation and pay-to-play options improve rates.
 
-- Levels 1–15: Copper/Tin
-  - Mine copper/tin anywhere; Lumbridge Swamp is convenient.
+- Main training methods: **Iron powermining** (drop ores); optional **tick manipulation** for higher rates.  
+- Important locations: **3-rock triangle spots** (e.g. **Legends' Guild mine**, **Al Kharid Mine**, **Piscatoris Mine**, **Isle of Souls**); **Mining Guild (pay-to-play)** becomes best from level 60.  
+- Notable equipment/items: **Best available pickaxe** (upgrade as you can), **Varrock armour 1+** (10% chance to mine 2 ores), **Celestial ring** (interactive +4 Mining boost).  
+- Key unlocks/transitions: At level 60 the **Mining Guild pay-to-play area** halves respawn time (better continuous mining); if you don’t plan to learn tick manipulation, consider continuing iron to level 70 before switching methods.
 
-- Levels 15–45/70: Iron ore (powermining / drop-mining)
-  - Recommended 15–45, or 15–70 if not using tick manipulation (iron is a strong AFK/fast option).
-  - Best spots: three-iron-rock triangle spots (allows mining all three without moving). 13 triangle locations:
-    - Legends' Guild mine
-    - Al Kharid mine
-    - Piscatoris mine
-    - Lovakengj mine
-    - Verdant Valley
-    - Mount Karuulm mine
-    - Resource Area (Wilderness level 51)
-    - South Mor Ul Rek mine
-    - Isle of Souls
-    - Sisterhood Sanctuary mine
-    - The Stranglewood mine
-    - Cam Torum mine
-    - Salvager Overlook Mine (east)
-  - If using tick manipulation, use Legends' Guild or Isle of Souls (4 iron rocks) for advanced 3-tick cycles.
-  - Mining Guild (pay-to-play area) becomes best from level 60 (halved respawn) — 70k–80k XP/hr possible at 60+ with good performance.
-  - XP rates: ~45k–55k XP/hr below level 60 (no tick manipulation); up to ~70k–80k/hr inside Mining Guild at 60+.
+### Level 45–99
+Top experience method for skilled players is 3-tick granite; requires setup and click precision.
 
-- Levels 45–99: Granite (3-tick granite, "3t4g")
-  - Level requirement: 45 to mine granite; method typically starts at 45.
-  - Best location: Bandit Camp Quarry (Quarry).
-  - Requirement/skill: Tick manipulation (3-tick cycle using swamp tar on a clean herb or other setup) — move between four granite rocks to maintain 3-tick.
-  - Desert heat protection required at Quarry (Desert amulet 4, Hitpoints cape + Regen bracelet, waterskins + Humidify, or Circlet of water).
-  - Recommended gear: Infernal pickaxe (reduces drops & gives Smithing XP), Varrock armour 2+ increases double-ore chance and Varrock 4 acts as prospector jacket.
-  - XP rates:
-    - At high efficiency and boosts: up to ~134k XP/hr at 99 (typical ~120k–125k/hr including mistakes).
-    - Without tick manipulation: ~63k XP/hr max (so 3-tick is worth learning for best times).
+- Main training methods: **3-tick granite (3t4g)** (fastest XP if you can tick-manipulate); otherwise standard granite or other alternatives below.  
+- Important locations: **Quarry (Bandit Camp Quarry)** for granite.  
+- Notable equipment/items: **Swamp tar + clean herb** (or equivalent) to set the 3-tick cycle, **Infernal pickaxe** recommended (ore combust chance reduces drops + grants Smithing XP), **Varrock armour 2+** (increases double-ore chance for granite), **Prospector kit** (small XP boost), **Celestial ring**.  
+- Key unlocks/transitions: Learn **tick manipulation** to effectively use granite; obtain **desert heat protection** (e.g. **Desert amulet 4**) to operate at the Quarry safely.
 
-Other notable methods (level ranges from TOC; brief)
-- Levels 30–99: Motherlode Mine
-  - Low-effort, profitable alternative (mine ore veins, deposit pay-dirt). Recommended for passive/profitable training; prospector kit relevant.
+### Level 30–99 (Alternative: Motherlode)
+A low-effort, profitable alternative suitable for long-term AFK-style training.
 
-- Levels 40–99: Gem rocks
-  - Mining gem rocks for gems; Varrock armour does NOT work on gem rocks.
+- Main training methods: **Motherlode Mine** (mine **ore veins**, deposit **pay-dirt** into the hopper/sifter).  
+- Important locations: **Motherlode Mine**.  
+- Notable equipment/items: **Prospector kit** (set bonus +2.5% Mining XP), **Celestial ring** recommended.  
+- Key unlocks/transitions: Accessible from mid levels (around 30); chosen for lower click intensity and profit instead of maximum XP.
 
-- Levels 41–99: Calcified rocks
-  - Alternative training method (higher-level content).
+### Level 40–99 (Other viable methods and endgame options)
+Multiple specialized methods exist for different playstyles (AFK, profitable, or very high XP).
 
-- Levels 60–99: Crashed stars
-  - Distraction/Divination-style activity providing Mining XP.
-
-- Levels 70–99: Volcanic Mine
-  - High-level minigame method (reward shop items like prospector kit pieces available).
-
-- Levels 70–99: Zalcano
-  - Group or solo activity that gives Mining-related rewards/XP.
-
-- Levels 75–99: Blast Mine
-  - Fast and profitable high-level training (different mechanics; rewards & points).
-
-- Levels 78–99: Infernal Shale
-  - High-level mining activity (requires level and special mechanics).
-
-- Levels 92–99: Amethyst
-  - Amethyst crystals are profitable and decent XP at level 92+; Varrock armour 4 works for amethyst.
-
-Quick recommendations for efficient training
-- If you want absolute fastest XP: learn 3-tick granite at the Quarry from level 45 (requires tick manipulation and practice). Use infernal pickaxe and Varrock armour where applicable.
-- If you want fast but easier XP: powermine iron at triangle spots (15–70) or in the Mining Guild from 60+.
-- If you want low-effort profitable XP: Motherlode Mine (30+), Blast Mine or Volcanic Mine at higher levels depending on rewards and playstyle.
-- Use prospector kit and celestial ring if available; Varrock armour when it applies to the method.
-
-If you want, I can produce a concise route/gear checklist for a chosen method (e.g., 3-tick granite setup, iron powermining triangle spots with banking options, or Motherlode Mine checklist).
+- Main training methods: **Gem rocks** (fast XP on gem nodes), **Calcified rocks**, **Crashed stars**, **Volcanic Mine** (high XP minigame, requires practice), **Zalcano** (group/solo minigame), **Blast Mine** (from 75, high profit/xp with mechanics), **Infernal Shale** (high-rate method from 78), **Amethyst** (mine amethyst from 92).  
+- Important locations: **Volcanic Mine**, **Zalcano**, **Blast Mine**, **Crashes/Crashed Star sites**, **Amethyst mine**, various **gem rock** locations.  
+- Notable equipment/items: **Crystal pickaxe** (strong for many methods if you can afford shards), **Infernal pickaxe**, **Prospector kit**, **Varrock armour 4** (works for amethyst and grants double-ore chance where applicable), **Expert mining gloves** for amethyst.  
+- Key unlocks/transitions: At **70+** you unlock **Volcanic Mine** and **Zalcano** viability; **75** opens **Blast Mine**; **78** enables **Infernal Shale**; **92** unlocks **Amethyst** mining.

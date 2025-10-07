@@ -1,73 +1,33 @@
-Summary (key training methods, locations, and level requirements)
+### Level 1–20
+Train Defence by engaging in **melee combat** on low‑level monsters appropriate for your Attack/Strength.  
+- Main training methods: **melee on low‑level monsters** (safe, fast kills to build Defence and Hitpoints).  
+- Important locations: **Stronghold of Security** (early safe areas and boot rewards).  
+- Notable equipment/items: **fighting/fancy boots** (Stronghold rewards), basic scimitars (bronze → black/mithril as available), **amulet of accuracy** if you lack stronger amulets.  
+- Key unlocks/transitions: Work toward higher Attack/Strength so you can equip better weapons and armour.
 
-Important training guidance
-- Use the best scimitar you can equip — scimitars have the highest DPS in F2P. Prioritise getting Attack 40 to use the rune scimitar as soon as possible.
-- Prioritise Strength to increase max hit (and DPS); Attack increases accuracy. The aggressive attack style gives a hidden +3 Strength boost.
-- Use the Amulet of Strength or Amulet of Power when available to raise max hit/accuracy (amulet choice depends on Strength level and attack style).
-- Wear full melee armour vs melee-using monsters; wear ranged armour vs magic-using monsters. Chainbody is preferable vs crush attacks.
-- If you want both experience and survivability while training Defence, equip the best defensive pieces you can wear for your Defence level (see equip levels below).
+### Level 20–40
+Continue melee training on mid‑level monsters; prioritise reaching Attack 40.  
+- Main training methods: **melee on mid‑level monsters** with steady kills (keep food to compensate for lower Defence).  
+- Important locations: low‑to‑mid level dungeons and monster camps appropriate to your combat stats (use areas where monsters match your Attack/Strength).  
+- Notable equipment/items: upgrade weapons (e.g. **adamant scimitar** if available), **amulet of power**/**amulet of strength** (choose by which gives higher max hit/accuracy), better plate/chain options as Defence allows.  
+- Key unlocks/transitions: **Attack 40** — unlocks the **rune scimitar** (best DPS in f2p); aim to switch to rune scimitar when possible.
 
-Relevant locations mentioned
-- Stronghold of Security — initial melee boots (Fancy/Fighting boots) can be reclaimed; good for early tanking.
-- Castle Wars — obtain decorative boots (red/white/gold) for improved defence (+ gold boots give +1 Strength).
-- Ruins of Camdozaal — runecrafting golems (Barronite mace has a special effect against them).
-- Demonic Ruins — (listed as an alternative training spot for Greater demons in the full guide).
+### Level 40–60
+Use the rune scimitar and improve armour to tank more hits while training Defence.  
+- Main training methods: **melee on higher HP/mid‑level monsters** for consistent Defence and Hitpoints XP (prioritise sustained fights to maximise Defence gains).  
+- Important locations: training areas with monsters of appropriate strength (and minimal risk) or alternative higher‑XP areas such as **Demonic Ruins** for **Greater demons** (higher level).  
+- Notable equipment/items: **Rune scimitar**, **amulet of strength** or **amulet of power** (whichever yields better max hit/accuracy), **rune chainbody/platebody** and **rune kiteshield** once Defence allows (40 Defence items), **decorative boots (red/white/gold)** as optional upgrades via **Castle Wars**.  
+- Key unlocks/transitions: **Defence 40** / **Attack 40** gear tiers — equips full rune pieces and rune kiteshield; switch permanently to rune scimitar for best DPS.
 
-Specific level / requirement list (equip/use)
-- Weapons:
-  - Rune scimitar: Attack 40 (best DPS weapon for F2P melee).
-  - Barronite mace: Attack 40 (special golembane effect vs runecrafting golems).
-  - Adamant scimitar: Attack 30.
-  - Mithril scimitar: Attack 20.
-  - Black scimitar: Attack 10.
-- Neck / amulet:
-  - Amulet of Strength: provides +10 melee strength bonus.
-    - To craft/obtain by enchanting: requires Crafting 50 and Magic 49 to make/Enchant a ruby amulet (as referenced).
-  - Amulet of Power: provides +6 melee strength bonus.
-    - To craft/obtain by enchanting: requires Crafting 70 and Magic 57 to make/Enchant a diamond amulet (as referenced).
-  - Amulet of Accuracy: quest reward (weaker, no strength bonus).
-- Head:
-  - Rune full helm / Rune god full helm: Defence 40.
-  - Adamant full helm: Defence 30.
-  - Mithril full helm: Defence 20.
-  - Black full helm: Defence 10.
-  - Steel full helm: Defence 5.
-- Body:
-  - Rune platebody / Rune god platebody: Defence 40 (note: rune platebody requires Dragon Slayer I to wear).
-  - Adamant platebody/decorative gold platebody: Defence 30.
-  - Mithril platebody: Defence 20.
-  - Black platebody: Defence 10.
-  - Steel platebody: Defence 5.
-  - Rune chainbody: Defence 40 (better vs crush).
-  - Adamant chainbody: Defence 30.
-  - Mithril chainbody: Defence 20.
-  - Black chainbody: Defence 10.
-  - Steel chainbody: Defence 5.
-- Legs:
-  - Rune plateskirt / Rune plateskirt (god): Defence 40.
-  - Adamant plateskirt / decorative gold platelegs: Defence 30.
-  - Mithril plateskirt: Defence 20.
-  - Black plateskirt: Defence 10.
-  - Studded chaps (Ranged item): Ranged 20 (alternative).
-- Shield:
-  - Rune kiteshield / Rune god kiteshield: Defence 40.
-  - Adamant kiteshield / decorative gold shield: Defence 30.
-  - Mithril kiteshield: Defence 20.
-  - Black kiteshield: Defence 10.
-  - Steel kiteshield: Defence 5.
-- Hands:
-  - Gilded d'hide vambraces: Ranged 40 (best slot if available).
-  - Leather vambraces / leather gloves: no Defence requirement; useful early until higher-tier gloves are available.
-- Feet:
-  - Decorative boots (gold): Defence 30 (+1 Strength).
-  - Decorative boots (white): Defence 20.
-  - Decorative boots (red): Defence 5.
-  - Fancy / Fighting boots: no Defence requirement (awarded by Stronghold of Security).
-  - Leather boots: no requirement.
+### Level 60+
+Focus on efficient, higher‑XP melee targets and AFK‑friendly spots; consider alternative methods for fast gains.  
+- Main training methods: **melee on high‑HP or high‑XP monsters** (sustained fights, AFKable where available) and special high‑XP targets like **Greater demons** for experienced players.  
+- Important locations: **Demonic Ruins** (Greater demons), minigame hubs for gear (e.g., **Castle Wars** for decorative boots), and safe PvM locations suited to your stats.  
+- Notable equipment/items: best free‑to‑play armour set (**rune plate/chainbody**, **rune kiteshield**, **rune scimitar**), **amulet of strength/amulet of power**, **decorative boots** (red/white/gold) for defence/strength upgrades, **gilded d'hide vambraces** only if you have 40 Ranged (otherwise leather/green d'hide/Leather gloves).  
+- Key unlocks/transitions: prioritise keeping Attack, Strength, and Defence within ~10 levels of each other for balanced melee performance; use **amulet choices** and **attack style** (aggressive adds hidden Strength) to maximize max hit when training Strength vs Defence.  
 
-Other mechanics & notes
-- Aggressive attack style grants an effective +3 Strength to damage calculations.
-- Amulet bonuses: amulet of power vs amulet of strength trade accuracy vs higher strength bonus — choose based on which gives higher max hit/accuracy at your Strength and attack style.
-- Gold decorative boots give a +1 Strength bonus but require significant time/tickets from Castle Wars; not necessary for efficient training.
-
-If you want a concise level-by-level training spot list (e.g., monsters/areas to kill per level range), provide the rest of the melee guide text or request the specific level bracket and I’ll extract the recommended training locations and monster targets for that bracket.
+### Alternative / utility options (across levels)
+- Main methods: hybrid experience + profit or alternative XP spots via minigames/alternative accounts.  
+- Important locations: **Castle Wars** (decorative boots), **Clan Wars** / **Castle Wars** alternative accounts for safe training, **Ruins of Camdozaal** (special-case targets like golems) — note **barronite mace** is useful vs certain golems.  
+- Notable items: **barronite mace** (situational), **holy symbol** (Prayer bonus utility), **amulet of accuracy** as a cheap interim amulet.  
+- Key transitions: use minigames or alternate accounts to obtain defensive gear (boots/shields) or to access high‑XP targets safely.

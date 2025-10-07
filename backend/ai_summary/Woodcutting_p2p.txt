@@ -1,69 +1,47 @@
-Summary — key Woodcutting (members) training methods, locations, and level requirements
+### Level 1+
+- Main training methods: **drop logs** for maximum XP (use shift-click or tap-to-drop).
+- Important locations: **Woodcutting Guild** (bank chest for high‑level logs), general popular tree spots for **Forestry events** (see world list below).
+- Notable equipment/items: **best axe available** (upgrade as you level), **felling axes** (use with **Forester's rations**), **Lumberjack outfit** / **Forestry outfit**, **log basket** (optional).
+- Key unlocks/transitions: Acquire **felling axes** from the Grand Exchange; create **crystal felling axe** after **Song of the Elves**; obtain **Lumberjack outfit** via Temple Trekking and **Forestry outfit** via Forestry events.
 
-- Questing (fast early XP)
-  - Levels: 1 → 26
-  - Method: Complete Monk's Friend, Enlightened Journey, Icthlarin's Little Helper, and Recipe for Disaster (Skrach Uglogwee) — totals ~9,000 WC XP (1→26).
+### Level 1–26 (Questing)
+- Main training methods: **complete quests** that grant Woodcutting XP.
+- Important locations: quest start points (varies by quest).
+- Notable equipment/items: any axe; quest rewards provide XP so no special items needed.
+- Key unlocks/transitions: Complete **Monk's Friend**, **Enlightened Journey**, **Icthlarin's Little Helper**, and the **Skrach Uglogwee** subquest of **Recipe for Disaster** to reach level 26 from level 1.
 
-- Regular trees
-  - Levels: 1–15
-  - Location: any low-level tree spots (common everywhere)
-  - Notes: 25 XP per log; use until level 15.
+### Level 1–15
+- Main training methods: **cut regular trees** (drop logs for fastest XP).
+- Important locations: common tree areas near **Lumbridge** and starter zones.
+- Notable equipment/items: basic axe (bronze → iron, etc.).
+- Key unlocks/transitions: at level 15 you can move to **oak trees**.
 
-- Oak trees
-  - Levels: 15–35
-  - Location: common oak spots (various bankside locations)
-  - Notes: 37.5 XP per log; faster than normal trees from 15.
+### Level 15–35
+- Main training methods: **cut oak trees** (fastest XP in this range; still better than willows until ~35).
+- Important locations: general oak spawns across Gielinor (near banks for convenience).
+- Notable equipment/items: upgrade axe as available; consider **Lumberjack outfit** later.
+- Key unlocks/transitions: at level 30 **willows** become available but **oak** remains slightly faster here; at level 35 **teak** unlocked.
 
-- Willow trees
-  - Level available: 30+
-  - Note: Willow becomes available at 30 but oak is slightly faster in 30–35 range.
+### Level 35–99 (Teak)
+- Main training methods: **cut teak trees** — best when using **tick manipulation** (1.5‑tick or 2‑tick methods). Without tick manipulation, cut teaks up to level 65 then consider switching.
+- Important locations: **Fossil Island** (planted teaks for 1.5‑tick), **Ape Atoll** / **Isle of Souls** / **Prifddinas** (2‑tick setups).
+- Notable equipment/items: **best felling axe** available (dragon felling axe → **crystal felling axe** when accessible), **Forester's rations**, **Forestry / Lumberjack outfit**, **Lightbearer** + **Dragon axe** special (for temporary level boosts).
+- Key unlocks/transitions: access to **planted teaks** on **Fossil Island** and 1.5‑tick method (fastest overall); if not using tick manipulation, switch to **sulliuscep** at level 65 for faster XP.
 
-- Teak trees
-  - Levels: 35–99 (fastest with tick-manipulation; without tick-manipulation effective up to ~65)
-  - Locations:
-    - Fossil Island (planted teak patches) — best for 1.5-tick method
-    - Ape Atoll, Isle of Souls, Prifddinas — used for 2-tick method (Prifddinas gives crystal shards)
-  - Requirements: Fossil Island access (Bone Voyage) for planted teaks; tick-manipulation setups for 1.5-tick.
-  - Notes: 1.5-tick on Fossil Island = top XP (up to ~230k–255k XP/hr at 99 with crystal felling axe). 2-tick is slightly slower but less intensive. Without tick methods, teaks are best until ~65, then switch to sulliuscep.
+### Level 62–90 (Blisterwood)
+- Main training methods: **cut the blisterwood tree** in **Darkmeyer** for low‑effort, semi‑AFK XP.
+- Important locations: **Darkmeyer** (requires partial completion of **Sins of the Father**).
+- Notable equipment/items: axe upgrades (crystal felling axe improves rates), **Forester's rations** recommended.
+- Key unlocks/transitions: accessible at level 62; method is afk‑friendly and never depletes (has intermittent pause mechanic).
 
-- Sulliuscep (mushroom tree)
-  - Levels: 65–99 (recommended after ~65 if not tick-manipulating)
-  - Location: Tar Swamp, Fossil Island (southwest); only one choppable sulliuscep spawns at a time per player
-  - Requirements: Bone Voyage (Fossil Island)
-  - Notes: Low-effort, high non-tick XP; designated world: 321 (fewer players preferred). Wear Lumberjack outfit for best XP.
+### Level 65–99 (Sulliuscep)
+- Main training methods: **cut sulliusceps** on **Fossil Island** (fastest non‑tick method).
+- Important locations: **Fossil Island — Tar Swamp** (one choppable sulliuscep spawns; world 321 commonly used).
+- Notable equipment/items: **dragon / crystal axe**, **Lumberjack outfit**, **regen bracelet**, **Hitpoints cape** (for sustain); bring antipoison/food if needed.
+- Key unlocks/transitions: requires **Bone Voyage** to access Fossil Island; recommended switch from teaks at level 65 if not using tick manipulation.
 
-- Blisterwood tree
-  - Levels: 62–90 (viable low-effort alternative from 62)
-  - Location: Darkmeyer
-  - Requirements: Partially completed Sins of the Father
-  - Notes: Never depletes; 1/10 stop-cut chance enabling AFK training; decent XP (~69k–86k XP/hr with crystal axe + rations).
-
-- Redwood trees
-  - Levels: ~88/89/90–99 (can be cut reliably from 88 using Dragon axe special + Preserve; level 89 removes some requirements)
-  - Locations: Woodcutting Guild (bank chest nearby); Farming Guild redwoods also usable (1.5t possible)
-  - Notes: AFK-friendly; drop or bank logs. With crystal axe + 1.5t (Farming Guild), can reach up to ~180k XP/hr; typical non-1.5t rates ~55k–75k XP/hr depending on axe.
-
-- Forestry events
-  - Levels: any (dependent on tree type being cut)
-  - Locations / recommended worlds: official forestry worlds 388, 444, 487, 510
-  - Popular chopping spots during events: Willows south of Draynor bank; Maples in Mistrock (near Aldarin); Maples north of Seers' bank; Yews in Mistrock and Seers'/Prifddinas; Teaks on Isle of Souls and Prifddinas (NE); Magics in Myths' Guild and Hosidius
-  - Notes: Events spawn while collecting logs (not regular/hollow/WCG trees); boosts XP and provides anima-infused bark rewards.
-
-Equipment/access notes (short)
-- Axe required (equipped or inventory). Felling axes + Forester's rations give 10% extra WC XP and restore run energy.
-- Crystal felling axe (best) requires Song of the Elves to make; dragon felling axe useful mid-levels.
-- Forestry outfit / Lumberjack outfit give ~2.5% bonus XP per log.
-- For tick methods: use best available axe, forester's rations, and appropriate tick setups (1.5-tick = Fossil Island planted teaks; 2-tick = auto-retaliate method on Ape Atoll / Isle of Souls / Prifddinas).
-
-Quick level thresholds (at-a-glance)
-- 1: start
-- 1–15: regular trees
-- 15: oak
-- 30: willow available
-- 35: teak (start tick methods here)
-- 62: blisterwood accessible
-- 65: sulliuscep optimal (non-tick)
-- 71+: crystal axe/felling usage thresholds noted for max efficiency
-- 88–90: redwoods usable (special attack / boost considerations apply)
-
-If you want, I can convert this into a quick training route (levels and locations mapped step-by-step) for fastest XP.
+### Level 88–99 (Redwood)
+- Main training methods: **cut redwood trees** (low attention, bankable or drop logs for max XP); 1.5‑tick redwood cutting in Farming Guild for high rates if desired.
+- Important locations: **Woodcutting Guild** (bank chest), **Farming Guild** redwood patches.
+- Notable equipment/items: **infernal / dragon / crystal axe** (crystal gives highest rates), **Lumberjack / Forestry outfits**, **Dragon axe special** + **Lightbearer** + **Preserve** to reliably cut redwoods.
+- Key unlocks/transitions: redwoods reliably cut from level 88; at ~89 the Dragon axe special interaction with Lightbearer/Preserve changes usage requirements.
