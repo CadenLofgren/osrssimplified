@@ -140,32 +140,32 @@ speed
 (experience per hour). At current prices:
 Oak planks
 cost
-390 coins
+379 coins
 each and grant 60 XP when used in a POH (
-6.5 coins
+6.32 coins
 per XP).
 Mahogany planks
 cost
-1,980 coins
+1,938 coins
 each and grant 140 XP when used in a POH (
-14.14 coins
+13.84 coins
 per XP).
 Assuming the best and most efficient training methods you are capable of are:
 550,000 XP per hour with oak planks (9166 planks per hour)
 1,100,000 XP per hour with mahogany planks (7856 planks per hour)
 Then the total investment required to gain 1.1 million XP is either:
 2 hours with oak planks, at a cost of
-7,149,480 coins
+6,947,828 coins
 for 18332 planks plus
 954,792 coins
 for servants.
 1 hour with mahogany planks, at a cost of
-15,554,880 coins
+15,224,928 coins
 for 7856 planks plus
 409,167 coins
 for servants.
 That means in order to save 1 hour of time, it costs
-7,859,775 coins
+7,731,475 coins
 . This would only ever be worthwhile if you can feasibly earn
 more
 than this amount per hour with your time, or simply prefer doing other activities enough to accept the cost associated with saving that time.
@@ -205,25 +205,25 @@ Cost per XP
 15–83
 Oak plank
 44,512
-−17,359,680
--6.50
+−16,870,048
+-6.32
 50–83
 Teak plank
 and
 Mythical cape
 20,853
-−18,079,551
--7.03
+−17,766,756
+-6.91
 52–83
 Mahogany plank
 18,211
-−36,057,780
--14.14
+−35,292,918
+-13.84
 66–83
 Teak plank
 28,576
-−24,775,392
--9.63
+−24,346,752
+-9.47
 The table below shows the costs to obtain level 99.
 Level
 Type
@@ -233,25 +233,25 @@ Cost per XP
 15–99
 Oak plank
 217,201
-−84,708,390
--6.50
+−82,319,179
+-6.32
 50–99
 Teak plank
 and
 Mythical cape
 104,865
-−90,917,955
--7.03
+−89,344,980
+-6.91
 52–99
 Mahogany plank
 92,214
-−182,583,720
--14.14
+−178,710,732
+-13.84
 66–99
 Teak plank
 139,314
-−120,785,238
--9.63
+−118,695,528
+-9.47
 Fastest experience
 Passive experience
 Experience gained through non-Construction activities can be considered "free" and help skip early levels:
@@ -306,7 +306,7 @@ Steel nails
 Plank
 , ~20
 Steel nails
-−7,080
+−7,160
 4–9
 693
 Wooden bookcase
@@ -321,7 +321,7 @@ Steel nails
 Plank
 , ~56
 Steel nails
-−9,972
+−10,090
 9–15
 1,442
 Wooden larder
@@ -336,7 +336,7 @@ Steel nails
 Plank
 , ~112
 Steel nails
-−18,204
+−18,266
 15–16
 335
 Repair bench
@@ -347,7 +347,7 @@ Oak plank
 3
 6
 Oak plank
-−2,340
+−2,274
 16–22
 2,878
 Crafting table 1
@@ -358,7 +358,7 @@ Oak plank
 12
 48
 Oak plank
-−18,720
+−18,192
 22–31
 9,209
 Oak dining table
@@ -369,7 +369,7 @@ Oak plank
 39
 156
 Oak plank
-−60,840
+−59,124
 31–33
 3,414
 Carved oak table
@@ -380,7 +380,7 @@ Oak plank
 10
 60
 Oak plank
-−23,400
+−22,740
 1–33
 18,247
 94
@@ -390,7 +390,7 @@ Oak plank
 ,
 and ~188
 Steel nails
-−138,576
+−135,982
 Levels 33–52/74: Oak larders
 From level 33 to 52, build
 oak larders
@@ -417,14 +417,14 @@ Cost per XP
 Oak larder
 220
 1,760
-−686,400
+−667,040
 −91,667
--7.37
+-7.18
 [
 b 1
 ]
 /
--6.50
+-6.32
 [
 b 2
 ]
@@ -432,7 +432,7 @@ b 2
 1,078,031
 2,246
 17,968
-−7,007,520
+−6,809,872
 −935,833
 ^
 Cost per XP with servant.
@@ -549,14 +549,14 @@ Cost per XP
 Mahogany table
 1,610
 9,660
-−19,126,800
+−18,721,080
 −503,125
--14.51
+-14.21
 [
 c 1
 ]
 /
--14.14
+-13.84
 [
 c 2
 ]
@@ -564,14 +564,14 @@ c 2
 12,910,771
 15,370
 92,220
-−182,583,720
+−178,710,732
 −4,802,813
 77–99
 11,558,850
 Gnome bench
 13,761
 82,566
-−163,480,680
+−160,012,908
 −4,300,313
 ^
 Cost per XP with servant.
@@ -629,11 +629,11 @@ supply crates
 run energy
 to 100% after completing the contract.
 Estimated costs for this training method are
--2.18
+-2.12
 GP/XP for Novice contracts,
--3.13
+-3.08
 GP/XP for Adept contracts, and
--5.82
+-5.70
 GP/XP for Expert contracts (see chart below).
 Levels
 Tier
@@ -651,8 +651,8 @@ Beginner
 375–575
 500–700
 ~24
-−120,006
-−127,356
+−119,490
+−126,790
 20
 Novice
 80,000–95,000
@@ -660,8 +660,8 @@ Novice
 450–545
 625–780
 ~32
-−167,924
-−187,424
+−163,810
+−182,760
 50
 Adept
 130,000–150,000
@@ -669,8 +669,8 @@ Adept
 475–520
 565–700
 ~36
-−380,941
-−424,291
+−374,865
+−417,465
 70
 Expert
 185,000–210,000
@@ -678,8 +678,8 @@ Expert
 475–555
 625–725
 ~40
-−930,290
-−1,078,790
+−911,169
+−1,056,519
 Levels
 Tier
 Item
@@ -696,36 +696,36 @@ Plank
 9.7
 0.5
 865.01
--3.61
+-3.60
 874.14
--3.57
+-3.56
 20
 Novice
 Oak plank
 9.84
 0.5
 1,887.44
--2.18
+-2.12
 1,903.38
--2.16
+-2.11
 50
 Adept
 Teak plank
 11.5
 0.5
 3,275.58
--3.13
+-3.08
 3,301.22
--3.10
+-3.05
 70
 Expert
 Mahogany plank
 12.71
 0.5
 4,373.37
--5.82
+-5.70
 4,413.95
--5.76
+-5.64
 Levels 50–99: Mounted mythical capes
 Mounted mythical capes
 are a cheaper alternative to mahogany or other teak furniture. They require 3 teak planks each along with a
@@ -753,14 +753,14 @@ Cost per XP
 Mounted mythical cape
 1,068
 3,204
-−2,777,868
+−2,729,808
 −166,875
--7.45
+-7.33
 [
 e 1
 ]
 /
--7.03
+-6.91
 [
 e 2
 ]
@@ -768,7 +768,7 @@ e 2
 12,933,098
 34,955
 104,865
-−90,917,955
+−89,344,980
 −5,461,719
 ^
 Cost per XP with servant.
@@ -794,14 +794,14 @@ Cost per XP
 Teak garden bench
 319
 1,914
-−1,659,438
+−1,630,728
 −99,688
--10.21
+-10.05
 [
 f 1
 ]
 /
--9.63
+-9.47
 [
 f 2
 ]
@@ -809,13 +809,13 @@ f 2
 600,024
 1,112
 6,672
-−5,784,624
+−5,684,544
 −347,500
 66–99
 12,538,177
 23,219
 139,314
-−120,785,238
+−118,695,528
 −7,255,938
 ^
 Cost per XP with servant.
@@ -857,14 +857,14 @@ Cost per XP
 Oak dungeon door
 19,897
 198,970
-−77,598,300
+−75,409,630
 −9,948,500
--7.33
+-7.15
 [
 g 1
 ]
 /
--6.50
+-6.32
 [
 g 2
 ]

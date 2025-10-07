@@ -2341,7 +2341,7 @@ High HP (23 HP for 92 melee experience per kill), low defence, and they deal lit
 Always drops
 big bones
 which can be sold for guaranteed profit (
-278
+292
 ) or used for
 Prayer
 experience while training.
@@ -2585,7 +2585,7 @@ Disadvantages
 They always drop
 cowhide
 , which can either be sold to the Grand Exchange for profit (
-245
+234
 ) or be used to train
 Crafting
 .
@@ -2703,15 +2703,15 @@ bone fragments
 , which can either charge the
 skull sceptre (i)
 or be sold on the Grand Exchange for
-700
+707
 each (
-2,100
+2,121
 per right skull halves, or
-700
+707
 more for each tier of the
 Varrock Diary
 completed up to
-4,900
+4,949
 with all tiers of the Varrock Diary completed).
 They have access to the
 gem drop table
@@ -2816,7 +2816,7 @@ High HP (23), low defence, and they deal little damage.
 Always drops
 big bones
 which can be sold for guaranteed profit (
-278
+292
 ) or used for
 Prayer
 experience while training.
@@ -2856,7 +2856,7 @@ Decently high HP for level (35).
 They have decent profitable drops for lower-level players such as
 limpwurt roots
 (
-308
+316
 ) and they have access to the
 gem drop table
 that rarely drop
@@ -2869,7 +2869,7 @@ Obor
 , who also has good drops and a chance of dropping the valuable
 hill giant club
 (
-1,175,373
+1,151,142
 ).
 They sometimes drop
 law runes
@@ -2885,7 +2885,7 @@ death runes
 Always drop
 big bones
 which can be sold for guaranteed profit (
-278
+292
 ) or used for
 Prayer
 experience while training.
@@ -2922,7 +2922,7 @@ Level 42 hobgoblins have high HP of 49 but they are stronger than their level 28
 They have decent profitable drops for lower-level players as they very commonly drop
 limpwurt roots
 (
-308
+316
 ) and they have access to the
 gem drop table
 that rarely drop
@@ -2992,11 +2992,11 @@ Bryophyta
 , who also has good alchable drops. Additionally, Bryophyta can rarely drop its
 essence
 (
-10,023,768
+9,883,786
 ) which can be crafted into
 Bryophyta's staff
 (
-10,001,274
+10,123,239
 ) by bringing the essence and
 50,000
 to
@@ -3007,7 +3007,7 @@ Varrock
 Always drops
 big bones
 which can be sold for guaranteed profit (
-278
+292
 ) or used for
 Prayer
 experience while training.
@@ -3076,7 +3076,7 @@ death runes
 Always drops
 big bones
 which can be sold for guaranteed profit (
-278
+292
 ) or used for
 Prayer
 experience while training.
@@ -3226,7 +3226,7 @@ shaman mask
 (
 4,800
 ) but it could sell at the Grand Exchange for
-14,345
+16,579
 .
 Often drops a good variety of
 runes
@@ -3321,7 +3321,7 @@ vile ashes
 that give 25 Prayer XP per kill or can be sold on the
 Grand Exchange
 for
-93
+75
 each.
 Drops, while still decent, are not as amazing as ogresses' or greater demons' drops.
 Without praying or prayer flicking Protect from Melee, they can hit up to a maximum damage of 8.
@@ -3363,7 +3363,7 @@ law runes
 and commonly drops
 black robes
 (
-818
+811
 ),
 adamant arrows
 ,
@@ -3384,15 +3384,15 @@ bone fragments
 , which can either charge the
 skull sceptre (i)
 or be sold on the Grand Exchange for
-700
+707
 each (
-3,500
+3,535
 per left skull halves, or
-700
+707
 more for each tier of the
 Varrock Diary
 completed up to
-6,300
+6,363
 with all tiers of the Varrock Diary completed).
 They have access to the
 gem drop table

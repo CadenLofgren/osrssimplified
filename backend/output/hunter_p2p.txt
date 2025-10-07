@@ -28,9 +28,9 @@ Levels 9–13: Feldip weasels
 3.2
 Levels 13–25: Desert devils
 3.3
-Levels 25–37: Sapphire glacialis
+Levels 25–39: Sapphire glacialis
 3.4
-Levels 37–43: Swamp lizards
+Levels 39–43: Embertailed jerboas
 3.5
 Levels 43–49: Falconry
 3.6
@@ -46,7 +46,7 @@ Other methods
 4.1
 Levels 35–99: Aerial Fishing
 4.2
-Levels 40-59: Embertailed jerboas
+Levels 37–43: Swamp lizards
 4.3
 Levels 47–59: Orange salamanders
 4.4
@@ -419,10 +419,10 @@ Players can optionally bank the fish caught for 5 numulites per full net. This w
 raw lobsters
 starting to be caught at level 50.
 The experience rates in the table below assume 1,150 fish shoal caught per hour. Expect slightly lower rates if banking the fish. The experience per fish shoal scales until level 70 Hunter and Fishing.  With good practice, it is possible to catch up to 1,200–1,250 fish shoal per hour. Buying the drift nets on the Grand Exchange would cost
-338,905 coins
+330,855 coins
 per hour.
 From level 44 to 99 Hunter, the player will gain 9,842,153 Fishing experience if starting at level 47 Fishing. This would require 12,944 drift nets, which would cost
-−38,145,968
+−37,239,888
 .
 Level
 XP/shoal
@@ -437,9 +437,9 @@ Total
 60,145
 53,130
 113,275
--5.63
--6.38
--2.99
+-5.50
+-6.23
+-2.92
 50
 50
 62.5
@@ -447,9 +447,9 @@ Total
 71,875
 57,500
 129,375
--4.72
--5.89
--2.62
+-4.60
+-5.75
+-2.56
 55
 55
 71.5
@@ -457,9 +457,9 @@ Total
 82,225
 64,745
 146,970
--4.12
--5.23
--2.31
+-4.02
+-5.11
+-2.25
 60
 60
 81.0
@@ -467,9 +467,9 @@ Total
 93,150
 72,450
 165,600
--3.64
--4.68
--2.05
+-3.55
+-4.57
+-2.00
 65
 65
 91.0
@@ -477,9 +477,9 @@ Total
 104,650
 80,270
 184,920
--3.24
--4.22
--1.83
+-3.16
+-4.12
+-1.79
 70
 70
 101.5
@@ -487,9 +487,9 @@ Total
 116,725
 88,550
 205,275
--2.90
--3.83
--1.65
+-2.83
+-3.74
+-1.61
 Fastest active training methods
 Use
 Hunter potions
@@ -510,18 +510,12 @@ butterfly net
 to catch
 butterflies
 at levels 25–37.
-Small fishing nets
-and
-ropes
-for
-net trapping
-at levels 37–43.
+Box traps
+to catch embertailed jerboas at levels 37–43 and chinchompas at level 73.
 500
 for
 Falconry
 fee at levels 43–49
-Box traps
-to catch chinchompas starting at level 73.
 Levels 9–13: Feldip weasels
 Location of the feldip weasels.
 From level 9 to 13, catch
@@ -557,8 +551,8 @@ and a
 ring of pursuit
 , and inspect one of the burrows to start tracking a kebbit. Attack the bush at the end of the tracks to catch the kebbit, and inspect a nearby burrow again.
 Players can gain around 18,500 experience per hour.
-Levels 25–37: Sapphire glacialis
-From level 25 to 37, catch
+Levels 25–39: Sapphire glacialis
+From level 25 to 39, catch
 sapphire glacialis
 at
 Mons Gratia
@@ -569,20 +563,12 @@ to avoid clicking the other butterflies and mark the spawn tiles. Catching these
 From level 35 onwards unequip your butterfly net (if not using a
 magic butterfly net
 ) for slightly better catch rates.
-Levels 37–43: Swamp lizards
-From level 37 to 43, catch swamp lizards north-west of
-Slepe
-. Trapping lizards requires a
-rope
-and
-small fishing net
-for each trap. Two traps can be set at levels 29–39, and three traps can be set beginning at level 40. Drop the swamp lizards as soon as possible to reduce run energy consumption. Wearing
-weight-reducing clothing
-may be useful for maintaining run energy.
-Even though swamp lizards become available at level 29, sapphire glacialis offer slightly faster experience rates before three traps are available.
-Players can gain around 20,000–28,000 experience per hour at levels 29–37. With three traps, the experience rates are increased to around 40,000–45,000 experience per hour. Upon reaching level 37, it is strongly recommended to bring four
-hunter potions
-to boost the Hunter level to be able to set three traps.
+Levels 39–43: Embertailed jerboas
+From level 39 to 43, catch
+embertailed jerboas
+at
+Locus Oasis
+. Fairy ring AJP is right next to the hunter area. With 3 traps you can reach 50,000 experience per hour.
 Levels 43–49: Falconry
 Ideal spotted kebbit training area with three spawn points in the south-eastern corner.
 From level 43 to 49, catch
@@ -785,39 +771,39 @@ XP/h
 GP/h
 73
 157,000
-1,238,057
+1,284,410
 145,000
-1,143,429
+1,186,238
 75
 164,000
-1,293,257
+1,341,676
 151,000
-1,190,743
+1,235,324
 80
 197,000
-1,553,486
+1,611,648
 167,000
-1,316,914
+1,366,219
 85
 214,000
-1,687,543
+1,750,724
 182,000
-1,435,200
+1,488,933
 90
 233,000
-1,837,371
+1,906,162
 197,000
-1,553,486
+1,611,648
 95
 251,000
-1,979,314
+2,053,419
 213,000
-1,679,657
+1,742,543
 99
 265,000
-2,089,714
+2,167,952
 225,000
-1,774,286
+1,840,714
 Northern spawn tiles
 Centre spawn tiles
 Southern spawn tiles
@@ -1137,26 +1123,19 @@ Fish sack
 , and the
 golden tench
 .
-Levels 40-59: Embertailed jerboas
-Embertailed jerboas
-can be found in a large cluster west of the
-Hunter Guild
-. With 3 or more
-box traps
-, they can be caught as fast as the traps can be checked and reassembled. Assuming 8 seconds between experience drops, players can earn as much as 61,650 experience per hour, though 7 second rotations (70,000 experience per hour) may be possible as well.
-Unlike
-salamanders
+Levels 37–43: Swamp lizards
+At levels 37 to 43 players can catch swamp lizards north-west of
+Slepe
+. Trapping lizards is less click intensive than box traps. You need a
+rope
 and
-chinchompas
-,
-embertailed jerboas
-can't evade
-box traps
-, reducing the number of clicks and making experience gains more consistent. Additionally,
-embertailed jerboas
-only drop
-jerboa tails
-, which are stackable, removing the need to drop, bank, or otherwise periodically clear inventory space.
+small fishing net
+for each trap. Two traps can be set at levels 29–39, and three traps can be set beginning at level 40. Drop the swamp lizards as soon as possible to reduce run energy consumption. Wearing
+weight-reducing clothing
+may be useful for maintaining run energy.
+Players can gain around 20,000–28,000 experience per hour at levels 29–37. With three traps, the experience rates are increased to around 40,000–45,000 experience per hour. Upon reaching level 37, it is strongly recommended to bring four
+hunter potions
+to boost the Hunter level to be able to set three traps.
 Levels 47–59: Orange salamanders
 Catching
 orange salamanders
@@ -1307,7 +1286,7 @@ jarred moonlight moths
 , which can be used to restore
 Prayer
 points, or sold for
-966
+1,004
 .
 Levels 63/80–99: Carnivorous chinchompas
 Requires partial completion of the
@@ -1343,29 +1322,29 @@ XP/h
 GP/h
 63
 85,000
-365,019
+383,302
 61,000
-261,955
+275,075
 70
 100,000
-429,434
+450,943
 72,000
-309,192
+324,679
 80
 163,000
-699,977
+735,038
 115,000
-493,849
+518,585
 90
 193,000
-828,808
+870,321
 136,000
-584,030
+613,283
 99
 220,000
-944,755
+992,075
 155,000
-665,623
+698,962
 Levels 80–99: Herbiboar
 14116
 Tracking the

@@ -72,11 +72,11 @@ Varrock west bank
 , as it is the closest anvil to a bank in free-to-play.
 Energy potions
 (
-191
+187
 ) can optionally be brought in the two empty inventory spaces when making platebodies to continuously sprint with level 1
 Agility
 , at an added cost of roughly
-1.47
+1.44
 per bar (1 energy potion dose per 32.5 bars). Depending on starting
 gp
 and profit from making certain platebodies, one can gain much more gold per hour as well as experience per hour using energy potions instead of letting run energy recharge naturally by walking.
@@ -124,20 +124,20 @@ Ending experience: 18,247
 Bronze bars
 required: 1,180
 Input cost:
-112,100
+123,900
 Output:
-5,664
+5,900
 Profit:
-−106,436
+−118,000
 (
-−451
+−500
 each)
 High alchemy (
 55
 ) profit:
-−113,988
+−126,024
 (
-−483
+−534
 each)
 Starting at 29:
 Starting experience: 12,725
@@ -146,20 +146,20 @@ Ending experience: 18,200
 Bronze bars
 required: 445 (299 bars if you are smelting the bars yourself)
 Input cost:
-42,275
+46,725
 Output:
-2,136
+2,225
 Profit:
-−40,139
+−44,500
 (
-−451
+−500
 each)
 High alchemy (
 55
 ) profit:
-−42,987
+−47,526
 coins (
-−483
+−534
 each)
 Level 33-48: Iron platebodies
 Smith
@@ -181,20 +181,20 @@ required: 2,590 (1,735 bars if you are smelting
 ]
 the bars yourself)
 Input cost:
-505,050
+543,900
 Output:
-33,670
+31,598
 Profit:
-−471,380
+−512,302
 (
-−910
+−989
 each)
 High alchemy (
 55
 ) profit:
-−384,874
+−424,242
 coins (
-−743
+−819
 each)
 Level 48-68: Steel platebodies
 Smith
@@ -212,20 +212,20 @@ Ending experience 605,030
 Steel bars
 required: 13,920 (9,491 bars if you are smelting the bars yourself - (1899 platebodies))
 Input cost:
-7,544,640
+7,725,600
 Output:
-2,088,000
+2,110,272
 Profit:
-−5,456,640
+−5,615,328
 (
-−1,960
+−2,017
 each)
 High alchemy (
 55
 ) profit:
-−4,493,376
+−4,677,120
 (
-−1,614
+−1,680
 each)
 Level 68-88: Mithril platebodies
 Smith
@@ -244,20 +244,20 @@ Ending experience: 4,385,787.5
 Mithril bars
 required: 75,615 (47,260 bars if you are smelting the bars yourself - (9452 platebodies))
 Input cost:
-63,894,675
+65,785,050
 Output:
-39,244,185
+40,559,886
 Profit:
-−24,650,490
+−25,225,164
 (
-−1,630
+−1,668
 each)
 High alchemy (
 55
 ) profit:
-−18,283,707
+−20,189,205
 coins (
-−1,209
+−1,335
 each)
 Level 87/88-98: Adamant platebodies
 Smith
@@ -287,18 +287,18 @@ required: 118,720 (74,200 bars if you are smelting the bars yourself - (14,840 p
 Input cost:
 217,495,040
 Output:
-223,217,344
+224,167,104
 Profit:
-5,722,304
+6,672,064
 (
-241
+281
 each)
 High alchemy (
 55
 ) profit:
-17,095,680
+17,071,936
 coins (
-720
+719
 each)
 Level 98-99: Rune platebodies
 Starting at level 98, smith
@@ -318,20 +318,20 @@ Experience required: 1,228,643.5
 Runite bars
 required: 16,385 (9,835 bars if you are smelting the bars yourself - (1966 platebodies))
 Input cost:
-201,879,585
+200,814,560
 Output:
-125,532,039
+125,810,584
 Profit:
-−76,347,546
+−75,003,976
 (
-−23,298
+−22,888
 each)
 High alchemy (
 55
 ) profit:
-−74,417,393
+−73,355,645
 coins (
-−22,709
+−22,385
 each)
 Alternative methods
 Level 1-5: Bronze axes
@@ -356,20 +356,20 @@ Ending experience: 400
 Bronze bars
 required: 32
 Input cost:
-3,040
+3,360
 Output:
 3,072
 Profit:
-32
+−288
 (
-1
+−9
 each)
 High alchemy (
 55
 ) profit:
-−6,080
+−6,432
 (
-−190
+−201
 each)
 Level 5-9: Bronze scimitars
 At level 5, switch to smithing
@@ -385,20 +385,20 @@ Ending experience: 975
 Bronze bars
 required: 46
 Input cost:
-4,370
+4,830
 Output:
-1,104
+1,311
 Profit:
-−3,266
+−3,519
 (
-−142
+−153
 each)
 High alchemy (
 55
 ) profit:
-−6,325
+−6,808
 coins (
-−275
+−296
 each)
 Level 9-18: Bronze warhammers
 Smith
@@ -414,20 +414,20 @@ Ending experience: 3,523
 Bronze bars
 required: 204
 Input cost:
-19,380
+21,420
 Output:
-1,768
+1,836
 Profit:
-−17,612
+−19,584
 (
-−259
+−288
 each)
 High alchemy (
 55
 ) profit:
-−24,548
+−26,656
 coins (
-−361
+−392
 each)
 Level 20-88: Smelting and Crafting
 Crafting
@@ -469,9 +469,9 @@ Holy mould
 (not consumed)
 13.7
 16,440
-61
+56
 93
-32
+37
 Tiara
 20
 23
@@ -481,9 +481,9 @@ Tiara mould
 (not consumed)
 13.7
 16,440
-61
-135
-74
+56
+122
+66
 Gold ring
 40
 5
@@ -493,9 +493,9 @@ Ring mould
 (not consumed)
 22.5
 27,000
-131
+132
 163
-32
+31
 Gold necklace
 40
 6
@@ -505,9 +505,9 @@ Necklace mould
 (not consumed)
 22.5
 27,000
-131
-183
-52
+132
+178
+46
 Gold amulet (u)
 40
 8
@@ -517,9 +517,9 @@ Amulet mould
 (not consumed)
 22.5
 27,000
-131
-174
-43
+132
+172
+40
 Sapphire ring
 40
 20
@@ -531,9 +531,9 @@ Ring mould
 (not consumed)
 22.5
 27,000
-352
-446
-94
+356
+452
+96
 Sapphire necklace
 40
 22
@@ -545,9 +545,9 @@ Necklace mould
 (not consumed)
 22.5
 27,000
-352
-450
-98
+356
+455
+99
 Sapphire amulet (u)
 40
 24
@@ -559,9 +559,9 @@ Amulet mould
 (not consumed)
 22.5
 27,000
-352
-435
-83
+356
+443
+87
 Emerald ring
 40
 27
@@ -573,9 +573,9 @@ Ring mould
 (not consumed)
 22.5
 27,000
-513
-635
-122
+518
+638
+120
 Emerald necklace
 40
 29
@@ -587,9 +587,9 @@ Necklace mould
 (not consumed)
 22.5
 27,000
-513
-632
-119
+518
+630
+112
 Emerald amulet (u)
 40
 31
@@ -601,9 +601,9 @@ Amulet mould
 (not consumed)
 22.5
 27,000
-513
-569
-56
+518
+553
+35
 Ruby ring
 40
 34
@@ -615,9 +615,9 @@ Ring mould
 (not consumed)
 22.5
 27,000
-938
-1,026
-88
+944
+1,009
+65
 Ruby necklace
 40
 40
@@ -629,9 +629,9 @@ Necklace mould
 (not consumed)
 22.5
 27,000
-938
-1,075
-137
+944
+1,050
+106
 Ruby amulet (u)
 40
 50
@@ -643,9 +643,9 @@ Amulet mould
 (not consumed)
 22.5
 27,000
-938
-1,082
-144
+944
+1,077
+133
 Diamond ring
 40
 43
@@ -657,9 +657,9 @@ Ring mould
 (not consumed)
 22.5
 27,000
-1,779
-1,902
-123
+1,763
+1,892
+129
 Diamond necklace
 40
 56
@@ -671,9 +671,9 @@ Necklace mould
 (not consumed)
 22.5
 27,000
-1,779
-1,979
-200
+1,763
+1,984
+221
 Diamond amulet (u)
 40
 70
@@ -685,9 +685,9 @@ Amulet mould
 (not consumed)
 22.5
 27,000
-1,779
+1,763
 1,911
-132
+148
 Based on this marginal 1200 bars per hour, we have the following experience and cost table:
 Marginal Smelting Efficiency Table
 Input Ore
@@ -704,16 +704,16 @@ Silver bar
 13.7
 1200
 16,440
-34,800
-1.74
+48,000
+2.40
 Gold ore
 40
 Gold bar
 22.5
 1200
 27,000
-−30,000
--1.11
+−28,800
+-1.07
 Level 70-99: Superheat Item
 Players with level
 43
@@ -770,16 +770,16 @@ Bronze bar
 ×1
 ×1
 ×1
-164
-95
-−69
+167
+105
+−62
 13
 131
 1,703
 10,559
 90,259
-−117,507
--11.13
+−105,586
+-10.00
 Iron bar
 15
 43
@@ -787,16 +787,16 @@ Iron bar
 53
 ×1
 ×1
-236
-195
-−41
+235
+210
+−25
 27
 68
 1,836
 22,950
 97,308
-−75,276
--3.28
+−45,900
+-2.00
 Silver bar
 20
 43
@@ -804,16 +804,16 @@ Silver bar
 53
 ×1
 ×1
-165
-90
-−75
+161
+96
+−65
 27
 68
 1,836
 25,098
 97,308
-−137,700
--5.49
+−119,340
+-4.75
 Steel bar
 30
 43
@@ -822,8 +822,8 @@ Steel bar
 ×1
 ×2
 ×1
-612
-542
+625
+555
 −70
 9
 178
@@ -839,8 +839,8 @@ Gold bar
 53
 ×1
 ×1
-235
-106
+237
+108
 −129
 27
 68
@@ -857,16 +857,16 @@ Mithril bar
 ×1
 ×4
 ×1
-990
-845
-−145
+1,013
+870
+−143
 5
 277
 1,385
 41,550
 73,405
-−200,825
--4.83
+−198,055
+-4.77
 Adamantite bar
 70
 43
@@ -875,16 +875,16 @@ Adamantite bar
 ×1
 ×6
 ×1
-1,995
+2,022
 1,832
-−163
+−190
 3
 383
 1,149
 43,088
 60,897
-−187,287
--4.35
+−218,310
+-5.07
 Runite bar
 85
 43
@@ -893,16 +893,16 @@ Runite bar
 ×1
 ×8
 ×1
-11,714
-12,321
-607
+11,770
+12,256
+486
 3
 383
 1,149
 57,450
 60,897
-697,443
-12.14
+558,414
+9.72
 This table assumes a
 staff of fire
 is equipped and each cycle takes ~4 seconds for banking.
@@ -924,7 +924,7 @@ dwarven stout
 per 45
 runite bars
 , or roughly
-3.09
+3.11
 per bar. Currently, the most profitable 3 bar rune item to smith when selling on the
 Grand Exchange
 is
@@ -946,20 +946,20 @@ required: 16,383
 Most profitable:
 Rune plateskirt
 Input cost (bars and stouts):
-201,905,548.27
+200,841,017.33
 Output:
-207,157,574
+207,457,929
 Profit:
-5,252,025.73
+6,616,911.67
 (
-961.73
+1,211.67
 each)
 High alchemy (
 55
 ) profit:
-7,228,907.73
+8,287,977.67
 (
-1,323.73
+1,517.67
 each)
 AFK Methods
 Level 1-99: Smelting Bars
@@ -980,21 +980,21 @@ Bronze bar
 6.2
 ×1
 ×1
-60
-95
-35
+62
+105
+43
 Iron bar
 15
 12.5
 ×1
-132
-139.26
+130
+137.65
 [
 1
 ]
-195
--34.50
-55.74
+210
+-25.00
+72.35
 [
 1
 ]
@@ -1002,48 +1002,48 @@ Silver bar
 20
 13.67
 ×1
-61
-90
-29
+56
+96
+40
 Steel bar
 30
 17.5
 ×1
 ×2
-508
-542
-34
+520
+555
+35
 Gold bar
 40
 22.5
 ×1
-131
-106
-−25
+132
+108
+−24
 Mithril bar
 50
 30
 ×1
 ×4
-886
-845
-−41
+908
+870
+−38
 Adamantite bar
 70
 37.5
 ×1
 ×6
-1,891
+1,917
 1,832
-−59
+−85
 Runite bar
 85
 50
 ×1
 ×8
-11,610
-12,321
-711
+11,665
+12,256
+591
 ^
 1.0
 1.1

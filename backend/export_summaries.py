@@ -14,17 +14,20 @@ def export_summaries():
     try:
         skills = db.query(Skill).all()
         for skill in skills:
+            # Use category instead of mode
+            category = skill.category if skill.category else "general"
+
             if not skill.summary:
-                print(f"⚠️ Skipping {skill.name} ({skill.mode}) - no summary yet")
+                print(f"⚠️ Skipping {skill.name} ({category}) - no summary yet")
                 continue
 
-            filename = f"{skill.name}_{skill.mode}.txt".replace(" ", "_")
+            filename = f"{skill.name}_{category}.txt".replace(" ", "_")
             filepath = os.path.join(OUTPUT_DIR, filename)
 
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write(skill.summary)
 
-            print(f"✅ Saved summary for {skill.name} ({skill.mode}) → {filepath}")
+            print(f"✅ Saved summary for {skill.name} ({category}) → {filepath}")
 
     finally:
         db.close()

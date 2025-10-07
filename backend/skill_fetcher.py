@@ -96,8 +96,11 @@ SKILLS = {
 }
 
 
-def fetch_html_content(page_title: str) -> str:
-    """Fetch rendered HTML from OSRS Wiki, with BeautifulSoup cleanup."""
+def fetch_html_content(page_title: str, _depth=0) -> str:
+    """Fetch rendered HTML from OSRS Wiki, follow redirects automatically."""
+    if _depth > 5:
+        raise Exception(f"Too many redirects for {page_title}")
+
     params = {
         "action": "parse",
         "page": page_title,
@@ -113,11 +116,19 @@ def fetch_html_content(page_title: str) -> str:
     html_content = data["parse"]["text"]["*"]
     soup = BeautifulSoup(html_content, "html.parser")
 
+    # Check for redirect notice
+    redirect_div = soup.select_one(".redirectMsg a")
+    if redirect_div:
+        target_page = redirect_div.get_text(strip=True)
+        print(f"🔀 Following redirect from {page_title} → {target_page}")
+        return fetch_html_content(target_page, _depth=_depth + 1)
+
     # Strip edit links
     for el in soup.select(".mw-editsection"):
         el.decompose()
 
     return str(soup)
+
 
 
 def fetch_with_fallback(skill: str, mode: str, page: str) -> str:
@@ -139,40 +150,39 @@ def fetch_with_fallback(skill: str, mode: str, page: str) -> str:
 def store_skills():
     db: Session = next(get_db())
     for skill, pages in SKILLS.items():
-        for mode, page in pages.items():
+        for category, page in pages.items():
             try:
                 # fetch with fallback support
-                content = fetch_with_fallback(skill, mode, page)
+                content = fetch_with_fallback(skill, category, page)
                 content_hash = hashlib.sha256(content.encode("utf-8")).hexdigest()
 
                 existing = (
                     db.query(Skill)
-                    .filter(Skill.name == skill, Skill.mode == mode)
+                    .filter(Skill.name == skill, Skill.category == category)
                     .first()
                 )
 
                 if existing:
                     if existing.hash == content_hash:
-                        print(f"↔️ No change for {skill} ({mode}).")
+                        print(f"↔️ No change for {skill} ({category}).")
                     else:
                         existing.content = content
                         existing.hash = content_hash
                         db.commit()
-                        print(f"🔄 Updated {skill} ({mode}).")
+                        print(f"🔄 Updated {skill} ({category}).")
                 else:
                     new_skill = Skill(
                         name=skill,
-                        mode=mode,
+                        category=category,   # ✅ Correct column name
                         content=content,
                         hash=content_hash,
                     )
                     db.add(new_skill)
                     db.commit()
-                    print(f"✅ Added {skill} ({mode}).")
+                    print(f"✅ Added {skill} ({category}).")
 
             except Exception as e:
-                print(f"❌ Failed for {skill} ({mode}): {e}")
-
+                print(f"❌ Failed for {skill} ({category}): {e}")
 
 if __name__ == "__main__":
     store_skills()

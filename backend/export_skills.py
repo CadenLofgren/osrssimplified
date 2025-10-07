@@ -16,15 +16,18 @@ def export_skills():
         soup = BeautifulSoup(skill.content, "html.parser")
         text_content = soup.get_text(separator="\n", strip=True)
 
+        # Use category instead of mode (f2p / p2p)
+        category = skill.category if skill.category else "general"
+
         # File name pattern: attack_f2p.txt, defence_p2p.txt, etc.
-        filename = f"{skill.name.lower()}_{skill.mode}.txt"
+        filename = f"{skill.name.lower()}_{category}.txt"
         filepath = os.path.join(OUTPUT_DIR, filename)
 
         with open(filepath, "w", encoding="utf-8") as f:
-            f.write(f"--- Skill: {skill.name} ({skill.mode.upper()}) ---\n\n")
+            f.write(f"--- Skill: {skill.name} ({category.upper()}) ---\n\n")
             f.write(text_content)
 
-        print(f"📄 Exported {skill.name} ({skill.mode}) → {filepath}")
+        print(f"📄 Exported {skill.name} ({category}) → {filepath}")
 
 if __name__ == "__main__":
     export_skills()

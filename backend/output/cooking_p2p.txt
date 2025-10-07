@@ -48,7 +48,7 @@ karambwan does not have any requirements, unlike
 cooked karambwan
 .
 168 successfully cooked poison karambwan are required to reach level 30. Players are advised to buy at least 500 raw karambwan, as the burn rate is high at lower levels. Assuming all 500 raw karambwan are used to reach level 30, this would result in a loss of
-−194,000
+−193,000
 . If the player is not going to use tick manipulation, it is recommended to cook other fish (see below) as this is cheaper and it would offer similar experience rates.
 Levels 1–30: Cooking fish
 Alternatively, cook various fish for early experience. This is slower than cooking poison karambwan, but cheaper and less click-intensive.
@@ -70,10 +70,10 @@ Sardine
 10
 25
 Raw sardine
-57
-42
-−15
--2.51
+46
+41
+−5
+-1.85
 5-10
 Herring
 50
@@ -81,10 +81,10 @@ Herring
 16
 40
 Raw herring
-238
-60
-−178
--10.70
+182
+62
+−120
+-7.86
 10-15
 Mackerel
 60
@@ -92,10 +92,10 @@ Mackerel
 21
 53
 Raw mackerel
-43
+44
 27
-−16
--1.34
+−17
+-1.38
 15-20
 Trout
 70
@@ -103,10 +103,10 @@ Trout
 30
 75
 Raw trout
-101
-89
-−12
--2.34
+88
+72
+−16
+-2.11
 20-25
 Pike
 80
@@ -114,10 +114,10 @@ Pike
 43
 108
 Raw pike
-109
-54
-−55
--2.73
+107
+48
+−59
+-2.74
 25-30
 Salmon
 90
@@ -125,10 +125,10 @@ Salmon
 62
 155
 Raw salmon
-68
+53
 70
-2
--1.11
+17
+-0.69
 Levels 30–99: Cooked karambwan
 Completion of the quest
 Tai Bwo Wannai Trio
@@ -184,12 +184,12 @@ Profit total
 GP/XP
 1-tick
 75,185
-10,028,524
-0.77
+9,699,170
+0.74
 AFK
 71,289
-11,540,172
-0.89
+11,203,026
+0.86
 Other methods
 Levels 10–99: Bake Pie
 Completion of the quest
@@ -221,86 +221,86 @@ Profit/XP
 Redberry pie
 78
 147,000
-548
-−454
--5.82
+542
+−451
+-5.78
 20
 Meat pie
 110
 207,000
-607
+616
 −558
 -5.07
 29
 Mud pie
 128
 241,000
-1,615
-−596
--4.66
+1,624
+−605
+-4.73
 30
 Apple pie
 130
 245,000
-532
-−455
--3.50
+546
+−465
+-3.58
 34
 Garden pie
 138
 260,000
-1,537
-−1,467
--10.63
+1,546
+−1,474
+-10.68
 47
 Fish pie
 164
 309,000
-1,551
-−1,206
--7.35
+1,560
+−1,253
+-7.64
 52
 Botanical pie
 180
 339,000
-2,546
-−1,511
--8.39
+2,555
+−1,596
+-8.87
 60
 Mushroom pie
 200
 377,000
-8,968
-−385
--1.92
+8,977
+−1,012
+-5.06
 70
 Admiral pie
 210
 396,000
-1,617
-−1,461
--6.96
+1,607
+−1,434
+-6.83
 73
 Dragonfruit pie
 220
 415,000
-2,644
-−2,105
--9.57
+2,662
+−2,133
+-9.70
 85
 Wild pie
 240
 452,000
-4,858
-−4,134
--17.23
+4,956
+−4,281
+-17.84
 95
 Summer pie
 260
 490,000
-1,752
-−804
--3.09
+1,895
+−1,031
+-3.97
 Levels 35/68–99: Jug of wine
 Making
 jugs of wine
@@ -318,23 +318,23 @@ jug of bad wine
 to be produced for 0 experience. Players using this method below level 68 should only make enough wines to get to their next cooking level to be as efficient as possible due to the chances of successfully creating wines increasing with every level gained.
 Jugs of wine required: 62,147
 Experience required: 12,429,399
-38
+33
 per
 jug of water
 71
 per
 grapes
-3
+4
 value per
 Jug of wine
-−106
+−100
 cost per
 wine
--0.53
+-0.50
 cost per XP
-−6,587,582
+−6,214,700
 cost from level 68-99
-−259,700
+−245,000
 cost per hour (at 490,000 experience rate)
 Experience per hour: from 470,000 to 490,000
 Time spent: 25 hours, 30 minutes
@@ -388,10 +388,10 @@ Tuna
 23,861
 340
 239
-85
-112
-−2,132
--0.09
+88
+111
+−3,391
+-0.14
 40–68
 Lobster
 [
@@ -403,10 +403,10 @@ n 1
 567,808
 4,970
 4,732
-146
-198
-211,316
-0.37
+144
+181
+140,812
+0.25
 68–80
 Swordfish
 [
@@ -418,10 +418,10 @@ n 2
 1,381,036
 10,186
 9,865
-118
-153
-307,397
-0.22
+125
+148
+186,770
+0.14
 68–80
 Monkfish
 150
@@ -430,10 +430,10 @@ Monkfish
 1,381,036
 9,962
 9,207
-405
-541
-946,377
-0.69
+383
+441
+244,841
+0.18
 80–84
 Shark
 210
@@ -442,10 +442,10 @@ Shark
 965,305
 4,720
 4,597
-598
-774
-735,518
-0.76
+551
+918
+1,619,326
+1.68
 84–99
 Anglerfish
 [
@@ -457,10 +457,10 @@ n 3
 10,083,058
 44,400
 43,840
-1,498
-1,748
-10,121,120
-1.00
+1,489
+1,753
+10,739,920
+1.07
 91–99
 Manta ray
 [
@@ -472,10 +472,10 @@ n 4
 7,131,600
 37,900
 32,980
-1,529
-1,817
-1,975,560
-0.21
+1,551
+1,946
+5,396,180
+0.57
 ^
 The rates assume using the Hosidius kitchen for levels 40–61, and Rogues' Den for levels 61–68.
 ^

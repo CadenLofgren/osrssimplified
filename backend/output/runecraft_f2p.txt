@@ -39,7 +39,7 @@ Body Golems
 For rune or pure essence, using one over the other makes no difference to experience gained or the number of runes crafted per essence. It is therefore recommended to use the cheaper option, which is
 pure essence
 (
-2
+1
 each) rather than
 rune essence
 (
@@ -48,7 +48,7 @@ each). As a free-to-play player, you will not be able to mine your own pure esse
 Note that
 energy potions
 (
-47.75
+46.75
 per dose) restore 10% run energy with each dose, and using them either at the bank or while running greatly increases experience gained from all of the below methods by 30–50% over just letting your run energy recharge normally (the actual percent experience per hour gained depending on the method and your
 Agility
 level).
@@ -100,11 +100,11 @@ Experience needed (1–9): 969
 Pure essence or rune essence needed: 194
 № of inventories (28 essence per inventory): 7
 Cost of pure essence:
-388
+194
 Air runes value:
 970
 Profit:
-582
+776
 Levels 9–14/20:
 Earth runes
 Players with a
@@ -126,9 +126,9 @@ Experience needed (9–14): 1,138
 Pure essence or rune essence needed: 176
 № of inventories (28 essence per inventory): 7
 Cost of pure essence:
-352
+176
 Earth runes value:
-1,056
+880
 Profit:
 704
 Levels 14–20:
@@ -148,11 +148,11 @@ Experience needed (14-20): 2,363
 Pure essence or rune essence needed: 338
 № of inventories (28 essence per inventory): 13
 Cost of pure essence:
-676
+338
 Fire runes value:
 1,690
 Profit:
-1,014
+1,352
 Levels 20–99:
 Body runes
 Players with a
@@ -176,11 +176,11 @@ Pure essence or rune essence needed: 1,737,329
 Body runes created: 4,335,146
 № of inventories (28 essence per inventory): 62,048
 Cost of pure essence:
-3,474,658
+1,737,329
 Body runes value:
-21,675,730
+17,340,584
 Profit:
-18,201,072
+15,603,255
 There are several ways to increase the efficiency of body rune crafting.
 Using teleports
 The closest free-to-play players can teleport to the body rune altar is the teleport to
@@ -315,11 +315,11 @@ needed: 347,585
 Body talismans
 needed: 347,585
 Total Cost:
-608,273,750
+626,695,755
 Body tiaras
 created: 347,585
 Profit/Loss:
-−606,883,410
+−624,610,245
 Number of inventories (12 Tiaras + 12 Talismans): 28,966
 Levels 1–99: Earth tiaras
 Earth tiaras
@@ -346,11 +346,11 @@ needed: 401,060
 Earth talismans
 needed: 401,060
 Total Cost:
-237,026,460
+220,583,000
 Earth tiaras
 created: 401,060
 Profit/Loss:
-−236,625,400
+−219,780,880
 Number of inventories (13 Tiaras + 13 Talismans): 30,850
 Levels 1–99: Water tiaras
 Water tiaras
@@ -384,11 +384,11 @@ needed: 434,333
 Water talismans
 needed: 434,333
 Total Cost:
-129,865,567
+119,007,242
 Water tiaras
 created: 434,333
 Profit/Loss:
-−128,562,568
+−117,269,910
 Number of inventories (12 Tiaras + 12 Talismans): 33,411
 Air tiaras
 Air talismans
@@ -412,40 +412,40 @@ Profit/Loss
 Profit/Loss per XP
 Air tiara
 25
-245
-1
-−244
--9.76
+242
+2
+−240
+-9.60
 Mind tiara
 27.5
-1,203
-3
-−1,200
--43.64
+1,095
+6
+−1,089
+-39.60
 Water tiara
 30
-299
-3
-−296
--9.87
+274
+4
+−270
+-9.00
 Earth tiara
 32.5
-591
-1
-−590
--18.15
+550
+2
+−548
+-16.86
 Fire tiara
 35
-1,738
+1,796
 5
-−1,733
--49.51
+−1,791
+-51.17
 Body tiara
 37.5
-1,750
-4
-−1,746
--46.56
+1,803
+6
+−1,797
+-47.92
 v
 t
 e

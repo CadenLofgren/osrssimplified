@@ -112,7 +112,7 @@ at
 Nurmof
 and
 Bob
-51
+43
 2.267 kg
 8
 Iron pickaxe
@@ -121,7 +121,7 @@ Iron pickaxe
 140
 at
 Nurmof
-222
+235
 2.267 kg
 7
 Steel pickaxe
@@ -130,14 +130,14 @@ Steel pickaxe
 500
 at
 Nurmof
-235
+255
 2.267 kg
 6
 Black pickaxe
 11
 10
 Not sold
-1,473
+1,454
 0.01 kg
 5
 Mithril pickaxe
@@ -146,7 +146,7 @@ Mithril pickaxe
 1,300
 at
 Nurmof
-426
+419
 1.814 kg
 5
 Adamant pickaxe
@@ -155,7 +155,7 @@ Adamant pickaxe
 3,200
 at
 Nurmof
-1,596
+1,632
 2.721 kg
 4
 Rune pickaxe
@@ -167,7 +167,7 @@ Rune pickaxe
 32,000
 at
 Nurmof
-18,482
+18,490
 2.267 kg
 3
 Dragon pickaxe
@@ -177,7 +177,7 @@ Dragon pickaxe
 61
 60
 Not sold
-651,058
+634,774
 2.4 kg
 2.83
 [
@@ -190,7 +190,7 @@ Infernal pickaxe
 ]
 60
 Not sold
-3,428,779
+3,245,631
 2.4 kg
 2.83
 [
@@ -203,7 +203,7 @@ Crystal pickaxe
 ]
 70
 Not sold
-24,403,160.20
+24,668,943.80
 [
 6
 ]
@@ -515,9 +515,9 @@ smouldering stones
 or
 dragon pickaxes
 , with the smouldering stone currently costing
-2,777,721
+2,610,857
 and the dragon pickaxe
-651,058
+634,774
 .
 If not using the infernal pickaxe, the pickaxe tier does not matter as it does not affect mining success rates. Because tick manipulation bypasses the normal pickaxe rate for mining rolls, the
 crystal pickaxe
@@ -596,7 +596,7 @@ is recommended to reduce dropping and banking.
 The experience rates in the table below assume wearing a charged amulet of glory and the
 prospector kit
 . At maximum rates players can expect
-1,140,499.80
+1,097,932.44
 profit per hour.
 level
 XP/h (3-tick)
@@ -685,7 +685,7 @@ Grand Exchange
 price of
 soft clay
 , each stardust is worth
-78.00
+68.67
 when using the stardust to buy
 soft clay packs
 .
@@ -888,7 +888,7 @@ page.
 Levels 92–99: Amethyst
 Amethyst
 is an alternative choice for players looking to mine with low effort or click intensity, albeit for very slow experience rates. Depending on concentration and the tier of pickaxe used, players can expect to mine from 80 to 100 amethyst per hour, for approximately 20,000–25,000 experience per hour and around
-331,740
+337,680
 profit per hour.
 Post 99
 After level 99, experience rates will remain constant. Assuming that the player is wearing full

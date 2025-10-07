@@ -50,7 +50,7 @@ special attacks. This will result in the best damage per second, and thus Slayer
 araxytes
 , the
 dwarf multicannon
-and
+, and
 venator bow
 will compete with barrage task rates.  When neither of these options are available, cannonable spots with ranged or melee are preferable. Use Slayer reward points or
 Turael
@@ -1233,7 +1233,7 @@ superior
 boss
 variant, can be mostly AFK'ed and offer good experience. On the other hand, extending a task such as
 metal dragons
-are discouraged, since they don't have a lot of good drops or offer reasonable experience to justify extending them.
+is discouraged, since they don't have a lot of good drops or offer reasonable experience to justify extending them.
 Task storage
 With the
 Task Storage

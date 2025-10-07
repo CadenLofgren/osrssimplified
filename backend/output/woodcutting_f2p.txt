@@ -151,7 +151,7 @@ Iron axe
 Bob's Brilliant Axes
 :
 56
-99
+90
 1.36 kg
 1.5
 Steel axe
@@ -160,14 +160,14 @@ Steel axe
 Bob's Brilliant Axes
 :
 200
-104
+100
 1.36 kg
 2
 Black axe
 11
 10
 Reward casket (beginner)
-540
+535
 1.36 kg
 2.25
 Mithril axe
@@ -183,7 +183,7 @@ Adamant axe
 30
 71
 Smithing
-478
+473
 1.587 kg
 3
 Rune axe
@@ -191,7 +191,7 @@ Rune axe
 40
 86
 Smithing
-7,111
+7,247
 1.36 kg
 3.5
 Trees
@@ -237,7 +237,7 @@ Experience required: 2,411
 Logs
 required: 97 (2,425 experience)
 Profit:
-11,446
+10,864
 Levels 15–30/60/99: Oak trees
 At level 15, it is recommended to start cutting
 oak trees
@@ -271,22 +271,22 @@ GP Profit
 30
 292
 10,950
-14,308
+13,724
 30
 45
 1,576
 59,100
-77,224
+74,072
 45
 60
 5,368
 201,300
-263,032
+252,296
 60
 99
 340,286
 12,760,725
-16,674,014
+15,993,442
 2-tick oaks
 Using the same technique as
 2-tick teaks
@@ -392,17 +392,17 @@ GP Profit
 45
 714
 48,195
-32,844
+34,272
 45
 60
 3,144
 212,220
-144,624
+150,912
 60
 99
 189,047
 12,760,672
-8,696,162
+9,074,256
 3-tick willows with snow
 Players who have completed a
 Christmas event
@@ -515,17 +515,17 @@ GP Profit
 75
 5,353
 936,775
-1,124,130
+1,108,071
 75
 90
 23,634
 4,135,950
-4,963,140
+4,892,238
 90
 99
 43,932
 7,688,100
-9,225,720
+9,093,924
 v
 t
 e

@@ -1,4 +1,2101 @@
 --- Skill: Magic (P2P) ---
 
-Redirect to:
 Pay-to-play Magic training
+Magic training
+"Magic training" redirects here. For the free players' guide, see
+Free-to-play Magic training
+. For the minigame, see
+Mage Training Arena
+.
+Magic
+can be trained passively while training other skills. The passive training methods can be tedious or expensive before
+High Level Alchemy
+becomes available, so consider low-effort or cheaper alternatives to get through the early levels.
+At higher levels, Magic can be trained much faster through casting multi-target
+burst
+or
+barrage spells
+on
+Ancient Magicks
+. An efficient way to do this is on
+Slayer
+tasks, as certain
+Slayer monsters
+(such as
+dust devils
+and
+Greater Nechryael
+) can be bursted or barraged for fast Slayer experience.
+In terms of macro-efficiency, defensive
+attack style
+may be used to gain more overall experience (1
+Defence
+xp + 1.33 Magic xp on defensive vs 2 Magic xp on standard) when training via combat. Defensive casting is a viable way to train Defence at lower levels while
+melee training
+prioritises Strength and Attack to meet
+Warrior's Guild
+entry requirements, as well as at higher levels where cost per Magic xp is not a concern. However, standard casting offers the highest pure magic experience, which might be preferable to players seeking to minimise costs.
+Contents
+1
+Levels 1–55: Starting off
+1.1
+Levels 1–10/34: Questing
+1.2
+Levels 4–55/99: Enchanting bolts
+1.3
+Levels 7–21: Lvl-1 Enchant
+1.4
+Levels 21–55: Low Level Alchemy
+2
+Levels 1–55: Other early training methods
+2.1
+Levels 1–55: Killing crabs
+2.2
+Levels 1–55: Exploiting elemental weaknesses
+2.3
+Levels 1–55: Splashing combat spells
+2.4
+Levels 43–55: Superheat Item
+2.5
+Levels 45–55: Camelot Teleport
+3
+Passive training methods
+3.1
+Level 55+: High Level Alchemy
+3.2
+Level 65+: Bake Pie
+3.3
+Level 82+: Magic Imbue
+4
+Levels 62–99: Bursting/barraging on Ancient Magicks
+4.1
+Slayer
+4.2
+Killing Maniacal monkeys
+4.3
+Killing Zombie pirates
+4.4
+Bandits (Bandit camp)
+4.5
+Other
+5
+Lunar spells
+5.1
+Level 71+ Cure Me
+5.2
+Level 81+ Potion share
+5.3
+Levels 80–99: String Jewellery
+5.4
+Levels 86–99: Plank Make
+6
+Other methods
+6.1
+Levels 7–99: Profitable methods
+6.2
+Levels 55–80: Tele-alching
+6.3
+Levels 80–99: Stun-alching
+7
+Comparison of magic weapons
+8
+Quests for Magic experience
+Levels 1–55: Starting off
+Levels 1–10/34: Questing
+Early levels can be skipped by completing
+quests that give Magic experience
+. Completing
+Witch's Potion
+and
+Imp Catcher
+gives a total of 1,200 Magic experience, which is enough to get from level 1 to 10. Both quests are very short and have no requirements, and they can be done at any level.
+To get to level 34 only by questing, completing
+Fairytale I - Growing Pains
+or
+The Grand Tree
+allows
+Watchtower
+to be completed. Completing all three and
+Lumbridge Guide subquest of Recipe for Disaster
+would grant an additional 20,900 experience and get the player up to level 34.
+Levels 4–55/99: Enchanting bolts
+Enchanting
+gem-tipped
+bolts
+using the
+Enchant Crossbow Bolt
+spell is one of the fastest ways to train magic and can be done while running or doing other activities. Each cast enchants a set of 10 bolts, and is automatically done every 3 ticks for 10 sets. With accurate timing, players can speed up the process by holding down the space bar and rapidly clicking on the spell. This way the spell can be cast every tick, which increases experience rates by an even larger amount.
+Since bolts and runes are stackable, bolts are easily enchanted while doing other activities, such as questing, training Agility, or while running. Additionally, casting the spell does not interrupt other actions.
+However, this method can be
+very expensive
+, so it is only recommended for players who wish to progress through  early levels as fast as possible and are willing to invest large amounts of gp. Players who plan to train Magic passively while doing other activities are advised to switch to casting Low Level Alchemy at level 21, as this is much cheaper. At level 55, it is recommended to switch to casting
+High Level Alchemy
+, which provides higher xp/cast and is more profitable.
+Experience rates and costs are shown in the table below. Note that the prices may be inaccurate due to low trade volumes. Some options may also not be viable due to low supply.
+level
+Enchantment
+Runes
+XP/cast
+Material cost each
+[
+1
+]
+Profit each
+XP/h
+[
+2
+]
+GP/XP
+4
+Opal
+2
+1
+9
+435
+−325
+49,500
+-36.11
+7
+Sapphire
+1
+1
+1
+17
+937
+−677
+93,500
+-39.82
+24
+Pearl
+2
+1
+29
+1,015
+−905
+159,500
+-31.21
+27
+Emerald
+3
+1
+1
+37
+1,480
+−1,200
+203,500
+-32.43
+29
+Topaz
+2
+1
+33
+5,105
+−5,015
+181,500
+-151.97
+49
+Ruby
+5
+1
+1
+59
+3,187
+−1,277
+324,500
+-21.64
+57
+Diamond
+10
+1
+2
+67
+3,895
+−1,805
+368,500
+-26.94
+68
+Dragonstone
+15
+1
+1
+78
+8,433
+−3,983
+429,000
+-51.06
+87
+Onyx
+20
+1
+1
+97
+85,584
+−234
+533,500
+-2.41
+^
+Assumes an elemental staff is used in place of basic runes.
+^
+Assumes manual casting with occasional errors (5500 casts/h). If manually casting one can cast every game tick (6000 casts/h). Or if casting automatically one can cast at about 1/3 of this rate (~2000 casts/h).
+Levels 7–21: Lvl-1 Enchant
+From level 7 to 21, enchant
+sapphire
+or
+opal
+jewellery by using the
+Lvl-1 Enchant
+spell. The spell can be cast manually every 3 ticks, and each cast gives 17.5 experience.
+Players can gain up to around 32,000 experience per hour. It will take 250 casts to get from level 7 to 21.
+Another option is to cast this spell in the
+Mage Training Arena
+, which will yield much greater experience, and pizazz points in the minigame.
+Levels 21–55: Low Level Alchemy
+At level 21, cast
+Low Level Alchemy
+(also known as "low alching") to convert items into coins. The spell can be cast every 3 ticks, and each cast gives 31 experience. This method can be done while doing other activities, such as questing, training Agility, or while running.
+Cast Low Level Alchemy on noted items or stacks of items bought from the
+Grand Exchange
+. To decide what items to cast Low Level Alchemy on, see
+this calculator
+for more details. Cast the spell on cheap items, such as
+rune arrows
+. Using more expensive items (such as rune armour pieces) will result in a loss due to their price being tied to their High Alchemy value. Because of this, this method will likely result in a small loss.
+Another option is to cast this spell in the
+Mage Training Arena
+, which will yield much greater experience, and pizazz points in the minigame.
+Players can gain up to around 60,000 experience per hour if standing still. Expect much lower rates when doing other activities. It would take 5,214 casts to get from level 21 to 55.
+Levels 1–55: Other early training methods
+Levels 1–55: Killing crabs
+Killing crabs with
+combat spells
+requires very little attention and offers relatively fast experience at lower levels. Use the highest-level combat spell available for the best damage output. Players who wish to spend less money on Magic training may want to keep using
+Fire Strike
+instead of switching to the more expensive bolt and blast spells.
+Chaos gauntlets
+(requires completion of
+Family Crest
+) can be used with Fire Bolt to achieve a max hit of one below that of Fire Blast, to achieve higher experiences rates without the increased cost. If you are waiting for respawns, consider switching to a denser spawn or a higher Hitpoints crab. If you are taking too much damage from crabs, consider moving to a smaller spawn or lower Hitpoints crab.
+There are five types of crabs the player can train on, and all have high Hitpoints, very low Defence and deal minimal damage. They become aggressive when walked by, and stay aggressive for 10 minutes. After 10 minutes, the player has to reset aggressiveness by running away far enough, usually a minimap's length. The player should choose a spot that makes two or three spawns aggressive at the same time.
+Ammonite Crabs
+on
+Fossil Island
+(requires
+Bone Voyage
+quest). Considered the best crab for training, each crab has 100 Hitpoints. Spawn areas are normally incredibly busy. They also drop
+unidentified fossils
+, which can be turned in for experience lamps in Varrock Museum after cleaning.
+Wind Blast
+or greater recommended, unless using
+Chaos gauntlets
+.
+Sand Crabs
+in
+Hosidius
+. They have 60 Hitpoints and have no quest requirements, but are usually crowded.
+Rock Crabs
+in
+Rellekka
+. They have no quest requirements and are usually less crowded than Sand Crabs and Ammonite Crabs, but only have 50 Hitpoints.
+Frost Crabs
+in the
+Ruins of Tapoyauik dungeon
+in Varlamore. They have 60 Hitpoints and require completion of
+The Heart of Darkness
+quest. They have a 100% elemental weakness to fire spells which means they take double the normal damage from Fire Strike and Fire Bolt.
+Gemstone Crab
+in
+Tlati Rainforest
+in Varlamore. This crab has infinite hitpoints only requires completion of
+Children of the Sun
+quest to access. It will move every 10 minutes requiring the player to travel through a nearby cave to get to the next spawn location. If you are standing off the side of the crab it will not do damage to you. Making this a good monster to train your magic on early as you can train on it entirely safely.
+Having at least level 30 Defence is recommended before starting Magic training on these monsters to mitigate the damage. If the player has low Defence, bring some food and use defensive equipment that does not penalise Magic accuracy too much.
+Equip any staff that can autocast combat spells.
+Elemental staves
+are recommended, as they also provide unlimited elemental runes corresponding to their type (a
+staff of air
+provides unlimited
+air runes
+). At level 30 Magic and Attack, use a
+smoke battlestaff
+if the player can afford one. This staff provides a 10% increase in accuracy and damage when casting spells from the standard spellbook, which will increase experience rates.
+Levels 1–55: Exploiting elemental weaknesses
+Elemental weaknesses
+increase both accuracy and damage on their corresponding elemental spell by a certain percentage, and commonly-accessible monsters have up to 100% elemental weakness. This allows cheap, effective, more efficient magic training than killing elementally-neutral monsters, though will provide less AFK time than standard crabs.
+100% weaknesses double the corresponding spells' damage, allowing, assuming no other damage bonuses, Strike spells to hit up to 16 and Bolt spells to hit up to 24 (or 30 with
+Chaos gauntlets
+).
+Ice Giants
+are easily accessible and safespottable in areas such as
+White Wolf Mountain
+and the
+Asgarnian Ice Dungeon
+, having no quest requirements. They have 70 Hitpoints, 1 Magic, and a 100% Fire weakness.
+Fire Giants
+are most easily accessible and safespottable in the
+Catacombs of Kourend
+and
+Giants' Den
+. Killing Fire Giants in here also allows drops of
+Ancient shards
+and
+Dark Totem
+pieces. They have 111-150 Hitpoints, 1 Magic, and a 100% Water weakness. (Level 104 Fire Giants have +50 Magic Defence.)
+Frost Crabs
+are accessible in the
+Ruins of Tapoyauik
+in Varlamore, requiring completion of
+The Heart of Darkness
+quest. They have 60 Hitpoints, 1 Magic, -50 Magic Defence, and a 100% Fire weakness.
+Ghosts
+are plentiful in the north-west passage in the bottom floor of the
+Stronghold of Security
+, and are additionally weak to the effects of a
+salve amulet (i)
+. They have 75-80 Hitpoints, 1 Magic, and a 50% Air weakness (Level 77 ghosts have +55 Magic Defence.). While they are only 50% weak, this is compensated by salve weakness and cost saving effect of
+Air spells
+using catalytic runes to cost, as a staff of air will cover all of the elemental runes needed.
+Equip any staff that can autocast combat spells.
+Elemental staves
+are recommended, as they also provide unlimited elemental runes corresponding to their type (a
+staff of air
+provides unlimited
+air runes
+). At level 30 Magic and Attack, use a
+smoke battlestaff
+if the player can afford one. This staff provides a 10% increase in accuracy and damage when casting spells from the standard spellbook, which will increase experience rates.
+Levels 1–55: Splashing combat spells
+Splashing
+combat spells
+on weak monsters offers very slow experience, but only requires player input once every 20 minutes. To splash, attack an NPC while wearing equipment that gives at least -64 Magic attack bonus. Although no damage is dealt, players will still gain the base experience from casting the spell. Simply equip any staff that can autocast the combat spell used (such as an elemental staff), turn on Auto Retaliate, and interact with the game client every 20 minutes to keep splashing the opponent.
+Experience rates vary depending on the spell used, ranging from 6,600 to 37,800 experience per hour. See
+this page
+for more details about splashing.
+Levels 43–55: Superheat Item
+From level 43 to 55, one possible option is to cast
+Superheat Item
+to smelt ores into bars. The spell can be cast every 3 ticks, and each cast gives 53 Magic experience. This method offers relatively fast Magic experience at these levels and also gives passive
+Smithing
+experience. Casting the spell usually costs some money, depending on the Grand Exchange prices.
+With decent focus, players can gain up to 97,000 Magic experience per hour. The amount of Smithing experience gained varies depending on the ore used. It will take 2,195 casts to get from level 43 to 55.
+See the
+Superheat Item
+page for a table with the cost per experience for each type of bar.
+Levels 45–55: Camelot Teleport
+Repeatedly casting
+Camelot Teleport
+offers around 80,000 experience per hour, with 55.5 experience per cast. Training from level 45 to 55 requires a total of 1,895 law runes, which costs
+−227,400
+assuming a
+staff of air
+is equipped.
+Passive training methods
+From level 55 onwards Magic can be feasibly trained passively while doing other activities. Passive training methods may offer slow Magic experience per hour in real time. Players who wish to actively gain Magic experience should consider using faster methods below.
+Level 55+: High Level Alchemy
+At level 55, cast
+High Level Alchemy
+(commonly known as "alching") to convert various items into coins. The spell can be cast every 5 ticks, and each cast gives 65 experience. This is one of the best training methods for gaining passive Magic experience as it can be done while doing other activities, and there are always bulk purchasable items (from the Grand Exchange or players, such as smiths) that allow profiting several hundred of coins per cast.
+Cast High Level Alchemy on noted items or stacks of items bought from the
+Grand Exchange
+. To decide what items to cast High Level Alchemy on, see
+this calculator
+for more details. It is recommended to have spare capital to be able to buy a large number of items and nature runes at once, so the player would not have to constantly buy more once they run out. Cheaper items require less capital, but usually offer worse profit. Some options may not be viable due to low buy limits or high capital requirements.
+For the best efficiency, cast High Level Alchemy while doing other activities, such as questing, training
+Agility
+, melee combat, and
+farm runs
+. When alching items, place the items in the 4th row, all the way to the left, to eliminate the need to move the mouse.
+Players can gain up to 78,000 experience per hour if standing still. When casting High Level Alchemy while doing other activities, players can expect much lower rates, anywhere from 20,000 to 50,000 experience per hour.
+Level 65+: Bake Pie
+Completion of the quest
+Lunar Diplomacy
+is required to cast
+Bake Pie
+.
+At level 65, players can train
+Cooking
+by baking pies using the
+Bake Pie
+spell on the
+Lunar spellbook
+. This offers relatively fast
+Cooking
+experience at a low amount of effort, and also a decent amount of passive
+Magic
+experience. However, this method is usually fairly expensive due to the low supply of uncooked pies, and some options may not be viable due to low trading volumes.
+Players can gain up to 113,000 passive Magic experience per hour. For more information about the costs and Cooking experience rates, see
+Pay-to-play Cooking training
+.
+Level 82+: Magic Imbue
+Completion of the quest
+Lunar Diplomacy
+is required to cast
+Magic Imbue
+.
+At level 82, players can cast
+Magic Imbue
+on the
+Lunar spellbook
+. It is mainly used when training
+Runecraft
+through crafting
+lava runes
+(or other
+combination runes
+), as casting the spell negates the need for talismans. If training Runecraft this way, players will gain a decent amount of passive Magic experience over time.
+Similarly to High Level Alchemy, Magic Imbue can also be cast for the Magic experience alone while doing other activities. Magic Imbue only requires one click to cast and does not interrupt any actions, such as fishing. However, it can only be cast once every 21 ticks (12.6 seconds), costs money, and offers very slow experience by itself.
+Players can gain up to around 20,000–24,000 passive Magic experience per hour. Casting the spell costs
+-1.60
+per experience, assuming the player is wielding a steam battlestaff (or an equivalent combination, such as
+water battlestaff
+with a
+tome of fire
+or
+fire battlestaff
+with a
+tome of water
+).
+Levels 62–99: Bursting/barraging on Ancient Magicks
+After completing the
+Desert Treasure I
+quest, the player unlocks
+Ancient Magicks
+. The
+burst
+and
+barrage spells
+on this spellbook can be used to kill multiple monsters at once in multi-combat areas. This offers very fast experience, but can be somewhat expensive depending on the spell used and the monster killed.
+The lowest-level burst spell,
+Smoke Burst
+, becomes available at level 62. Players may want to train with other methods until level 70, so they can use
+Ice Burst
+and wear better equipment (such as the
+occult necklace
+) for better damage output. Cast the highest-level multi-target spell for the best damage output. However, Smoke Burst remains a good cheaper alternative even at higher levels.
+When bursting or barraging, use a weapon that can autocast Ancient Magicks. While this is not necessary, manually casting the spells adds a lot of extra effort and can become tedious over time. The
+kodai wand
+is the best weapon to use as it offers a 15% bonus in Magic damage, has a 15% chance of negating rune costs when casting offensive spells, and provides unlimited water runes. The
+nightmare staff
+is a good alternative as it also has the same Magic damage bonus, though it lacks the rune-saving effect and does not provide water runes. Another good alternative is the
+ancient sceptre
+(or its variants) as this provides a 5% Magic damage bonus, alongside a
+passive effect
+that increases the effects of Ancient Magicks by 10%. The
+Blue moon spear
+is a buyable alternative, boasting the same 5% Magic damage bonus, but missing the passive effect of the sceptre.  The
+Dragon Hunter Wand
+is another buyable alternative, providing 10% Magic damage bonus while allowing for autocasting Ancient Magicks. The
+ancient staff
+and the
+master wand
+do not provide any Magic damage bonus, so they are only recommended for short-term use.
+Slayer
+Main article:
+Slayer training
+Many
+Slayer monsters
+can be killed with
+burst
+or
+barrage spells
+on task for fast
+Slayer
+experience. This is one of the most efficient ways to train Slayer and Magic, and it usually breaks even or profits.
+Monsters that are commonly bursted or barraged on task include
+dust devils
+,
+Greater Nechryaels
+,
+Warped Jellies
+, and
+smoke devils
+. If using alternative accounts to lure the monsters, it is also viable to kill
+abyssal demons
+, the
+TzHaar
+, and
+Mutated Bloodvelds
+.
+For optimal training of Slayer, it is best to train Magic up to level 82 through the passive training methods above, and then use a
+saturated heart
+to boost to 94 for
+Ice Barrage
+. If the player does not have a saturated heart, the player should instead train to 94 via the passive methods. Ice Barrage is the highest-tier barrage spell, allowing for incredibly fast magic experience. However, since Slayer training generally offers a lot of passive Magic experience, players can start Slayer training even at level 70 Magic and use weaker spells until level 94 Magic. While this would be slightly slower overall, players would not have to put in the extra effort of passively training Magic while training other skills.
+Killing Maniacal monkeys
+Main article:
+Maniacal monkey/Strategies
+Killing
+maniacal monkeys
+in
+Kruk's Dungeon
+is the fastest viable way to train Magic in real time. This requires having started
+Monkey Madness II
+until the part the player reaches Kruk's Dungeon. Maniacal monkeys spawn in very large numbers, have a long aggression range, and have very low Magic defence, making them ideal for bursting or barraging. This method costs money, and the exact cost depends on the player's equipment.
+Use equipment that maximises Magic damage and Prayer bonuses. Having a higher max hit increases damage output a lot and makes casting effectively cheaper, as each cast would deal more damage for the same rune cost. Magic accuracy does not affect damage output much because the monkeys have low Magic defence, so prioritise Prayer bonus after Magic damage.
+Having 2 alternative accounts to stack the monkeys is recommended should the player have access to them, as this makes this method fairly low-effort as well.
+Experience rates vary depending on the exact method, equipment, and type of the spell used. With
+Ice Burst
+, players can gain up to around 310,000 experience per hour. With
+Ice Barrage
+, it is possible to gain up to around 400,000 experience per hour.
+Killing Zombie pirates
+Main article:
+Zombie pirate
+Zombie pirates
+can be found in level 10-11 wilderness, near the
+chaos altar
+. As this is in the wilderness, players may attack you, however veteran players may find it fairly easy to escape (especially with Ice
+Burst
+and
+Barrage
+) due to the wilderness ditch being a short walk away. Regardless, it's recommended that the player doesn't risk any items they're not willing to lose. The player should use the
+Protect from Magic
+prayer while killing Zombie pirates as the
+chaos druids
+in the area are also plentiful and aggressive. Be wary that the chaos druids can teleblock you, which means the best escape from a
+PKer
+is usually to run south.
+The
+Accursed sceptre (a)
+and
+Salve amulet(ei)
+are central to this strategy — The Accursed sceptre increases magic accuracy and damage by an additional 50% while attacking
+non-player character
+s in the wilderness. Similarly, the Salve amulet(ei) grants a 20% increase to the wearer's magic accuracy and magic damage when fighting
+undead monsters
+, like the
+Zombie pirate
+. Being in the wilderness, the player can also use
+Blighted ancient ice sack
+in order to cast Ice Burst or Ice Barrage. Although being in the wilderness comes with a risk, the Accursed sceptre and Salve amulet allow players to hit extremely high and kill the enemies quickly — even in
+low risk gear
+. There is an
+altar
+nearby for the player to restore their prayer, however it's recommended that the player brings 6-8
+Blighted super restore
+as well as using the altar as the potions have a low cost and provide security and convenience.
+In order to make this a worthwhile activity, the player must have completed the
+Medium Wilderness achievement diary
+; This increases the average value of
+Zombie pirate
+drops to
+4,495.39
+. Before completion of the diary, the average drop value is
+1,372.42
+.
+Players should bring a
+Looting bag
+, some
+blighted food
+, 1-2
+Stamina potion
+s, and 4-5
+Saradomin brews
+in case of
+Player killers
+.
+It's also recommended that the player has previously used the
+Teleport anchoring scroll
+, as this prevents the player from getting teleported around by the chaos druids that also attack. The scrolls effects are permanent.
+Plugins on Runelite can help to mitigate risk and work so well they are, arguably, essential. The Wilderness Player Alarm plugin flashes the screen when a player is in view distance. The Player Indicators plugin can also make the
+PKers
+stand out more. Additionally, the player should enable "
+Skull prevention
+" in the ingame settings. The player can quite easily make decent money using this method.
+Bandits (Bandit camp)
+Killing bandits two tiles west from the door inside
+The Big Heist Lodge
+draws the aggression of all nearby
+bandits
+, automatically stacking them together for area of effect spells. This can be done as early as level 68 Magic, to cast
+Blood Burst
+or
+Blood Barrage
+. To do this it is needed to have a
+Saradomin or Zamorak
+item, a staff that can
+autocast ancient magicks
+, and a large supply of runes to cast with. It is recommended to wear items that boost
+magic damage
+and melee
+defence
+to kill bandits faster and reduce potential damage taken. Players can reach rates of 150,000 Magic experience per hour bursting or 230,000 Magic experience per hour barraging. The total experience per hour when defensive autocasting is up to 235,000 experience per hour bursting or 305,000 experience per hour barraging.
+The
+life leech
+effect from blood spells outheals damage taken, making it unlikely to die here, unless Auto Retaliate disables after the 20 minute AFK timer. This method is particularly convenient to minimise gameplay inputs, similar to the method used with
+Guthan's
+within the
+Nightmare zone
+. This method can be quite expensive though, as bursting will cost
+−1,356,000
+per hour and barraging will cost
+−2,378,400
+, and unlike the Slayer method will not recoup this from monster drops.
+Other
+For the players who have not started
+Monkey Madness II
+but have 65
+Slayer
+, bursting
+dust devils
+in the
+Catacombs of Kourend
+is a cheap alternative to maniacal monkeys. They also have valuable drops which offset the cost of the runes.
+For accounts with low Slayer level, bursting
+Temple Spiders
+in the eastern
+Forthos Dungeon
+is another option. You will need 43 prayer to Protect Melee or use blood spells to mitigate damage. These spiders drop a significant amount of herbs, seeds, alchables, various runes, and more, which can help pay for the expenses of prayer potions and runes.
+In addition, those who have a
+fire cape
+can train on the
+TzHaar-Ket
+within the inner circle of
+Mor Ul Rek
+. This is a slower method, however it is still considerably faster than others, while also providing the opportunity to make a profit with the possible
+Obsidian armour
+and weapon drops. This is about equivalent experience to training on
+skeletal monkeys
+in the
+Ape Atoll Dungeon
+from
+Monkey Madness I
+.
+Lunar spells
+After completing the
+Lunar Diplomacy
+quest, the player unlocks the
+Lunar spellbook
+. Many of the spells offered by this spellbook can offer great experience, and some can process materials for
+gp
+while doing so.
+Level 71+ Cure Me
+Starting at level 71
+Magic
+, or as early as level 65 with access to
+boosts
+, casting
+Cure Me
+from the
+Lunar spellbook
+can achieve up to 414,000 experience per hour optimally, costing
+−2,664,000
+per hour, not including
+Prayer potions
+. Cure Me can be cast once every
+game tick
+(0.6 seconds), and the
+Araxytes
+in the
+Morytania Spider Cave
+are capable of continuously inflicting the player with
+Venom
+. Wear armour with the highest
+prayer bonus
+possible, such as
+sunfire fanatic armour
+,
+vestment robes
+, and
+ring of the gods (i)
+. Bring
+prayer potions
+and a
+rune pouch
+containing
+astral
+,
+law
+, and
+cosmic runes
+to cast Cure Me with. Find a section of the cave without other players killing Araxytes, activate
+Protect from melee
+, and allow at least two Araxytes to attack you. Click on the Cure Me spell at least once every 0.6 seconds, which can be timed easily with either a metronome or by watching the XP drops in the corner. Spam clicking is not necessary and as the spell is limited in how fast it can be cast, so adjust the speed of clicks based on how often you receive the game message
+You can't activate this just yet
+. Doing this method from level 71 Magic to level 99 would cost approximately
+−78,632,400
+and take about 29.5 hours total.
+After level 74
+Magic
+, the spell
+Cure Group
+becomes available, which can be used in a similar manner to yield an additional 30,000 xp/hr compared to Cure Me, but costs
+−720,000
+more per hour and requires a second account to be the one getting venomed.
+Cure Other
+is also possible with the use of a second account, but requires twice as many clicks and yields less xp per hour. It does cost significantly less to use, at only
+−1,122,000
+per hour with the use of an
+earth staff
+or similar, assuming the same casting speed is maintained as Cure Me.
+Level 81+ Potion share
+Starting at level 81
+Magic
+, or earlier with access to
+boosts
+, casting
+Stat Restore Pot Share
+from the
+Lunar spellbook
+can achieve up to around 140,000 experience per hour optimally, costing
+−281,175
+per hour, assuming a
+Mud battlestaff
+or similar is used to save runes. This method also needs a second player, although it can be fairly easy to find players standing around
+Banks
+who can be used to cast this spell, though ensure only one player is within the 5x5 area of tiles around you as to not waste doses of
+Restore potion
+. Alternatively, only hold 1 dose potions to not have to worry about this, although xp/hr will be lower with more time spent banking.
+After level 84
+Magic
+, the spell
+Boost Potion Share
+becomes available, which can be used in a similar manner to yield an additional ~5,000 xp/hr compared to Stat Restore Pot Share, but costs
+−353,625
+per hour instead. It is recommended to use
+Attack potions
+for this as they are very cheap.
+Levels 80–99: String Jewellery
+Casting
+String Jewellery
+on the
+Lunar spellbook
+requires relatively low amount of effort. The spell takes 1.8 seconds per amulet strung, or 48.6 seconds for an inventory, and gives 4
+Crafting
+experience and 83 Magic experience per amulet. Once clicked, it will string each amulet one by one in the inventory, giving experience for each amulet strung. Using a
+mud battlestaff
+is recommended.
+Players can gain up to 150,000 Magic (along with 6,265 Crafting) experience per hour.
+Levels 86–99: Plank Make
+Completion of the quest
+Dream Mentor
+is required to cast
+Plank Make
+.
+At level 86, players can auto-cast Plank Make on mahogany logs. This method will generate around 90,000 Magic experience per hour, which is around 1,000 casts, or less depending on banking speed, as well as generating a small amount of profit. Each inventory takes around 90 seconds, meaning it is a quite idle method of training. Alternatively, players can manually cast Plank Make on each log for around 166,000 Magic experience per hour. By casting
+Magic Imbue
+between every 7th manual cast of Plank Make, players can achieve over 180,000 Magic experience per hour.
+The only downside is that mahogany logs can be expensive to buy in bulk if starting with a low amount of money, and the spell is locked behind Dream Mentor.
+Managing Miscellania
+can be a way of accumulating mahogany logs at a discount, after completing
+Royal Trouble
+.
+Other methods
+Levels 7–99: Profitable methods
+While it may be beneficial to find a consistent money maker and then train Magic with the faster but more expensive methods, it is possible to train magic without any loss. There is no way to profit up to level 7, so for new players interested in training Magic as soon as possible, it's suggested to do the
+Imp Catcher
+quest after obtaining the money for the beads from the
+Stronghold of Security
+.
+Check the jewellery
+Calculator
+to ensure you are enchanting the most profitable item, and check the page of each spell to see the currently profitable items to use them on before buying anything. Some of these spells require additional quests or tasks to use; be sure that you can use a spell before buying materials for it, and that you know the mechanics of the spell itself before casting it not to waste materials.
+Levels
+Icon
+Method and info
+XP per cast
+XP/h
+Investment required per cast
+Profit per cast
+7–27
+Using
+Lvl-1 Enchant
+to enchant Sapphire jewellery. Assuming you have all the materials, you can enchant approximately 1,600 items an hour, although selling finished products on the Grand Exchange to buy more runes and rings will bring this number down. Training from 7–27 will take 519 casts and bring a net profit of
+106,395
+, and should take about 20 minutes, not including buying and selling materials.
+17.5
+28,000
+550
+205
+27–49
+Using
+Lvl-2 Enchant
+to turn
+Emerald rings
+into
+Rings of Dueling
+. Assuming you have all the materials, you can enchant approximately 1,600 rings an hour, although selling finished products on the Grand Exchange to buy more runes and rings will bring this number down. Training from 27–49 will take 2,216 casts and bring a net profit of
+−193,466
+, and should take about 80 minutes, not including buying and selling materials.
+Lvl-2 Enchant
+has a list of profitable items that varies.
+37
+59,200
+733
+−91
+49–55
+Using
+Lvl-3 Enchant
+to enchant
+Ruby
+or
+Topaz jewellery
+. This level is more volatile and can require significantly more investment; keeping with Emerald rings may be preferred, as Lvl-3 Enchant can sometimes result in a loss. Assuming you have all the materials, you can enchant approximately 1,600 rings an hour, although selling finished products on the Grand Exchange to buy more runes and rings will bring this number down. Training from 49–55 will take 1,270 casts and bring a net profit of
+−668,020
+and should take about 48 minutes, not including buying and selling materials.
+59
+94,400
+5,310
+−526
+55
+Casting
+High Level Alchemy
+. You can cast High level alchemy up to 1,200 times an hour, and there are many tools and calculator available that you can use to ensure the items you alchemise bring you profit. Check the calculator provided, and always test a single item before buying in bulk. From level 55 forward, there's no single most effective way to train, so pick from below which one works best for you.
+65
+78,000
+Various; see
+this calculator
+Various; see
+this calculator
+Bonus: 55–99
+Some players decide to keep doing high level alchemy all the way to level 99. Doing so will take 165 hours, but can bring millions of profit depending on the items chosen. It will take 197,966 casts to reach level 99.
+65
+78,000
+Various; see
+this calculator
+Various; see
+this calculator
+56
+Casting
+Charge Water Orb
+can bring good profit per hour, but requires running through the
+Taverley Dungeon
+. Use a
+staff of water
+to save on rune costs. With 80
+Agility
+, about 505 water orbs can be made per hour, down to 450 orbs an hour at 70 Agility, or 280 with no Agility shortcuts.
+66
+33,300
+383
+102
+57
+Using
+Lvl-4 Enchant
+to enchant
+Diamond jewellery
+. A significant investment tends to be required for Diamond jewellery, making orbs more efficient. Nonetheless, it's still possible to turn a profit, and with enough cash to invest, one can expect rates of over 100,000 magic experience an hour.
+67
+111,300
+2,101
+174
+60
+Casting
+Charge Earth Orb
+can bring good profit per hour, but being in the
+Wilderness
+brings the risk of being
+PKed
+. Use a
+staff of earth
+to save on rune costs. About 525 earth orbs can be made per hour.
+70
+36,500
+383
+168
+63
+Casting
+Charge Fire Orb
+can bring good profit per hour, but requires running through the
+Taverley Dungeon
+. Use a
+staff of fire
+to save on rune costs. With 80
+Agility
+, about 525 fire orbs can be made per hour, down to 450 at 70 Agility, and 280 with no Agility shortcuts.
+73
+38,000
+383
+375
+66
+Casting
+Charge Air Orb
+can bring good profit per hour, but requires running through the
+Edgeville Dungeon
+, through the
+Wilderness
+. Use a
+staff of air
+to save on rune costs. It's highly advised to only bring 81
+cosmic runes
+per trip, in the event you get killed by another player.
+76
+40,000
+383
+503
+68
+Using
+Lvl-5 Enchant
+to enchant
+dragonstone jewellery
+. At this level, players without the gold to invest tens of millions of coins will find enchanting jewellery to be impractical. These experience levels are not using autocast.
+78
+124,800
+11,646
+372
+71
+Hunter Kit
+can bring a decent profit as long as a
+staff of earth
+is used. (Note: Requires
+Dream Mentor
+to be completed in order to cast Hunter Kit).
+70
+52,000
+134
+572
+76
+Spin Flax
+can be used to gain Magic and
+Crafting
+experience. Use a
+staff of air
+for the lowest rune cost.
+75
+77,600
+287
+−17
+77
+Cast
+Superglass Make
+. Use a
+smoke battlestaff
+and
+giant seaweed
+for the most efficient inventory. Converts a full inventory; use 3
+giant seaweed
+and 18
+bucket of sand
+for each cast. Both greater profit and experience per hour are achieved without picking up dropped
+molten glass
+.
+78
+46,800
+1,241
+1,840.60
+78
+Cast
+Tan Leather
+. Use a
+staff of fire
+for the lowest rune cost. Tans up to 5 hides per cast.
+Requires completion of the
+hard Fremennik Diary
+.
+81
+132,000
+14,879
+836
+80
+Cast
+String Jewellery
+. Use a
+mud battlestaff
+for the lowest rune cost.
+83
+150,000
+3,735
+1,880
+86
+Cast
+Plank Make
+. Use a
+staff of earth
+for the lowest rune cost.
+Requires completion of
+Dream Mentor
+.
+90
+166,000
+AFK: 90,000
+1,655
+283
+89
+Cast
+Recharge Dragonstone
+. Use a
+staff of water
+for the lowest rune cost.
+97.5
+35,100
+312,913
+4,963
+Levels 55–80: Tele-alching
+"Tele-alching" is a method which combines the two elements of casting High Level Alchemy and teleporting. To do this, cast High Level Alchemy followed by any teleport then wait 3 game ticks (1.8 seconds). Therefore, it is possible to perform a high alchemy and a teleport spell within 5 game ticks.  Utilizing "F" keys to manually swap back to the magic tab immediately after casting alchemy on an item, then quickly clicking a teleport spell will cause both the alchemy and teleport spell to be cast simultaneously, granting experience for both.  You will, however, only see the animation for the teleport spell.  This works best with High Alchemy and the Civitas Illia Fortis Teleport spells as they are located closely together and require less mouse movement between clicks, though it requires completion of
+Twilight's Promise
+.
+Tele-alching at
+Camelot
+gives up to 144,600 experience per hour and is the cheapest requiring a single law rune per teleport. Tele-alching at
+Ardougne
+is at most 151,200 experience per hour, but is a lot more expensive at the cost of an extra law rune per teleport. Additionally, if you have completed
+Eadgar's Ruse
+, have fast enough speed and good enough precision, you may consider tele-alching at Trollheim at level 61. You can filter out Combat spells from the spellbook to minimise the distance between the High Level Alchemy spell and teleports such as Camelot Teleport.
+Levels 80–99: Stun-alching
+At level 80 Magic, Stun-alching becomes available, but does cost much more than high alchemy which is generally profitable or free. The player is to cast
+High Alchemy
+, then cast
+Stun
+on an
+NPC
+, and repeat until desired. For this, you'll want a
+mud battlestaff
+(provides free earth/water runes) and a set of metal armour such as iron (full helm, platebody, platelegs, kiteshield) and a d'hide vambrace to bring your magic attack bonus to -65 or lower, this will allow you to
+splash
+your stun spell and continually cast it on the same target without needing to wait for their stats to restore, then find a suitable NPC to safespot. A good spot is the basement of the Magic Guild in Yanille. Equip a
+granite helm
+,
+granite legs
+, and a
+fighter torso
+as needed to keep your attack bonus below -65 with a
+tome of fire
+and mud staff equipped. Experience rates of 184,000 per hour are possible.
+It is possible to add in a teleport to this rotation without missing any game ticks. Using
+Ardougne Teleport
+as your choice keeps you within the range of a guard at all times to stun, and with this experience rates of up to 256,000 per hour are possible. This method is immensely click intensive, so it may not be desirable.
+Comparison of magic weapons
+Magic weapons comparison table
+[
+view
+talk
+edit
+]
+Name
+Level(s) required
+Magic attack
+Magic damage
+Price
+Notes
+Tumeken's shadow
+85
++35
+N/A
+843,336,769
+Requires
+5
+2
+per charge of the built-in spell.
+Built-in spell damage scales with the player's Magic level and can hit up to 34 at
+99
+without any magic damage bonus.
+Has a
+passive effect
+which triples magic attack bonus and magic damage from the player's worn equipment. The magic damage increase is capped at a total of 100%.
+Because the spell is built-in, the player does not need to carry its runes in their inventory and can use
+Arceuus spellbook
+,
+Lunar spells
+, or
+Ancient Magicks
+while wielding this staff.
+Eye of ayak
+83
++30
+N/A
+70,925,034
+Requires either
+1
+2
+or 1
+per charge of the built-in spell.
+Built-in spell damage scales with the player's Magic level and can hit up to 27 at
+99
+without any magic damage bonus.
+Is the fastest Magic weapon in the game with an attack speed of 3 ticks.
+Has a
+special attack
+which consumes 50% of the player's special attack energy and drains the target's Magic defence bonus.
+Because the spell is built-in, the player does not need to carry its runes in their inventory and can use
+Arceuus spellbook
+,
+Lunar spells
+, or
+Ancient Magicks
+while wielding this staff.
+Harmonised nightmare staff
+82
+50
++16
++15%
+183,984,309
+Can autocast
+standard spells
+only.
+Standard spells
+attack one tick faster, matching the speed of a
+powered staff
+.
+Otherwise possesses identical bonuses and benefits to the
+Nightmare staff
+.
+Volatile nightmare staff
+82
+50
++16
++15%
+67,643,530
+Can autocast both
+Ancient Magicks
+and
+standard spells
+.
+Has a
+special attack
+which consumes 55% of the player's special attack energy and deals a high amount of damage with 50% increased accuracy. This attack does not consume runes.
+Otherwise possesses identical bonuses and benefits to the
+Nightmare staff
+.
+Eldritch nightmare staff
+82
+50
++16
++15%
+171,051,720
+Can autocast both
+Ancient Magicks
+and
+standard spells
+.
+Has a
+special attack
+which consumes 55% of the player's special attack energy and deals a high amount of damage, restoring the player's
+prayer points
+by 50% of the damage dealt. This attack does not consume runes.
+Otherwise possesses identical bonuses and benefits to the
+Nightmare staff
+.
+Sanguinesti staff
+82
++25
+N/A
+20,795,611
+Slightly stronger than the
+trident of the swamp
+, with the same stats but able to hit one damage higher.
+Requires
+3
+per charge of the built-in spell.
+Built-in spell damage scales with the player's Magic level and can hit up to 32 at
+99
+.
+Has a 1 in 6 chance to heal the wielder by half the damage dealt.
+Because the spell is built-in, the player does not need to carry its runes in their inventory and can use
+Arceuus spellbook
+,
+Lunar spells
+, or
+Ancient Magicks
+while wielding this staff.
+Holy Sanguinesti staff
+Kodai wand
+80
++28
++15%
+87,178,391
+Can autocast
+Ancient Magicks
+,
+Arceuus spells
+, and
+standard spells
+.
+Provides unlimited
+water runes
+while equipped.
+When a combat spell is cast with the wand, there is a 15% chance that the wand will negate the rune cost for that spell.
+Offers the second-highest magic attack bonus of a 1-handed magic weapon.
+Trident of the swamp
+78
++25
+N/A
+4,320,241
+Has the same benefits as the
+Trident of the seas
+, but with +10 more magic attack bonus.
+Requires
+5
+1
+1
+and 1
+Zulrah scale
+(instead of coins) per charge of the built-in spell, and can hold up to 2,500 charges. The enhanced version can hold up to 20,000 charges, but requires 10
+kraken tentacles
+to create.
+Built-in spell damage scales with the player's Magic level and can hit up to 31 at
+99
+.
+Has 25% chance to inflict
+venom
+on the target.
+Because the spell is built-in, the player does not need to carry its runes in their inventory and can use
+Arceuus spellbook
+,
+Lunar spells
+, or
+Ancient Magicks
+while wielding this staff.
+Trident of the swamp (e)
+7,745,330
+Purging staff
+77
+50
++37
++10%
+26,871,417
+[
+n 1
+]
+Can autocast
+Arceuus spells
+.
+Untradeable; created from a
+tormented synapse
+,
+iron bar
+, and
+battlestaff
+with 74
+Crafting
+.
+Has a
+passive effect
+that doubles the bonuses of
+demonbane spells
+.
+Currently offers the highest magic attack bonus and magic defence of any magic weapon.
+Toxic staff of the dead
+75
++25
++15%
+11,314,540
+Can autocast
+Flames of Zamorak
+,
+Magic Dart
+,
+Crumble Undead
+,
+Arceuus spells
+, and
+standard spells
+.
+Has the same benefits as the
+Staff of the dead
+, but with +8 more magic attack bonus.
+Requires
+Zulrah's scales
+to recharge (up to 11,000).
+Has 25% chance to inflict venom on an opponent.
+Staff of light
+75
++17
++15%
+6,646,667
+Can autocast
+Saradomin Strike
+,
+Magic Dart
+,
+Crumble Undead
+, and
+standard spells
+.
+Counts as both a Saradomin
+AND
+Zamorak item in God Wars.
+Otherwise possesses identical bonuses and benefits to the
+Staff of the dead
+excluding ability to autocast Flames of Zamorak or Arceuus spells.
+Staff of balance
+75
++17
++15%
+24,238,736
+Can autocast
+Claws of Guthix
+,
+Magic Dart
+,
+Crumble Undead
+, and
+standard spells
+.
+Otherwise possesses identical bonuses and benefits to the
+Staff of the dead
+excluding ability to autocast Flames of Zamorak or Arceuus spells.
+Staff of the dead
+75
++17
++15%
+6,837,358
+Can autocast
+Flames of Zamorak
+,
+Magic Dart
+,
+Crumble Undead
+,
+Arceuus spells
+, and
+standard spells
+.
+Has a
+special attack
+that halves all
+melee
+damage the player takes for one minute, which stacks with the PvP damage reduction effect of the
+Protect from Melee
+prayer. This consumes 100% of the player's special attack.
+When a combat spell is cast with the staff, there is a 1/8 (12.5%) chance that the staff will negate the rune cost for that spell.
+Currently the strongest staff when used as a melee weapon, surpassing the
+Ancient staff
+and
+Iban's staff
+, and provides +17 magic defence.
+Counts as a Zamorakian item in God Wars.
+Trident of the seas
+75
++15
+N/A
+40,245
+Has its own built-in spell, requiring charges which cost
+5
+1
+1
+runes and 10 coins per cast. Can hold up to 2,500 charges. The enhanced version can hold up to 20,000 charges, but requires 10
+kraken tentacles
+to create.
+Built-in spell damage scales with the player's Magic level and can hit up to 28 at
+99
+.
+Has a weapon speed of 4 (same as scimitars/whip), while all other forms of combat magic only have 5 (same as longswords).
+Because the spell is built-in, the player does not need to carry its runes in their inventory and can use
+Arceuus spellbook
+,
+Lunar spells
+, or
+Ancient Magicks
+while wielding this staff.
+Trident of the seas (e)
+4,524,231
+Slayer's staff (e)
+75
+55
++12
+N/A
+24,603
+[
+n 2
+]
+Can autocast
+Magic Dart
+,
+Crumble Undead
+,
+Arceuus spells
+, and the
+Wave
+and
+Surge spells
+.
+Has 2,500 charges and is recharged with a
+Slayer's enchantment
+.
+If used to cast
+Magic Dart
+on the player's
+Slayer task
+, max hit is
+13 + (player's magic level / 6)
+, rounded down, and uses 1 charge from the staff on a hit.
+Otherwise provides the same benefits as the
+Slayer's staff
+.
+Blue moon spear
+75
+70
++30
++5%
+331,519
+Can autocast
+Ancient Magicks
+,
+Arceuus spells
+, and
+standard spells
+.
+Gain the
+Frostweaver
+set effect when used with the
+Blue moon armour
+set.
+Nightmare staff
+72
+50
++16
++15%
+30,046,620
+Can autocast both
+Ancient Magicks
+and
+standard spells
+.
+Ahrim's staff
+70
+70
++15
++5%
+200,483
+Can autocast
+Arceuus spells
+and
+standard spells
+.
+Can autocast
+Ancient Magicks
+if equipped with
+Ahrim the Blighted's equipment
+and the
+Amulet of the damned
+.
+Ancient sceptre
+70
+60
+50
++20
++5%
+60,073
+Can autocast
+Ancient Magicks
+, and enhances the effects of said spellbook by 10%. Also can autocast
+standard spells
+.
+Requires
+Secrets of the North
+completion in order to create by speaking to
+Eblis
+to combine an
+ancient staff
+with an
+ancient icon
+.
+Accursed sceptre
+70
++22
+N/A
+4,946,397
+While charged, an additional 50% magic accuracy and damage boost is applied when attacking any
+NPC
+in the
+Wilderness
+. This effect will stack with a
+Slayer helmet
+or a
+Salve amulet
+and their variants, but not both simultaneously.
+Has a
+special attack
+which consumes 50% of the player's special attack energy and deals an attack with 50% increased damage and accuracy. Upon a
+successful hit
+, drains the target's Defence and Magic by 15%.
+Standard version:
+Built-in spell damage scales with the player's Magic level.
+Because the spell is built-in, the player does not need to carry its runes in their inventory and can use
+Arceuus spellbook
+,
+Lunar spells
+, or
+Ancient Magicks
+while wielding this staff.
+Autocast version:
+Can autocast
+Flames of Zamorak
+,
+standard spells
+and
+Ancient Magicks
+.
+Accursed sceptre (a)
+Dragon hunter wand
+65
++16
++10%
+11,263,424
+Can autocast
+Ancient Magicks
+and
+standard spells
+.
+The wand has a
+passive effect
+that increases accuracy by 75% and damage by 40% when fighting
+dragons
+(excluding Elvarg and revenant dragons) and other
+draconic
+creatures, such as
+wyrms
+,
+wyverns
+, and
+hydras
+.
+Warped sceptre
+62
++12
+N/A
+125,145
+Requires
+5
+2
+per charge of the built-in spell.
+Built-in spell damage scales with the player's Magic level and can hit up to 24 at
+99
+without any magic damage bonus.
+Because the spell is built-in, the player does not need to carry its runes in their inventory and can use
+Arceuus spellbook
+,
+Lunar spells
+, or
+Ancient Magicks
+while wielding this staff.
+Master wand
+60
++20
+N/A
+1,978,593
+Can autocast
+Ancient Magicks
+,
+Arceuus spells
+, and
+standard spells
+.
+Requires 240 Telekinetic, 240 Alchemist, 2400 Enchantment and 240 Graveyard points, and a
+teacher wand
+equipped or in the player's inventory, to purchase from the
+Mage Training Arena
+. Thus it does not cost much besides the time and runes spent in the Mage Training Arena.
+Thammaron's sceptre
+60
++15
+N/A
+4,668,443
+While charged, an additional 50% magic accuracy and damage boost is applied when attacking any
+NPC
+in the
+Wilderness
+. This effect will stack with a
+Slayer helmet
+or a
+Salve amulet
+and their variants, but not both simultaneously.
+Standard version:
+Built-in spell damage scales with the player's Magic level.
+Because the spell is built-in, the player does not need to carry its runes in their inventory and can use
+Arceuus spellbook
+,
+Lunar spells
+, or
+Ancient Magicks
+while wielding this staff.
+Autocast version:
+Can autocast
+Flames of Zamorak
+,
+standard spells
+and
+Ancient Magicks
+.
+Thammaron's sceptre (a)
+Twinflame staff
+60
++12
++10%
+[
+n 3
+]
+6,009,277
+Can autocast
+standard spells
+, but at a slightly slower rate than other staves (6 ticks/3.6 seconds instead of 5 ticks/3.0 seconds).
+Provides unlimited
+fire
+and
+water runes
+.
+Grants a 10% accuracy and damage boost for combat spells on the
+standard spellbook
+.
+Will automatically cast the appropriate elemental spell for an NPC with a different
+elemental weakness
+that what the player is currently autocasting, assuming they have the runes and Magic level to do so.
+All
+Bolt
+,
+Blast
+, and
+Wave spells
+casted fire a second spell that deals 40% of the damage dealt by the first, rounded down.
+God staves
+60
++6
+N/A
+80,000
+Required to cast
+god spells
+, but cannot be used to autocast them.
+Those who have
+80
+and the respective
+God cape
+can use the
+Charge
+spell, which increases the God spell's damage by 50%.
+Iban's staff
+50
++10
+N/A
+200,000
+[
+n 4
+]
+Only staff able to cast
+Iban Blast
+.
+Can autocast Iban Blast and
+standard spells
+.
+Has 120 charges (2,500 if
+upgraded
+). One charge is used when casting Iban Blast on an
+NPC
+and two are used when casting it on another player.
+Iban Blast has a max hit of 25.
+Iban's staff (u)
+400,000
+[
+n 5
+]
+Ancient staff
+50
++15
+N/A
+60,073
+Can autocast both
+Ancient Magicks
+and
+standard spells
+.
+Slayer's staff
+50
+55
++12
+N/A
+22,387
+Can autocast
+Magic Dart
+,
+Crumble Undead
+,
+Arceuus spells
+, and the
+Wave
+and
+Surge spells
+.
+Runes required to cast Magic Dart are very cheap compared to spells of a similar level.
+Maximum hit of Magic Dart is
+10 + (player's magic level / 10)
+, rounded down.
+Void knight mace
+42
+22
++8
+N/A
+Untradeable
+[
+n 6
+]
+Can autocast
+Claws of Guthix
+,
+Crumble Undead
+, and the
+Wave
+and
+Surge spells
+.
+Mystic smoke staff
+40
++14
++10%
+[
+n 3
+]
+2,660,001
+Can autocast
+standard spells
+.
+Provides unlimited
+fire
+and
+air runes
+.
+Grants a 10% accuracy and damage boost for combat spells on the
+standard spellbook
+.
+Smoke battlestaff
+30
++12
+2,617,988
+Salamanders
+30
+(Green)
+N/A
+N/A
+97
+Unique and versatile two-handed weapons that facilitate the use of all three combat styles.
+Cannot autocast spells, but instead have their own unique magic attack, similar to how powered staves have built-in spells.
+Damage done by salamanders is calculated by a unique formula using a hidden "magic damage bonus" unique to each lizard type.
+50
+(Orange)
+33
+60
+(Red)
+28
+70
+(Black)
+143
+80
+(Tecu)
+206,731
+Croziers
+60
++10
+N/A
+3,026
+Can autocast
+standard spells
+.
+Have a notable Prayer boost of +6.
+Skull sceptre
+1
++10
+N/A
+Untradeable
+Can autocast
+Arceuus spells
+and
+standard spells
+. Additionally, the
+imbued version
+can autocast
+Crumble Undead
+.
+Skull sceptre (i)
+Elemental staves
+1
+(Basic)
++10
+N/A
+1,497
+Can autocast
+standard spells
+.
+Provide unlimited runes of their respective elements.
+Elemental staves (
+air
+,
+water
+,
+earth
+and
+fire
+) provide one type of rune.
+Combination staves (
+lava
+,
+mud
+,
+mist
+,
+dust
+,
+steam
+and
+smoke
+) provide two types of runes.
+30
+(Battlestaff)
++12
+8,910
+40
+(Mystic staff)
++14
+25,126
+^
+Untradeable; price is of the
+tormented synapse
+,
+iron bar
+, and
+battlestaff
+used to create the staff.
+^
+Reverts to standard
+Slayer's staff
+when it runs out of charges, and needs to have a
+Slayer's enchantment
+reapplied.
+^
+3.0
+3.1
+Is not shown on Equipment Stats, and applies only to the
+standard spellbook
+.
+^
+Cost to repair the broken staff.
+^
+Cost to repair the broken staff and upgrade it to
+Iban's staff (u)
+, which holds 2,500 charges instead of 120.
+^
+Costs 250
+Void Knight commendation points
+.
+Quests for Magic experience
+Main article:
+Quest experience rewards
+Quest
+Experience
+reward
+Magic
+requirement
+Other requirements
+Witch's Potion
+325
+-
+-
+Imp Catcher
+875
+-
+-
+Fairytale I - Growing Pains
+1,000
+-
+-
+Spirits of the Elid
+1,000
+33
+37
+,
+37
+,
+37
+The Giant Dwarf
+1,500
+33
+14
+,
+12
+,
+16
+The Grand Tree
+2,150
+-
+25
+Recipe for Disaster
+(
+Lumbridge Guide subquest
+)
+2,500
+-
+40
+Horror from the Deep
+4,662
+-
+35
+King's Ransom
+5,000
+45
+65
+Lunar Diplomacy
+5,000
+65
+61
+,
+40
+,
+49
+,
+5
+,
+60
+,
+55
+Enakhra's Lament
+7,000
+39
+50
+,
+45
+,
+43
+,
+45
+Dream Mentor
+10,000
+65
+32
+,
+85
+,
+61
+,
+40
+,
+49
+,
+5
+,
+60
+,
+55
+The Eyes of Glouphrie
+12,000
+46
+5
+,
+45
+(
+)
+Swan Song
+15,000
+66
+100
+,
+62
+,
+62
+,
+45
+,
+42
+,
+40
+Watchtower
+15,250
+15
+15
+,
+25
+,
+14
+,
+40
+Desert Treasure I
+20,000
+50
+53
+,
+50
+,
+10
+Total
+103,262
+v
+t
+e
+Skill training guides
+Free-to-play guides
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Members' guides
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+Ironman guides
+Money making
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+Ultimate Ironman guides
+Item management
+Equipment
+Quests
+Minigames
+Money making
+Melee
+Ranged
+Magic
+Defence
+Prayer
+Hitpoints
+Crafting
+Mining
+Smithing
+Fishing
+Cooking
+Firemaking
+Woodcutting
+Runecraft
+Agility
+Herblore
+Thieving
+Fletching
+Slayer
+Farming
+Construction
+Hunter
+General guidelines
+Efficiency

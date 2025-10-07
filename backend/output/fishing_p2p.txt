@@ -289,10 +289,10 @@ Players can optionally bank the fish caught for 5 numulites per full net. This w
 raw lobsters
 starting to be caught at level 50.
 The experience rates in the table below assume 1,150 fish shoal caught per hour. The experience per fish shoal scales until level 70 Fishing and Hunter, where 77 Fishing experience and 101.5 Hunter experience are gained per fish shoal. Expect slightly lower rates if banking the fish. With good practice, it is possible to catch up to 1,200–1,250 fish shoal per hour. Buying the drift nets on the Grand Exchange would cost
-338,905 coins
+330,855 coins
 per hour.
 From level 44 to 99 Hunter, the player will gain 9,842,153 Fishing experience if starting at level 47 Fishing. This would require 12,944 drift nets, which would cost
-−38,145,968
+−37,239,888
 .
 Level
 XP/shoal
@@ -307,9 +307,9 @@ Total
 60,145
 53,130
 113,275
--5.63
--6.38
--2.99
+-5.50
+-6.23
+-2.92
 50
 50
 62.5
@@ -317,9 +317,9 @@ Total
 71,875
 57,500
 129,375
--4.72
--5.89
--2.62
+-4.60
+-5.75
+-2.56
 55
 55
 71.5
@@ -327,9 +327,9 @@ Total
 82,225
 64,745
 146,970
--4.12
--5.23
--2.31
+-4.02
+-5.11
+-2.25
 60
 60
 81.0
@@ -337,9 +337,9 @@ Total
 93,150
 72,450
 165,600
--3.64
--4.68
--2.05
+-3.55
+-4.57
+-2.00
 65
 65
 91.0
@@ -347,9 +347,9 @@ Total
 104,650
 80,270
 184,920
--3.24
--4.22
--1.83
+-3.16
+-4.12
+-1.79
 70
 70
 101.5
@@ -357,9 +357,9 @@ Total
 116,725
 88,550
 205,275
--2.90
--3.83
--1.65
+-2.83
+-3.74
+-1.61
 Levels 58–71/99: Barbarian Fishing
 Main article:
 Barbarian Fishing
@@ -692,25 +692,25 @@ XP/h
 GP/h
 62
 35,800
-118,306
+112,048
 70
 37,000
-122,276
+115,808
 80
 38,500
-127,437
+120,696
 90
 40,000
-132,598
+125,584
 99
 42,000
-138,950
+131,600
 Starting experience - 333,804
 Experience needed - 12,700,627
 Monkfish
 needed - 105,839
 Profit made (62–99):
-42,018,083
+39,795,464
 Levels 65–99: Karambwan
 Main article:
 Raw karambwan
@@ -779,42 +779,42 @@ GP/h
 29,000
 1,386
 26,500
-220,980
+219,820
 70
 31,000
 1,378
 28,600
-236,220
+234,980
 75
 32,900
 1,370
 30,600
-250,698
+249,382
 80
 34,900
 1,363
 32,700
-265,938
+264,542
 85
 36,800
 1,355
 34,700
-280,416
+278,944
 90
 38,700
 1,347
 36,700
-294,894
+293,346
 95
 40,600
 1,340
 38,600
-309,372
+307,748
 99
 42,000
 1,335
 40,000
-320,040
+318,360
 Levels 80–99: Infernal eel
 Main article:
 Infernal eel
@@ -849,16 +849,16 @@ No
 With
 80
 29,700
-143,215
-182,773
+144,375
+185,470
 90
 31,800
-153,692
-196,144
+154,937
+199,038
 99
 34,000
-164,169
-209,515
+165,499
+212,607
 Levels 82–99: Minnows
 Main article:
 Minnow
@@ -897,40 +897,40 @@ No blessing
 16,200
 375
 405
-220,125.00
-237,735.00
+202,500.00
+218,700.00
 85
 43,000
 17,000
 18,360
 425
 459
-249,475.00
-269,433.00
+229,500.00
+247,860.00
 90
 45,000
 19,500
 21,040
 487
 526
-286,162.50
-308,762.00
+263,250.00
+284,040.00
 95
 48,000
 22,000
 23,760
 550
 594
-322,850.00
-348,678.00
+297,000.00
+320,760.00
 99
 56,000
 25,000
 27,000
 625
 675
-366,875.00
-396,225.00
+337,500.00
+364,500.00
 Levels 82–99: Anglerfish
 Main article:
 Raw anglerfish
@@ -946,9 +946,9 @@ Starting experience - 2,421,087
 Experience needed - 10,613,344
 Anglerfish needed - 88,445
 Profit made (82-99):
-129,925,705
+129,129,700
 If cooked:
-151,594,730
+151,948,510
 Levels 85–99: Dark crabs
 500
 25000
@@ -982,7 +982,7 @@ Starting experience - 3,258,594
 Experience needed - 9,775,837
 Dark crabs needed - 75,199
 Profit made (85-99):
-133,102,230
+120,844,793
 Levels 87–99: Sacred eel
 Main article:
 Sacred eel
@@ -1021,23 +1021,23 @@ GP/h
 87
 20,000
 21,300
-164,384
+156,003
 21,900
-205,718
+195,242
 22,500
-247,053
+234,481
 23,000
-288,387
+273,720
 99
 23,000
 24,500
-189,040
+179,402
 25,200
-236,574
+224,526
 25,800
-284,108
+269,651
 26,500
-331,642
+314,775
 Fish
 Fish
 Fishing
@@ -1064,9 +1064,9 @@ cooked
 30
 Net
 3
-73
-30
-−43
+64
+29
+−35
 0
 Sardine
 (
@@ -1078,9 +1078,9 @@ cooked
 40
 Bait, Drift net
 4
-57
-42
-−15
+46
+41
+−5
 0
 Karambwanji
 (
@@ -1120,9 +1120,9 @@ cooked
 50
 Bait
 5
-238
-60
-−178
+182
+62
+−120
 0
 Anchovies
 (
@@ -1134,9 +1134,9 @@ cooked
 30
 Net, Drift net
 1
-22
-35
-13
+19
+42
+23
 0
 Mackerel
 (
@@ -1148,9 +1148,9 @@ cooked
 60
 Big Net
 6
-43
+44
 27
-−16
+−17
 1
 Trout
 (
@@ -1162,9 +1162,9 @@ cooked
 70
 Fly
 7
-101
-89
-−12
+88
+72
+−16
 0
 Cavefish
 (
@@ -1204,9 +1204,9 @@ cooked
 75
 Big Net
 7
-35
-30
-−5
+41
+29
+−12
 1
 Pike
 (
@@ -1218,9 +1218,9 @@ cooked
 80
 Bait
 8
-109
-54
-−55
+107
+48
+−59
 0
 Slimy eel
 (
@@ -1232,9 +1232,9 @@ cooked
 95
 Bait
 6-10
-109
+104
 30
-−79
+−74
 1
 Salmon
 (
@@ -1246,9 +1246,9 @@ cooked
 90
 Fly
 9
-68
+53
 70
-2
+17
 0
 N/A
 Frog spawn
@@ -1286,9 +1286,9 @@ cooked
 100
 Harpoon, Drift net
 10
-85
-112
-27
+88
+111
+23
 0
 Rainbow fish
 (
@@ -1300,9 +1300,9 @@ cooked
 110
 Stripy fly fishing
 11
-371
+359
 103
-−268
+−256
 1
 Cave eel
 (
@@ -1314,9 +1314,9 @@ cooked
 115
 Bait
 7-11
-110
 106
-−4
+106
+0
 1
 Lobster
 (
@@ -1328,9 +1328,9 @@ cooked
 120
 Cage, Drift net
 12
-146
-198
-52
+144
+181
+37
 0
 Bluegill
 (
@@ -1342,9 +1342,9 @@ cut
 3
 Cormorant
 N/A
-72
-16
-−56
+70
+17
+−53
 1
 Bass
 [
@@ -1360,8 +1360,8 @@ cooked
 Big Net
 13
 20
-155
-135
+152
+132
 1
 Catfish
 (
@@ -1387,8 +1387,8 @@ cut
 10
 Heavy rod
 N/A
-6
-48
+7
+49
 42
 1
 Swordfish
@@ -1404,9 +1404,9 @@ cooked
 140
 Harpoon, Drift net
 14
-118
-153
-35
+125
+148
+23
 0
 Lava eel
 (
@@ -1433,8 +1433,8 @@ cut
 Cormorant
 N/A
 673
-16
-−657
+17
+−656
 1
 Leaping salmon
 (
@@ -1446,9 +1446,9 @@ cut
 10
 Heavy rod
 N/A
-6
-48
-42
+8
+49
+41
 1
 Monkfish
 (
@@ -1460,9 +1460,9 @@ cooked
 150
 Net
 16
-405
-541
-136
+383
+441
+58
 1
 Karambwan
 (
@@ -1474,9 +1474,9 @@ cooked
 190
 Vessel
 18
-388
-572
-184
+386
+565
+179
 1
 Leaping sturgeon
 (
@@ -1503,8 +1503,8 @@ cut
 Cormorant
 N/A
 186
-16
-−170
+17
+−169
 1
 Shark
 [
@@ -1519,9 +1519,9 @@ cooked
 210
 Harpoon, Drift net
 20
-598
-774
-176
+551
+918
+367
 1
 Sea turtle
 (
@@ -1533,9 +1533,9 @@ cooked
 212
 Fishing Trawler, Drift net
 21
-881
-1,161
-280
+840
+1,219
+379
 1
 Infernal eel
 (
@@ -1561,9 +1561,9 @@ cooked
 216
 Fishing Trawler, Drift net
 22
-1,529
-1,817
-288
+1,551
+1,946
+395
 1
 N/A
 Minnow
@@ -1587,9 +1587,9 @@ cooked
 230
 Sandworms, Diabolic worms
 3-22
-1,498
-1,748
-250
+1,489
+1,753
+264
 1
 Dark crab
 (
@@ -1601,9 +1601,9 @@ cooked
 215
 Cage with dark bait
 22
-1,806
-2,009
-203
+1,639
+1,894
+255
 1
 Sacred eel
 (
@@ -1629,9 +1629,9 @@ cut
 25
 Cormorant
 N/A
-144
-16
-−128
+141
+17
+−124
 1
 ^
 1.0

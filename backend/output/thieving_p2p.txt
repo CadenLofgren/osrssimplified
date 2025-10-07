@@ -29,7 +29,7 @@ Fastest experience
 2.1
 Levels 1–42: Questing
 2.2
-Levels 1–36/45 Chambers of Xerics thieving room
+Levels 1–36/45 Chambers of Xeric thieving room
 2.3
 Levels 36-45: Chests in Aldarin Villas
 2.4
@@ -145,7 +145,7 @@ Gloves of silence
 increase players' success rate while pickpocketing by 5% while they are equipped. Wearing them requires level 54
 Hunter
 . Gloves of silence can be bought from the Grand Exchange for
-1,451
+1,482
 each or created at the
 Fancy Clothes Store
 in
@@ -201,7 +201,7 @@ Ethically Acquired Antiquities
 , and
 The Feud
 grants a total additional 41,500 experience, which will get the player up to level 42.
-Levels 1–36/45 Chambers of Xerics thieving room
+Levels 1–36/45 Chambers of Xeric thieving room
 From level 1 to 45, you can train Thieving in the
 Chambers of Xeric
 raid atop
@@ -210,9 +210,9 @@ in the
 Kebos Lowlands
 . Bring a
 lockpick
-, (can obtain from a
+(can obtain from a
 Scavenger
-inside the raid) then reload the raid until the first room is a thieving room. Steal from 4 chests in a circular motion and you can expect experience rates of up to 35-50k experience an hour. Simply pick the locks until you get the prompt that you can't carry anymore grubs, drop the grubs, continue picking locks. (Placing enough grubs in the trough will render the activity "complete" and stop rewarding experience for opening chests) The easiest way to get to the Chambers of Xeric on a fresh account is by taking a
+inside the raid), then reload the raid until the first room is a thieving room. Steal from 4 chests in a circular motion and you can expect experience rates of up to 35-50k experience an hour. Simply pick the locks until you get the prompt that you can't carry anymore grubs, drop the grubs, then continue picking locks -- do not place the grubs in the trough, as doing so will complete the room and lock you out of further thieving experience for the rest of the raid. The easiest way to get to the Chambers of Xeric on a fresh account is by taking a
 minecart
 to
 Mount Quidamortem
@@ -221,7 +221,7 @@ Port Piscarilius
 for 20
 coins
 .
-Experience rates can be improved by scaling the raid to 100+ players, which significantly reduces the chest respawn time. In certain room layouts, it’s possible to rotate between just two chests due to the fast respawn rate. Some players position their camera and character in a specific way to allow near-continuous clicking between the two chests without moving, improving both XP/hr and ease of use.
+Experience rates can be improved by scaling the raid to up to 100 players, which significantly reduces the chest respawn time. In certain room layouts, it’s possible to rotate between just two chests due to the fast respawn rate. Some players position their camera and character in a specific way to allow near-continuous clicking between the two chests without moving, improving both XP/hr and ease of use.
 Levels 36-45: Chests in Aldarin Villas
 Stealing from
 chests in Aldarin villas
@@ -241,9 +241,9 @@ Blackjacking in action.
 Blackjacking
 bandits in
 Pollnivneach
-offers the fastest experience from level 45 to 49, and then from level 65 to 84. To blackjack, lure a bandit to an empty house where the other bandits cannot see them. Knock out the bandit and pickpocket them twice while they are unconscious. When timed correctly, the player will receive experience drops every two
+offers the fastest experience from level 45 to 49, and then from level 65 to 84. To blackjack, lure a bandit to an empty house where the other bandits cannot see them. Knock out the bandit and pickpocket them twice while they are unconscious. The timing is right when the player receives experience drops every two
 ticks
-. There is a chance to fail the knock-out, in which case the player will need to quickly knock out the bandit again or pickpocket them to avoid entering into combat. If the bandit starts attacking, equip a different melee weapon and attempt to knock out the bandit to cancel the combat.
+. When failing a knock-out, quickly knock out the bandit again or pickpocket them with a full inventory to avoid entering into combat. If the bandit starts attacking, equip a different weapon and attempt to knock out the bandit to cancel combat.
 There are three different types of bandits that can be blackjacked, but the method is the same for all of them.
 From level 45 to 55, blackjack level 41
 Bearded Pollnivnian bandits
@@ -258,7 +258,7 @@ Blackjacking requires level 45 Thieving, partial completion of
 The Feud
 , and a blackjack of any kind. The type of blackjack does not matter for blackjacking. Wearing full
 rogue equipment
-is recommended for double loot per pickpocket, though no extra experience is given. Use
+is recommended for double loot per pickpocket, though this does not give extra experience. Use
 Saradomin brews
 or other inventory-blocking food (such as
 pies
@@ -275,47 +275,65 @@ Faisal
 at the
 bar
 to the south.
-The experience rates in the table below assume having decent practice and using Saradomin brews for extended trips. Expect lower rates when learning or if using worse food at lower levels. If buying jugs of wine from the bar, expect 10–15% lower rates. With good practice, it is possible to gain up to 270,000–275,000 experience per hour at level 99.
+The experience rates in the table below assume having good practice and include resupply time. The Saradomin brew rates assume unnoting the brews at the Banknote Exchange Merchant, and the wine rates buying the wines from the nearby bar. Expect lower rates when learning. At maximum efficiency, it is possible to gain up to 270,000–275,000 experience per hour at level 99.
 Level
-XP/h
+XP/h (brews)
+XP/h (wines)
 45
+99,000
+86,000
+50
 103,000
+90,000
 55
-138,000
+136,000
+121,000
+60
+140,000
+126,000
 65
-203,000
+230,000
+209,000
+70
+236,000
+218,000
 75
-221,000
+242,000
+226,000
+80
+247,000
+233,000
 85
-239,000
-95
+252,000
+241,000
+90
 257,000
+248,000
+95
+261,000
+255,000
 99
 265,000
-Stealing artefacts offers faster experience from level 49 to 65, and the Pyramid Plunder minigame past level 91, but this method remains viable up to level 99. This method is fairly click-intensive however, so players may find it easier in the long run to try other methods listed below.
+261,000
+Stealing artefacts offers faster experience from level 49 to 65, and the Pyramid Plunder minigame past level 91, but this method remains viable up to level 99. This method is fairly click-intensive however, so consider alternative methods listed below.
 If using this method from level 45 to 91, the player will make ~2,500,000 coins, or ~5,000,000 coins when wearing full rogue equipment. Rogue equipment is locked until level 50.
 Resetting aggressiveness
 Switching weapons to reset aggressiveness.
 Failing to knock out a bandit will make them aggressive. When this happens, avoid pickpocketing a conscious bandit (without a full inventory) as getting stunned will lower experience rates. With quick enough reactions, it is possible to avoid getting into combat by doing the following:
 Keep trying to knock them out again. This is the best option but requires quick reactions.
 Pickpocket the bandit with a full inventory. The player will not actually pickpocket, but selecting the dialogue prompt will reset aggressiveness. You can attempt to knock-out again immediately after the dialogue prompt, even though you will appear stunned.
-If the bandit starts attacking the player, the bandit cannot be pickpocketed or knocked out while in combat. The fastest reliable way to get out of combat is to unequip the blackjack or switch to a different weapon, and attempt to knock out the bandit. This will make the bandit stop attacking the player. Wait a few seconds before re-equipping the blackjack, and continue blackjacking.
+If the bandit starts attacking the player, the bandit cannot be pickpocketed or knocked out while in combat. To quickly get out of combat, unequip the blackjack or switch to a different weapon, and attempt to knock out the bandit. This will make the bandit stop attacking the player. Wait a few seconds before re-equipping the blackjack, and continue blackjacking.
 More information and tips
-For minimal mouse movement (similarly to training
+To minimise mouse movement (similarly to training
 Construction
-), set NPC 'Attack' Options to "Hidden". Use resizable mode, zoom in, and set the camera angle so that when right-clicking on a bandit, the mouse cursor is on the "Pickpocket" option.
-Lure a bandit to a spot where he gets trapped and cannot move elsewhere. Make sure the bandit is not able to walk through you; this can be done by knocking out the bandit, quickly running away from the bandit and going back in front of him. The bandit will not teleport to its respawn location as long as you keep blackjacking. One of the best houses to lure a bearded or regular Pollnivnian bandit in is
+), set NPC 'Attack' Options to "Hidden". Use resizable mode and zoom in. Set the camera angle so that when right-clicking on a bandit, the mouse cursor is on the "Pickpocket" option.
+Lure a bandit to a spot where he gets trapped and cannot move elsewhere. Make sure the bandit is not able to walk through you; this can be done by knocking out the bandit, quickly running away from the bandit and going back in front of him. The bandit will not teleport to its respawn location as long as you keep blackjacking.
+For bearded or regular Pollnivnian bandits, use
 Ali the Dyer
-'s house in the northern part of Pollnivneach, which is very small and has a ladder which can be used to quickly reset aggressiveness if needed. A Menaphite Thug can be lured into the southern part of the house just next to the bar.
-Having a full inventory minimises the possibility of getting stunned after pickpocketing a conscious bandit. The time saved from avoiding being stunned will significantly increase experience rates. Having full inventory does not
-completely
-prevent you pickpocketing a conscious bandit however, since even with full inventory you are able to do so on the same tick the bandit becomes conscious. If you are using Saradomin brews for healing, have the automatic vial smashing disabled so you have a full inventory after drinking the potions.
-Having a maximum stack of coin pouches (must be pouches from the NPC being blackjacked) will stop the player from being able to pickpocket a conscious bandit/thug however, the action of attempting to pickpocket the after a failed knockout attempt will stop the NPC from initiating combat after the initial hit giving players a larger window of opportunity to avoid falling into combat and having to reset. (Depending on Ardougne Diary completion the coin pouch limit is 28/56/84/140) Even though obtaining a max stack of coin pouches can be somewhat time consuming it is greatly recommended at lower levels as it will greatly reduce the need to reset combat and the reduction of experience rates due to failed knock out attempts and stun's from failed pickpocket attempts trying to avoid combat.
-Consider completing the blackjacking portion of
-Rogue Trader
-for the option to purchase a blackjack with defensive stats; which can help reduce damage taken from
-Menaphite Thugs
-.
+'s house in the northern part of Pollnivneach. It is very small and has a ladder which can be used to quickly reset aggressiveness if needed. A Menaphite Thug can be lured into the southern part of the house just next to the bar.
+Use inventory-blocking food (such as Saradomin brews, pies, or jugs of wine) to always have a full inventory. With a full inventory, the player cannot get coin pouches and thus cannot actually pickpocket a conscious bandit. If the player fails a knock-out, quickly attempt to pickpocket a conscious bandit. This will cancel initial aggressiveness and minimises resets from entering combat, which will increase experience rates. Immediately knocking out the bandit is faster, so only use this as a backup tactic.
+In addition, having a full inventory minimises the chance of getting stunned by accidentally pickpocketing a conscious bandit, which will also save time. If using Saradomin brews, disable automatic vial smashing to get an empty vial after drinking the potion.
+Alternatively, have a maximum stack of coin pouches for the same effect. This is generally worse than using inventory-blocking food however, because getting a maximum stack of coin pouches takes long.
 Levels 49–65/99: Stealing artefacts
 Main article:
 Stealing artefacts
@@ -793,7 +811,7 @@ vyres
 at level 82 with rogue equipment, dodgy necklaces, and the
 hard Ardougne Diary
 completed will get 120,000–180,000 experience per hour and profit
-2,729,342.32
+2,840,982.47
 coins per hour, depending on Thieving level. This will require completion of the
 Sins of the Father
 .
@@ -813,7 +831,7 @@ Song of the Elves
 enhanced crystal teleport seeds
 which can be sold for high profit.
 At level 99 players can gain around 150,000 experience per hour and
-3,734,170.13
+3,482,447.92
 coins per hour assuming that players use
 dodgy necklaces
 , and full

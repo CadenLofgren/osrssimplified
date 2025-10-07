@@ -152,13 +152,13 @@ Anchovy pizzas are made merely by adding cooked anchovies to plain pizza, making
 anchovies
 onto them, and then selling them back them via the Grand Exchange.
 Cost of plain cooked pizza:
-−426
+−445
 Cost of cooked Anchovies:
-−35
+−42
 Price of Anchovy pizza:
-572
+587
 Net-gain per Anchovy pizza assembled:
-111
+100
 Training methods
 Below are some training methods suitable for different kinds of players. You should start off by doing the quest
 Cook's Assistant
@@ -250,57 +250,57 @@ Trout
 50
 58
 1760
-177,760
-156,640
-−21,120
-101
-89
-−12
+154,880
+126,720
+−28,160
+88
+72
+−16
 Salmon
 58
 64
 2029
-137,972
+107,537
 142,030
-4,058
-68
+34,493
+53
 70
-2
+17
 Tuna
 64
 74
 6893
-585,905
-772,016
-186,111
-85
-112
-27
+606,584
+765,123
+158,539
+88
+111
+23
 Lobster
 74
 86
 20846
-3,043,516
-4,127,508
-1,083,992
-146
-198
-52
+3,001,824
+3,773,126
+771,302
+144
+181
+37
 Swordfish
 86
 99
 67405
-7,953,790
-10,312,965
-2,359,175
-118
-153
-35
+8,425,625
+9,975,940
+1,550,315
+125
+148
+23
 Totals
 98933
-11,898,943
-15,511,159
-3,612,216
+12,296,450
+14,782,939
+2,486,489
 Another method is to cook
 pizza
 from the level you're able to cook them all the way to 99. It is better experience than
@@ -512,12 +512,12 @@ Price per Jugs of water
 Price per Grapes
 Cost per Wine
 62,147
-2,361,586
+2,050,851
 4,412,437
-−6,587,582
-38
+−6,214,700
+33
 71
-−106
+−100
 Profitability
 Players wishing to know the profits of cooking certain foods should consult the related calculators, such as
 Calculator:Cooking/Fish

@@ -110,55 +110,55 @@ Crafting leather chaps
 27
 Soft leather
 x 1
-350
-6
-−344
--12.74
+308
+4
+−304
+-11.26
 28
 Crafting hardleather bodies
 35
 Hard leather
 x 1
-258
-11
-−247
--7.06
+265
+8
+−257
+-7.34
 20
 Cutting sapphires
 50
 Uncut sapphire
 x 1
-237
-221
-−16
--0.32
+238
+224
+−14
+-0.28
 27
 Cutting emeralds
 67.5
 Uncut emerald
 x 1
-483
-382
-−101
--1.50
+503
+386
+−117
+-1.73
 34
 Cutting rubies
 85
 Uncut ruby
 x 1
-1,205
-807
-−398
--4.68
+1,315
+812
+−503
+-5.92
 43
 Cutting diamonds
 107.5
 Uncut diamond
 x 1
-2,495
-1,648
-−847
--7.88
+2,587
+1,631
+−956
+-8.89
 Commuter Training Methods
 These methods require the player to move from place to place.  The most common of which is moving back and forth between bank and a
 furnace
@@ -176,28 +176,28 @@ Making bowls
 33
 Soft clay
 x 1
-117
-26
-−91
--2.76
+103
+22
+−81
+-2.45
 8
 Smelting unstrung gold amulets
 30
 Gold bar
 x 1
-106
-174
-68
-2.27
+108
+172
+64
+2.13
 23
 Smelting tiaras
 52.5
 Silver bar
 x 1
-90
-135
-45
-0.86
+96
+122
+26
+0.50
 50
 Crafting Ruby Amulets
 85
@@ -205,10 +205,10 @@ Gold bar
 x 1
 Ruby
 x 1
-913
-1,082
-169
-1.99
+920
+1,077
+157
+1.85
 56
 Crafting Diamond Necklaces
 90
@@ -216,10 +216,10 @@ Gold bar
 x 1
 Diamond
 x 1
-1,754
-1,979
-225
-2.50
+1,739
+1,984
+245
+2.72
 Levels 1–99
 Players are encouraged to change between training methods as necessary as the cost of certain methods fluctuates over time.
 Armour
@@ -239,9 +239,9 @@ Leather gloves
 650
 48 ×
 Leather
-16,800
+14,784
 816
-−15,984
+−13,968
 7–9
 Leather boots
 16.2
@@ -249,9 +249,9 @@ Leather boots
 319
 20 ×
 Leather
-7,000
-900
-−6,100
+6,160
+920
+−5,240
 9–11
 Leather cowl
 18.5
@@ -259,9 +259,9 @@ Leather cowl
 389
 21 ×
 Leather
-7,350
+6,468
 105
-−7,245
+−6,363
 11–14
 Leather vambraces
 22
@@ -269,9 +269,9 @@ Leather vambraces
 749
 34 ×
 Leather
-11,900
+10,472
 102
-−11,798
+−10,370
 14–18
 Leather body
 25
@@ -279,9 +279,9 @@ Leather body
 1,416
 57 ×
 Leather
-19,950
+17,556
 57
-−19,893
+−17,499
 18–28
 Leather chaps
 27
@@ -289,9 +289,9 @@ Leather chaps
 7,301
 271 ×
 Leather
-94,850
-1,626
-−93,224
+83,468
+1,084
+−82,384
 28–99
 Hardleather body
 35
@@ -299,9 +299,9 @@ Hardleather body
 13,023,607
 372,103 ×
 Hard leather
-96,002,574
-4,093,133
-−91,909,441
+98,607,295
+2,976,824
+−95,630,471
 Total
 13,034,431
 451 ×
@@ -309,9 +309,9 @@ Leather
 ;
 372,103 ×
 Hard leather
-96,160,074
-4,096,733
-−92,063,341
+98,745,895
+2,979,904
+−95,765,991
 Pottery
 This guide assumes all products are formed and fired.
 Level
@@ -328,34 +328,34 @@ Pot
 650
 52 ×
 Soft clay
-6,084
-2,132
-−3,952
+5,356
+1,976
+−3,380
 7–8
 Pie dish
 25
 151
 6 ×
 Soft clay
-702
-114
-−588
+618
+120
+−498
 8–99
 Bowl
 33
 13,033,630
 394,959 ×
 Soft clay
-46,210,203
-10,268,934
-−35,941,269
+40,680,777
+8,689,098
+−31,991,679
 Total
 13,034,431
 395,017 ×
 Soft clay
-46,216,989
-10,271,180
-−35,945,809
+40,686,751
+8,691,194
+−31,995,557
 Gold jewellery
 Level
 Product
@@ -378,11 +378,11 @@ Gold ring
 124
 8 ×
 Gold bar
-848
+864
 1,304
-456
-57.00
-3.80
+440
+55.00
+3.67
 6–8
 Gold necklace
 20
@@ -393,11 +393,11 @@ Gold necklace
 289
 15 ×
 Gold bar
-1,590
-2,745
-1,155
-77.00
-3.85
+1,620
+2,670
+1,050
+70.00
+3.50
 8–20
 Gold amulet (u)
 30
@@ -408,11 +408,11 @@ Gold amulet (u)
 3,669
 122 ×
 Gold bar
-13,038
-21,402
-8,364
-68.00
-2.27
+13,284
+21,156
+7,872
+64.00
+2.13
 20–22
 Sapphire ring
 40
@@ -425,11 +425,11 @@ Sapphire ring
 Gold bar
 ; 29 ×
 Sapphire
-9,483
-12,934
-3,451
-119.00
-2.98
+9,628
+13,108
+3,480
+120.00
+3.00
 22–24
 Sapphire necklace
 55
@@ -442,8 +442,8 @@ Sapphire necklace
 Gold bar
 ; 26 ×
 Sapphire
-8,502
-11,700
+8,632
+11,830
 3,198
 123.00
 2.24
@@ -459,11 +459,11 @@ Sapphire amulet (u)
 Gold bar
 ; 120 ×
 Sapphire
-39,240
-52,200
-12,960
-108.00
-1.66
+39,840
+53,160
+13,320
+111.00
+1.71
 31–40
 Emerald amulet (u)
 70
@@ -476,11 +476,11 @@ Emerald amulet (u)
 Gold bar
 ; 320 ×
 Emerald
-156,160
-182,080
-25,920
-81.00
-1.16
+158,080
+176,960
+18,880
+59.00
+0.84
 40–43
 Ruby necklace
 75
@@ -493,11 +493,11 @@ Ruby necklace
 Gold bar
 ; 175 ×
 Ruby
-159,775
-188,125
-28,350
-162.00
-2.16
+161,000
+183,750
+22,750
+130.00
+1.73
 43–56
 Diamond ring
 85
@@ -510,11 +510,11 @@ Diamond ring
 Gold bar
 ; 1,573 ×
 Diamond
-2,759,042
-2,991,846
-232,804
-148.00
-1.74
+2,735,447
+2,976,116
+240,669
+153.00
+1.80
 56–70
 Diamond necklace
 90
@@ -527,11 +527,11 @@ Diamond necklace
 Gold bar
 ; 6,151 ×
 Diamond
-10,788,854
-12,172,829
-1,383,975
-225.00
-2.50
+10,696,589
+12,203,584
+1,506,995
+245.00
+2.72
 70–99
 Diamond amulet (u)
 100
@@ -544,11 +544,11 @@ Diamond amulet (u)
 Gold bar
 ; 122,968 ×
 Diamond
-215,685,872
+213,841,352
 234,991,848
-19,305,976
-157.00
-1.57
+21,150,496
+172.00
+1.72
 Total
 13,034,431
 131,506 ×
@@ -563,11 +563,11 @@ Emerald
 Ruby
 , 129,719 ×
 Diamond
-228,018,688
-248,778,010
-20,759,322
-157.86
-1.59
+226,079,157
+248,794,220
+22,715,063
+172.73
+1.74
 ^
 1.0
 1.1
@@ -599,28 +599,28 @@ Unstrung symbol
 3,545
 71 ×
 Silver bar
-6,390
+6,816
 6,603
-213
-3.00
+−213
+-3.00
 23–99
 Tiara
 52.5
 13,028,140
 248,155 ×
 Silver bar
-22,333,950
-33,500,925
-11,166,975
-45.00
+23,822,880
+30,274,910
+6,452,030
+26.00
 Total
 13,034,431
 248,226 ×
 Silver bar
-22,340,340
-33,507,528
-11,167,188
-44.99
+23,829,696
+30,281,513
+6,451,817
+25.99
 Gems
 Level
 Product
@@ -640,11 +640,11 @@ Sapphire
 5,260
 105 ×
 Uncut sapphire
-24,885
-23,205
-−1,680
-−16
--0.32
+24,990
+23,520
+−1,470
+−14
+-0.28
 27–34
 Emerald
 67.5
@@ -652,11 +652,11 @@ Emerald
 10,494
 155 ×
 Uncut emerald
-74,865
-59,210
-−15,655
-−101
--1.50
+77,965
+59,830
+−18,135
+−117
+-1.73
 34–43
 Ruby
 85
@@ -664,11 +664,11 @@ Ruby
 30,115
 354 ×
 Uncut ruby
-426,570
-285,678
-−140,892
-−398
--4.68
+465,510
+287,448
+−178,062
+−503
+-5.92
 43–99
 Diamond
 107.5
@@ -676,17 +676,17 @@ Diamond
 12,984,092
 120,783 ×
 Uncut diamond
-301,353,585
-199,050,384
-−102,303,201
-−847
--7.88
+312,465,621
+196,997,073
+−115,468,548
+−956
+-8.89
 Total
 13,034,431
 See above
-301,879,905
-199,418,477
-−102,461,428
+313,034,086
+197,367,871
+−115,666,215
 Players have been observed cutting gems with the help of banknotes to make training more efficient. It requires the player to convert non-stackable uncut gems into notes from a bank. Then use the noted uncut gems on the bank/teller to receive gems for cutting; cut the resulting un-noted uncut gems with a
 chisel
 . Deposit cut gems into a deposit box; un-note more uncut gems from the noted uncut gems stack in inventory via bank/teller; repeating this process until the desired level is reached.
@@ -712,45 +712,45 @@ GP/Hour
 Unstrung symbol
 Ball of wool
 Unblessed symbol
-152
+147
 104
-−48
-−120,000
+−43
+−107,500
 Gold amulet (u)
 Ball of wool
 Gold amulet
-233
-167
-−66
-−165,000
+226
+165
+−61
+−152,500
 Sapphire amulet (u)
 Ball of wool
 Sapphire amulet
-494
-496
-2
-5,000
+497
+495
+−2
+−5,000
 Emerald amulet (u)
 Ball of wool
 Emerald amulet
-628
-645
-17
-42,500
+607
+661
+54
+135,000
 Ruby amulet (u)
 Ball of wool
 Ruby amulet
-1,141
-1,173
-32
-80,000
+1,131
+1,167
+36
+90,000
 Diamond amulet (u)
 Ball of wool
 Diamond amulet
-1,970
-1,999
-29
-72,500
+1,965
+1,983
+18
+45,000
 v
 t
 e

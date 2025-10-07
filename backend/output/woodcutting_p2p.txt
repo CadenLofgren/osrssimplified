@@ -295,6 +295,10 @@ Myths' Guild
 Magic trees south of the
 Hosidius
 bank
+Magic trees near the southernmost
+totem
+in
+Auburn Valley
 Experience rates vary depending on the tree cut and the amount of other players. When cutting yews and participating in the events, players can gain somewhere around 80,000–90,000 experience per hour at level 99.
 Levels 62–90: Blisterwood tree
 Cutting the
@@ -372,7 +376,7 @@ unidentified fossils
 978
 sulliuscep caps
 , worth
-8,770,704
+8,429,382
 264,000
 numulite
 , worth
@@ -414,7 +418,7 @@ House on the Hill
 for a total of
 2,416,000
 Prayer experience. This amount of prayer experience would be worth
-12,008,095.00
+12,075,206.00
 at the
 Chaos altar
 in the Wilderness using dragon bones. The expected average experience rate is 580,000 experience per hour for recalcifying and converting the fossils obtained from Woodcutting, which takes on average about 4 hours and 20 minutes in total.
@@ -455,7 +459,7 @@ Normal
 1
 25
 12,500–18,750
-59,000
+56,000
 0
 Includes
 dead
@@ -474,7 +478,7 @@ Achey
 1
 25
 17,000
-178,160
+195,840
 1
 Achey Trees
 are used primarily to
@@ -490,7 +494,7 @@ Oak
 15
 37.5
 40,000
-52,234
+50,102
 0
 Oak trees
 are fairly common in
@@ -500,7 +504,7 @@ Willow
 30
 67.5
 74,000
-50,370
+52,560
 0
 Willow trees
 are found near water and provide the fastest experience for free players.
@@ -526,9 +530,9 @@ Teak
 35
 85
 90,000–220,000
-229,190
+231,426
 -
-458,380
+462,852
 1
 Teak trees
 are found in the
@@ -567,7 +571,7 @@ Arctic
 54
 40
 19,000–21,000
-252,000
+252,500
 1
 Arctic pine trees
 are found in
@@ -602,7 +606,7 @@ Bark
 45
 87.5
 70,000
-72,928
+69,536
 [
 n 3
 ]
@@ -619,7 +623,7 @@ Mahogany
 50
 125
 46,500
-137,268
+136,152
 1
 Mahogany trees
 are found primarily in the
@@ -646,7 +650,7 @@ Yew
 [
 n 4
 ]
-55,650
+54,855
 0
 Yew trees
 can be found by
@@ -691,7 +695,7 @@ Magic
 [
 n 4
 ]
-81,780
+81,122
 1
 Magic trees
 are found at the
@@ -721,7 +725,7 @@ Redwood
 90
 380
 70,000-85,000
-164,496
+161,368
 1
 Redwood trees
 are found in the
@@ -809,6 +813,7 @@ Tithe Farm
 , with a bank chest further north in the
 Vinery
 .
+2 Willow trees north east of the bank in Nemus Retreat. This location is close enough to the yew trees, that player can participate in forestry events triggered by both Yew and Willow trees in the area.
 Teak trees
 One tree is located south-west of
 Castle Wars
