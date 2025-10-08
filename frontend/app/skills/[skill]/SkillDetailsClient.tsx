@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
+import ReactMarkdown from "react-markdown";
 
 interface SkillVersion {
   id: number;
@@ -19,12 +20,10 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
         const res = await fetch("http://127.0.0.1:8000/skills");
         const data = await res.json();
 
-        // Filter for this skill
         const filtered = data.filter(
           (s: any) => s.name.toLowerCase() === skill.toLowerCase()
         );
 
-        // 🔁 Sort so F2P always appears before P2P
         const ordered = filtered.sort((a: SkillVersion, b: SkillVersion) => {
           const order = ["f2p", "p2p"];
           const aIndex = order.indexOf(a.category?.toLowerCase() || "");
@@ -57,16 +56,13 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
 
   return (
     <main className="min-h-screen bg-slate-900 text-white p-8">
-      <div className="max-w-4xl mx-auto">
-        {/* Skill Title */}
+      <div className="max-w-6xl mx-auto">
         <h1 className="text-4xl font-bold text-center mb-8 capitalize">
           {skill}
         </h1>
 
-        {/* Tabs + Top Back Button */}
         {versions.length > 0 && (
           <div className="flex flex-col items-center mb-8">
-            {/* Tabs */}
             {versions.length > 1 && (
               <div className="flex justify-center gap-6 mb-4 relative">
                 {versions.map((v) => (
@@ -92,8 +88,7 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
               </div>
             )}
 
-            {/* Back button below tabs */}
-            <div className="w-full max-w-4xl flex justify-start">
+            <div className="w-full max-w-6xl flex justify-start">
               <a
                 href="/skills"
                 className="bg-slate-700 hover:bg-slate-600 text-white font-semibold py-2 px-5 rounded-xl transition"
@@ -104,21 +99,56 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
           </div>
         )}
 
-        {/* Summary Card */}
         {activeVersion ? (
           <motion.div
             key={activeVersion.id}
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.3 }}
-            className="bg-slate-800 p-6 rounded-xl shadow-lg border border-slate-700"
+            className="bg-slate-800 p-8 rounded-2xl shadow-lg border border-slate-700"
           >
-            <h2 className="text-2xl font-semibold mb-3 uppercase">
+            <h2 className="text-2xl font-semibold mb-6 uppercase text-emerald-400">
               {activeVersion.category || "General"}
             </h2>
-            <p className="text-gray-300 whitespace-pre-line leading-relaxed">
-              {activeVersion.summary}
-            </p>
+
+            <div className="prose prose-invert max-w-none leading-relaxed text-gray-200">
+              <ReactMarkdown
+                components={{
+                  h3: ({ node, ...props }) => (
+                    <h3
+                      className="text-emerald-400 text-xl font-semibold mt-6 mb-3 border-b border-slate-700 pb-1"
+                      {...props}
+                    />
+                  ),
+                  p: ({ node, ...props }) => (
+                    <p className="mb-4" {...props} />
+                  ),
+                  ul: ({ node, ...props }) => (
+                    <ul className="list-disc list-inside mb-4 space-y-1" {...props} />
+                  ),
+                  strong: ({ node, ...props }) => (
+                    <strong className="text-white font-semibold" {...props} />
+                  ),
+                  em: ({ node, ...props }) => (
+                    <em className="text-gray-300 italic" {...props} />
+                  ),
+                  code: ({ node, inline, ...props }) =>
+                    inline ? (
+                      <code
+                        className="bg-slate-700 text-emerald-300 px-1.5 py-0.5 rounded-md text-sm font-mono"
+                        {...props}
+                      />
+                    ) : (
+                      <code
+                        className="block bg-slate-800 border border-slate-700 text-emerald-300 p-3 rounded-lg text-sm font-mono my-4 whitespace-pre-wrap"
+                        {...props}
+                      />
+                    ),
+                }}
+              >
+                {activeVersion.summary}
+              </ReactMarkdown>
+            </div>
           </motion.div>
         ) : (
           <p className="text-center text-gray-400">
@@ -126,7 +156,6 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
           </p>
         )}
 
-        {/* Bottom Back Button */}
         <div className="mt-10 text-center">
           <a
             href="/skills"
