@@ -59,3 +59,28 @@ def get_skills(db: Session = Depends(get_db)):
         }
         for skill in skills
     ]
+
+
+
+@app.get("/about")
+async def get_about():
+    return {
+        "project_name": "OSRS Simplified",
+        "description": (
+            "OSRS Simplified is a fan-made project built to make Old School RuneScape "
+            "easier to understand and navigate. It presents clear, fast-loading data "
+            "sourced from the official OSRS Wiki."
+        ),
+        "tech_stack": ["Next.js", "FastAPI", "PostgreSQL"],
+        "credits": {
+            "wiki": "Old School RuneScape Wiki",
+            "video_creator": "Melankola",
+            "video_link": "https://www.youtube.com/watch?v=D7EGZDfTWO0",
+            "developer": "Caden",
+        },
+        "links": {
+            "frontend": "https://your-frontend-domain.com",  # replace with actual
+            "github": "https://github.com/",  # replace with your repo if you want
+        },
+        "status": "success",
+    }

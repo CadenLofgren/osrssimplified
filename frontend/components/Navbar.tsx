@@ -24,12 +24,7 @@ export default function Navbar() {
           >
             About
           </Link>
-          <Link
-            href="/contact"
-            className="text-gray-300 hover:text-white transition"
-          >
-            Contact
-          </Link>
+          
         </div>
       </div>
     </nav>
