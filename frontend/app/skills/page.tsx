@@ -1,4 +1,5 @@
 "use client";
+
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
@@ -36,12 +37,15 @@ export default function SkillsPage() {
   }, []);
 
   return (
-    <main className="min-h-screen bg-slate-900 text-white p-8">
-      <h1 className="text-4xl font-bold text-center mb-8">Skills</h1>
+    <main className="min-h-screen bg-black text-[#e5c77a] flex flex-col items-center py-16 px-8">
+      {/* Title */}
+      <h1 className="text-5xl font-bold text-center text-yellow-400 mb-12 drop-shadow-lg">
+        Skills
+      </h1>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 max-w-5xl mx-auto">
+      {/* Skills Grid */}
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 max-w-5xl w-full">
         {skills.map((skill) => {
-          // Format name to match your icon filenames (e.g., Agility_icon.png)
           const formattedName =
             skill.name.charAt(0).toUpperCase() + skill.name.slice(1);
           const iconSrc = `/icons/${formattedName}_icon.png`;
@@ -50,9 +54,11 @@ export default function SkillsPage() {
             <Link
               key={skill.id}
               href={`/skills/${encodeURIComponent(skill.name)}`}
-              className="flex items-center justify-between bg-slate-800 hover:bg-slate-700 transition p-4 rounded-2xl shadow-lg"
+              className="osrs-panel flex items-center justify-between hover:scale-105 transition-transform duration-200 cursor-pointer"
             >
-              <span className="font-semibold text-lg">{skill.name}</span>
+              <span className="font-semibold text-lg capitalize text-yellow-300">
+                {skill.name}
+              </span>
 
               <div className="flex-shrink-0">
                 <Image
@@ -62,7 +68,6 @@ export default function SkillsPage() {
                   height={48}
                   className="rounded-md"
                   onError={(e) => {
-                    // fallback if missing image
                     (e.target as HTMLImageElement).src = "/icons/default_icon.png";
                   }}
                 />

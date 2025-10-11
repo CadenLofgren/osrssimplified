@@ -207,6 +207,21 @@ export default function AboutPage() {
           </Link>
         </div>
       </motion.section>
+
+
+      {/* Jagex Disclaimer */}
+      <motion.footer
+        className="max-w-3xl text-center text-sm text-gray-400 mt-0 border-t border-gray-700 pt-6 px-4"
+        variants={fadeIn}
+        initial="hidden"
+        animate="visible"
+        custom={5}
+      >
+        Created using intellectual property belonging to{" "}
+        <span className="text-gray-300 font-medium">Jagex Limited</span> under the terms of{" "}
+        <span className="text-gray-300 font-medium">Jagex's Fan Content Policy</span>. This content is
+        not endorsed by or affiliated with Jagex.
+      </motion.footer>
     </main>
   );
 }

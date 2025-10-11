@@ -12,12 +12,6 @@ export default function Home() {
         className="absolute top-0 left-0 w-full h-full object-cover opacity-60 blur-sm scale-105 transition-all duration-1000"
       >
         <source src="/subtle-bg.mp4" type="video/mp4" />
-        {/* Optional GIF fallback */}
-        <img
-          src="/subtle-bg.gif"
-          alt="Subtle background"
-          className="w-full h-full object-cover opacity-60 blur-sm"
-        />
       </video>
 
       {/* 🔹 Overlay */}
@@ -25,23 +19,28 @@ export default function Home() {
 
       {/* 🔹 Foreground content */}
       <div className="relative z-10 text-center p-8">
-        <h1 className="text-5xl font-bold mb-4 drop-shadow-lg">OSRSSimplified</h1>
+        <h1 className="text-5xl font-bold mb-4 drop-shadow-lg">OSRS Simplified</h1>
         <p className="text-lg text-gray-200 max-w-xl mx-auto mb-8 drop-shadow-md">
           Your go-to hub for simplified Old School RuneScape skill training guides.
+          <br />
           Updated monthly with the most efficient and accessible methods.
         </p>
+
         <div className="flex justify-center gap-4">
+          {/* 🔴 Skills button (OSRS red, beveled) */}
           <a
             href="/skills"
-            className="bg-emerald-500 hover:bg-emerald-600 text-white font-semibold py-3 px-6 rounded-xl shadow-lg transition"
+            className="bg-[var(--accent-red)] border-2 border-[#5a1e14] text-white font-semibold py-3 px-6 rounded-lg shadow-[inset_0_2px_4px_#00000080,0_2px_4px_#000000a0] hover:shadow-[inset_0_1px_2px_#000000a0,0_0_8px_#ffb199] hover:bg-[#d94b3a] transition duration-150"
           >
             View Skills
           </a>
+
+          {/* 🟤 OSRS Wiki button (brown, beveled) */}
           <a
             href="https://oldschool.runescape.wiki/"
             target="_blank"
             rel="noopener noreferrer"
-            className="bg-slate-700 hover:bg-slate-600 text-white font-semibold py-3 px-6 rounded-xl shadow-lg transition"
+            className="bg-[var(--panel-bg)] border-2 border-[var(--panel-border)] text-white font-semibold py-3 px-6 rounded-lg shadow-[inset_0_2px_4px_#00000080,0_2px_4px_#000000a0] hover:shadow-[inset_0_1px_2px_#000000a0,0_0_8px_#c9a635] hover:bg-[#3a352f] transition duration-150"
           >
             OSRS Wiki
           </a>
@@ -55,7 +54,7 @@ export default function Home() {
           href="https://www.youtube.com/watch?v=D7EGZDfTWO0"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-emerald-400 hover:text-emerald-300 underline transition"
+          className="text-[var(--accent-green)] hover:text-emerald-300 underline transition"
         >
           Melankola
         </a>{" "}

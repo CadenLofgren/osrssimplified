@@ -1,26 +1,148 @@
+/* === 1️⃣ Imports === */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&display=swap');
 @import "tailwindcss";
 
+/* === 2️⃣ Root Theme Variables === */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #1a1816; /* Dark stone-like background */
+  --foreground: #e5c77a; /* OSRS gold text */
+  --panel-bg: #2e2b27;
+  --panel-border: #c9a635;
+  --accent-red: #b13a2c;
+  --accent-green: #4caf50;
+  --accent-blue: #3d5a80;
+  --font-main: 'Cinzel', serif;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
+/* === 3️⃣ Light Mode (Optional Fallback) === */
+@media (prefers-color-scheme: light) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #faf7f2;
+    --foreground: #1a1816;
   }
 }
 
+/* === 4️⃣ Tailwind Inline Theme Tokens === */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-main);
+  --font-mono: var(--font-main);
+}
+
+/* === 5️⃣ Global Body Styles === */
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-main);
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  letter-spacing: 0.02em;
+}
+
+/* === 6️⃣ Headings (Slightly Brighter) === */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  color: #f1d77a;
+  text-shadow: 0 0 8px #000000a0;
+  margin-bottom: 0.5rem;
+}
+
+/* === 7️⃣ OSRS-Style Panels === */
+.osrs-panel {
+  background-color: var(--panel-bg);
+  border: 2px solid var(--panel-border);
+  border-radius: 6px;
+  box-shadow: inset 0 0 8px #00000099;
+  padding: 1rem;
+  color: #e0d7b9;
+}
+
+/* === 8️⃣ Links + Hover Glow === */
+a {
+  color: var(--foreground);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: #ffcc00;
+  text-shadow: 0 0 6px #ffcc00;
+}
+
+/* === 9️⃣ Buttons / Interactive Elements === */
+/* Scoped so this doesn't override special buttons (like skill tabs) */
+button {
+  background-color: var(--panel-bg);
+  border: 2px solid var(--panel-border);
+  color: var(--foreground);
+  font-family: var(--font-main);
+  font-size: 1rem;
+  padding: 0.4rem 0.8rem;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+/* ✅ Scoped button hover only applies to navigation, panels, or global UI buttons */
+nav button:hover,
+footer button:hover,
+.osrs-panel button:hover {
+  background-color: var(--accent-green);
+  color: #fff;
+  border-color: #fff176;
+  box-shadow: 0 0 8px #fff176aa;
+}
+
+/* === 🔟 Optional: Stone Texture Background === */
+/*
+body {
+  background-image: url('/ui/stone_bg.png');
+  background-repeat: repeat;
+  background-size: 128px 128px;
+}
+*/
+
+/* === 11️⃣ Text Effects === */
+.text-glow {
+  text-shadow: 0 0 6px #ffcc00;
+}
+
+.text-shadow {
+  text-shadow: 0 2px 4px #00000099;
+}
+
+/* === 12️⃣ Scrollbar Theme (Optional) === */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--panel-border);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--panel-bg);
+}
+
+
+/* === Custom styling for F2P/P2P tabs === */
+.skill-tab-btn {
+  background-color: #1b1a17;
+  color: #b89f6d;
+  border: 1px solid #3b2f1c;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.skill-tab-btn:hover {
+  background-color: #b13a2c; /* OSRS red */
+  color: #fff;
+}
+
+.skill-tab-btn.active {
+  background-color: #b13a2c; /* stays red when selected */
+  color: #fff;
 }

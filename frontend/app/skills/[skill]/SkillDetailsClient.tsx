@@ -55,9 +55,9 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
   );
 
   return (
-    <main className="min-h-screen bg-slate-900 text-white p-8">
+    <main className="min-h-screen bg-black text-[#e5c77a] p-8 font-osrs">
       <div className="max-w-6xl mx-auto">
-        <h1 className="text-4xl font-bold text-center mb-8 capitalize">
+        <h1 className="text-4xl font-bold text-center mb-8 capitalize drop-shadow-md">
           {skill}
         </h1>
 
@@ -69,17 +69,15 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
                   <button
                     key={v.category || v.id}
                     onClick={() => setActiveTab(v.category)}
-                    className={`relative px-6 py-2 font-semibold transition ${
-                      activeTab === v.category
-                        ? "text-emerald-400"
-                        : "text-gray-300 hover:text-white"
+                    className={`skill-tab-btn relative px-6 py-2 font-semibold transition duration-200 rounded-md border border-[#3b2f1c] ${
+                      activeTab === v.category ? "active" : ""
                     }`}
                   >
                     {v.category?.toUpperCase() || "GENERAL"}
                     {activeTab === v.category && (
                       <motion.div
                         layoutId="underline"
-                        className="absolute left-0 right-0 -bottom-1 h-[2px] bg-emerald-400 rounded-full"
+                        className="absolute left-0 right-0 -bottom-2 h-[2px] bg-[#ffcb05] rounded-full"
                         transition={{ type: "spring", stiffness: 500, damping: 30 }}
                       />
                     )}
@@ -91,7 +89,7 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
             <div className="w-full max-w-6xl flex justify-start">
               <a
                 href="/skills"
-                className="bg-slate-700 hover:bg-slate-600 text-white font-semibold py-2 px-5 rounded-xl transition"
+                className="bg-[#1b1a17] hover:bg-[#2a281f] text-[#e5c77a] border border-[#3b2f1c] font-semibold py-2 px-5 rounded-xl transition"
               >
                 ← Back to Skills
               </a>
@@ -105,18 +103,18 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.3 }}
-            className="bg-slate-800 p-8 rounded-2xl shadow-lg border border-slate-700"
+            className="bg-[#1a1816] p-8 rounded-2xl shadow-lg border border-[#3b2f1c]"
           >
-            <h2 className="text-2xl font-semibold mb-6 uppercase text-emerald-400">
+            <h2 className="text-2xl font-semibold mb-6 uppercase text-[#ffcb05]">
               {activeVersion.category || "General"}
             </h2>
 
-            <div className="prose prose-invert max-w-none leading-relaxed text-gray-200">
+            <div className="prose prose-invert max-w-none leading-relaxed text-[#d6cfa1]">
               <ReactMarkdown
                 components={{
                   h3: ({ node, ...props }) => (
                     <h3
-                      className="text-emerald-400 text-xl font-semibold mt-6 mb-3 border-b border-slate-700 pb-1"
+                      className="text-[#ffcb05] text-xl font-semibold mt-6 mb-3 border-b border-[#3b2f1c] pb-1"
                       {...props}
                     />
                   ),
@@ -124,23 +122,26 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
                     <p className="mb-4" {...props} />
                   ),
                   ul: ({ node, ...props }) => (
-                    <ul className="list-disc list-inside mb-4 space-y-1" {...props} />
+                    <ul
+                      className="list-disc list-inside mb-4 space-y-1 marker:text-[#ffcb05]"
+                      {...props}
+                    />
                   ),
                   strong: ({ node, ...props }) => (
-                    <strong className="text-white font-semibold" {...props} />
+                    <strong className="text-[#ffcb05] font-semibold" {...props} />
                   ),
                   em: ({ node, ...props }) => (
-                    <em className="text-gray-300 italic" {...props} />
+                    <em className="text-[#d6cfa1] italic" {...props} />
                   ),
                   code: ({ node, inline, ...props }) =>
                     inline ? (
                       <code
-                        className="bg-slate-700 text-emerald-300 px-1.5 py-0.5 rounded-md text-sm font-mono"
+                        className="bg-[#22201b] text-[#ffcb05] px-1.5 py-0.5 rounded-md text-sm font-mono"
                         {...props}
                       />
                     ) : (
                       <code
-                        className="block bg-slate-800 border border-slate-700 text-emerald-300 p-3 rounded-lg text-sm font-mono my-4 whitespace-pre-wrap"
+                        className="block bg-[#1b1a17] border border-[#3b2f1c] text-[#ffcb05] p-3 rounded-lg text-sm font-mono my-4 whitespace-pre-wrap"
                         {...props}
                       />
                     ),
@@ -151,7 +152,7 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
             </div>
           </motion.div>
         ) : (
-          <p className="text-center text-gray-400">
+          <p className="text-center text-[#a68f59]">
             No summary available for this skill.
           </p>
         )}
@@ -159,7 +160,7 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
         <div className="mt-10 text-center">
           <a
             href="/skills"
-            className="bg-slate-700 hover:bg-slate-600 text-white font-semibold py-2 px-5 rounded-xl transition"
+            className="bg-[#1b1a17] hover:bg-[#2a281f] text-[#e5c77a] border border-[#3b2f1c] font-semibold py-2 px-5 rounded-xl transition"
           >
             ← Back to Skills
           </a>
