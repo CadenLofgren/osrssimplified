@@ -5,6 +5,7 @@ export default function Home() {
     <main className="relative min-h-screen flex flex-col items-center justify-center text-white overflow-hidden">
       {/* 🔹 Background video */}
       <video
+        data-testid="background-video"
         autoPlay
         loop
         muted
