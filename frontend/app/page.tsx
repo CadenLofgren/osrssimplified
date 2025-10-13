@@ -18,15 +18,17 @@ export default function Home() {
       <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/50 to-slate-900/80" />
 
       {/* 🔹 Foreground content */}
-      <div className="relative z-10 text-center p-8">
-        <h1 className="text-5xl font-bold mb-4 drop-shadow-lg">OSRS Simplified</h1>
-        <p className="text-lg text-gray-200 max-w-xl mx-auto mb-8 drop-shadow-md">
+      <div className="relative z-10 text-center px-4 sm:px-6 lg:px-8">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 drop-shadow-lg">
+          OSRS Simplified
+        </h1>
+        <p className="text-sm sm:text-base md:text-lg text-gray-200 max-w-xl mx-auto mb-6 sm:mb-8 drop-shadow-md leading-relaxed">
           Your go-to hub for simplified Old School RuneScape skill training guides.
           <br />
           Updated monthly with the most efficient and accessible methods.
         </p>
 
-        <div className="flex justify-center gap-4">
+        <div className="flex flex-col sm:flex-row justify-center gap-4">
           {/* 🔴 Skills button (OSRS red, beveled) */}
           <a
             href="/skills"
@@ -48,7 +50,7 @@ export default function Home() {
       </div>
 
       {/* 🔹 Credit footer */}
-      <footer className="absolute bottom-2 left-0 right-0 text-center text-sm text-gray-400 z-10">
+      <footer className="absolute bottom-2 left-0 right-0 text-center text-xs sm:text-sm text-gray-400 z-10 px-2">
         Background video by{" "}
         <a
           href="https://www.youtube.com/watch?v=D7EGZDfTWO0"
