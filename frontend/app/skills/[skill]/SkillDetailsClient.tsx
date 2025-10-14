@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import ReactMarkdown from "react-markdown";
 import getSeasonalBackground from "@/utils/getSeasonalBackground";
+import Link from "next/link";
 
 interface SkillVersion {
   id: number;
@@ -15,19 +16,19 @@ interface SkillVersion {
 export default function SkillDetailsClient({ skill }: { skill: string }) {
   const [versions, setVersions] = useState<SkillVersion[]>([]);
   const [activeTab, setActiveTab] = useState<string>("");
-  const bgImage = getSeasonalBackground(); // 🎃 Seasonal image helper
+  const bgImage = getSeasonalBackground();
 
   useEffect(() => {
     async function fetchSkillVersions() {
       try {
-        const res = await fetch("http://127.0.0.1:8000/skills");
-        const data = await res.json();
+        const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/skills`);
+        const data: SkillVersion[] = await res.json();
 
         const filtered = data.filter(
-          (s: any) => s.name.toLowerCase() === skill.toLowerCase()
+          (s) => s.name.toLowerCase() === skill.toLowerCase()
         );
 
-        const ordered = filtered.sort((a: SkillVersion, b: SkillVersion) => {
+        const ordered = filtered.sort((a, b) => {
           const order = ["f2p", "p2p"];
           const aIndex = order.indexOf(a.category?.toLowerCase() || "");
           const bIndex = order.indexOf(b.category?.toLowerCase() || "");
@@ -40,10 +41,8 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
         setVersions(ordered);
 
         if (ordered.length > 0) {
-          const hasF2P = ordered.find(
-            (v: SkillVersion) => v.category?.toLowerCase() === "f2p"
-          );
-          setActiveTab(hasF2P ? "f2p" : ordered[0].category);
+          const hasF2P = ordered.find((v) => v.category?.toLowerCase() === "f2p");
+          setActiveTab(hasF2P ? "f2p" : ordered[0].category || "");
         }
       } catch (error) {
         console.error("Error fetching skill versions:", error);
@@ -62,20 +61,17 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
       className="relative min-h-screen bg-cover bg-center bg-no-repeat text-[#e5c77a] p-4 sm:p-8 font-osrs overflow-x-hidden"
       style={{
         backgroundImage: `url(${bgImage})`,
-        backgroundAttachment: "scroll", // default; overridden for sm+ via small <style> below
+        backgroundAttachment: "scroll",
       }}
     >
-      {/* Force fixed background for sm+ without breaking mobile */}
       <style>{`
         @media (min-width: 640px) {
           main[style] { background-attachment: fixed !important; }
         }
       `}</style>
 
-      {/* Dark overlay covering full page */}
       <div className="absolute top-0 left-0 w-full h-full bg-black/70" />
 
-      {/* Content container */}
       <div className="relative z-10 max-w-xl sm:max-w-4xl md:max-w-6xl mx-auto">
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-center mb-6 sm:mb-8 capitalize drop-shadow-md">
           {skill}
@@ -109,12 +105,12 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
             )}
 
             <div className="w-full flex justify-start">
-              <a
+              <Link
                 href="/skills"
                 className="bg-[#1b1a17] hover:bg-[#2a281f] text-[#e5c77a] border border-[#3b2f1c] font-semibold py-2 px-4 rounded-xl transition text-sm sm:text-base"
               >
                 ← Back to Skills
-              </a>
+              </Link>
             </div>
           </div>
         )}
@@ -134,26 +130,26 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
             <div className="prose prose-invert max-w-none leading-relaxed text-[#d6cfa1]">
               <ReactMarkdown
                 components={{
-                  h3: ({ node, ...props }) => (
+                  h3: ({ ...props }) => (
                     <h3
                       className="text-[#ffcb05] text-lg sm:text-xl font-semibold mt-5 mb-3 border-b border-[#3b2f1c] pb-1"
                       {...props}
                     />
                   ),
-                  p: ({ node, ...props }) => <p className="mb-3 sm:mb-4" {...props} />,
-                  ul: ({ node, ...props }) => (
+                  p: ({ ...props }) => <p className="mb-3 sm:mb-4" {...props} />,
+                  ul: ({ ...props }) => (
                     <ul
                       className="list-disc list-inside mb-3 sm:mb-4 space-y-1 marker:text-[#ffcb05]"
                       {...props}
                     />
                   ),
-                  strong: ({ node, ...props }) => (
+                  strong: ({ ...props }) => (
                     <strong className="text-[#ffcb05] font-semibold" {...props} />
                   ),
-                  em: ({ node, ...props }) => (
+                  em: ({ ...props }) => (
                     <em className="text-[#d6cfa1] italic" {...props} />
                   ),
-                  code: ({ node, inline, ...props }) =>
+                  code: ({ inline, ...props }) =>
                     inline ? (
                       <code
                         className="bg-[#22201b] text-[#ffcb05] px-1 py-0.5 rounded-sm text-sm font-mono"
@@ -174,15 +170,6 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
         ) : (
           <p className="text-center text-[#a68f59]">No summary available for this skill.</p>
         )}
-
-        <div className="mt-8 text-center">
-          <a
-            href="/skills"
-            className="bg-[#1b1a17] hover:bg-[#2a281f] text-[#e5c77a] border border-[#3b2f1c] font-semibold py-2 px-4 rounded-xl transition text-sm sm:text-base"
-          >
-            ← Back to Skills
-          </a>
-        </div>
       </div>
     </main>
   );

@@ -1,5 +1,7 @@
 "use client";
 
+import Link from "next/link";
+
 export default function Home() {
   return (
     <main className="relative min-h-screen flex flex-col items-center justify-center text-white overflow-hidden">
@@ -30,15 +32,15 @@ export default function Home() {
         </p>
 
         <div className="flex flex-col sm:flex-row justify-center gap-4">
-          {/* 🔴 Skills button (OSRS red, beveled) */}
-          <a
+          {/* 🔴 Skills button */}
+          <Link
             href="/skills"
             className="bg-[var(--accent-red)] border-2 border-[#5a1e14] text-white font-semibold py-3 px-6 rounded-lg shadow-[inset_0_2px_4px_#00000080,0_2px_4px_#000000a0] hover:shadow-[inset_0_1px_2px_#000000a0,0_0_8px_#ffb199] hover:bg-[#d94b3a] transition duration-150"
           >
             View Skills
-          </a>
+          </Link>
 
-          {/* 🟤 OSRS Wiki button (brown, beveled) */}
+          {/* 🟤 OSRS Wiki button */}
           <a
             href="https://oldschool.runescape.wiki/"
             target="_blank"

@@ -18,13 +18,13 @@ export default function SkillsPage() {
   useEffect(() => {
     async function fetchSkills() {
       try {
-        const res = await fetch("http://127.0.0.1:8000/skills");
-        const data = await res.json();
+        const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/skills`);
+        const data: Skill[] = await res.json();
 
-        // ✅ Remove duplicates (f2p/p2p)
+        // Remove duplicates (f2p/p2p)
         const unique = Array.from(
           new Map(
-            data.map((s: any) => [s.name.toLowerCase(), { id: s.id, name: s.name }])
+            data.map((s) => [s.name.toLowerCase(), { id: s.id, name: s.name }])
           ).values()
         );
 
@@ -42,22 +42,14 @@ export default function SkillsPage() {
   return (
     <main
       className="relative min-h-screen bg-cover bg-center bg-no-repeat text-[#e5c77a] overflow-x-hidden"
-      style={{
-        backgroundImage: `url(${bgImage})`,
-        // apply bg-fixed only on small screens and up to avoid mobile issues
-        backgroundAttachment: "scroll",
-      }}
+      style={{ backgroundImage: `url(${bgImage})`, backgroundAttachment: "scroll" }}
     >
-      {/* For sm+ screens we'll force fixed via a tiny style tweak:
-          Tailwind can't toggle backgroundAttachment per breakpoint via inline style,
-          so we add a small <style> tag that applies bg-fixed at sm and up. */}
       <style>{`
         @media (min-width: 640px) {
           main[style] { background-attachment: fixed !important; }
         }
       `}</style>
 
-      {/* Fade-in overlay */}
       <motion.div
         className="absolute inset-0 bg-black/70"
         initial={{ opacity: 0 }}
@@ -65,23 +57,19 @@ export default function SkillsPage() {
         transition={{ duration: 0.6, ease: "easeOut" }}
       />
 
-      {/* Fade-in page content */}
       <motion.div
         className="relative z-10 flex flex-col items-center py-12 px-6 sm:py-16 sm:px-8"
         initial={{ opacity: 0, y: 30 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, ease: "easeOut" }}
       >
-        {/* Title */}
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-center text-yellow-400 mb-8 sm:mb-12 drop-shadow-lg">
           Skills
         </h1>
 
-        {/* Skills Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 sm:gap-8 max-w-5xl w-full">
           {skills.map((skill) => {
-            const formattedName =
-              skill.name.charAt(0).toUpperCase() + skill.name.slice(1);
+            const formattedName = skill.name.charAt(0).toUpperCase() + skill.name.slice(1);
             const iconSrc = `/icons/${formattedName}_icon.png`;
 
             return (

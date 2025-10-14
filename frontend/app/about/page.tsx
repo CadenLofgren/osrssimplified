@@ -96,7 +96,7 @@ export default function AboutPage() {
             </Link>
             . A request is made in one script to pull skill training data from each page and stored into the database.
             This information is then processed into OpenAI API with a list of constraints and returned in markdown format.
-            The summarized data is stored and that's how the frontend accesses this data.
+            The summarized data is stored and that&apos;s how the frontend accesses this data.
             Information display is speedy and cost is low.
           </p>
         </motion.section>
@@ -178,7 +178,7 @@ export default function AboutPage() {
         >
           Created using intellectual property belonging to{" "}
           <span className="text-gray-300 font-medium">Jagex Limited</span> under the terms of{" "}
-          <span className="text-gray-300 font-medium">Jagex's Fan Content Policy</span>. This content is
+          <span className="text-gray-300 font-medium">Jagex&apos;s Fan Content Policy</span>. This content is
           not endorsed by or affiliated with Jagex.
         </motion.footer>
       </div>
