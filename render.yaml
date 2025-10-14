@@ -8,11 +8,12 @@ services:
     name: osrssimplified-backend
     env: python
     plan: free
+    rootDir: backend
     buildCommand: |
       pip install --upgrade pip
-      pip install -r backend/requirements.txt
-      python backend/skill_fetcher.py
-      python backend/summarize_skills.py
+      pip install -r requirements.txt
+      python skill_fetcher.py
+      python summarize_skills.py
     startCommand: uvicorn app:app --host 0.0.0.0 --port 10000
     envVars:
       - key: DATABASE_URL
