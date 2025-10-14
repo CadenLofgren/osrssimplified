@@ -108,10 +108,10 @@ async def run_skill_scripts():
     """
     try:
         # Run skill_fetcher.py
-        subprocess.run(["python", "skill_fetcher.py"], cwd="backend", check=True)
+        subprocess.run(["python", "skill_fetcher.py"], check=True)
 
         # Run summarize_skills.py
-        subprocess.run(["python", "summarize_skills.py"], cwd="backend", check=True)
+        subprocess.run(["python", "summarize_skills.py"], check=True)
 
         return {"status": "success", "message": "Scripts executed successfully."}
 
