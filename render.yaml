@@ -35,7 +35,7 @@ services:
     plan: free
     rootDir: frontend
     buildCommand: npm install && npm run build
-    startCommand: npm start
+    startCommand: npm run start-render
     envVars:
       - key: NEXT_PUBLIC_API_URL
         value: https://osrssimplified-backend.onrender.com
@@ -43,4 +43,4 @@ services:
         value: production
 
 databases:
-  - name: osrssimplified-db
+  - name: osrssimplified_db
