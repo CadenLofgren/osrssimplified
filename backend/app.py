@@ -2,19 +2,23 @@ from fastapi import FastAPI, HTTPException, Depends
 from sqlalchemy.orm import Session
 from sqlalchemy import text
 from contextlib import asynccontextmanager
+from fastapi.middleware.cors import CORSMiddleware
 
 from database import get_db, engine
-import models
-from fastapi.middleware.cors import CORSMiddleware
+from models import Base, Skill
 
 #-------------------- APP LIFECYCLE / DB CONNECTION --------------------#
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     try:
+        # ✅ Create tables if they don’t exist
+        Base.metadata.create_all(bind=engine)
+
+        # ✅ Test database connection
         with engine.connect() as conn:
             conn.execute(text("SELECT 1"))
-        print("✅ Database connected successfully.")
+        print("✅ Database connected successfully and tables created.")
     except Exception as e:
         print("❌ Database connection failed:", e)
         raise e
@@ -24,10 +28,15 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(lifespan=lifespan)
 
-# Enable CORS for Next.js frontend
+#-------------------- CORS CONFIG --------------------#
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=[
+        "http://localhost:3000",
+        "https://osrssimplified-frontend.onrender.com",
+        "https://osrssimplified.com",  # ✅ your Render frontend URL
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -37,6 +46,7 @@ app.add_middleware(
 
 @app.get("/ping")
 async def ping():
+    """Health check route for testing DB connection"""
     try:
         with engine.connect() as conn:
             conn.execute(text("SELECT 1"))
@@ -44,9 +54,11 @@ async def ping():
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Database error: {str(e)}")
 
+
 @app.get("/skills")
 def get_skills(db: Session = Depends(get_db)):
-    skills = db.query(models.Skill).all()
+    """Return all skills and summaries from the database"""
+    skills = db.query(Skill).all()
     if not skills:
         return {"message": "No skills found in the database."}
 
@@ -61,9 +73,9 @@ def get_skills(db: Session = Depends(get_db)):
     ]
 
 
-
 @app.get("/about")
 async def get_about():
+    """Basic about page for OSRS Simplified"""
     return {
         "project_name": "OSRS Simplified",
         "description": (
@@ -79,8 +91,8 @@ async def get_about():
             "developer": "Caden",
         },
         "links": {
-            "frontend": "https://your-frontend-domain.com",  # replace with actual
-            "github": "https://github.com/",  # replace with your repo if you want
+            "frontend": "https://your-frontend-domain.com",  # replace once deployed
+            "github": "https://github.com/",  # optional link
         },
         "status": "success",
     }
