@@ -18,7 +18,7 @@ services:
     envVars:
       - key: DATABASE_URL
         fromDatabase:
-          name: osrssimplified-db
+          name: osrssimplified_db
           property: connectionString
       - key: CORS_ORIGINS
         value: '["https://osrssimplified.com","https://osrssimplified-frontend.onrender.com","http://localhost:3000"]'
