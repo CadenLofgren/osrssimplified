@@ -13,9 +13,13 @@ services:
     buildCommand: |
       pip install --upgrade pip
       pip install -r requirements.txt
+    startCommand: |
+      cd backend
+      # Run scripts after DB is ready
       python skill_fetcher.py
       python summarize_skills.py
-    startCommand: cd backend && uvicorn app:app --host 0.0.0.0 --port 10000
+      # Start backend server
+      uvicorn app:app --host 0.0.0.0 --port 10000
     envVars:
       - key: DATABASE_URL
         fromDatabase:
