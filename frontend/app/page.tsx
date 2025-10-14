@@ -24,7 +24,7 @@ export default function Home() {
           OSRS Simplified
         </h1>
         <p className="text-sm sm:text-base md:text-lg text-gray-200 max-w-xl mx-auto mb-6 sm:mb-8 drop-shadow-md leading-relaxed">
-          Your go-to hub for simplified Old School RuneScape skill training guides.
+          Simplified Old School RuneScape skill training guides.
           <br />
           Updated monthly with the most efficient and accessible methods.
         </p>
