@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import ReactMarkdown, { Components } from "react-markdown";
+import Link from "next/link";
 import getSeasonalBackground from "@/utils/getSeasonalBackground";
 
 interface SkillVersion {
@@ -43,7 +44,7 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
           const hasF2P = ordered.find(
             (v) => v.category?.toLowerCase() === "f2p"
           );
-          setActiveTab(hasF2P ? "f2p" : ordered[0].category || "");
+          setActiveTab(hasF2P ? "f2p" : ordered[0].category);
         }
       } catch (error) {
         console.error("Error fetching skill versions:", error);
@@ -57,53 +58,10 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
     (v) => v.category?.toLowerCase() === activeTab?.toLowerCase()
   );
 
-  // ✅ ReactMarkdown components with proper typing
-  const markdownComponents: Components = {
-    h3: ({ node, ...props }) => (
-      <h3
-        className="text-[#ffcb05] text-lg sm:text-xl font-semibold mt-5 mb-3 border-b border-[#3b2f1c] pb-1"
-        {...props}
-      />
-    ),
-    p: ({ node, ...props }) => <p className="mb-3 sm:mb-4" {...props} />,
-    ul: ({ node, ...props }) => (
-      <ul
-        className="list-disc list-inside mb-3 sm:mb-4 space-y-1 marker:text-[#ffcb05]"
-        {...props}
-      />
-    ),
-    strong: ({ node, ...props }) => (
-      <strong className="text-[#ffcb05] font-semibold" {...props} />
-    ),
-    em: ({ node, ...props }) => (
-      <em className="text-[#d6cfa1] italic" {...props} />
-    ),
-    code({ node, inline, className, children, ...props }) {
-      return inline ? (
-        <code
-          className="bg-[#22201b] text-[#ffcb05] px-1 py-0.5 rounded-sm text-sm font-mono"
-          {...props}
-        >
-          {children}
-        </code>
-      ) : (
-        <code
-          className="block bg-[#1b1a17] border border-[#3b2f1c] text-[#ffcb05] p-3 rounded-lg text-sm font-mono my-4 whitespace-pre-wrap overflow-x-auto"
-          {...props}
-        >
-          {children}
-        </code>
-      );
-    },
-  };
-
   return (
     <main
       className="relative min-h-screen bg-cover bg-center bg-no-repeat text-[#e5c77a] p-4 sm:p-8 font-osrs overflow-x-hidden"
-      style={{
-        backgroundImage: `url(${bgImage})`,
-        backgroundAttachment: "scroll",
-      }}
+      style={{ backgroundImage: `url(${bgImage})`, backgroundAttachment: "scroll" }}
     >
       <style>{`
         @media (min-width: 640px) {
@@ -125,7 +83,7 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
                 {versions.map((v) => (
                   <button
                     key={v.category || v.id}
-                    onClick={() => setActiveTab(v.category || "")}
+                    onClick={() => setActiveTab(v.category)}
                     className={`skill-tab-btn relative px-4 sm:px-6 py-2 sm:py-2 font-semibold transition duration-200 rounded-md border border-[#3b2f1c] w-full sm:w-auto text-center ${
                       activeTab === v.category
                         ? "bg-[#2b220f] text-[#ffdf6b]"
@@ -146,12 +104,12 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
             )}
 
             <div className="w-full flex justify-start">
-              <a
+              <Link
                 href="/skills"
                 className="bg-[#1b1a17] hover:bg-[#2a281f] text-[#e5c77a] border border-[#3b2f1c] font-semibold py-2 px-4 rounded-xl transition text-sm sm:text-base"
               >
                 ← Back to Skills
-              </a>
+              </Link>
             </div>
           </div>
         )}
@@ -164,21 +122,61 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
             transition={{ duration: 0.28 }}
             className="bg-[#1a1816]/95 p-4 sm:p-6 md:p-8 rounded-2xl shadow-lg border border-[#3b2f1c]"
           >
-            <ReactMarkdown components={markdownComponents}>
-              {activeVersion.summary}
-            </ReactMarkdown>
+            <h2 className="text-lg sm:text-2xl font-semibold mb-4 sm:mb-6 uppercase text-[#ffcb05]">
+              {activeVersion.category || "General"}
+            </h2>
+
+            <div className="prose prose-invert max-w-none leading-relaxed text-[#d6cfa1]">
+              <ReactMarkdown
+                components={{
+                  h3: ({ node, ...props }) => (
+                    <h3
+                      className="text-[#ffcb05] text-lg sm:text-xl font-semibold mt-5 mb-3 border-b border-[#3b2f1c] pb-1"
+                      {...props}
+                    />
+                  ),
+                  p: ({ node, ...props }) => <p className="mb-3 sm:mb-4" {...props} />,
+                  ul: ({ node, ...props }) => (
+                    <ul
+                      className="list-disc list-inside mb-3 sm:mb-4 space-y-1 marker:text-[#ffcb05]"
+                      {...props}
+                    />
+                  ),
+                  strong: ({ node, ...props }) => <strong className="text-[#ffcb05] font-semibold" {...props} />,
+                  em: ({ node, ...props }) => <em className="text-[#d6cfa1] italic" {...props} />,
+                  code: ({ node, inline, className, children, ...props }: Components["code"]) =>
+                    inline ? (
+                      <code
+                        className="bg-[#22201b] text-[#ffcb05] px-1 py-0.5 rounded-sm text-sm font-mono"
+                        {...props}
+                      >
+                        {children}
+                      </code>
+                    ) : (
+                      <code
+                        className="block bg-[#1b1a17] border border-[#3b2f1c] text-[#ffcb05] p-3 rounded-lg text-sm font-mono my-4 whitespace-pre-wrap overflow-x-auto"
+                        {...props}
+                      >
+                        {children}
+                      </code>
+                    ),
+                }}
+              >
+                {activeVersion.summary}
+              </ReactMarkdown>
+            </div>
           </motion.div>
         ) : (
           <p className="text-center text-[#a68f59]">No summary available for this skill.</p>
         )}
 
         <div className="mt-8 text-center">
-          <a
+          <Link
             href="/skills"
             className="bg-[#1b1a17] hover:bg-[#2a281f] text-[#e5c77a] border border-[#3b2f1c] font-semibold py-2 px-4 rounded-xl transition text-sm sm:text-base"
           >
             ← Back to Skills
-          </a>
+          </Link>
         </div>
       </div>
     </main>
