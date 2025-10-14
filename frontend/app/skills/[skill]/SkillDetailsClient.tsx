@@ -1,9 +1,9 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { motion } from "framer-motion";
-import ReactMarkdown, { Components } from "react-markdown";
 import Link from "next/link";
+import { motion } from "framer-motion";
+import ReactMarkdown from "react-markdown";
 import getSeasonalBackground from "@/utils/getSeasonalBackground";
 
 interface SkillVersion {
@@ -11,6 +11,12 @@ interface SkillVersion {
   name: string;
   category: string;
   summary: string;
+}
+
+// Optional children and inline fix for ReactMarkdown
+interface CodeProps extends React.HTMLAttributes<HTMLElement> {
+  inline?: boolean;
+  children?: React.ReactNode;
 }
 
 export default function SkillDetailsClient({ skill }: { skill: string }) {
@@ -61,7 +67,10 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
   return (
     <main
       className="relative min-h-screen bg-cover bg-center bg-no-repeat text-[#e5c77a] p-4 sm:p-8 font-osrs overflow-x-hidden"
-      style={{ backgroundImage: `url(${bgImage})`, backgroundAttachment: "scroll" }}
+      style={{
+        backgroundImage: `url(${bgImage})`,
+        backgroundAttachment: "scroll",
+      }}
     >
       <style>{`
         @media (min-width: 640px) {
@@ -83,7 +92,7 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
                 {versions.map((v) => (
                   <button
                     key={v.category || v.id}
-                    onClick={() => setActiveTab(v.category)}
+                    onClick={() => setActiveTab(v.category!)}
                     className={`skill-tab-btn relative px-4 sm:px-6 py-2 sm:py-2 font-semibold transition duration-200 rounded-md border border-[#3b2f1c] w-full sm:w-auto text-center ${
                       activeTab === v.category
                         ? "bg-[#2b220f] text-[#ffdf6b]"
@@ -129,22 +138,24 @@ export default function SkillDetailsClient({ skill }: { skill: string }) {
             <div className="prose prose-invert max-w-none leading-relaxed text-[#d6cfa1]">
               <ReactMarkdown
                 components={{
-                  h3: ({ node, ...props }) => (
+                  h3: ({ ...props }) => (
                     <h3
                       className="text-[#ffcb05] text-lg sm:text-xl font-semibold mt-5 mb-3 border-b border-[#3b2f1c] pb-1"
                       {...props}
                     />
                   ),
-                  p: ({ node, ...props }) => <p className="mb-3 sm:mb-4" {...props} />,
-                  ul: ({ node, ...props }) => (
+                  p: ({ ...props }) => <p className="mb-3 sm:mb-4" {...props} />,
+                  ul: ({ ...props }) => (
                     <ul
                       className="list-disc list-inside mb-3 sm:mb-4 space-y-1 marker:text-[#ffcb05]"
                       {...props}
                     />
                   ),
-                  strong: ({ node, ...props }) => <strong className="text-[#ffcb05] font-semibold" {...props} />,
-                  em: ({ node, ...props }) => <em className="text-[#d6cfa1] italic" {...props} />,
-                  code: ({ node, inline, className, children, ...props }: Components["code"]) =>
+                  strong: ({ ...props }) => (
+                    <strong className="text-[#ffcb05] font-semibold" {...props} />
+                  ),
+                  em: ({ ...props }) => <em className="text-[#d6cfa1] italic" {...props} />,
+                  code: ({ inline, children, ...props }: CodeProps) =>
                     inline ? (
                       <code
                         className="bg-[#22201b] text-[#ffcb05] px-1 py-0.5 rounded-sm text-sm font-mono"
