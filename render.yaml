@@ -36,7 +36,6 @@ services:
       - key: PYTHONUNBUFFERED
         value: "1"
 
-
   # ⚛️ FRONTEND — Next.js
   - type: web
     name: osrssimplified-frontend
@@ -47,7 +46,7 @@ services:
     startCommand: npm run start-render
     envVars:
       - key: NEXT_PUBLIC_API_URL
-        value: https://osrssimplified-backend.onrender.com
+        value: https://osrssimplified.onrender.com
       - key: NODE_ENV
         value: production
 
