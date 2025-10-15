@@ -14,15 +14,16 @@ services:
       pip install --upgrade pip
       pip install -r requirements.txt
     startCommand: >
-      bash -c "echo 'Waiting for database...' &&
-      sleep 10 &&
-      echo 'Running skill fetcher...' &&
-      python skill_fetcher.py &&
-      echo 'Running summarizer...' &&
-      python summarize_skills.py &&
-      echo 'Starting FastAPI...' &&
-      uvicorn app:app --host 0.0.0.0 --port 10000"
-
+      bash -c '
+        echo "⏳ Waiting for database...";
+        sleep 10;
+        echo "🏗️  Running skill_fetcher.py...";
+        python backend/skill_fetcher.py;
+        echo "🧠 Running summarize_skills.py...";
+        python backend/summarize_skills.py;
+        echo "🚀 Starting FastAPI server...";
+        uvicorn app:app --host 0.0.0.0 --port 10000
+      '
     envVars:
       - key: DATABASE_URL
         fromDatabase:
@@ -34,6 +35,7 @@ services:
         value: 3.12.16
       - key: PYTHONUNBUFFERED
         value: "1"
+
 
   # ⚛️ FRONTEND — Next.js
   - type: web
