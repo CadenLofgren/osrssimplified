@@ -14,11 +14,13 @@ services:
       pip install --upgrade pip
       pip install -r requirements.txt
     startCommand: |
-      cd backend
-      # Run scripts after DB is ready
-      python skill_fetcher.py
-      python summarize_skills.py
-      # Start backend server
+      echo "Waiting for database..."
+      sleep 10
+      echo "Running skill fetcher..."
+      python skill_fetcher.py || echo "skill_fetcher failed"
+      echo "Running summarizer..."
+      python summarize_skills.py || echo "summarize_skills failed"
+      echo "Starting FastAPI..."
       uvicorn app:app --host 0.0.0.0 --port 10000
     envVars:
       - key: DATABASE_URL

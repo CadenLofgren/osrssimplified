@@ -97,24 +97,3 @@ async def get_about():
         },
         "status": "success",
     }
-
-#-------------------- RUN SCRIPTS ENDPOINT --------------------#
-
-@app.post("/run-skill-scripts")
-async def run_skill_scripts():
-    """
-    Manually trigger skill_fetcher.py and summarize_skills.py
-    after the database has been setup.
-    """
-    try:
-        # Run skill_fetcher.py
-        subprocess.run(["python", "skill_fetcher.py"], check=True)
-
-        # Run summarize_skills.py
-        subprocess.run(["python", "summarize_skills.py"], check=True)
-
-        return {"status": "success", "message": "Scripts executed successfully."}
-
-    except subprocess.CalledProcessError as e:
-        # Return error if the scripts fail
-        raise HTTPException(status_code=500, detail=f"Script failed: {e}")
