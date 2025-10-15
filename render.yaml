@@ -13,15 +13,16 @@ services:
     buildCommand: |
       pip install --upgrade pip
       pip install -r requirements.txt
-    startCommand: |
-      echo "Waiting for database..."
-      sleep 10
-      echo "Running skill fetcher..."
-      python skill_fetcher.py || echo "skill_fetcher failed"
-      echo "Running summarizer..."
-      python summarize_skills.py || echo "summarize_skills failed"
-      echo "Starting FastAPI..."
-      uvicorn app:app --host 0.0.0.0 --port 10000
+    startCommand: >
+      bash -c "echo 'Waiting for database...' &&
+      sleep 10 &&
+      echo 'Running skill fetcher...' &&
+      python skill_fetcher.py &&
+      echo 'Running summarizer...' &&
+      python summarize_skills.py &&
+      echo 'Starting FastAPI...' &&
+      uvicorn app:app --host 0.0.0.0 --port 10000"
+
     envVars:
       - key: DATABASE_URL
         fromDatabase:
